@@ -3,6 +3,11 @@
 <resources>
   <string name="Parse_error_dlg_text">Un problème est survenu lors de l\'analyse du paquet.</string>
   <string name="Parse_error_dlg_title">Erreur d\'analyse</string>
+  <string name="abc_action_bar_home_description">Revenir à l\'accueil</string>
+  <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
+  <string name="abc_action_menu_overflow_description">Plus d\'options</string>
+  <string name="abc_action_mode_done">Ok</string>
+  <string name="allPerms">Tous</string>
   <string name="allow_source_dlg_text">"Une demande d\'installation d\'autres applications a été initiée à partir de l\'application %1$s.
 
 Voulez-vous autoriser cette installation, ainsi que d\'autres à l\'avenir ?"</string>
@@ -10,7 +15,11 @@ Voulez-vous autoriser cette installation, ainsi que d\'autres à l\'avenir ?"</
   <string name="app_name">Programme d\'installation du kit</string>
   <string name="app_not_found_dlg_text">"L'application ne figure pas dans la liste des applications installées."</string>
   <string name="app_not_found_dlg_title">Application non trouvée</string>
+  <string name="app_permissions">Faire confiance à cette application</string>
+  <string name="app_permissions_breadcrumb">Applications</string>
   <string name="cancel">Annuler</string>
+  <string name="current_permission_template">%1$s de %2$s</string>
+  <string name="default_permission_description">effectuer une action inconnue</string>
   <string name="dlg_app_replacement_statement">"L\'application que vous installez en remplacera une autre.
 
 Toutes les données utilisateur existantes seront sauvegardées."</string>
@@ -19,6 +28,9 @@ Toutes les données utilisateur existantes seront sauvegardées."</string>
 
 Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="done">OK</string>
+  <string name="grant_confirm_question">Voulez-vous accorder les permissions suivantes ? Elles donneront l\'accès à :</string>
+  <string name="grant_dialog_button_allow">Autoriser</string>
+  <string name="grant_dialog_button_deny">Refuser</string>
   <string name="install">Installer</string>
   <string name="install_confirm_question">Voulez-vous installer cette application ?</string>
   <string name="install_done">Application installée.</string>
@@ -33,10 +45,23 @@ Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="install_failed_verify_timeout">Expiration du délai lors de la tentative de validation de ce package. Veuillez le réinstaller ultérieurement.</string>
   <string name="installing">Installation&#8230;</string>
   <string name="launch">Ouvrir</string>
+  <string name="lb_playback_controls_play">Lecture</string>
+  <string name="lb_playback_controls_rewind">Rembobiner</string>
+  <string name="loading">Chargement&#8230;</string>
+  <string name="location_settings">Paramètres de localisation</string>
+  <string name="location_warning">%1$s est un fournisseur de services de localisation pour cet appareil. L\'accès à la localisation peut être modifié dans les paramètres de localisation.</string>
   <string name="manage_applications">Gérer les applications</string>
   <string name="manage_device_administrators">Gérer les administrateurs de l\'appareil</string>
+  <string name="never_ask_again">Ne plus demander</string>
+  <string name="newPerms">Nouveau</string>
+  <string name="next">Suivant</string>
   <string name="out_of_space_dlg_text">"Impossible d'installer %1$s. Veuillez libérer de l'espace, puis réessayer."</string>
   <string name="out_of_space_dlg_title">Mémoire insuffisante</string>
+  <string name="permission_request_title">Demande de permission</string>
+  <string name="privacyPerms">Confidentialité</string>
+  <string name="screen_overlay_button">Ouvrir les paramètres</string>
+  <string name="screen_overlay_message">Pour changer cette permission, vous devez au préalable désactiver la superposition écran dans Paramètres &gt; Applications</string>
+  <string name="screen_overlay_title">Superposition écran détectée</string>
   <string name="security_settings_desc">Autoriser cette application à :</string>
   <string name="settings">Paramètres</string>
   <string name="uninstall_activity_text">%1$s fait partie de l\'application suivante :</string>
