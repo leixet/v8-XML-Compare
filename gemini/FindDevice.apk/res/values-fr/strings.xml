@@ -21,6 +21,8 @@ Si vous changez votre carte SIM, un nouvel SMS sera envoyé automatiquement pour
   <string name="find_device_stop_noise">Appuyez sur OK pour couper le son</string>
   <string name="find_device_success_title">Recherche de l\'appareil</string>
   <string name="login_failed">"Echec de connexion"</string>
+  <string name="passport_notification_processing">Traitement&#8230;</string>
+  <string name="passport_verify">Vérifier</string>
   <string name="password">Mot de passe</string>
   <string name="phone_locked">Cet appareil est probablement associé à un compte Mi existant (%s). Veuillez vous identifier pour activer cet appareil.</string>
   <string name="stop_on_empty_captcha">"Le captcha ne peut être vide"</string>
