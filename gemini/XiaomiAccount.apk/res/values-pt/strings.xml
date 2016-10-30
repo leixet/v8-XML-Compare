@@ -89,10 +89,12 @@
   <string name="delete_device_btn">Remover</string>
   <string name="delete_device_failed">"Não foi possível remover dispositivo"</string>
   <string name="delete_device_notice">"Depois do dispositivo ser removido a sua sessão da Conta Mi vai ser terminada automaticamente. Não será possível utilizar este dispositivo para aceder a fotos, mensagens ou outros conteúdos armazenados na sua conta"</string>
+  <string name="delete_lock_device_success">Eliminado com sucesso</string>
   <string name="device_delete_success_message">"Se não iniciou sessão neste dispositivo altere imediatamente a sua palavra-passe"</string>
   <string name="device_delete_success_title">Sessão terminada</string>
   <string name="device_list__header">Os meus dispositivos</string>
   <string name="device_list_title">Os meus dispositivos</string>
+  <string name="device_name">Nome do dispositivo</string>
   <string name="device_trust_info">Dispositivos confiáveis</string>
   <string name="empty_device_list_notice">Sem dispositivos</string>
   <string name="error_dup_binded_email">Este endereço de email já está associado a outra Conta Mi</string>
@@ -141,9 +143,11 @@
   <string name="no_network_title">"Não é possível ligar à rede"</string>
   <string name="no_response_retry">Sem resposta. Por favor, repita</string>
   <string name="nobind">Não associado</string>
+  <string name="other_devices_title">Outros dispositivos</string>
   <string name="passport_access_denied">Acesso negado</string>
   <string name="passport_account_hint_text">Endereço de email ou ID da Conta Mi</string>
   <string name="passport_account_identity_title">Verificar a sua identidade</string>
+  <string name="passport_account_label">Conta Mi</string>
   <string name="passport_account_name">Conta: %1$s</string>
   <string name="passport_account_not_activated">"Conta não foi activada"</string>
   <string name="passport_account_not_actived">"A sua conta não foi activada"</string>
@@ -282,6 +286,7 @@ Para activar a sua conta siga o
   <string name="passport_user_agreement_p4">Política de Privacidade</string>
   <string name="passport_vcode_notification_title">A sua verificação de início de sessão está incompleta</string>
   <string name="passport_vcode_prompt_long">Introduzir código de verificação</string>
+  <string name="passport_vcode_sms_send_prompt">Enviar código de verificação para %s</string>
   <string name="passport_verification_failed">Autenticação falhou</string>
   <string name="passport_verify">Verificar</string>
   <string name="passport_wait_for_sms_prompt">"Começar de novo agora? As mensagens de verificação podem levar até 10 minutos a serem entregues quando o telefone está dentro do alcance da rede da sua operadora"</string>
@@ -317,6 +322,7 @@ Certifique-se que memoriza as respostas a estas perguntas"</string>
   <string name="send_email_activate_message">Email de verificação enviado</string>
   <string name="service_error">Erro de serviço</string>
   <string name="set_security_question_title">Definir perguntas de segurança</string>
+  <string name="sms_send_success">Enviado</string>
   <string name="sns_access_token_expired_warning">A sessão expirou. Inicie sessão novamente para se ligar a esta conta</string>
   <string name="submit_answers">Submeter</string>
   <string name="success">Concluído</string>
