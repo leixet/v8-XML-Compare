@@ -6,6 +6,11 @@
     <item>Cacher le numéro</item>
     <item>Afficher le numéro</item>
   </string-array>
+  <string-array name="clir_values">
+    <item>PAR DÉFAUT</item>
+    <item>HIDE</item>
+    <item>SHOW</item>
+  </string-array>
   <string-array name="preferred_network_mode_choices">
     <item>TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</item>
     <item>TD-SCDMA/GSM/WCDMA/CDMA/EVDO</item>
@@ -30,6 +35,17 @@
     <item>WCDMA uniquement</item>
     <item>GSM uniquement</item>
     <item>GSM/WCDMA préféré</item>
+  </string-array>
+  <string-array name="call_barring_outgoing_display_values">
+    <item>Désactivé</item>
+    <item>Roaming call barring</item>
+    <item>International call barring</item>
+    <item>Outgoing call barring</item>
+  </string-array>
+  <string-array name="call_barring_incoming_display_values">
+    <item>Désactivé</item>
+    <item>Actif</item>
+    <item>Tous</item>
   </string-array>
   <string-array name="list_language_entries">
     <item>Anglais</item>
