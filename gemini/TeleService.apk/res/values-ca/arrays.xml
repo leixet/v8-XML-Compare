@@ -134,11 +134,6 @@
     <item>RUIM/SIM</item>
     <item>NV</item>
   </string-array>
-  <string-array name="voicemail_notification_vibrate_when_values">
-    <item>always</item>
-    <item>silenci</item>
-    <item>mai</item>
-  </string-array>
   <string-array name="uplmn_prefer_network_mode_td_choices">
     <item>GSM</item>
     <item>TD-SCDMA</item>
