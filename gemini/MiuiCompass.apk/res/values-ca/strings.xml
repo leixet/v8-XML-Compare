@@ -24,6 +24,7 @@
   <string name="direction_east">E</string>
   <string name="direction_north">N</string>
   <string name="direction_north_west">NO</string>
+  <string name="direction_south">S</string>
   <string name="direction_south_east">SE</string>
   <string name="direction_south_west">SO</string>
   <string name="direction_west">O</string>
@@ -44,6 +45,7 @@
   <string name="location_west">OL</string>
   <string name="mobiledata_alert_dialog_message">Connectar-se a internet per calibrar l\'altitud?</string>
   <string name="mobiledata_alert_dialog_title">Alerta d\'ús de dades</string>
+  <string name="pressure">%.1f</string>
   <string name="pressure_title">Pressió</string>
   <string name="shake_enter_tip">Agiti per calibrar</string>
   <string name="using_camera_confirm_cancel">Sortir</string>
