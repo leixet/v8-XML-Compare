@@ -435,13 +435,6 @@
     <item>256K</item>
     <item>1M</item>
   </string-array>
-  <string-array name="select_logd_size_values">
-    <item>65536</item>
-    <item>262144</item>
-    <item>1048576</item>
-    <item>4194304</item>
-    <item>16777216</item>
-  </string-array>
   <string-array name="select_logd_size_summaries">
     <item>64K per registre de memòria</item>
     <item>256K per registre de memòria</item>
@@ -453,11 +446,6 @@
     <item>No ho comprovis mai</item>
     <item>Comprova només contingut DRM</item>
     <item>Comprova sempre</item>
-  </string-array>
-  <string-array name="hdcp_checking_values">
-    <item>mai</item>
-    <item>drm-only</item>
-    <item>always</item>
   </string-array>
   <string-array name="hdcp_checking_summaries">
     <item>No utilitzis mai la comprovació HDCP</item>
