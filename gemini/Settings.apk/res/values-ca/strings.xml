@@ -652,6 +652,11 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="bootloader_apply_step_4">Pot ser que que provoqui la divulgació i la pèrdua de les dades o que malmeti per sempre més el maquinari.</string>
   <string name="bootloader_apply_step_5">Assegureu-vos que sabeu com utilitzar el mode Fastboot abans d\'activar-lo.</string>
   <string name="bootloader_apply_title">Nota important</string>
+  <string name="bootloader_device_bind_no_account">Inicieu sessió amb el vostre Compte Mi primer</string>
+  <string name="bootloader_device_bind_no_network">Connectat a la xarxa i torna-ho a provar</string>
+  <string name="bootloader_status_locked">Bloquejada</string>
+  <string name="bootloader_status_locked_info">Aquest dispositiu està bloquejat</string>
+  <string name="bootloader_status_unlocked">S\'ha desbloquejat</string>
   <string name="bootloader_summary">Flasheja el dispositiu mitjançant USB</string>
   <string name="breathing_light_color_menu_title">Color del LED</string>
   <string name="breathing_light_color_summary">Color del LED per a notificacions noves</string>
@@ -804,8 +809,6 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="config_charging_function_name">s\'està carregant</string>
   <string name="config_list_label">Xarxes configurades</string>
   <string name="config_mass_storage_function_name">mass_storage</string>
-  <string name="config_mtp_function_name">mtp</string>
-  <string name="config_ptp_function_name">ptp</string>
   <string name="configure_apps">Configura les aplicacions</string>
   <string name="configure_input_method">Configura els mètodes d\'entrada</string>
   <string name="confirm_action">D\'acord</string>
