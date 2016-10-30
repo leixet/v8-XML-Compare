@@ -15,6 +15,10 @@
   <string name="cloud_state_finished">Synchronisé avec Mi Cloud</string>
   <string name="cloud_state_syncing">Synchronisation avec Mi Cloud</string>
   <string name="cold_dews">Rosée froide</string>
+  <string name="cta_button_quit">Quitter</string>
+  <string name="cta_permission_and">&#160;et la&#160;</string>
+  <string name="cta_title">Conditions d\'utilisation</string>
+  <string name="daydream">Écran de veille interactif</string>
   <string name="double_seventh_day">Fête des étoiles</string>
   <string name="easter">Pâques</string>
   <string name="fools_day">Poisson d\'avril</string>
@@ -31,6 +35,12 @@
   <string name="lantern_festival">Fête des lanternes</string>
   <string name="light_snow">Légère neige</string>
   <string name="lunar_calendar">Calendrier lunaire</string>
+  <string name="lunar_year">Année</string>
+  <string name="lunar_yue">Mois</string>
+  <string name="menu_add_frequent_phrases">Ajouter</string>
+  <string name="menu_delete">Supprimer</string>
+  <string name="menu_edit">Éditer</string>
+  <string name="miui_device_name">Par défaut</string>
   <string name="national_day">Journée nationale</string>
   <string name="national_father_day">Fête des Pères</string>
   <string name="new_years_day">Jour de l\'An</string>
