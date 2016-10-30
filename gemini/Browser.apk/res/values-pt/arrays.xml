@@ -7,9 +7,46 @@
     <item>google</item>
     <item>bing_zh_CN</item>
   </string-array>
+  <string-array name="search_engines_default">
+    <item>bing_zh_CN</item>
+    <item>yahoo</item>
+    <item>bing</item>
+  </string-array>
+  <string-array name="search_engines_cmcc">
+    <item>s139</item>
+    <item>baidu</item>
+    <item>sogou</item>
+    <item>bing_zh_CN</item>
+  </string-array>
   <string-array name="bookmarks_cu_customization">
     <item>MM网</item>
     <item>http://a.10086.cn/j/6061/</item>
+  </string-array>
+  <string-array name="search_engines">
+    <item>baidu</item>
+    <item>sogou</item>
+    <item>bing_zh_CN</item>
+    <item>bing_zh_CN</item>
+  </string-array>
+  <string-array name="search_bar_search_engines_default">
+    <item>bing_zh_CN</item>
+    <item>bing</item>
+  </string-array>
+  <string-array name="search_bar_search_engines_rCN">
+    <item>baidu</item>
+    <item>sogou</item>
+    <item>google</item>
+    <item>bing_zh_CN</item>
+  </string-array>
+  <string-array name="google_in_list">
+    <item>search_google</item>
+    <item>ic_search_engine_google</item>
+    <item>bing_zh_CN</item>
+  </string-array>
+  <string-array name="sm_in_list">
+    <item>search_sm</item>
+    <item>ic_search_engine_sm</item>
+    <item>google</item>
   </string-array>
   <string-array name="menu_theme_setting">
     <item>Branco</item>
@@ -35,5 +72,13 @@
     <item>Normal</item>
     <item>Grande</item>
     <item>Muito grande</item>
+  </string-array>
+  <string-array name="pref_nav_mode_summary">
+    <item>Telefone</item>
+    <item>Tablet</item>
+  </string-array>
+  <string-array name="shortcut_dialog_delete">
+    <item>Eliminar</item>
+    <item>No thanks</item>
   </string-array>
 </resources>
