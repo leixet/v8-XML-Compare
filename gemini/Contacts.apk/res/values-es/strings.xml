@@ -63,6 +63,7 @@
   <string name="call_assistant">Llamar %s</string>
   <string name="call_callback">Devolución de llamada</string>
   <string name="call_car">Coche</string>
+  <string name="call_charge">Completar</string>
   <string name="call_company_main">Llamada a la compañía (centralita)</string>
   <string name="call_custom">Llamar %s</string>
   <string name="call_disambig_title">Elija el número</string>
@@ -80,6 +81,7 @@
   <string name="call_other">Llamada</string>
   <string name="call_other_fax">Llamada de fax</string>
   <string name="call_pager">Llame a buscapersonas</string>
+  <string name="call_problem_report">Notificar un error</string>
   <string name="call_radio">Llamada radio</string>
   <string name="call_record_setting_miui">Configuración de registro</string>
   <string name="call_settings">Ajustes</string>
@@ -197,6 +199,7 @@
   <string name="contact_detail_action_item_nocalllog">No hay historial</string>
   <string name="contact_detail_calllog_call_note_tips">Notas</string>
   <string name="contact_detail_calllog_call_record_tips">Grabar llamada</string>
+  <string name="contact_detail_calllog_empty">Historial de visionado vacío</string>
   <string name="contact_detail_menu_delete_miprofile">Borrar tarjeta</string>
   <string name="contact_detail_miprofile_accept">Intercambiar tarjetas de contacto</string>
   <string name="contact_detail_miprofile_accept_fail_toast">"No se pudieron intercambiar las tarjetas de contacto"</string>
@@ -448,6 +451,7 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="frequentList">Frecuentes</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Nombre</string>
+  <string name="gallery">Galería</string>
   <string name="generic_no_account_prompt">Mantener tus contactos seguros incluso si pierdes tu teléfono: sincronizar con un servicio en línea.</string>
   <string name="generic_no_account_prompt_title">Agregar una cuenta</string>
   <string name="ghostData_company">Empresa</string>
@@ -796,6 +800,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="not_applied">"No aplica"</string>
   <string name="notification_action_voicemail_play">Reproducir</string>
   <string name="notification_new_voicemail_ticker">Nuevo correo de voz de %1$s</string>
+  <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
   <string name="openDialKeyboard">Teclado de marcación</string>
   <string name="open_contact">Ver contacto</string>
   <string name="option_delete_contact">Eliminar</string>
@@ -809,6 +814,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="option_view_contact">Ver</string>
   <string name="option_view_group">Ver</string>
   <string name="organizationLabelsGroup">Organización</string>
+  <string name="organization_company_and_title">%1$s, %2$s</string>
   <string name="other_contacts">Otros contactos</string>
   <string name="other_phone">Otro teléfono</string>
   <string name="path_contacts_recovery">Aplicaciones del sistema/Contactos/Recuperar contactos</string>
@@ -816,6 +822,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="people">Contactos</string>
   <string name="percentage">%s %%</string>
   <string name="phoneLabelsGroup">Teléfono</string>
+  <string name="phone_call_type_livetalk">Paquete de recarga</string>
   <string name="phone_call_type_voip">VOIP</string>
   <string name="phone_number_too_long_toast">Número demasiado largo</string>
   <string name="phone_primary">Primaria</string>
@@ -910,6 +917,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="pull_to_refresh_release_label">Suelte para refrescar…</string>
   <string name="qr_card_card">Código QR</string>
   <string name="qrcode_card_title">Tarjeta en código QR</string>
+  <string name="qrcode_detail_menu_scan">Escanear</string>
   <string name="quickcontact_missing_app">No se encontró una aplicación para manejar esta acción</string>
   <string name="quit_dialog_confirm_message">"No has fusionado ningún contacto"</string>
   <string name="quit_dialog_confirm_title">Cancelar la fusión de contactos</string>
@@ -957,8 +965,10 @@ Para agregar un contacto a la lista de favoritos:
   <string name="scanning_sdcard_failed_message">Motivo: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">"El almacenamiento no pudo ser escaneado"</string>
   <string name="searchHint">Buscar contactos</string>
+  <string name="search_contacts_recovery">Contactos</string>
   <string name="search_results_searching">Buscando&#8230;</string>
   <string name="search_settings_description">Nombres de tus contactos</string>
+  <string name="search_sim_capacity">Contactos</string>
   <string name="searching_vcard_message">Buscando vCard en el almacenamiento&#8230;</string>
   <string name="select_all">Seleccionar todo</string>
   <string name="select_done">No hay más para seleccionar</string>
@@ -970,6 +980,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="send_to_voicemail_checkbox">Enviar llamadas directamente al correo de voz</string>
   <string name="separatorJoinAggregateAll">Todos los contactos</string>
   <string name="separatorJoinAggregateSuggestions">Contactos sugeridos</string>
+  <string name="service_more">Más</string>
   <string name="service_provider">Agenda</string>
   <string name="set_default">Marcar como número por defecto</string>
   <string name="set_photo_failed_msg">"No se pudo asignar una imagen."</string>
@@ -1138,6 +1149,7 @@ Elija una de las siguientes opciones: "</string>
   <string name="wipe_data">Borrar datos</string>
   <string name="yellowPageNavigationIconLabel">Páginas amarillas</string>
   <string name="yellowPageNavigationLabel">Páginas amarillas</string>
+  <string name="yellowpage_navigation_ad_hint">Anuncio</string>
   <string name="yellowpage_navigation_clear_search_history">Borrar historial</string>
   <string name="yellowpage_navigation_more_items">Más</string>
   <string name="yellowpage_navigation_more_items_title">Más servicios</string>
