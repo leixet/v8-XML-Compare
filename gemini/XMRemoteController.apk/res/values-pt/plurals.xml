@@ -21,4 +21,8 @@
     <item quantity="other">%d marcas disponíveis</item>
     <item quantity="one">1 marca disponível</item>
   </plurals>
+  <plurals name="mins_ago">
+    <item quantity="other">%1$d minutos atrás</item>
+    <item quantity="one">%1$d minuto atrás</item>
+  </plurals>
 </resources>
