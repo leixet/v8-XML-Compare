@@ -49,4 +49,8 @@
     <item quantity="other">Durante %d horas</item>
     <item quantity="one">Durante una hora</item>
   </plurals>
+  <plurals name="selected_count">
+    <item quantity="other">%1$d seleccionados</item>
+    <item quantity="one">%1$d seleccionados</item>
+  </plurals>
 </resources>
