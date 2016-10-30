@@ -104,7 +104,9 @@ Attiva questa funzione da Impostazioni &gt; Sistema &gt; Tasti\"</string>
   <string name="status_bar_toggle_auto_brightness">Luminosità</string>
   <string name="status_bar_toggle_cast">Trasmetti</string>
   <string name="status_bar_toggle_data">Dati</string>
+  <string name="status_bar_toggle_edit">Altro</string>
   <string name="status_bar_toggle_flight_mode">Aereo</string>
+  <string name="status_bar_toggle_gps">Test GPS</string>
   <string name="status_bar_toggle_lock">Blocca</string>
   <string name="status_bar_toggle_mute">Silenzioso</string>
   <string name="status_bar_toggle_paper_mode">Modalità lettura</string>
