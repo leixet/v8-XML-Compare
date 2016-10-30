@@ -32,8 +32,11 @@
   <string name="error_sdcard_unmounted">Inserte una tarjeta SD</string>
   <string name="export_to_note">Exportar a Notas</string>
   <string name="low_battery_error">"Queda menos del 5% de batería. Para impedir que se pierda su grabación, se ha pausado y guardado."</string>
+  <string name="low_battery_error_title">Batería baja</string>
   <string name="mark_point_list_title">Marcas</string>
   <string name="message_file_size_error">La grabación ha alcanzado la longitud máxima soportada por %s</string>
+  <string name="network_tip_dialog_cancel">Cancelar</string>
+  <string name="network_tip_dialog_ok">Permitir</string>
   <string name="new_record_name">Nueva grabación</string>
   <string name="no_file">No hay grabaciones</string>
   <string name="notification_message_all_paused">Esperando a conexión Wi-Fi.</string>
