@@ -19,7 +19,10 @@
   <string name="cloud_state_finished">Sincronizar con Mi Cloud</string>
   <string name="cloud_state_syncing">Sincronizar con Mi Cloud</string>
   <string name="cold_dews">Rocío</string>
+  <string name="cta_button_quit">Salir</string>
+  <string name="cta_permission_and">&#160;y&#160;</string>
   <string name="day_following_good_friday">Día siguiente a Viernes Santo</string>
+  <string name="daydream">Activar protector de pantalla</string>
   <string name="delete_frequent_phrases">Eliminar frases frecuentes</string>
   <string name="delete_frequent_phrases_confirm">¿Eliminar frases frecuentes seleccionadas?</string>
   <string name="device_xiaomi">Teléfono Mi</string>
