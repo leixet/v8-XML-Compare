@@ -65,6 +65,7 @@
   <string name="normal">Mode per defecte</string>
   <string name="operation_create_group">Nom</string>
   <string name="operation_create_group_message">Introdueix el nou nom del grup</string>
+  <string name="power_checker_recent_group_title">Recentment</string>
   <string name="power_checker_running_btn_title">Atura el procés</string>
   <string name="power_chooser_user_define_title">Nou mode</string>
   <string name="power_config_alarm_sync_summary">Permet a l\'aplicació alarmes en segon pla</string>
