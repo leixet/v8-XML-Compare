@@ -9,6 +9,7 @@
   <string name="activity_title_ignored_image">Ignoré</string>
   <string name="activity_title_image_gallery">Supprimer les doubles</string>
   <string name="activity_title_large_file">Taille</string>
+  <string name="activity_title_main">Nettoyage</string>
   <string name="activity_title_privacy_cache">Cache vie privée</string>
   <string name="activity_title_residual">Résidus</string>
   <string name="activity_title_scanfinish">Analyse effectué</string>
@@ -16,11 +17,13 @@
   <string name="activity_title_similar_image_group">Supprimer les doubles</string>
   <string name="activity_title_uninstall_apps">Applis</string>
   <string name="activity_title_white_list">Liste blanche</string>
+  <string name="ad_install_success_dialog_lunch">Ouvrir</string>
   <string name="apk_status_damage">Corrompu</string>
   <string name="apk_status_duplicate">En double</string>
   <string name="apk_status_install">Installé</string>
   <string name="apk_status_installed_old">Ancienne version</string>
   <string name="apk_status_uninstalled">Non installé</string>
+  <string name="app_install_tips_go_to">Ouvrir</string>
   <string name="apps_sort_type_item_size">Taille</string>
   <string name="apps_sort_type_item_time">Fréquence d\'utilisation</string>
   <string name="authorize_detail">%d appli(s) bloquée(s)</string>
@@ -31,11 +34,13 @@
   <string name="btn_text_done">OK</string>
   <string name="btn_text_quick_cleanup">Nettoyer</string>
   <string name="btn_text_quick_scan">Analyser</string>
+  <string name="btn_text_stop">Annuler</string>
   <string name="button_text_backup_uninstall">Sauveg. et désinstaller</string>
   <string name="button_text_cancel">Annuler</string>
   <string name="button_text_cleanup">Nettoyer</string>
   <string name="button_text_delete_from_white_list">Supprimer</string>
   <string name="button_text_delete_pic">Supprimer</string>
+  <string name="button_text_deselect_all_photos">Tout désélectionner</string>
   <string name="button_text_group_ignore">Ignorer</string>
   <string name="button_text_group_unlike">Non doubles</string>
   <string name="button_text_install">Installer</string>
@@ -44,6 +49,7 @@
   <string name="button_text_not_prompt_again">"Ne plus afficher"</string>
   <string name="button_text_restore_ignore">Annuler</string>
   <string name="button_text_select_all">Sélectionner</string>
+  <string name="button_text_select_all_photos">Tout sélectionner</string>
   <string name="button_text_select_pic">Sélectionner</string>
   <string name="button_text_uninstall">Désinstaller</string>
   <string name="button_text_uninstall_only">Désinstaller %s</string>
@@ -65,8 +71,11 @@
   <string name="clear_bigfiles">Supprimer les gros fichiers, les photos en doublons, et autres éléments inutiles</string>
   <string name="clear_immediately">Nettoyer maintenant</string>
   <string name="clear_safe_notify">Barre de notification de sécurité</string>
+  <string name="close">Fermer</string>
   <string name="conn_of_function_safe">Connexion réseau de sécurité</string>
   <string name="connecting">Connexion&#8230;</string>
+  <string name="deep_clean_data_path_clean_title">Vider le cache</string>
+  <string name="deepclean_apk_version_error">Inconnu</string>
   <string name="deepclean_app_content">Désinstaller les applis non utilisées depuis 30 jours</string>
   <string name="deepclean_cache_content">Supprimer les données générées par les applis</string>
   <string name="deepclean_cache_header_left">Fichiers cache : %d</string>
@@ -75,8 +84,10 @@
   <string name="deepclean_list_item_from_dcim_thumbnails">Miniatures</string>
   <string name="deepclean_list_item_from_download">Téléchargements</string>
   <string name="deepclean_list_item_from_gallery">Galerie</string>
+  <string name="deepclean_list_item_from_music">Musique</string>
   <string name="deepclean_list_item_from_sdcard">Carte SD</string>
   <string name="deepclean_similar_ignore">Ignorer</string>
+  <string name="deepclean_size_summary_not_enough">Espace insuffisant</string>
   <string name="deepclean_title_large_file">Supprimer les fichiers volumineux</string>
   <string name="deepclean_title_uninstall_apps">Applications rarement utilisées</string>
   <string name="default_cache_type">Fichiers de données</string>
@@ -156,9 +167,11 @@
   <string name="hints_privacy_header_left">Vie privée : %d</string>
   <string name="hints_quick_cleanning">Nettoyage&#8230;</string>
   <string name="hints_quick_cleanuping">Optimisation&#8230;</string>
+  <string name="hints_quick_deep_clean">Nettoyer maintenant</string>
   <string name="hints_quick_prepare">Préparation&#8230;</string>
   <string name="hints_quick_scanning">Analyse&#8230;</string>
   <string name="hints_residual_header_left">Résidus</string>
+  <string name="hints_scan_has_finish">Nettoyage effectué</string>
   <string name="hints_scanfinish">Pas de déchets</string>
   <string name="hints_storage_clean_size">%s d\'espace interne libéré</string>
   <string name="hints_storage_free">Libre</string>
@@ -169,8 +182,11 @@
   <string name="installing">Installation</string>
   <string name="item_title_process_mode">Choisir une action</string>
   <string name="just_now">A l\'instant</string>
+  <string name="label_image_list_none">Aucun</string>
   <string name="last_check_canceled">Analyse recommandée : la précédente a été annulée avant la fin</string>
   <string name="login_immediately">Connexion</string>
+  <string name="low_memory_warning_dialog_cancel_button">Annuler</string>
+  <string name="low_memory_warning_dialog_ok_button">Effacer</string>
   <string name="mainbtn_text_quick_cleanup">Nettoyer %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Nettoyer</string>
   <string name="memeory_check_content">%1$d applis, mémoire %2$s</string>
@@ -194,6 +210,7 @@
   <string name="notification_title_of_garbage_cleanup">Alarme corbeille</string>
   <string name="notify_when">Afficher une notification lorsque la taille de la corbeille atteint 100MB</string>
   <string name="open">Activer</string>
+  <string name="open_app">Ouvrir</string>
   <string name="open_browser">Ouvrir dans le navigateur</string>
   <string name="optimizecenter_data_support_cm">Propulsé par Clean Master</string>
   <string name="optimizecenter_data_support_tc">Propulsé par Tencent</string>
@@ -244,6 +261,9 @@
   <string name="safety_rank">Devant %d%% utilisateurs MIUI en termes de sécurité</string>
   <string name="sc_allow_network_dialog_button">Autoriser</string>
   <string name="sc_allow_network_dialog_message">Permettre à cette application de se connecter à internet pour recevoir des mises à jour ?</string>
+  <string name="scanning">Analyse en cours&#8230;</string>
+  <string name="search_history">Recherche dans l\'historique</string>
+  <string name="see_more">Plus d\'options</string>
   <string name="set_immediately">Définir</string>
   <string name="seton_immediately">Activer</string>
   <string name="share">Partager</string>
@@ -271,7 +291,9 @@
   <string name="title_auto_cleaner">Nettoyer automatiquement ?</string>
   <string name="title_delete_cache">Supprimer les données du cache ?</string>
   <string name="title_delete_clipboard">Contenu du presse-papier</string>
+  <string name="title_delete_deepclean">Supprimer</string>
   <string name="title_delete_large_file">Supprimer ce fichier ?</string>
+  <string name="title_of_app_manage">Applications</string>
   <string name="title_of_auto_launch_manage">Démarrage auto</string>
   <string name="title_of_cloud_service">Services Cloud</string>
   <string name="title_of_garbage_cloud_scan">Analyse du Cloud</string>
@@ -304,6 +326,7 @@
   <string name="total_clean">Nettoyées : %s</string>
   <string name="total_clean_text">Nettoyer</string>
   <string name="traffic_top">Top 5 des applis les plus consommatrices</string>
+  <string name="update_date_format">dd/MM/yyyy</string>
   <string name="virus_scan">Recherche de virus</string>
   <string name="white_list_ad_header">Fichiers pub. : %d</string>
   <string name="white_list_apk_header">Fichiers .apk : %d</string>
