@@ -64,6 +64,7 @@
   <string name="finger_print_of_use">Utilizza impronta digitale</string>
   <string name="goToSecondSpacce">Vai allo spazio Secondario</string>
   <string name="go_on_import">Continua importazione</string>
+  <string name="guide_contact_suc_title_desc">Impostato correttamente!</string>
   <string name="guide_setting_guide_title">Gestisci lo spazio Secondario</string>
   <string name="hidden_app">Spazio Secondario</string>
   <string name="imageData">Foto</string>
@@ -105,12 +106,14 @@
   <string name="public_app">Entrambi gli spazi</string>
   <string name="removeSuccess">Eliminato con successo</string>
   <string name="removingSpace">Eliminazione...</string>
+  <string name="repeat_scanner_fingerprint">Aggiungi di nuovo</string>
   <string name="restore_normal_show">"Non mostrare messaggi privati"</string>
   <string name="retain_src_file">Mantieni file</string>
   <string name="retain_src_photo">Mantieni foto</string>
   <string name="scanner_fingerprint_tips_desc">"Select existing fingerprint to enter Second space. You wont be able to use it in First space."</string>
   <string name="secondSpace">Spazio Secondario</string>
   <string name="second_owner_finger_print">Impronta digitale secondo spazio</string>
+  <string name="second_space_finger_printf_title">Impronta digitale secondo spazio</string>
   <string name="select_existed_fingerprint">Seleziona impronta</string>
   <string name="serNameSummary">Spazio Secondario</string>
   <string name="setSecondSpacePassword">Imposta la password dello spazio Secondario</string>
