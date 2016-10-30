@@ -53,6 +53,10 @@
     <item quantity="other">Il y a %1$d jours</item>
     <item quantity="one">Il y a %1$d jour</item>
   </plurals>
+  <plurals name="seconds">
+    <item quantity="other">%1$d secondes</item>
+    <item quantity="one">%1$d seconde</item>
+  </plurals>
   <plurals name="found_new_files">
     <item quantity="other">%1$d nouveaux fichiers trouvés</item>
     <item quantity="one">%1$d nouveau fichier trouvé</item>
@@ -88,5 +92,13 @@
   <plurals name="user_upload_items">
     <item quantity="other">vidéos</item>
     <item quantity="one">vidéo</item>
+  </plurals>
+  <plurals name="video_count">
+    <item quantity="other">%1$s vidéos</item>
+    <item quantity="one">%1$s vidéo</item>
+  </plurals>
+  <plurals name="video_items">
+    <item quantity="other">&#160;%1$d éléments</item>
+    <item quantity="one">&#160;%1$d élément</item>
   </plurals>
 </resources>
