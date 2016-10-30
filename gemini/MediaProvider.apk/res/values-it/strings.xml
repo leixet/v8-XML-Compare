@@ -8,4 +8,5 @@
   <string name="ringtone_default">Suoneria di default</string>
   <string name="root_images">Immagini</string>
   <string name="root_videos">Video</string>
+  <string name="uid_label">MEDIA</string>
 </resources>
