@@ -52,9 +52,14 @@
   <string name="battery_low_percent_format">Queda un %d%% por ciento</string>
   <string name="battery_low_title">Conecta el cargador.</string>
   <string name="battery_profiles">Usar perfiles de batería</string>
+  <string name="block_notification_text">Ocultar</string>
   <string name="block_record_notification_more_text">Ocultando notificaciones de %1$s &amp; %2$d aplicaciones.</string>
   <string name="block_record_notification_text">Ocultando notificaciones de %1$s.</string>
   <string name="block_record_notification_title">Notificaciones ocultas</string>
+  <string name="bluetooth_connecting">Conectando&#8230;</string>
+  <string name="bluetooth_pairing">Emparejando&#8230;</string>
+  <string name="bluetooth_pairing_decline">Cancelar</string>
+  <string name="bluetooth_profile_opp">Transferencia de archivos</string>
   <string name="bluetooth_tethered">Bluetooth anclado</string>
   <string name="call_status_dialing">Marcando</string>
   <string name="call_status_ringing">Sonando</string>
@@ -83,6 +88,7 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="description_target_search">Buscar</string>
   <string name="disable_notification_summary">Nunca mostrar notificaciones de las aplicaciones seleccionadas</string>
   <string name="disable_notification_title">Ocultar notificaciones</string>
+  <string name="dismount_storage">No</string>
   <string name="dlg_confirm_kill_storage_users_text">Si activa el almacenamiento USB, algunas apps que estás usando se detendrán y quedarán como no disponibles hasta que desactives el almacenamiento USB.</string>
   <string name="dlg_confirm_kill_storage_users_title">Activar almacenamiento USB</string>
   <string name="dlg_error_title">Acción de USB fallida</string>
@@ -106,11 +112,14 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="ext_media_safe_unmount_notification_title">Retirar el almacenamiento USB de forma segura</string>
   <string name="ext_media_unmountable_notification_message">El almacenamiento USB está dañado. Deberías formatearlo.</string>
   <string name="ext_media_unmountable_notification_title">Almacenamiento USB dañado</string>
+  <string name="float_incall_ignore">Ignorar</string>
+  <string name="float_incall_message">Mensaje</string>
   <string name="gps_notification_found_text">La ubicación se estableció por GPS</string>
   <string name="gps_notification_searching_text">Buscando GPS</string>
   <string name="invalid_charger">"No admite la carga USB.
 Usa sólo el cargador provisto."</string>
   <string name="label_view">Ver</string>
+  <string name="list_delimeter">", "</string>
   <string name="lockscreen_carrier_default">Sin servicio</string>
   <string name="long_screenshot_not_support_msg">"La aplicación actual no soporta capturas de pantallas en movimiento en sentido vertical\"."</string>
   <string name="long_screenshot_out_of_memory_error">El tamaño de la imagen es demasiado grande</string>
@@ -129,10 +138,13 @@ Usa sólo el cargador provisto."</string>
   <string name="media_projection_dialog_text">"%scomenzará la captura de todo lo que se muestra en la pantalla."</string>
   <string name="media_projection_remember_text">"No mostrar de nuevo"</string>
   <string name="mount_storage">Sí</string>
+  <string name="nav_guide_cancel">Ignorar</string>
+  <string name="nav_guide_ok">Ajustes</string>
   <string name="no_notification_tips">No hay notificaciones.</string>
   <string name="no_weather_description">Obtener información del clima &gt;</string>
   <string name="notification_header_title">Notificaciones</string>
   <string name="notification_hidden_text">Contenido oculto</string>
+  <string name="notification_manager">Gestión de notificaciones</string>
   <string name="notification_otg_gamestick_in">Control de juego conectado</string>
   <string name="notification_otg_gamestick_out">Control de juego desconectado</string>
   <string name="notification_otg_keyboard_in">Teclado conectado</string>
@@ -201,6 +213,7 @@ Usa sólo el cargador provisto."</string>
   <string name="status_bar_network_flow_limit">"   Límite mensual: %1$s   "</string>
   <string name="status_bar_network_flow_purchase">"   Comprar &gt;"</string>
   <string name="status_bar_network_flow_today">Hoy: %1$s</string>
+  <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_recent_apps">Ninguna aplicación reciente</string>
   <string name="status_bar_notification_inspect_item_title">Información de la aplicación</string>
   <string name="status_bar_recent_guide_all">"Desliza hacia arriba para cerrar
@@ -258,5 +271,7 @@ Desliza hacia abajo para bloquear"</string>
   <string name="vpn_text_long">Conectado en %s. Pulsa para ver los detalles.</string>
   <string name="vpn_title">VPN activada</string>
   <string name="vpn_title_long">Conexión a VPN utilizando %s</string>
+  <string name="weather_description_no_aqi">%1$s</string>
   <string name="weather_publish_time">Actualizado %1$s</string>
+  <string name="wifi_security_none">Ninguno</string>
 </resources>
