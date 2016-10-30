@@ -9,6 +9,7 @@
   <string name="miuishare_wechat_timeline_title">Momentos WeChat</string>
   <string name="month_report_activity_label">Reporte mensual</string>
   <string name="month_report_click_reconnect_network">Inténtalo de nuevo</string>
+  <string name="month_report_disconnect_tip">"No se pudo conectar a la red"</string>
   <string name="month_report_follow_service_negative">No gracias</string>
   <string name="month_report_follow_service_positive">Seguir</string>
   <string name="month_report_follow_service_title">Actualizaciones de seguridad</string>
@@ -16,6 +17,8 @@
   <string name="month_report_network_dialog_description">Permitir que esta aplicación pueda conectarse a Internet para obtener información?</string>
   <string name="month_report_network_dialog_positive">Permitir</string>
   <string name="month_report_result_share">Compartir</string>
+  <string name="month_report_share_img_fail">"No se pudo compartir"</string>
+  <string name="month_report_share_loading">Un momento&#8230;</string>
   <string name="month_report_warning_dialog_positive">Encender</string>
   <string name="month_report_warning_dialog_title">Informe mensual de seguridad</string>
   <string name="network_not_available">"No se puede conectar a la red"</string>
