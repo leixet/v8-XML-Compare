@@ -32,12 +32,14 @@
   <string name="alertdialogtitle">Résultat…</string>
   <string name="allContactdeleteFailed">"Impossible de supprimer tous les contacts de la SIM !"</string>
   <string name="allContactdeleteSuccess">Tous les contacts de la carte SIM ont été supprimés avec succès</string>
+  <string name="all_day">Toute la journée</string>
   <string name="always_enable_mms">Toujours recevoir les MMS</string>
   <string name="always_enable_mms_summary">Toujours recevoir les MMS même lorsque les données sont désactivées</string>
   <string name="answer_features_setting_category">Paramètres de réponse</string>
   <string name="answer_state_setting_summary">Paramètres de la coupure de sonnerie, du capteur de proximité, etc.</string>
   <string name="answer_state_setting_title">Paramètres d\'état d\'appel entrant</string>
   <string name="antispam_notification_title">Numéro inconnu</string>
+  <string name="antispam_setting">Anti-Spam</string>
   <string name="apn_settings">Noms des points d\'accès</string>
   <string name="area_code_preference_summary">Auto numérotation du code pays</string>
   <string name="areacode_set_default">Défaut</string>
@@ -101,6 +103,7 @@
   <string name="callFailed_dsac_restricted_normal">Les appels ordinaires sont restreints par un contrôle d\'accès</string>
   <string name="callFailed_fdn_only">Appels sortants restreints par liste FDN</string>
   <string name="callFailed_incoming_cb_enabled">Le groupe a interdit tous les appels entrants.</string>
+  <string name="callFailed_invalid_credentials">Nom d\'utilisateur ou mot de passe incorrect</string>
   <string name="callFailed_limitExceeded">Limite ACM dépassée</string>
   <string name="callFailed_noSignal">Aucun signal</string>
   <string name="callFailed_number_unreachable">Numéro injoignable</string>
@@ -114,6 +117,9 @@
   <string name="callFailed_unobtainable_number">Numéro incorrect</string>
   <string name="callFailed_userBusy">Ligne occupée</string>
   <string name="callUnanswered_forwarded">Appel sans réponse et transmis</string>
+  <string name="call_advanced_setting_title">Paramètres avancés</string>
+  <string name="call_background_default">Centre SMS par défaut</string>
+  <string name="call_background_lock_wallpaper">Fond d\'écran de verrouillage</string>
   <string name="call_barring_sum">Réglages d\'interdiction d\'appel vocal</string>
   <string name="call_description_recording">Enregistrement&#8230;</string>
   <string name="call_forwarding_number_hint">Entrez le numéro de transfert à</string>
@@ -219,6 +225,7 @@
   <string name="close_profile">Fermer</string>
   <string name="cloud_antispam_title">Identifier les numéros inconnus</string>
   <string name="command_error_fdn_failure">Cette opération n\'est pas autorisée lorsque la correction du numéro d\'appel est activée (FDN), réessayez après l\'avoir désactivée.</string>
+  <string name="common_setting">Général</string>
   <string name="config_default_data_sim">Paramètres</string>
   <string name="confirmPin2Label">Confirmer le nouveau code PIN2</string>
   <string name="confirmPinLabel">Confirmer le nouveau code PIN</string>
@@ -406,6 +413,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="hac_mode_title">Assistance auditive</string>
   <string name="handon_ringer_summary">"En vain si la vibration est activée pour les appels entrants"</string>
   <string name="handon_ringer_title">En silencieux dès prise en main</string>
+  <string name="help_view">Aide</string>
   <string name="hintName">Nom</string>
   <string name="hintPhonenumber">Numéro de téléphone</string>
   <string name="importAllSimEntries">Tout importer</string>
@@ -426,6 +434,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="incall_error_supp_service_transfer">"Impossible de transférer l'appel."</string>
   <string name="incall_error_supp_service_unknown">Ce service n\'est pas pris en charge.</string>
   <string name="incall_status_dialed_mmi">Lancement de la séquence IHM&#8230;</string>
+  <string name="input_password">Entrez votre mot de passe</string>
   <string name="international_dial_complete_intention">Economiser de l\'argent sur les appels internationaux.</string>
   <string name="international_dial_complete_no">Pas maintenant</string>
   <string name="international_dial_complete_summary">Abonnez-vous avec MIUI pour obtenir des réductions sur les appels internationaux.</string>
@@ -441,6 +450,8 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="invalid_pin2">Code PIN2 non valide, saisissez un code comportant de 4 à 8 chiffres.</string>
   <string name="invalid_puk">Code PUK non valide, saisissez un code comportant 8 chiffres.</string>
   <string name="invalid_puk2">Code PUK2 non valide, saisissez un code comportant de 4 à 8 chiffres.</string>
+  <string name="ivr_mo_area_code_settings">Indicatif régional</string>
+  <string name="ivr_type_settings">Plan de données</string>
   <string name="labelCDMAMore">Paramètres d\'appel CDMA</string>
   <string name="labelCF">Transfert d\'appel</string>
   <string name="labelCFB">Transférer si ligne occupée</string>
@@ -449,6 +460,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="labelCFU">Toujours transférer</string>
   <string name="labelCW">Appel en attente</string>
   <string name="labelCallerId">Numéro de l\'appelant</string>
+  <string name="labelCbChangePassword">Changer le mot de passe</string>
   <string name="labelGSMMore">Paramètres d\'appel GSM</string>
   <string name="labelNwService">Paramètres du service réseau</string>
   <string name="label_available">Réseaux disponibles</string>
@@ -479,13 +491,20 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="list_language_dtitle">Langues</string>
   <string name="list_language_summary">Sélectionnez la langue des actualités</string>
   <string name="list_language_title">Langue</string>
+  <string name="livetalk_complete">Ok</string>
+  <string name="livetalk_creat_account_fialed">Erreur du compte</string>
+  <string name="livetalk_last_step">Retour</string>
   <string name="livetalk_name">Recharge téléphonique</string>
+  <string name="livetalk_next_step">Suivant</string>
   <string name="livetalk_provider">Fourni par %1$s</string>
+  <string name="livetalk_provision">Conditions d\'utilisation du Service</string>
   <string name="livetalk_setting">Recharge téléphonique</string>
+  <string name="livetalk_terms_conditions">Nettoyeur</string>
   <string name="livetalk_user_config_title">Vérifier le numéro de téléphone</string>
   <string name="livetalk_white_list_number_title">Composer des appels sans la recharge</string>
   <string name="load_networks_progress">Recherche&#8230;</string>
   <string name="loading">Un instant&#8230;</string>
+  <string name="loading_order">Veuillez patienter&#8230;</string>
   <string name="loading_product">Un instant&#8230;</string>
   <string name="local_disable">Option \"Actualités locales\" désactivée</string>
   <string name="local_enable">Option \"Actualités locales\" activée</string>
@@ -493,6 +512,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="local_weather_enable">Option \"Météo locale\" activée</string>
   <string name="lodgings_disable">Option \"Hébergements\" désactivée</string>
   <string name="lodgings_enable">Option \"Hébergements\" activée</string>
+  <string name="login_account_button_text">Se connecter</string>
   <string name="maintenance_disable">Option \"Maintenance\" désactivée</string>
   <string name="maintenance_enable">Option \"Maintenance\" activée</string>
   <string name="manageConferenceLabel">Gérer la conférence téléphonique</string>
@@ -540,6 +560,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="msim_mode_progress_activating_message">Activation…</string>
   <string name="msim_mode_progress_deactivating_message">Désactivation…</string>
   <string name="msim_not_set_summary">Non défini</string>
+  <string name="msim_pref_title_data">Accès internet</string>
   <string name="msim_pref_title_voice">Appels</string>
   <string name="msim_set_icc_card_error">Erreur de carte ICC</string>
   <string name="msim_set_sub_not_supported_phone_in_call">"Lors d'un appel, vous ne pouvez appliquer"</string>
@@ -578,8 +599,10 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="network_settings_query_failed_message">"Requête réseau échouée. Appuyer sur Annuler pour utiliser votre réseau préféré ou OK pour réessayer."</string>
   <string name="network_settings_select_automatic_hint">"Impossible de s\'enregistrer sur le réseau sélectionné.
 Le réseau préféré sera utilisé à la place."</string>
+  <string name="network_settings_title">Réseaux mobiles</string>
   <string name="network_settings_turn_off">Désactiver</string>
   <string name="network_settings_warn_message">Utiliser uniquement le réseau que vous avez sélectionné manuellement</string>
+  <string name="network_unconnected_title">Erreur réseau</string>
   <string name="network_unlock">Déverrouiller</string>
   <string name="networks">Opérateurs de réseau</string>
   <string name="networks_title">Opérateurs réseau</string>
@@ -593,6 +616,7 @@ Le réseau préféré sera utilisé à la place."</string>
   <string name="no_data">Pas de données</string>
   <string name="no_internet_available">Pour effectuer un appel SIP, vérifiez tout d\'abord la connexion internet.</string>
   <string name="no_more">Plus rien</string>
+  <string name="no_sim_card">Carte SIM non détectée</string>
   <string name="no_vm_number">Numéro de messagerie vocale manquant</string>
   <string name="no_vm_number_msg">Aucun numéro de messagerie vocale n\'est enregistré sur la carte SIM.</string>
   <string name="no_voip">Appels SIP non pris en charge</string>
@@ -632,6 +656,8 @@ Le réseau préféré sera utilisé à la place."</string>
   <string name="onscreenSwapCallsText">Permuter</string>
   <string name="onscreenVideoCallText">Appel vidéo</string>
   <string name="open_miui">Ouvrir</string>
+  <string name="operation_successfully">Ok</string>
+  <string name="operator_mins_first_close">Désactiver</string>
   <string name="optional_summary">&lt;Facultatif&gt;</string>
   <string name="order_by_recent">Fréquemment utilisés</string>
   <string name="order_id">N° de commande: %1$s</string>
@@ -666,6 +692,9 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="other_settings">Autres paramètres d\'appel</string>
   <string name="other_settings_category">Autres</string>
   <string name="overseas_roaming_setting">Itinérance à l\'étranger</string>
+  <string name="password">Mot de passe</string>
+  <string name="password_changed">Mot de passe mis à jour</string>
+  <string name="password_title">Mot de passe</string>
   <string name="pause_prompt_no">Non</string>
   <string name="pause_prompt_str">Envoi des tonalités\n</string>
   <string name="pause_prompt_yes">Oui</string>
@@ -680,6 +709,7 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="phone_accounts_make_calls_with">Passer des appels avec</string>
   <string name="phone_accounts_make_sip_calls_with">Passer les appels SIP avec</string>
   <string name="phone_accounts_selection_header">Comptes d\'appel</string>
+  <string name="phone_accounts_settings_header">Paramètres</string>
   <string name="phone_entered_ecm_text">Mode de rappel d\'urgence activé</string>
   <string name="phone_in_ecm_call_notification_text">Connexion des données désactivée</string>
   <string name="phone_in_ecm_notification_title">Mode de rappel d\'urgence</string>
@@ -700,9 +730,12 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="pin_progress_set_fdn_lock">Configuration de l\'état de verrouillage du FDN&#8230;</string>
   <string name="pin_progress_set_icc_lock">Configuration de l\'état de verrouillage de l\'icc&#8230;</string>
   <string name="pin_progress_unlock_icc">Déblocage de la carte SIM&#8230;</string>
+  <string name="port">Port de destination :</string>
+  <string name="port_title">Port</string>
   <string name="preference_auto_ip_summary_disable">Désactivé</string>
   <string name="preference_category_ringtone">Sonnerie et vibreur</string>
   <string name="preference_dial_pad_touch_tone_default">Par défaut</string>
+  <string name="preference_dial_pad_touch_tone_off">Désactivé</string>
   <string name="preference_dial_pad_touch_tone_piano">Son de piano</string>
   <string name="preference_dial_pad_touch_tone_title">Tonalités du pavé numérique</string>
   <string name="preference_telocation_summary_countrycode_off">"ne pas ajouter automatiquement l'indicatif du pays"</string>
@@ -758,6 +791,7 @@ Appuyez sur OK pour continuer.\"\"</string>
   <string name="purchase_limit">Vous avez atteint la limite d\'achat</string>
   <string name="purchase_list">Historique des achats</string>
   <string name="query">Requête</string>
+  <string name="quickly_verify">Vérifier</string>
   <string name="radio_off_error">Activez le signal radio avant d\'afficher ces paramètres.</string>
   <string name="rc_unlock_failed">La demande de déverrouillage de la carte RUIM d\'entreprise a échoué.</string>
   <string name="rc_unlock_success">Déverrouillage de la RUIM d\'entreprise réussie.</string>
@@ -818,11 +852,13 @@ Appuyez sur OK pour continuer.\"\"</string>
   <string name="reverting_settings">Rétablissement des paramètres&#8230;</string>
   <string name="rhrpd_unlock_failed">La demande de déverrouillage de l\'UIM HRPD a échoué.</string>
   <string name="rhrpd_unlock_success">Le déverrouillage de la RUIM HRPD a réussi.</string>
+  <string name="ringtone_silent">Aucun</string>
   <string name="rnw1_unlock_failed">La demande de déverrouillage du réseau 1 de l\'UIM HRPD a échoué.</string>
   <string name="rnw1_unlock_success">Le déverrouillage du réseau 1 de l\'UIM HRPD a réussi.</string>
   <string name="rnw2_unlock_failed">La demande de déverrouillage du réseau 2 de l\'UIM HRPD a échoué.</string>
   <string name="rnw2_unlock_success">Le déverrouillage du réseau 2 de l\'UIM a réussi.</string>
   <string name="roaming">Itinérance des données</string>
+  <string name="roaming_alert_title">Autoriser l\'itinérance des données ?</string>
   <string name="roaming_disable">Se connecter aux services de données lors de l\'itinérance</string>
   <string name="roaming_enable">Se connecter aux services de données lors de l\'itinérance</string>
   <string name="roaming_notification_content">Vous pouvez ajoutez automatiquement les code des pays pour rendre les appels plus pratiques.</string>
@@ -835,6 +871,7 @@ Appuyez sur OK pour continuer.\"\"</string>
   <string name="ruim_unlock_success">Le déverrouillage de l\'UIM a réussi.</string>
   <string name="save">Enregistrer</string>
   <string name="saving_account">Enregistrement du compte&#8230;</string>
+  <string name="search_antispam_setting">Anti-Spam</string>
   <string name="search_networks">Rechercher les réseaux</string>
   <string name="selectContact">sélectionner un contact</string>
   <string name="select_automatically">Sélectionner automatiquement</string>
@@ -972,6 +1009,10 @@ La prochaine période démarre dans %4$d jours (%5$s)."</string>
   <string name="throttle_time_frame">Période d\'utilisation des données</string>
   <string name="throttle_time_frame_subtext">"%1$d ٪ du cycle écoulé
 La prochaine période démarre dans %2$d jours (%3$s)"</string>
+  <string name="time_end">Jusqu\'à</string>
+  <string name="time_formate_am">a.m.</string>
+  <string name="time_formate_pm">p.m.</string>
+  <string name="time_start">De</string>
   <string name="title_country">Région</string>
   <string name="title_duration">Durée</string>
   <string name="title_purchase">Recharge téléphonique</string>
@@ -993,8 +1034,10 @@ La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="uplmn_list_setting_add_plmn">Nouveau PLMN</string>
   <string name="uplmn_list_setting_title">Réseaux préférés</string>
   <string name="uplmn_numeric_is_empty">Entrez un ID de réseau</string>
+  <string name="use_current_account_creat_livetalk_button">Appliquer</string>
   <string name="use_history">Activité</string>
   <string name="use_range">Utiliser Range</string>
+  <string name="username_title">Nom d\'utilisateur</string>
   <string name="ussdRunning">Exécution du code USSD&#8230;</string>
   <string name="verified">Vérifié</string>
   <string name="verify_fialed">"Échec"</string>
@@ -1024,6 +1067,8 @@ Veuillez contacter votre opérateur si le problème persiste."</string>
   <string name="volte_switch_title">VoLTE activé</string>
   <string name="wait_prompt_str">"Envoyer les tonalités suivantes ?
 "</string>
+  <string name="whole_calls">Afficher tous les appels</string>
   <string name="wild_prompt_str">Remplacer le caractère générique par</string>
+  <string name="wrong_password">Le mot de passe saisi est incorrect</string>
   <string name="xdivert_summary">Paramètres CFNRc</string>
 </resources>
