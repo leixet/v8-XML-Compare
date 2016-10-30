@@ -61,6 +61,7 @@
   <string name="call_assistant">Chamada %s</string>
   <string name="call_callback">Remarcar</string>
   <string name="call_car">Ligar para o telefone do carro</string>
+  <string name="call_charge">Carregamentos</string>
   <string name="call_company_main">Ligar para o telefone da empresa</string>
   <string name="call_custom">Chamada %s</string>
   <string name="call_disambig_title">Escolher número</string>
@@ -76,6 +77,7 @@
   <string name="call_other">Ligar</string>
   <string name="call_other_fax">Ligar para o fax</string>
   <string name="call_pager">Ligar para o pager</string>
+  <string name="call_problem_report">Reportar erros</string>
   <string name="call_radio">Ligar para o rádio</string>
   <string name="call_record_setting_miui">Definições de registo</string>
   <string name="call_settings">Definições</string>
@@ -127,6 +129,7 @@
   <string name="callrecordview_menu_show_sim">%s chamadas</string>
   <string name="callrecordview_menu_show_stranger">Chamadas de números desconhecidos</string>
   <string name="callrecordview_menu_show_title">Ecrã de registo de chamadas</string>
+  <string name="callrecordview_menu_voip">Voz Mi</string>
   <string name="cancel_confirmation_dialog_message">Rejeitar alterações?</string>
   <string name="cancel_confirmation_dialog_title">Cancelar</string>
   <string name="cancel_export_confirmation_message">Cancelar a exportação de %s?</string>
@@ -186,6 +189,7 @@
   <string name="contact_detail_action_item_nocalllog">Sem chamadas</string>
   <string name="contact_detail_calllog_call_note_tips">Notas</string>
   <string name="contact_detail_calllog_call_record_tips">Gravar chamada</string>
+  <string name="contact_detail_calllog_empty">Sem histórico</string>
   <string name="contact_detail_menu_delete_miprofile">Eliminar cartão</string>
   <string name="contact_detail_miprofile_accept">Trocar cartões de contacto</string>
   <string name="contact_detail_miprofile_accept_fail_toast">"Não foi possível trocar cartões de contacto"</string>
@@ -432,6 +436,7 @@ Motivo: \"%s\""</string>
   <string name="fraud_more_indemnity">Mais</string>
   <string name="frequentList">Frequentes</string>
   <string name="full_name">Nome</string>
+  <string name="gallery">Galeria</string>
   <string name="generic_no_account_prompt">Mantenha os seus contactos seguros mesmo que perca o seu telefone: sincronize com um serviço online</string>
   <string name="generic_no_account_prompt_title">Adicionar uma conta</string>
   <string name="ghostData_company">Empresa</string>
@@ -819,6 +824,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="payphone">Telefone público</string>
   <string name="people">Contactos</string>
   <string name="phoneLabelsGroup">Telefone</string>
+  <string name="phone_call_type_livetalk">Pacote de carregamento</string>
   <string name="phone_call_type_voip">Voz Mi</string>
   <string name="phone_number_too_long_toast">Número muito extenso</string>
   <string name="phone_primary">Primário</string>
@@ -1186,6 +1192,7 @@ Escolher uma das seguintes opções:"</string>
   <string name="wipe_data">Limpar dados</string>
   <string name="yellowPageNavigationIconLabel">Pág. Amarelas</string>
   <string name="yellowPageNavigationLabel">Pág. Amarelas</string>
+  <string name="yellowpage_navigation_ad_hint">Anúncios</string>
   <string name="yellowpage_navigation_clear_search_history">Limpar histórico</string>
   <string name="yellowpage_navigation_more_items">Mais</string>
   <string name="yellowpage_navigation_more_items_title">Mais serviços</string>
