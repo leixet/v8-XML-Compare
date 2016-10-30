@@ -44,7 +44,6 @@
   <string name="test_account_2_short_description">Parleu amb tothom als Cercles!</string>
   <string name="test_account_3_label">Bay Voice Chat Pro</string>
   <string name="test_account_3_short_description">Converseu amb els usuaris del Chat Network</string>
-  <string name="ui_default_package">com.android.incallui</string>
   <string name="unknown">Desconegut</string>
   <string name="userCallActivityLabel">Telèfon</string>
   <string name="video_call_not_allowed_if_tty_enabled">Desactiveu el mode TTY per fer trucades de vídeo.</string>
