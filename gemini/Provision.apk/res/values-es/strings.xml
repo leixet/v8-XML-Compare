@@ -3,9 +3,12 @@
 <resources>
   <string name="agree">De acuerdo</string>
   <string name="agree_terms">"He leído y acepto los Términos del Servicio y la Política de Privacidad."</string>
+  <string name="app_name">Términos de Servicio</string>
   <string name="back">Atrás</string>
   <string name="congratulation_label">"Disfruta de tu nuevo dispositivo"</string>
   <string name="congratulation_title">Instalación terminada</string>
+  <string name="content_description_complete">Completa</string>
+  <string name="content_description_start">Empezar</string>
   <string name="desc_fingerprint">Utiliza tu huella para desbloquear el dispositivo, comprobar las transacciones Mi Pay o para conectarte a aplicaciones y servicios.</string>
   <string name="desc_international_fingerprint">Usa tu huella dactilar para desbloquear el dispositivo o para iniciar sesión en aplicaciones y servicios.</string>
   <string name="disagree">Cancelar</string>
@@ -22,8 +25,11 @@
   <string name="next">Siguiente</string>
   <string name="next_fingerprint">Siguiente</string>
   <string name="other_settings">Ajustes adicionales</string>
+  <string name="other_settings_auto_update">Actualizar automáticamente</string>
   <string name="other_settings_location">Ubicación</string>
   <string name="other_settings_location_summary">Permitir a las aplicaciones acceder a tu ubicación</string>
+  <string name="other_settings_mifg_online_content">Galería de pantalla de bloqueo</string>
+  <string name="other_settings_upload_debug_log_title">Programa de experiencia de usuario</string>
   <string name="other_settings_user_experience">Programa de experiencia de usuario</string>
   <string name="other_settings_user_experience_summary">Ayuda a MIUI a mejorar enviando diagnósticos anónimos de uso (%s)</string>
   <string name="pref_title_data_slot">Tarjeta SIM de datos preferida</string>
