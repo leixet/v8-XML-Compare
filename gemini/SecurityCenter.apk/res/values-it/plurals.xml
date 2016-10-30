@@ -61,6 +61,10 @@
     <item quantity="other">%d elementi possono essere ottimizzati</item>
     <item quantity="one">%d elemento può essere ottimizzato</item>
   </plurals>
+  <plurals name="view_num">
+    <item quantity="other">%1$d visualizzazioni</item>
+    <item quantity="one">%1$d visualizzazione</item>
+  </plurals>
   <plurals name="hints_auto_start_enable_title">
     <item quantity="other">%d app possono autoavviarsi</item>
     <item quantity="one">%d app può autoavviarsi</item>
