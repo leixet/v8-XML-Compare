@@ -16,6 +16,7 @@
   <string name="adjust_position_prev_media_notice">Último</string>
   <string name="ads_control">Control de anuncios</string>
   <string name="ads_control_desc">Muestra anuncios cuando se inicia la aplicación</string>
+  <string name="ads_ignore">Ignorar</string>
   <string name="airkan_control_device_des">Para controlar la reproducción, toque la barra inferior</string>
   <string name="airkan_playing">emitiendo</string>
   <string name="airkan_playing_to">" en "</string>
@@ -100,6 +101,7 @@
   <string name="delete_addon">Eliminar</string>
   <string name="delete_addon_content">¿Eliminar este elemento?</string>
   <string name="delete_with">Borrar (%d)</string>
+  <string name="detail">Detalle</string>
   <string name="detail_comment_empty">Vacío</string>
   <string name="develop_version">Aplicación de desarrollo</string>
   <string name="development_setting">Opciones de desarrollo</string>
@@ -116,9 +118,11 @@
   <string name="download_file_fail">Error al acceder a archivos locales, quizá no haya espacio en la tarjeta SD</string>
   <string name="download_finished">Finalizado</string>
   <string name="download_geturl_fail">"No se puede obtener la URL"</string>
+  <string name="download_insufficient_space">Espacio insuficiente</string>
   <string name="download_is_in_tasklist">En cola de descarga</string>
   <string name="download_paused">Pausado</string>
   <string name="download_percent_hint">Descargando %d%%</string>
+  <string name="download_progress_0p">0%</string>
   <string name="download_queue">Recuperando dirección</string>
   <string name="download_running">Descargando</string>
   <string name="download_start_message">El plugin %1$s será descargado e instalado</string>
@@ -160,6 +164,7 @@
   <string name="join_hint">Introduzca el código de invitación</string>
   <string name="key_back_down_toast">Para salir, pulse Atrás de nuevo</string>
   <string name="lastrefresh">Actualización reciente:</string>
+  <string name="live">Animado</string>
   <string name="loading">&lt;CDATA&gt;Cargando&lt;/CDATA&gt;</string>
   <string name="loading_video_netplay_label">Cargando&#8230;</string>
   <string name="loading_video_netplay_label_v5">Cargando&#8230;</string>
@@ -178,6 +183,7 @@
   <string name="minute">&#160;Minuto</string>
   <string name="mipush_setting">Mensajes automáticos de Mi</string>
   <string name="miwifi_app_download_content">Descargando&#8230;</string>
+  <string name="miwifi_app_download_title">Router Mi</string>
   <string name="miwifi_app_update_button">Actualizar</string>
   <string name="miwifi_app_update_content">Actualizar aplicación Mi Router para usar esta funcionalidad.</string>
   <string name="miwifi_app_update_title">¿Actualizar router?</string>
@@ -227,8 +233,10 @@
   <string name="online_video">En línea</string>
   <string name="online_video_oneweek">Durante la última semana</string>
   <string name="online_video_oneweek_ago">Hace una semana</string>
+  <string name="open_in_browser">Abrir en el navegador</string>
   <string name="operator_test">Configuración del operador</string>
   <string name="operator_test_summary">Arrancar en modo operador test</string>
+  <string name="other_info">Otros</string>
   <string name="other_setting">Otros</string>
   <string name="path_develop_settings">Video/Ajustes/Ajustes de Desarrollo</string>
   <string name="path_settings">Video/Ajustes</string>
@@ -417,6 +425,7 @@
   <string name="vp_select_ep">Elegir episodio</string>
   <string name="vp_select_function">Ajustes del reproductor</string>
   <string name="vp_select_source">Seleccionar fuente</string>
+  <string name="vp_select_tv">Seleccionar canal</string>
   <string name="vp_select_video_definition">Seleccionar definición</string>
   <string name="vp_select_video_source">Seleccionar fuente</string>
   <string name="vp_skip">Saltar introducción y créditos</string>
