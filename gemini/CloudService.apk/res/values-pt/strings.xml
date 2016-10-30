@@ -8,6 +8,8 @@
   <string name="activate_finddevice">Ligar à rede para activar dispositivo</string>
   <string name="activate_number_change_dialog_message">Escolher um número de telefone que vai ficar visível para outros dispositivos quando ligar via VoIP</string>
   <string name="activating">A activar&#8230;</string>
+  <string name="add_short_cut">Adicionar</string>
+  <string name="added_successfully">Adicionado com sucesso</string>
   <string name="antispam_sync">Definições de Não incomodar</string>
   <string name="app_name">Nuvem Mi</string>
   <string name="apple_cloud">Serviço Nuvem Apple</string>
@@ -45,6 +47,7 @@ Para obter mais espaço de armazenamento visite mi.com/micloud</string>
   <string name="cloud_space_upgrade_message">Toque para adicionar %s GB à sua Nuvem Mi</string>
   <string name="cloud_space_upgrade_no_quota_info">"Não foi possível obter informação de armazenamento"</string>
   <string name="cloud_space_upgrade_title">Mais espaço para a Nuvem Mi</string>
+  <string name="cloud_storage_is_full">Carregada</string>
   <string name="cloudservice_new_sync">Sincronizar %s com Nuvem Mi</string>
   <string name="cmcc_micloud_dspt">Utilizar a Nuvem Mi para sincronizar dados, localizar o seu dispositivo e partilhar ficheiros com os seus amigos</string>
   <string name="connect_network">Ligar ao Wi-Fi ou inserir cartão SIM</string>
@@ -54,6 +57,7 @@ Para obter mais espaço de armazenamento visite mi.com/micloud</string>
   <string name="detect_sim_card">Pesquisar por cartão SIM</string>
   <string name="disable_find_device_error">"Não foi possível desligar Localizar Dispositivo. %1$s"</string>
   <string name="disable_find_device_success">Localizar Dispositivo está desligado</string>
+  <string name="due_date_format">dd/MM/yyyy</string>
   <string name="enableAll">Sincronizar tudo</string>
   <string name="enable_cloud_service_notification">É necessário activar a Nuvem Mi</string>
   <string name="enable_find_device_error">"Não foi possível ligar Localizar Dispositivo. %1$s"</string>
@@ -90,6 +94,7 @@ Se trocar de cartão SIM, será enviada automaticamente outra mensagem para reac
   <string name="find_device_reading_status">A carregar estado&#8230;</string>
   <string name="find_device_reading_status_failure">"Não foi possível carregar estado"</string>
   <string name="find_device_send_sms_alert">Se trocar de cartão SIM, poderá ser enviada outra mensagem para reactivar este serviço</string>
+  <string name="find_device_service_title">Localizar Dispositivo</string>
   <string name="find_device_status_ok">Localizar o seu dispositivo de qualquer lugar em i.mi.com</string>
   <string name="find_device_status_ok_international">Localizar o seu dispositivo de qualquer lugar em www.mi.com/micloud</string>
   <string name="find_device_success_title">Localizar Dispositivo</string>
@@ -287,6 +292,7 @@ Toque nas definições de sincronização para ver mais opções\"</string>
   <string name="micloud_notif_title_depend_wifi">%d a aguardar para sincronizar</string>
   <string name="micloud_notif_title_master_depend_wifi">"Não é possível sincronizar com a Nuvem Mi"</string>
   <string name="micloud_notif_title_memory_low">"Não é possível sincronizar com a Nuvem Mi"</string>
+  <string name="micloud_notif_title_multi_user_error">"Não é possível sincronizar com a Nuvem Mi"</string>
   <string name="micloud_notif_title_sync_finish">Sincronizado</string>
   <string name="micloud_notif_title_sync_not_finish">"Alguns itens ainda não foram sincronizados"</string>
   <string name="micloud_notif_title_sync_progress">A sincronizar</string>
@@ -322,6 +328,7 @@ Toque nas definições de sincronização para ver mais opções\"</string>
   <string name="micloud_sync_alert_dialog_message">Sincronizar fotos, contactos, notas e muito mais em todos os seus dispositivos</string>
   <string name="micloud_sync_alert_dialog_negative">Cancelar</string>
   <string name="micloud_sync_alert_dialog_title">Utilizar Nuvem Mi</string>
+  <string name="micloud_sync_off">Sincronização com a Nuvem Mi está desligada</string>
   <string name="micloud_title_dspt" formatted="false">"%s total
  %s utilizado | %s restantes"</string>
   <string name="micloud_title_dspt_remain">%s restantes</string>
@@ -364,6 +371,7 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="next">Seguinte</string>
   <string name="noRemind">"Não voltar a lembrar"</string>
   <string name="no_sim">Não foi detectado nenhum cartão SIM</string>
+  <string name="open_micloud_sync">Ligar a sincronização com a Nuvem Mi</string>
   <string name="other_settings">Outras definições</string>
   <string name="password">Introduzir a sua palavra-passe</string>
   <string name="phone_number_may_required_dspt_provision">"Este serviço pode necessitar do seu número de telefone. "</string>
@@ -375,6 +383,7 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="privacy_policy">Política de Privacidade</string>
   <string name="remind_later">Agora não</string>
   <string name="restoreSync">Sincronizar agora</string>
+  <string name="search_finddevice_pref">Localizar Dispositivo</string>
   <string name="setting">Definições</string>
   <string name="settings_backup_title">Cópia das definições de sistema</string>
   <string name="share_cancel">Partilha cancelada</string>
@@ -419,6 +428,7 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="sync_item_calllog_title">Sincronizar registos de chamadas</string>
   <string name="sync_item_sms_summary">Sincronizar as SMS enviadas e recebidas</string>
   <string name="sync_item_sms_title">Sincronizar mensagens</string>
+  <string name="sync_item_title">A sincronizar itens</string>
   <string name="sync_off">Desligado</string>
   <string name="sync_on">Ligado</string>
   <string name="sync_resend_sms_dspt_provision">" Se mudar de cartão SIM, a operadora pode cobrar um SMS utilizado para reactivar este serviço"</string>
