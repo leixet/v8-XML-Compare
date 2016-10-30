@@ -32,6 +32,7 @@
   <string name="adding_recipients">Añadiendo destinos&#8230;</string>
   <string name="adding_to_album">Añadiendo fotos&#8230;</string>
   <string name="adjust">Mejorar</string>
+  <string name="adjust_auto">Automático</string>
   <string name="adjust_blur">Difuminar</string>
   <string name="adjust_brightness">Brillo</string>
   <string name="adjust_contrast">Contraste</string>
@@ -142,6 +143,7 @@
   <string name="cityname_189">"Maanshan"</string>
   <string name="cityname_215">"Puer"</string>
   <string name="cityname_268">"Taian"</string>
+  <string name="cityname_29">Pekín</string>
   <string name="cityname_302">"Xian"</string>
   <string name="cityname_324">"Yaan"</string>
   <string name="cityname_87">"Guangan"</string>
@@ -219,7 +221,10 @@
   <string name="detail_title">Información detallada</string>
   <string name="do_not_remind_me">"No mostrar de nuevo"</string>
   <string name="doodle">Garabatear</string>
+  <string name="doodle_middle_size">Media</string>
   <string name="doodle_mosaic">Mosaico</string>
+  <string name="doodle_small_size">Pequeño</string>
+  <string name="doodle_super_big_size">Enorme</string>
   <string name="download_retry_message">"Fallo al descargar los archivos, comprueba la conexión de red y vuelve a intentarlo"</string>
   <string name="download_retry_text">Inténtalo de nuevo</string>
   <string name="download_retry_title">"Fallo al descargar los archivos"</string>
@@ -229,6 +234,7 @@
   <string name="download_without_wifi_title">Aviso sobre el Uso de Datos</string>
   <string name="edit_baby_info">Ver información del bebé</string>
   <string name="email_picker_title">Agregar correo compartido</string>
+  <string name="enable_auto_upload_title">Activar MiCloud</string>
   <string name="enable_cloud_for_sharing">Se necesita activar álbumes en la nube para ver fotos compartidas.</string>
   <string name="enable_face_album_summary">Ordenar fotos automáticamente de acuerdo a las personas que se encuentren en ellas</string>
   <string name="enable_face_album_title">Ordenar por personas</string>
@@ -321,6 +327,7 @@
   <string name="impunity_declaration_settings">Mostrar aviso de red</string>
   <string name="impunity_declaration_summary">Mostrar aviso de red cada vez que se inicie la aplicación Galería</string>
   <string name="initializing_cloud">Inicializando&#8230;</string>
+  <string name="initializing_sdk">Inicializando&#8230;</string>
   <string name="input_a_name">Introducir nombre</string>
   <string name="input_baby_name">Introducir nombre</string>
   <string name="input_baby_nick_name">Introducir apodo</string>
@@ -381,9 +388,11 @@
   <string name="new_album_invalid_name"> \"% S \" es el álbum sistema, cambiar el nombre de la misma.</string>
   <string name="new_album_invalid_prefix">"No usar \".  \"O \" _  \"en el principio del nombre del álbum."</string>
   <string name="next">Siguiente</string>
+  <string name="no">No</string>
   <string name="no_map_app">No se encontró una aplicación para manejar esta acción</string>
   <string name="no_network_connected">Ninguna red detectada</string>
   <string name="not_ask_any_more">"No volver a pedir \"%s\" respuestas"</string>
+  <string name="not_is">No</string>
   <string name="not_remind_again">"No mostrar de nuevo"</string>
   <string name="not_remind_any_more">"No mostrar de nuevo"</string>
   <string name="number_of_uploading_finish">Sincronizado con Mi Cloud</string>
@@ -398,6 +407,7 @@
   <string name="operation_do_delete_local_thumnail">Eliminar del dispositivo</string>
   <string name="operation_download">Descargar foto (%s)</string>
   <string name="operation_edit">Editar</string>
+  <string name="operation_enable_auto_upload">Activar MiCloud</string>
   <string name="operation_enter_delete_local">Eliminar respaldo multimedia de este dispositivo</string>
   <string name="operation_failed">"La operación falló"</string>
   <string name="operation_force_top">Anclar arriba</string>
@@ -498,6 +508,8 @@
   <string name="scan_barcode_to_join">Escanear el código QR para unirse a un álbum</string>
   <string name="scan_qr_code_buttom_text">Escanear el código QR para ver este álbum.</string>
   <string name="secret_album_display_name">Álbum oculto</string>
+  <string name="secret_album_password_update_dialog_cancel">Cancelar</string>
+  <string name="secret_album_set_pc_password_dialog_title">Establecer contraseña</string>
   <string name="secret_reason_space_full">El álbum de la nube está a tope</string>
   <string name="secret_reason_too_large">El archivo es demasiado grande</string>
   <string name="secret_reason_type_not_support">"Éste tipo de archivo no es soportado"</string>
@@ -508,6 +520,7 @@
   <string name="send_public_url">Enviar URL del álbum</string>
   <string name="send_too_many_files_error">No se puede enviar tantas cosas (máximo %d cosas).</string>
   <string name="set_as_baby_lock_wallpaper">Usar como fondo de pantalla de bloqueo</string>
+  <string name="set_as_wallpaper_title">Establecer como fondo</string>
   <string name="set_face_group_toast_msg_new_user">Sostenga una persona para fusionar o ignorarla.</string>
   <string name="set_face_group_toast_msg_old_user">"Sostenga la foto de una persona para crear grupos (P.e., Familia, Amigos, Compañeros, etc.)"</string>
   <string name="set_face_group_toast_title_new_user">Sugerencias</string>
@@ -611,6 +624,7 @@
   <string name="video_editor_filter_rouge">Rojo</string>
   <string name="video_editor_filter_sunny">Soleado</string>
   <string name="video_editor_invalid_trim_arguments">En caso de ser más de 1 segundo</string>
+  <string name="video_editor_loading_plugin">Cargando&#8230;</string>
   <string name="video_editor_more">Avanzado</string>
   <string name="video_editor_not_support_tips">"Archivos de video no soportados"</string>
   <string name="video_editor_ok">De acuerdo</string>
