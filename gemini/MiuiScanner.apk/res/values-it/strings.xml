@@ -85,6 +85,7 @@
   <string name="not_recommend_access_web_url">Accesso sicuro (non consigliato)</string>
   <string name="not_tips">"Non chiedere più"</string>
   <string name="note">Note:</string>
+  <string name="payment_weixin">Wechat</string>
   <string name="phone">Telefono:</string>
   <string name="picker_lable">Immagine</string>
   <string name="place_barcode_into_rectangle">Centra il codice nel riquadro per scansionare</string>
@@ -92,6 +93,8 @@
   <string name="preparing_sd">Preparazione SD&#8230;</string>
   <string name="previous">Indietro</string>
   <string name="qr_code_details">Dettagli Codice QR:</string>
+  <string name="recognition_error_download_cancel">Più tardi</string>
+  <string name="recognition_error_download_success">Download completato</string>
   <string name="recognize">Leggi</string>
   <string name="recognize_fail">"Impossibile leggere"</string>
   <string name="scan_fail">"Impossibile scansionare"</string>
