@@ -227,11 +227,6 @@
     <item>Comenceu sense mi.</item>
     <item>"No hi puc assistir, millor en un altre moment."</item>
   </string-array>
-  <string-array name="prefValues_alerts_vibrateWhen">
-    <item>always</item>
-    <item>silenci</item>
-    <item>mai</item>
-  </string-array>
   <string-array name="widget_style_list">
     <item>Transparent</item>
     <item>Fons blanc</item>
