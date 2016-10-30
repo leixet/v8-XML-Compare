@@ -486,6 +486,7 @@
   <string name="setting">Configuració</string>
   <string name="setting_account_bind">Afegir compte</string>
   <string name="setting_message_notify">Notificacions</string>
+  <string name="share_success">Compartit amb èxit</string>
   <string name="share_title_1">Trobat nou paquet d\'adhesius!</string>
   <string name="share_to">Compartir per&#8230;</string>
   <string name="shared_sticker_network_permission_tip">"No s'ha pogut connectar a la xarxa. Comprova la teva connexió i torna a provar."</string>
@@ -548,6 +549,7 @@
   <string name="unlogin">Inicieu primer la sessió</string>
   <string name="unmount_inform_text">Desmuntar l\'emmagatzematge USB?</string>
   <string name="unreviewed_video_cannot_share">Els vídeos han de ser ressenyats abans de ser compartits</string>
+  <string name="update">Actualitza</string>
   <string name="update_failed">"No s'ha pogut desar, intenteu-ho de nou"</string>
   <string name="update_loading">S\'està desant&#8230;</string>
   <string name="upload_avatar_camera">Càmera</string>
@@ -567,7 +569,11 @@
   <string name="upload_notification_success_content">"El teu vídeo ha de ser ressenyat abans de ser compartit amb altres persones"</string>
   <string name="upload_notification_title">Pujant vídeo</string>
   <string name="upload_user_photo">Pujar</string>
+  <string name="upload_video_failed">"No es va poder pujar"</string>
+  <string name="upload_video_failed_progress">"No s'ha pogut pujar, intenteu-ho de nou"</string>
   <string name="upload_video_forbidden">No pujar vídeo similars</string>
+  <string name="upload_video_success">Pujat amb èxit</string>
+  <string name="upload_video_success_progress">Pujat amb èxit</string>
   <string name="uploading_video">Pujant vídeo&#8230;</string>
   <string name="usb_label">USB</string>
   <string name="used">Usat </string>
@@ -631,6 +637,7 @@
   <string name="video_parsing_btn">Anàlisi…</string>
   <string name="video_play_failed">Error desconegut</string>
   <string name="video_publish_hint">Una bona descripció ajudarà al fet que altres persones trobin el teu vídeo</string>
+  <string name="video_publish_hint2">Descripció</string>
   <string name="video_status_reject">Rebutjat</string>
   <string name="video_status_review">Sent ressenyat</string>
   <string name="video_tag">\#%s#</string>
@@ -663,6 +670,7 @@
   <string name="year_month_day_format">dd MMM yyyy</string>
   <string name="yes">Sí</string>
   <string name="yesterday">Ahir</string>
+  <string name="youliao_ad_update">Actualitza</string>
   <string name="zero">0</string>
   <string name="zero_comment">Cap comentari</string>
 </resources>
