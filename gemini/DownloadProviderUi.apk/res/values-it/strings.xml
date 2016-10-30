@@ -32,6 +32,7 @@
   <string name="complete_time">Completato:</string>
   <string name="confirm_delete_downloads_message">%d download selezionati verranno rimossi</string>
   <string name="confirm_delete_the_download_item_message">Conferma rimozione download</string>
+  <string name="continue_download">Continua</string>
   <string name="copy">Copia</string>
   <string name="copy_info">Copiato negli appunti. Puoi condividerlo con gli amici!</string>
   <string name="creat_task_success">Aggiunto in coda download</string>
@@ -114,6 +115,8 @@
   <string name="durationHourMinute">%1$d ora %2$d min</string>
   <string name="durationHourMinutes">%1$d ora %2$d min</string>
   <string name="durationHours">%1$d ore</string>
+  <string name="durationMinuteSecond">%1$d Min %2$d Sec</string>
+  <string name="durationMinuteSeconds">%1$d Min %2$d Sec</string>
   <string name="edit_hint">&#160;Inserisci un URL (http o https)</string>
   <string name="editmode_menu_delete">Elimina</string>
   <string name="editmode_menu_share">Condividi</string>
