@@ -89,10 +89,12 @@
   <string name="delete_device_btn">Eliminiar</string>
   <string name="delete_device_failed">"No se puede quitar el dispositivo"</string>
   <string name="delete_device_notice">"Después de retirar el dispositivo, se cerrará la sesión automáticamente y saldrás de tu cuenta de Mi. No podrás usar este dispositivo para acceder a las fotos, mensajes u otros contenidos almacenados en tu cuenta."</string>
+  <string name="delete_lock_device_success">Eliminado con éxito</string>
   <string name="device_delete_success_message">"Si no iniciaste sesión con este dispositivo, cambia tu contraseña inmediatamente."</string>
   <string name="device_delete_success_title">Cerrar sesión</string>
   <string name="device_list__header">Mis dispositivos</string>
   <string name="device_list_title">Mis dispositivos</string>
+  <string name="device_name">Nombre del dispositivo</string>
   <string name="device_trust_info">Dispositivo de confianza</string>
   <string name="empty_device_list_notice">No hay dispositivos</string>
   <string name="error_dup_binded_email">Esta dirección de correo electrónico ya está asociada con otra cuenta Mi.</string>
@@ -140,6 +142,7 @@
   <string name="no_network_title">"No es posible conectarse a la red."</string>
   <string name="no_response_retry">No hay respuesta, vuelve a intentarlo.</string>
   <string name="nobind">No conectado</string>
+  <string name="other_devices_title">Otros dispositivos</string>
   <string name="passport_access_denied">Acceso denegado</string>
   <string name="passport_account_hint_text">Dirección de correo o ID de cuenta Mi</string>
   <string name="passport_account_identity_title">Verifique su identidad</string>
