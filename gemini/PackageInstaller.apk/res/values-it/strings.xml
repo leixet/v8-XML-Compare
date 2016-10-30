@@ -70,6 +70,8 @@ Tutti i dati utente precedenti verranno salvati."</string>
   <string name="lb_playback_controls_high_quality_disable">Disattiva Alta Qualità</string>
   <string name="lb_playback_controls_high_quality_enable">Attiva Alta Qualità</string>
   <string name="lb_playback_controls_more_actions">Altre azioni</string>
+  <string name="lb_playback_controls_pause">Pausa</string>
+  <string name="lb_playback_controls_play">Avvia</string>
   <string name="lb_playback_controls_repeat_all">Ripeti tutto</string>
   <string name="lb_playback_controls_repeat_none">Non ripetere</string>
   <string name="lb_playback_controls_repeat_one">Ripeti uno</string>
