@@ -9,6 +9,10 @@
     <item quantity="other">%ss</item>
     <item quantity="one">%ss</item>
   </plurals>
+  <plurals name="slide_audio_duration">
+    <item quantity="other">%ss</item>
+    <item quantity="one">%ss</item>
+  </plurals>
   <plurals name="search_results_title">
     <item quantity="other">%1$s résultats pour \"%2$s\"</item>
     <item quantity="one">%1$s résultat pour \"%2$s\"</item>
