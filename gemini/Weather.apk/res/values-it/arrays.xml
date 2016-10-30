@@ -53,4 +53,12 @@
     <item>O</item>
     <item>NO</item>
   </string-array>
+  <string-array name="aqi_value">
+    <item>Buono</item>
+    <item>Satisfactory</item>
+    <item>Moderately polluted</item>
+    <item>Scadente</item>
+    <item>Very poor</item>
+    <item>Grave</item>
+  </string-array>
 </resources>
