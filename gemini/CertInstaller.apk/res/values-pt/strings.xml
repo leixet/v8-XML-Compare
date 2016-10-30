@@ -35,6 +35,7 @@
   <string name="sdcard_not_present">Armazenamento USB não disponível.</string>
   <string name="storage_error">"Não foi possível guardar o certificado. Toque em OK para tentar novamente."</string>
   <string name="unable_to_save_cert">"Não foi possível guardar o certificado. O armazenamento de credenciais não está activado ou não foi iniciado correctamente."</string>
+  <string name="wifi_cancel_label">Cancelar</string>
   <string name="wifi_config_text">"Nome: %1$s
 FQDN: %2$s
 Associações de roaming: %3$s
