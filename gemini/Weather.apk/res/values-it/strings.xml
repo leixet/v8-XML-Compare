@@ -40,8 +40,10 @@
   <string name="button_exit">Esci</string>
   <string name="button_not_allow">Annulla</string>
   <string name="button_sure_abandon">Annullare modifiche?</string>
+  <string name="change_alert">Controlla la tua connessione e prova di nuovo</string>
   <string name="close">Chiudi</string>
   <string name="commercial">Pubblicità</string>
+  <string name="common_loading_text">Solo un istante&#8230;</string>
   <string name="daily_forcast_drawer_on_bottom">Nascondi</string>
   <string name="daily_forcast_drawer_on_top">Mostra altri giorni</string>
   <string name="daily_forcast_no_stable_direction">Assente</string>
@@ -55,6 +57,7 @@
   <string name="first_start_network_msg">Per ricevere le informazioni meteo devi connetterti ad internet.</string>
   <string name="first_start_network_title">Avviso di connessione</string>
   <string name="gps_hint">Località attuale</string>
+  <string name="hide_topic">Nascondi</string>
   <string name="hourly_forcast_now">Adesso</string>
   <string name="hourly_forecast_title">Previsioni orarie</string>
   <string name="index_item_install_now">Installa adesso</string>
@@ -77,6 +80,7 @@
   <string name="information_manager_information">Inormazioni Meteo</string>
   <string name="information_manager_wlan">Carica quando connesso a Wi-Fi</string>
   <string name="information_set">Informazioni</string>
+  <string name="install">Installa</string>
   <string name="international_detail_menu_title">Dettagli</string>
   <string name="international_details_pressure_title">Pressione</string>
   <string name="international_details_real_feel_title">PERCEPITO®</string>
@@ -99,6 +103,7 @@ Tocca lo schermo per aggiungere manualmente o localizzare di nuovo"</string>
   <string name="realtime_aqi_title">Indice Qualità Aria</string>
   <string name="realtime_humidity_title">Umidità relativa</string>
   <string name="realtime_wind_default_title">Vento</string>
+  <string name="refresh_fail">"Impossibile collegarsi alla rete"</string>
   <string name="retry">Riprova</string>
   <string name="set">Imposta</string>
   <string name="set_kilometre"> km/h</string>
