@@ -20,6 +20,7 @@
   <string name="inbound_me_profile_text">Appuyez pour ajouter cette personne à vos contacts.</string>
   <string name="inbound_me_profile_title">Contact reçu via NFC</string>
   <string name="nfcUserLabel">NFC</string>
+  <string name="no">Non</string>
   <string name="outbound_me_profile_text">Appuyez pour communiquer vos coordonnées à cette personne.</string>
   <string name="outbound_me_profile_title">Communication NFC terminée.</string>
   <string name="pair_no">Non</string>
@@ -29,4 +30,5 @@
   <string name="tap_again_to_pay">Posez à nouveau pour payer avec %1$s</string>
   <string name="touch">Appuyer pour partager</string>
   <string name="transaction_failure">"La transaction avec %1$s n'a pu être effectuée."</string>
+  <string name="wifi_connect">Connecter</string>
 </resources>
