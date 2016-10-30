@@ -23,6 +23,7 @@
   <string name="auto_backup_system_data">Sistema</string>
   <string name="auto_backup_time">Programma backup</string>
   <string name="auto_backup_user_data">Applicazioni</string>
+  <string name="backup">Mi Tag</string>
   <string name="backup_data">Backup dati</string>
   <string name="backup_delete">Elimina:</string>
   <string name="backup_empty">Nessun backup trovato</string>
@@ -117,6 +118,7 @@
 2.\u0009Entra nelle impostazioni di Mi Talk e seleziona \"Backup contatti sul tuo Mi Account"</string>
   <string name="import_from_xiaomi_account_hint2">Nota: Vai al prossimo punto se il backup è già esistente</string>
   <string name="import_from_xiaomi_account_hint_title">Usa Mi Talk per il backup dei contatti su dispositivi di altre marche</string>
+  <string name="local_app_name">Mi Tag</string>
   <string name="local_backup_window_title">Locale</string>
   <string name="local_home_title">Locale</string>
   <string name="local_no_backup">Nessun backup locale</string>
@@ -206,6 +208,7 @@
   <string name="summary_err_backup_no_network">"Impossibile collegarsi alla rete"</string>
   <string name="summary_err_restore_encrypting">"Impossibile ripristinare. Assicurati che questo backup sia stato eseguito con il tuo Mi Account."</string>
   <string name="summary_err_restore_no_network">"Impossibile collegarsi alla rete"</string>
+  <string name="system_backup">Mi Tag</string>
   <string name="system_backup_info">Impostazioni di sistema, layout desktop, etc.</string>
   <string name="task_backup_cancel_progress">Eliminazione backup&#8230;</string>
   <string name="task_backup_finished_local">"Backup completato"</string>
