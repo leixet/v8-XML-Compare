@@ -72,6 +72,7 @@
   <string name="allow">Consenti</string>
   <string name="app_new_version">Hai già l\'ultima versione</string>
   <string name="app_update_install">Nuova versione scaricata e pronta per l\'installazione</string>
+  <string name="aqi_quality_index_good">Buono</string>
   <string name="autofill_popup_content_description">MOstra popup riempimento automatico</string>
   <string name="autologin_bar_error">"Accesso non riuscito."</string>
   <string name="autologin_bar_hide_text">Nascondi</string>
@@ -203,6 +204,12 @@ finestra riservata​"</string>
   <string name="dialog_queued_body">Questo file è in coda essere scaricato in futuro.</string>
   <string name="dialog_title_not_available">"Impossibile scaricare"</string>
   <string name="dialog_title_queued_body">File ancora non disponibile</string>
+  <string name="document_download_cancel_btn">Annulla</string>
+  <string name="document_download_failed">"Impossibile scaricare"</string>
+  <string name="document_download_title">Download in corso</string>
+  <string name="document_open_file">Apri %s</string>
+  <string name="document_open_other">Altre app</string>
+  <string name="document_open_title">Apri con</string>
   <string name="dont_remind_again">Ricorda la mia scelta</string>
   <string name="download_btn_select_all">Seleziona tutto</string>
   <string name="download_btn_select_none">Deseleziona tutto</string>
@@ -412,6 +419,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Reti Wi-Fi aperta disponibile</string>
   <string name="new_folder_name_lable">Nome del gruppo</string>
   <string name="next_button_label">Avanti</string>
+  <string name="no_app_open_document">Nessuna applicazione trovata per gestire questa azione.</string>
   <string name="no_matches">Nessun risultato</string>
   <string name="no_space_alert_cancel">Più tardi</string>
   <string name="no_space_alert_clean">Libera spazio</string>
@@ -650,6 +658,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
   <string name="suggest_access_item_app_update">Aggiornamento: %s</string>
   <string name="suggest_access_item_singer_albums">%d album</string>
   <string name="suggest_access_item_singer_pop">%d brani popolari</string>
+  <string name="suggest_item_delete_text">Elimina</string>
   <string name="suggest_open_app_failed">"Nonè stato possibile aprire questa app"</string>
   <string name="switch_proxy_dialog_msg">"Rilevato tentativo di deviazione di rete. Utilizza l'app Sicurezza di MIUI o segnala al tuo operatore."</string>
   <string name="switch_proxy_dialog_title">Deviazione di rete</string>
@@ -726,6 +735,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
   <string name="video_group_noupdates_list">Nessun aggiornamento disponibile</string>
   <string name="video_group_updates_list">Aggiornamenti</string>
   <string name="video_history_empty">La cronologia è vuota</string>
+  <string name="video_manager_action_bar_end_view">Video</string>
   <string name="video_play_error">"Errore di riproduzione video"</string>
   <string name="video_project_button">Interrompi</string>
   <string name="video_project_msg">Video proiettato su %s</string>
