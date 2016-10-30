@@ -7,6 +7,7 @@
   <string name="button_queue_for_wifi">Aguardar</string>
   <string name="button_start_now">Transferir</string>
   <string name="call_record">Chamadas gravadas (%d)</string>
+  <string name="choose_call_records_count">%d itens</string>
   <string name="cloud_record_open">Sincronizar gravações</string>
   <string name="cloud_record_tip">Sincronizar gravações com a Nuvem Mi</string>
   <string name="cloud_status_full_dialog_cancel">Agora não</string>
@@ -32,8 +33,11 @@
   <string name="export_to_note">Exportar para Notas</string>
   <string name="invalid_argument">Argumento inválido</string>
   <string name="low_battery_error">"Faltam menos de 5% na bateria. Para garantir que a gravação não será perdida, a gravação foi pausada e guardada"</string>
+  <string name="low_battery_error_title">Bateria fraca</string>
   <string name="mark_point_list_title">Marcadores</string>
   <string name="message_file_size_error">Gravação alcançou o comprimento máximo suportado por %s</string>
+  <string name="network_tip_dialog_cancel">Cancelar</string>
+  <string name="network_tip_dialog_ok">Permitir</string>
   <string name="new_record_name">Nova gravação</string>
   <string name="no_file">Vazio</string>
   <string name="notification_message_all_paused">A aguardar por ligação Wi-Fi</string>
