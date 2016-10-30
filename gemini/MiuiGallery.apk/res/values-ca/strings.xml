@@ -919,10 +919,14 @@ Feu més fotos als vostres amics!"</string>
   <string name="scan_barcode_to_join">Escanegeu el codi QR per afegir l\'àlbum</string>
   <string name="scan_qr_code_buttom_text">Escanegeu el codi QR per veure aquest àlbum</string>
   <string name="secret_album_display_name">Àlbum ocult</string>
+  <string name="secret_album_password_first_use_msg">S\'utilitzarà la contrasenya de protecció d\'intimitat. Funciona per fotos, notes, carpetes ocultes, etc.</string>
+  <string name="secret_album_password_first_use_title">Contrasenya de protecció de la privacitat</string>
   <string name="secret_album_password_update_dialog_cancel">Cancel·la</string>
   <string name="secret_album_password_update_dialog_msg">La Galeria utilitzarà contrasenya de protecció d\'intimitat d\'ara endavant.</string>
   <string name="secret_album_password_update_dialog_ok">D’acord</string>
   <string name="secret_album_password_update_dialog_title">Actualitza la contrasenya</string>
+  <string name="secret_album_password_update_first_user_dialog_msg">Contrasenya de protecció d\'intimitat per fotos, notes, carpetes ocultes, etc.</string>
+  <string name="secret_album_password_update_first_user_dialog_title">Actualitza la contrasenya</string>
   <string name="secret_album_set_pc_password_dialog_msg">Contrasenya de protecció d\'intimitat per aplis, fotos, notes, carpetes ocultes, etc.</string>
   <string name="secret_album_set_pc_password_dialog_ok">Estableix una contrasenya</string>
   <string name="secret_album_set_pc_password_dialog_title">Estableix una contrasenya nova</string>
