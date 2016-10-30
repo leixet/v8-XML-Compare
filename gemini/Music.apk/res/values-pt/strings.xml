@@ -22,6 +22,8 @@
   <string name="action_item_send">Enviar</string>
   <string name="action_item_share">Partilhar</string>
   <string name="action_settings">Definições</string>
+  <string name="ad_close">Fechar</string>
+  <string name="ad_mark">Anúncios</string>
   <string name="add_music">Adicionar músicas</string>
   <string name="add_to_last_of_playlist">Adicionar ao fim da lista de reprodução</string>
   <string name="alaka_required">"Esta música não está disponível"</string>
@@ -49,6 +51,8 @@
   <string name="app_downloads">%s transferências</string>
   <string name="app_label">Gestor de transferências</string>
   <string name="artist">Artistas</string>
+  <string name="artist_album">Álbuns</string>
+  <string name="artist_favor">Em destaque</string>
   <string name="artist_is_empty">O nome do artista não pode estar vazio</string>
   <string name="artist_name">Artista</string>
   <string name="artist_search_title">Artista</string>
@@ -186,6 +190,7 @@
   <string name="download_completed">Transferido</string>
   <string name="download_confirm_button_text">Instalar</string>
   <string name="download_confirm_text">Música Mi vai transferir e instalar %s</string>
+  <string name="download_done_btn">Transferido</string>
   <string name="download_error">Sem sucesso</string>
   <string name="download_error_insufficient_space">Espaço insuficiente</string>
   <string name="download_filesize_unknown">Desconhecido</string>
@@ -244,6 +249,7 @@
   <string name="english_male">Cantores (EUA/Europa)</string>
   <string name="enter_garbage_clean">Limpar armazenamento interno</string>
   <string name="eq_auto">Personalizado</string>
+  <string name="eq_country">País</string>
   <string name="eq_delete">Remover</string>
   <string name="eq_delete_success">Concluido</string>
   <string name="eq_preset_create">Criar</string>
@@ -275,9 +281,11 @@
   <string name="filter_by_folder">Por pasta</string>
   <string name="filter_by_folder_summary">Escolha as pasta a mostrar</string>
   <string name="filter_by_size">Por tamanho</string>
+  <string name="filter_by_size_max">2 MB</string>
   <string name="filter_by_size_prefix">"Ocultar ficheiros inferiores a: "</string>
   <string name="filter_by_size_summary">Ocultar pequenos ficheiros de áudio</string>
   <string name="find_music">Procurar músicas</string>
+  <string name="followed">A seguir</string>
   <string name="force_touch_audio_picker">Reconhecer músicas</string>
   <string name="force_touch_play_local_music_random">Reproduzir aleatóriamente</string>
   <string name="format_not_support">"Este formato não é suportado"</string>
@@ -324,11 +332,13 @@
   <string name="list_detail_title">Detalhes</string>
   <string name="list_item_play_FM_radio">Reproduzir Rádio FM</string>
   <string name="list_item_play_all_tracks">Reproduzir tudo</string>
+  <string name="loadercontainer_loading">Aguarde&#8230;</string>
   <string name="loading_hint">A carregar&#8230;</string>
   <string name="local_music">Dispositivo</string>
   <string name="local_music_empty">Lista de reprodução vazia</string>
   <string name="local_music_empty_goto_online">Não foram encontradas músicas</string>
   <string name="local_music_is_not_available">As músicas no dispositivo não se encontram disponíveis</string>
+  <string name="local_page_song_all">Todas as Músicas</string>
   <string name="local_tracks_short">Dispositivo</string>
   <string name="login_first">Primeiro inicie sessão na sua Conta Mi</string>
   <string name="lrc_search_failed">"A letra não foi encontrada"</string>
@@ -377,6 +387,7 @@
   <string name="monthly_price">Créditos Mi</string>
   <string name="more">Mais</string>
   <string name="more_about_artist">Mais sobre %s</string>
+  <string name="more_add_song_list">Adicionar à lista de reprodução</string>
   <string name="more_online_artist">Mais</string>
   <string name="more_online_billboard">Mais</string>
   <string name="more_online_fm">Mais</string>
@@ -386,6 +397,7 @@
   <string name="more_online_suggest">Mais</string>
   <string name="more_settings">Definições avançadas</string>
   <string name="more_settings_summary">Temporizador, filtrar ficheiros de áudio, etc</string>
+  <string name="more_share">Partilhar</string>
   <string name="multichoice">Seleccionar</string>
   <string name="music_browser_label">Música</string>
   <string name="music_filter">Filtrar ficheiros de áudio</string>
@@ -454,6 +466,8 @@
   <string name="notification_title_no_song">"Verifique o que toda a gente anda a ouvir!"</string>
   <string name="nowplaying_menu_item_delete">Eliminar</string>
   <string name="one_month">1 mês</string>
+  <string name="online_bill">Listas</string>
+  <string name="online_favor">Em destaque</string>
   <string name="online_list_delete_message">Todas as músicas transferidas nesta lista de reprodução vão ser eliminadas do armazenamento interno</string>
   <string name="online_music_enabled_subtitle">Toque para fazer streaming das suas músicas favoritas</string>
   <string name="online_music_enabled_summary">Ouvir e transferir as suas músicas favoritas. Consulte as músicas top e listas de reprodução a partir de qualquer lugar!</string>
@@ -486,6 +500,10 @@
   <string name="playback_failed_no_title_by_bad_file">"O formato desta música não é suportado ou o ficheiro não existe"</string>
   <string name="playlist_deleted_message">Eliminar lista de reprodução</string>
   <string name="playlist_renamed_message">Lista de reprodução alterada</string>
+  <string name="playlist_type_album">Álbuns</string>
+  <string name="playlist_type_artist">Artista</string>
+  <string name="playlist_type_billboard">Listas</string>
+  <string name="playlist_type_recommend">Destaque listas de reprodução</string>
   <string name="playlist_unavailable">"A lista de reprodução não está disponível. Para a eliminar, toque e segure, depois escolha eliminar"</string>
   <string name="please_download_first">Tem que transferir esta música antes que a possa definir como toque</string>
   <string name="please_search_or_select">Pesquise ou seleccione a letra</string>
@@ -511,6 +529,9 @@
   <string name="privacy_tip_title">Utilizar o acelerador de transferências Xunlei?</string>
   <string name="project_device">Telefone Mi</string>
   <string name="project_device_mobile">Dispositivo móvel</string>
+  <string name="pulluprefreshrecyclerview_loading_error">"Não foi possível carregar"</string>
+  <string name="pulluprefreshrecyclerview_loading_finished">Carregado com sucesso</string>
+  <string name="pulluprefreshrecyclerview_loading_running">A carregar&#8230;</string>
   <string name="radar_click_to_retry">Toque para tentar novamente</string>
   <string name="radar_fail">Sem resultados</string>
   <string name="radar_fail_by_noise">"Muito barulho para reconhecer músicas"</string>
@@ -583,7 +604,12 @@
   <string name="settings_search_key_notification">Definições das notificações</string>
   <string name="settings_search_path_advance">Aplicações de sistema/Música/Definições e serviços/Definições avançadas</string>
   <string name="settings_search_path_normal">Aplicações de sistema/Música/Definições e serviços</string>
+  <string name="settings_search_title_desktop_lyric">Letras no ecrã inicial</string>
+  <string name="settings_search_title_download_quality">Transferir qualidade</string>
+  <string name="settings_search_title_download_when_favorite">Transferir favoritos</string>
+  <string name="settings_search_title_main">Música</string>
   <string name="settings_search_title_notification">Notificações de Música</string>
+  <string name="settings_search_title_vip_service">Músicas Premium</string>
   <string name="share_append_text">De @MIUI</string>
   <string name="share_chooser_title">Partilhar via</string>
   <string name="share_description">De Música Mi</string>
@@ -637,6 +663,11 @@
   <string name="tab_track">Músicas</string>
   <string name="tab_track_list">Músicas</string>
   <string name="take_effect_afater_restart">Reiniciar a aplicação Música para que esta configuração tenha efeito</string>
+  <string name="talkback_back">Anterior</string>
+  <string name="talkback_download">Transferir</string>
+  <string name="talkback_next">Música seguinte</string>
+  <string name="talkback_pre">Música anterior</string>
+  <string name="talkback_share">Partilhar</string>
   <string name="task_already_exist">A transferência já existe</string>
   <string name="ticket_summary">Comprar bilhetes para espectáculos, concertos e outros eventos</string>
   <string name="ticket_title">Mostrar bilhetes</string>
@@ -653,6 +684,7 @@
   <string name="toast_cancel_download">Transferência cancelada</string>
   <string name="toast_cancel_play">Reprodução cancelada</string>
   <string name="toast_download_error_by_count_limit">Chegou ao limite das suas transferências para este mês</string>
+  <string name="toast_download_error_by_not_login">Inicie sessão na sua Conta Mi e tente novamente</string>
   <string name="toast_download_error_by_vip_required">Obter Pacote Músicas Premium para transferir esta música</string>
   <string name="toast_download_in_process">A transferir…</string>
   <string name="toast_normal_songs_for_download">Qualidade da transferência definida para normal</string>
