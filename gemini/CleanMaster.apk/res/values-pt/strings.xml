@@ -24,6 +24,7 @@
   <string name="activity_title_uninstall_apps">Aplicações</string>
   <string name="activity_title_video">Eliminar vídeos</string>
   <string name="activity_title_white_list">Excepções</string>
+  <string name="ad_install_success_dialog_lunch">Abrir</string>
   <string name="apk_status_damage">Corrompida</string>
   <string name="apk_status_duplicate">Duplicada</string>
   <string name="apk_status_install">Instalado</string>
@@ -99,6 +100,7 @@
   <string name="deepclean_cache_content">Limpar dados gerados pelas aplicações</string>
   <string name="deepclean_cache_header_left">Ficheiros de dados: %d</string>
   <string name="deepclean_cache_summary_empty">Verificação concluída. Sem dados para limpar</string>
+  <string name="deepclean_empty">Verificação concluída. Não foram encontrados vídeos</string>
   <string name="deepclean_large_content">Eliminar ficheiros maiores que 10MB</string>
   <string name="deepclean_large_summary_empty">Verificação concluída. Sem ficheiros para eliminar</string>
   <string name="deepclean_list_item_from_app">Loja de Aplicações</string>
@@ -293,6 +295,7 @@
   <string name="pref_title_auto_clean_content_choose">Escolher itens a limpar</string>
   <string name="pref_title_auto_update_cleanup_db">Actualizar automaticamente</string>
   <string name="pref_title_choose_engine">Definições</string>
+  <string name="pref_title_clean_alert">Limpeza automática</string>
   <string name="pref_title_cleanup_white_list">Excepções</string>
   <string name="pref_title_expand_cache_group">Mostrar itens em cache</string>
   <string name="pref_title_garbage_cleanup_check_size">Limite do tamanho de lixo</string>
@@ -323,6 +326,7 @@
   <string name="safety_rank">À frente de %d%% utilizadores MIUI em Termos de Segurança</string>
   <string name="sc_allow_network_dialog_button">Permitir</string>
   <string name="sc_allow_network_dialog_message">Permitir que esta aplicação se ligue à Internet para obter actualizações?</string>
+  <string name="scanning">A verificar&#8230;</string>
   <string name="search_history">Pesquisar histórico</string>
   <string name="see_more">Mais</string>
   <string name="set_immediately">Definir</string>
