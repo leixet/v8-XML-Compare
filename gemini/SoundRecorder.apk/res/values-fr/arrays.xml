@@ -10,6 +10,12 @@
     <item>Voix</item>
     <item>Interview</item>
   </string-array>
+  <string-array name="hd_record_scenes_entries">
+    <item>Musique</item>
+    <item>Voix humaine</item>
+    <item>Interview</item>
+    <item>720p (HD)</item>
+  </string-array>
   <string-array name="record_quality_entries">
     <item>Elevée</item>
     <item>Standard</item>
