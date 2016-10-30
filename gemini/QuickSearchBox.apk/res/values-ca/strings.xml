@@ -67,8 +67,20 @@ Per esborrar l\'historial del Navegador, feu servir la configuració del Navegad
   <string name="search_settings">Configuració de la cerca</string>
   <string name="search_sources">Elements que es poden cercar</string>
   <string name="search_sources_summary">Escolliu què cercar al telèfon</string>
+  <string name="search_widget">Cerca</string>
   <string name="send_secret_code">Enviar codi</string>
   <string name="show_more">Mostra més</string>
+  <string name="suggest_open_app_failed">"No s'ha pogut obrir aquesta aplicació"</string>
+  <string name="switch_application">Aplicacions</string>
+  <string name="switch_browser">Navegador</string>
+  <string name="switch_contacts">Contactes</string>
+  <string name="switch_file">Fitxers</string>
+  <string name="switch_mms">Missatges</string>
+  <string name="switch_notes">Notes</string>
+  <string name="switch_online">En línia</string>
+  <string name="switch_prompt_ignore">Ignora</string>
+  <string name="switch_setting">Configuració</string>
+  <string name="system_search_category_title">Telèfon</string>
   <string name="web_search_results">Resultats de la cerca web</string>
   <string name="xiaomi_search_label">Resultats</string>
 </resources>
