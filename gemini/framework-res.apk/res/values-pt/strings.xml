@@ -737,6 +737,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="permgrouplab_microphone">Microfone</string>
   <string name="permgrouplab_phone">Telefone</string>
   <string name="permgrouplab_sensors">Sensores de corpo</string>
+  <string name="permgrouplab_sms">Mensagens</string>
   <string name="permgrouplab_storage">Armazenamento</string>
   <string name="permission">Permissão</string>
   <string name="permission_request_notification_title">Permissão pedida</string>
@@ -997,6 +998,7 @@ Ouvir níveis elevados de volume durante longos períodos poderá ser prejudicia
   <string name="serviceClassDataAsync">Assíncronos</string>
   <string name="serviceClassDataSync">Síncronos</string>
   <string name="serviceClassPacket">Pacote</string>
+  <string name="serviceClassSMS">Mensagens</string>
   <string name="serviceClassVoice">Voz</string>
   <string name="serviceDisabled">O serviço foi desactivado</string>
   <string name="serviceEnabled">O serviço estava activado</string>
