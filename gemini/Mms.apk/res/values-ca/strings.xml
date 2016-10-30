@@ -39,6 +39,8 @@
   <string name="attach_take_photo">Pren una foto</string>
   <string name="attach_video">Vídeo</string>
   <string name="audio_download_failed">"No es pot baixar l'àudio"</string>
+  <string name="audio_message_expired">Aquest missatge de veu ha caducat.</string>
+  <string name="audio_message_mx_offline">"No s'ha pogut baixar l'àudio. Missatges Mi està fora de línia o no disponible."</string>
   <string name="audio_playing_seconds">%d\"</string>
   <string name="back_to_message_list">Torna a la llista de missatges</string>
   <string name="batch_adding_progress_message">S\'està afegint&#8230;</string>
