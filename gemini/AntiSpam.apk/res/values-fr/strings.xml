@@ -76,6 +76,7 @@
   <string name="close_callwait">Désactivé</string>
   <string name="customizer_mode_user_define_name">Personnalisé</string>
   <string name="dlg_add_blacklist">Ajouter le numéro à la liste noire ?</string>
+  <string name="dlg_add_blacklist_title">Ajouter à la liste noire</string>
   <string name="dlg_add_blacklist_warn_conflict_content">%1$s et %2$s autres contacts sont déjà inscrits sur votre liste d\'exceptions.</string>
   <string name="dlg_add_blacklist_warn_conflict_title">Attention</string>
   <string name="dlg_add_keyword">Ajouter des mots clés</string>
