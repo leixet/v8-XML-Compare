@@ -129,4 +129,12 @@
     <item quantity="other">%1$s vídeos</item>
     <item quantity="one">%1$s vídeo</item>
   </plurals>
+  <plurals name="number_of_comment_flow">
+    <item quantity="other">%1$s comentários</item>
+    <item quantity="one">%1$s comentário</item>
+  </plurals>
+  <plurals name="video_items">
+    <item quantity="other">&#160;%1$d itens</item>
+    <item quantity="one">&#160;%1$d item</item>
+  </plurals>
 </resources>
