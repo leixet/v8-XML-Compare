@@ -77,6 +77,9 @@
     <item>Quando il dispositivo è bloccato dopo l\'uscita dall\'app</item>
     <item>Quando il dispositivo è bloccato o in 1 minuto dopo l\'uscita dall\'app</item>
   </string-array>
+  <string-array name="long_add_menu">
+    <item>Aggiungi alle eccezioni</item>
+  </string-array>
   <string-array name="power_dialog_auto_clean_memory_items">
     <item>Dopo 1 minuto</item>
     <item>Dopo 5 minuti</item>
