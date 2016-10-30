@@ -294,6 +294,9 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="cit_tool_modem_mbn">Canvia la configuració del mòdem</string>
   <string name="cit_tool_modem_offline_log">Obre/tanca el registre fora de línia</string>
   <string name="cit_tool_nfc">Eines de proves NFC</string>
+  <string name="cit_tool_nfc_ce_disable">Desactiva Ce</string>
+  <string name="cit_tool_nfc_ce_enable">Activa Ce</string>
+  <string name="cit_tool_nfc_ce_status">Estat Ce:</string>
   <string name="cit_tool_nfc_st">NFC ST:</string>
   <string name="cit_tool_nfc_st_confreq">freq:</string>
   <string name="cit_tool_nfc_st_run">Executa</string>
