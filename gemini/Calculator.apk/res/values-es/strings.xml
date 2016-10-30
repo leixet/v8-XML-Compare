@@ -8,6 +8,7 @@
   <string name="cal_text_copied">Texto copiado</string>
   <string name="choose_currency">Elija una moneda</string>
   <string name="choose_unit">Elija una unidad</string>
+  <string name="city">Ciudad</string>
   <string name="clearDesc">limpiar</string>
   <string name="clear_history">Limpiar historial</string>
   <string name="convert_currency">Convertidor de moneda</string>
@@ -21,6 +22,7 @@
   <string name="convertion_unit_weight">Conversión del peso</string>
   <string name="cosDesc">coseno</string>
   <string name="currency_update_time_format">Actualizado %s</string>
+  <string name="dateformat">dd/MM/aaaa</string>
   <string name="del">BOR</string>
   <string name="divDesc">dividir</string>
   <string name="dotDesc">punto</string>
@@ -46,6 +48,7 @@
   <string name="leftParenDesc">paréntesis izquierdo</string>
   <string name="lg">log</string>
   <string name="lgDesc">logaritmo</string>
+  <string name="lg_mathematical_value">log</string>
   <string name="lnDesc">logaritmo natural</string>
   <string name="loan_edittext_hint_commercial">Introduzca la cantidad</string>
   <string name="loan_edittext_hint_commercial_combined">Comercial</string>
