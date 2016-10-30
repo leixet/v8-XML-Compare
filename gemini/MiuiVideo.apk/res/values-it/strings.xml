@@ -120,6 +120,7 @@
   <string name="download_file_fail">Accesso al file locale fallito, potrebbe non esserci spazio sufficiente sulla scheda SD</string>
   <string name="download_finished">Completato</string>
   <string name="download_geturl_fail">"Impossibile accedere al link"</string>
+  <string name="download_insufficient_space">Spazio insufficiente</string>
   <string name="download_is_in_tasklist">È stato inserito nella lista cache</string>
   <string name="download_paused">In pausa</string>
   <string name="download_percent_hint">Download in corso di %d%%</string>
@@ -168,6 +169,7 @@
   <string name="join_hint">Inserisci il codice di invito</string>
   <string name="key_back_down_toast">Premi di nuovo Indietro per uscire</string>
   <string name="lastrefresh">Ultimo aggiornamento:</string>
+  <string name="live">Sfondi animati</string>
   <string name="loading"><cdata>Caricamento </cdata></string>
   <string name="loading_video_netplay_label">Caricamento, attendere&#8230;</string>
   <string name="loading_video_netplay_label_v5">Caricamento stream, attendere&#8230;</string>
@@ -365,6 +367,7 @@
   <string name="vp_adapt_height">Adatta altezza</string>
   <string name="vp_adapt_width">Adatta larghezza</string>
   <string name="vp_app_download">Scarica l\'applicazione</string>
+  <string name="vp_app_name">Mi Player</string>
   <string name="vp_auto_select">Selezione automatica</string>
   <string name="vp_back">Indietro</string>
   <string name="vp_brightness">Luminosità</string>
