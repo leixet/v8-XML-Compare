@@ -119,6 +119,7 @@
   <string name="download_file_fail">Erro no acesso ao ficheiro local, talvez não haja espaço no cartão SD</string>
   <string name="download_finished">Concluído</string>
   <string name="download_geturl_fail">"Não foi possível obter o URL"</string>
+  <string name="download_insufficient_space">Espaço insuficiente</string>
   <string name="download_is_in_tasklist">Em fila</string>
   <string name="download_paused">Em pausa</string>
   <string name="download_percent_hint">A transferir %d%%</string>
