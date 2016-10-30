@@ -95,6 +95,9 @@
   <string name="lockscreen_wallpaper">Ecrã de bloqueio</string>
   <string name="lockstyle_personal_settings">Personalizar</string>
   <string name="mi_wallpaper">Papéis de parede MIUI</string>
+  <string name="multi_sim_ringtone_settings_dialog_ok">Percebi</string>
+  <string name="multi_sim_ringtone_settings_dialog_remind_never">"Não mostrar novamente"</string>
+  <string name="multi_sim_ringtone_settings_dialog_title">Problemas de compatibilidade</string>
   <string name="my_gifts">Presentes</string>
   <string name="my_gifts_purchased">Comprados</string>
   <string name="my_gifts_received">Recebidos</string>
@@ -229,6 +232,7 @@
   <string name="resource_present">Presente</string>
   <string name="resource_price_free">Gratuito</string>
   <string name="resource_price_unit">Créditos Mi</string>
+  <string name="resource_purchase_common_error">Erro. Tente novamente</string>
   <string name="resource_purchase_getting_order">A recuperar informação da encomenda&#8230;</string>
   <string name="resource_purchase_verifying_payment">Verificar informações de pagamento&#8230;</string>
   <string name="resource_purchase_waiting_payment">A aguardar informações de pagamento&#8230;</string>
