@@ -161,6 +161,18 @@
     <item>Manuale</item>
     <item>Proxy Auto Config.</item>
   </string-array>
+  <string-array name="apn_auth_entries">
+    <item>Nessuno</item>
+    <item>PAP</item>
+    <item>CHAP</item>
+    <item>PAP o CHAP</item>
+  </string-array>
+  <string-array name="mvno_type_entries">
+    <item>Nessuno</item>
+    <item>SPN</item>
+    <item>IMSI</item>
+    <item>GID</item>
+  </string-array>
   <string-array name="app_install_location_entries">
     <item>Memorizzazione su dispositivo interno</item>
     <item>Scheda SD rimovibile</item>
@@ -176,7 +188,7 @@
   <string-array name="app_ops_summaries">
     <item>posizione approssimativa</item>
     <item>posizione precisa</item>
-    <item>GPS</item>
+    <item>Test GPS</item>
     <item>vibrazione</item>
     <item>lettura contatti</item>
     <item>modifica dei contatti</item>
@@ -282,6 +294,17 @@
     <item>Medio</item>
     <item>Lungo</item>
   </string-array>
+  <string-array name="captioning_typeface_selector_titles">
+    <item>Centro SMS Predefinito</item>
+    <item>Sans-serif</item>
+    <item>Sans-serif condensed</item>
+    <item>Sans-serif monospace</item>
+    <item>Serif</item>
+    <item>Serif monospace</item>
+    <item>Casual</item>
+    <item>Cursive</item>
+    <item>Small capitals</item>
+  </string-array>
   <string-array name="captioning_font_size_selector_titles">
     <item>Molto piccolo</item>
     <item>Piccolo</item>
@@ -303,7 +326,7 @@
     <item>Giallo su nero</item>
     <item>Giallo su blu</item>
     <item>Personalizzato</item>
-    <item>Custom</item>
+    <item>Personalizza</item>
   </string-array>
   <string-array name="select_logd_size_titles">
     <item>64 K</item>
@@ -311,6 +334,11 @@
     <item>1 M</item>
     <item>4 M</item>
     <item>16 M</item>
+  </string-array>
+  <string-array name="select_logd_size_lowram_titles">
+    <item>64 K</item>
+    <item>256 K</item>
+    <item>1 M</item>
   </string-array>
   <string-array name="select_logd_size_summaries">
     <item>64 K per buffer log</item>
@@ -323,6 +351,11 @@
     <item>Non verificare mai</item>
     <item>Verifica solo per contenuti DRM</item>
     <item>Verifica sempre</item>
+  </string-array>
+  <string-array name="hdcp_checking_values">
+    <item>mai</item>
+    <item>drm-only</item>
+    <item>always</item>
   </string-array>
   <string-array name="hdcp_checking_summaries">
     <item>Non utilizzare mai la verifica HDCP</item>
@@ -355,6 +388,20 @@
     <item>Scala animazione 2x</item>
     <item>Scala animazione 5x</item>
     <item>Scala animazione 10x</item>
+  </string-array>
+  <string-array name="overlay_display_devices_entries">
+    <item>Nessuno</item>
+    <item>480p</item>
+    <item>480p (secure)</item>
+    <item>720p</item>
+    <item>720p (secure)</item>
+    <item>1080p</item>
+    <item>1080p (secure)</item>
+    <item>4K (2160p)</item>
+    <item>4K (secure)</item>
+    <item>4K (upscaled)</item>
+    <item>4K (upscaled, secure)</item>
+    <item>720p, 1080p (dual screen)</item>
   </string-array>
   <string-array name="enable_opengl_traces_entries">
     <item>Nessuna</item>
@@ -400,6 +447,11 @@
     <item>Scimpanzè</item>
     <item>Scimmia</item>
   </string-array>
+  <string-array name="security_settings_premium_sms_values">
+    <item>Chiedi</item>
+    <item>Never allow</item>
+    <item>Always allow</item>
+  </string-array>
   <string-array name="ram_states">
     <item>normale</item>
     <item>medio</item>
@@ -418,7 +470,7 @@
     <item>Attività massima</item>
     <item>Importante (primo piano)</item>
     <item>Importante (secondo piano)</item>
-    <item>Backup</item>
+    <item>Mi Tag</item>
     <item>Pesante</item>
     <item>Servizio (in esecuzione)</item>
     <item>Servizio (riavvio)</item>
@@ -504,13 +556,23 @@
     <item>Lancia Google now</item>
     <item>Chiudi applicazione corrente</item>
     <item>Launch quick search</item>
-    <item>Show menu</item>
+    <item>Mostra menu</item>
   </string-array>
   <string-array name="screen_key_long_press_timeout">
     <item>0.5 secondi</item>
     <item>1 secondo</item>
     <item>1.5 secondi</item>
     <item>2 secondi</item>
+  </string-array>
+  <string-array name="long_press_volume_down_action">
+    <item>Nessuno</item>
+    <item>Quick snap mode (select in Camera)</item>
+    <item>Public transportation shortcuts</item>
+  </string-array>
+  <string-array name="long_press_volume_down_action_value">
+    <item>una</item>
+    <item>Street-snap</item>
+    <item>public_transportation_shortcuts</item>
   </string-array>
   <string-array name="button_light_timeout_entries">
     <item>1 secondo</item>
@@ -600,6 +662,10 @@
     <item>Connetti manualmente</item>
     <item>Chiedi sempre</item>
   </string-array>
+  <string-array name="wifi_ssid_type_entries">
+    <item>Connetti automaticamente</item>
+    <item>Connetti manualmente</item>
+  </string-array>
   <string-array name="preferred_app_entries">
     <item>Launcher</item>
     <item>Composizione numero</item>
@@ -609,7 +675,7 @@
     <item>Galleria</item>
     <item>Musica</item>
     <item>Email</item>
-    <item>Play video</item>
+    <item>Riproduci video</item>
   </string-array>
   <string-array name="network_speed_slow_summary">
     <item>La rete è lenta per via del traffico intenso</item>
@@ -671,7 +737,7 @@
     <item>File explorer</item>
     <item>Blocco applicazioni</item>
     <item>Spazio Secondario</item>
-    <item>Second space</item>
+    <item>Spazio Secondario</item>
   </string-array>
   <string-array name="alarm_repeat_type">
     <item>Tutti i giorni</item>
@@ -682,5 +748,12 @@
     <item>Tutti i giorni</item>
     <item>Lun-Ven</item>
     <item>Personalizza</item>
+  </string-array>
+  <string-array name="privacy_password_function_specfication_names">
+    <item>Messaggi</item>
+    <item>Foto</item>
+    <item>File</item>
+    <item>Note</item>
+    <item>File explorer</item>
   </string-array>
 </resources>
