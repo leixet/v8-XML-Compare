@@ -18,14 +18,18 @@
   <string name="attachment_contact">Contatti</string>
   <string name="attachment_gallery">Galleria</string>
   <string name="button_new_note">Nuova nota</string>
+  <string name="call_folder_name">Note di chiamata</string>
   <string name="default_folder_name">Note</string>
   <string name="delete_folder_dialog_tile">Elimina cartella</string>
+  <string name="dlg_btn_set_password">Imposta password</string>
   <string name="dlg_delete_message">Eliminazione&#8230;</string>
   <string name="dlg_desc_confirm_alarm_silent">Sveglia e note non suoneranno in modalità silenziosa</string>
   <string name="dlg_info_creating_message">Creazione messaggio&#8230;</string>
   <string name="dlg_move_message">Spostamento&#8230;</string>
+  <string name="dlg_restore_message">Ripristino in corso&#8230;</string>
   <string name="dlg_stick_message">In evidenza&#8230;</string>
   <string name="dlg_title_confirm_alarm_silent">Vuoi che la sveglia non suoni in modalità silenz.?</string>
+  <string name="dlg_title_set_password">Imposta password</string>
   <string name="empty_folder_hint">"Nesusna cartella
 Tocca il + per creare una cartella"</string>
   <string name="enable_sync">Sincronizza</string>
@@ -46,8 +50,11 @@ Tocca il + per creare una cartella"</string>
   <string name="menu_create_folder">Nuova cartella</string>
   <string name="menu_delete">Elimina</string>
   <string name="menu_folders">Cartelle</string>
+  <string name="menu_hide">Nascondi</string>
   <string name="menu_move_parent_folder">Cartella precedente</string>
   <string name="menu_move_to">Sposta in</string>
+  <string name="menu_new_folder">Nuova cartella</string>
+  <string name="menu_restore">Ripristina</string>
   <string name="menu_send_as_image">Invia come immagine</string>
   <string name="menu_send_to_desktop">Inserisci in home</string>
   <string name="menu_send_wechat">Invia con WeChat</string>
@@ -55,6 +62,7 @@ Tocca il + per creare una cartella"</string>
   <string name="menu_source">Da: %1$s</string>
   <string name="menu_stick">Spilla</string>
   <string name="menu_title_select_folder">Seleziona cartella</string>
+  <string name="menu_unhide">Rimuovi</string>
   <string name="menu_unstick">Non spilla</string>
   <string name="not_now">Non adesso</string>
   <string name="note_alert_expired">Scaduto</string>
@@ -120,8 +128,11 @@ Tocca il + per creare una cartella"</string>
   <string name="theme_title_yellow">Giallo</string>
   <string name="toast_message_add_image_fail">"Impossibile inserire immagine."</string>
   <string name="toast_message_add_text_warn">"Questo tipo di file non è supportato"</string>
+  <string name="toast_notes_delete_success">Eliminato correttamente</string>
+  <string name="toast_notes_hidden">Tutti i file adesso sono nascosti</string>
   <string name="toast_reach_text_limit_attachment">"Il contenuto della nota è troppo lungo per aggiungere un altro allegato."</string>
   <string name="toast_reach_text_limit_truncate">Il contenuto della nota è stato tagliato perché troppo lungo.</string>
+  <string name="trash_folder_name">Cestino</string>
   <string name="undo">Annulla</string>
   <string name="unknown_source">Fonte sconosciuta</string>
   <string name="welcome_note_for_cm">"E molte altre fantastiche funzioni!
