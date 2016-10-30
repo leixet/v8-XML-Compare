@@ -153,4 +153,46 @@
     <item>middle</item>
     <item>high</item>
   </string-array>
+  <string-array name="pref_mtk_camera_saturation_entryvalues">
+    <item>low</item>
+    <item>middle</item>
+    <item>high</item>
+  </string-array>
+  <string-array name="pref_mtk_camera_sharpness_entryvalues">
+    <item>low</item>
+    <item>middle</item>
+    <item>high</item>
+  </string-array>
+  <string-array name="pref_camera_exposuretime_entryvalues">
+    <item>0</item>
+    <item>1000</item>
+    <item>2000</item>
+    <item>4000</item>
+    <item>8000</item>
+    <item>16667</item>
+    <item>33333</item>
+    <item>66667</item>
+    <item>125000</item>
+    <item>250000</item>
+    <item>500000</item>
+    <item>1000000</item>
+    <item>2000000</item>
+    <item>4000000</item>
+    <item>8000000</item>
+    <item>16000000</item>
+    <item>32000000</item>
+  </string-array>
+  <string-array name="pref_camera_show_gender_age_entryvalues">
+    <item>on</item>
+    <item>alias</item>
+    <item>off</item>
+  </string-array>
+  <string-array name="pref_simple_hdr_entryvalues">
+    <item>off</item>
+    <item>on</item>
+  </string-array>
+  <string-array name="pref_camera_peak_entryvalues">
+    <item>on</item>
+    <item>off</item>
+  </string-array>
 </resources>
