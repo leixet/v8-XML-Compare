@@ -106,6 +106,7 @@ Regístrese en account.xiaomi.com，Protección de las páginas de destino，Pul
   <string name="privacy_preference_title">Política de privacidad</string>
   <string name="progress_loading">Procesando&#8230;&#8230;</string>
   <string name="remove_Xiaomi_account_dialog_message">Eliminar esta cuenta eliminará su capacidad para generar códigos, sin embargo no desactivará la verificación en 2-pasos. Esto podría impedirle acceder a su cuenta. Antes de eliminarla: desactive la verificación en 2-pasos para esta cuenta, o asegúrese de que tiene Vd. un mecanismo alternativo para generar códigos.</string>
+  <string name="remove_account">Eliminar cuenta</string>
   <string name="remove_account_dialog_message">Eliminar esta cuenta eliminará su capacidad para generar códigos, sin embargo desactivará la autenticación de 2-pasos. Esto podría impedirle acceder a su cuenta. Antes de eliminarla: Desactive la autenticación de 2-pasos para esta cuenta, o asegúrese de que tiene Vd. un mecanismo alternativo para generar códigos.</string>
   <string name="remove_account_dialog_title">¿Eliminar %1$s?</string>
   <string name="rename">Renombrar</string>
