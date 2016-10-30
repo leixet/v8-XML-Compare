@@ -104,6 +104,7 @@
   <string name="power_hide_mode_title">"Gérer la conso batterie des applications"</string>
   <string name="power_keeper">Économiseur de Batterie</string>
   <string name="power_mode_cpu_state_high_desc">Favorise la performance plutôt que l\'économie de batterie</string>
+  <string name="power_mode_cpu_state_low">Economie de batterie</string>
   <string name="power_mode_cpu_state_low_desc">Favorise l\'économie de la batterie plutôt que la performance</string>
   <string name="power_mode_cpu_state_middle">Equilibré</string>
   <string name="power_mode_cpu_state_middle_desc">Augmente la performance uniquement en cas de besoin</string>
