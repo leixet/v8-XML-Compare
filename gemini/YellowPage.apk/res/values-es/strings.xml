@@ -33,6 +33,7 @@
   <string name="callrecordview_item_newcontact">Nuevo contacto</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d seg</string>
   <string name="callrecordview_item_op_time_missed">No conectado</string>
+  <string name="callrecordview_item_op_time_only_minutes">%d min</string>
   <string name="callrecordview_item_op_time_only_seconds">%d seg</string>
   <string name="callrecordview_item_op_time_rejected">Rechazado</string>
   <string name="callrecordview_item_op_time_short_incoming">"Entrante: "</string>
@@ -53,6 +54,8 @@
   <string name="data_error">Ha ocurrido un error</string>
   <string name="data_error_show">Ha ocurrido un error</string>
   <string name="delete">Eliminar</string>
+  <string name="didi_back">Atrás</string>
+  <string name="didi_close">Cerrar</string>
   <string name="do_not_remind_me">"No mostrar de nuevo"</string>
   <string name="dont_enable">Desactivar</string>
   <string name="download_completed">Descarga guardada para %s</string>
@@ -213,6 +216,7 @@ Comprueba el número de rastreo."</string>
   <string name="hms_no_subject_view">(Sin asunto)</string>
   <string name="hms_notification">Mensajes</string>
   <string name="homepage_barcode_prompt">Escanear para abrir la página inicio.</string>
+  <string name="info_divider">|</string>
   <string name="locating_fail">"No se pudo encontrar tu ubicación"</string>
   <string name="login_before_use">Inicia sesión primero</string>
   <string name="login_ok">Iniciar sesión</string>
@@ -220,6 +224,7 @@ Comprueba el número de rastreo."</string>
   <string name="mark_number_check_dialog_title">Marcar un número</string>
   <string name="mark_number_check_most_choice">(La Opción más Popular)</string>
   <string name="mark_number_custom_mark_deleted">Etiqueta eliminada</string>
+  <string name="mark_number_delete_confirm_title">Quitar etiqueta</string>
   <string name="mark_number_dialog_maintitle">Denunciar este número</string>
   <string name="mark_number_dialog_subtitle">Notificado por %2$d personas como %1$s</string>
   <string name="mark_number_feedback">Informar</string>
