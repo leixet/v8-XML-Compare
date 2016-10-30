@@ -44,8 +44,10 @@
   <string name="button_exit">Sair</string>
   <string name="button_not_allow">Cancelar</string>
   <string name="button_sure_abandon">Rejeitar alterações?</string>
+  <string name="change_alert">Verifique a sua ligação de rede e tente novamente</string>
   <string name="close">Fechar</string>
   <string name="commercial">Comercial</string>
+  <string name="common_loading_text">Aguarde&#8230;</string>
   <string name="daily_forcast_drawer_on_bottom">Ocultar</string>
   <string name="daily_forcast_drawer_on_top">Previsão para %1$s dias</string>
   <string name="daily_forcast_no_stable_direction">Sem vento</string>
@@ -58,6 +60,7 @@
   <string name="first_start_network_msg">Esta aplicação necessita de uma ligação à Internet para aceder à sua localização para funcionar normalmente</string>
   <string name="first_start_network_title">Ligação à Internet e acesso à localização</string>
   <string name="gps_hint">Local actual</string>
+  <string name="hide_topic">Ocultar</string>
   <string name="hourly_forcast_now">Agora</string>
   <string name="hourly_forecast_title">Previsão horária</string>
   <string name="index_item_install_now">Instalar agora</string>
@@ -102,6 +105,7 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="realtime_aqi_title">Indíce de qualidade do ar</string>
   <string name="realtime_humidity_title">Humidade relativa</string>
   <string name="realtime_wind_default_title">Vento</string>
+  <string name="refresh_fail">"Não foi possível ligar à rede"</string>
   <string name="retry">Tentar novamente</string>
   <string name="set">Definir</string>
   <string name="share">Partilhar tempo</string>
@@ -112,6 +116,7 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="share_subject">Partilhar</string>
   <string name="share_title">Partilhar tempo</string>
   <string name="share_weather_desc">\#Tempo MIUI#Hoje %1$s %2$s</string>
+  <string name="share_weather_desc_split">, </string>
   <string name="share_weather_save_pic_fail">"Não foi possível tirar uma captura de ecrã"</string>
   <string name="sunrise">Nascer do sol</string>
   <string name="sunset">Pôr do sol</string>
