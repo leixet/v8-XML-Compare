@@ -40,6 +40,7 @@
   <string name="antispam_provider_format">Signalé comme spam par %s</string>
   <string name="attach_photo_dialog_title">Photo du contact</string>
   <string name="audio_chat">Conversation audio</string>
+  <string name="back_view_description">Retour</string>
   <string name="batch_delete">Supprimer des contacts par lot</string>
   <string name="blacklist">Bloquer</string>
   <string name="bluetooth_connection_failed_toast">Connexion Bluetooth interrompue</string>
@@ -73,6 +74,7 @@
   <string name="call_other">Appeler</string>
   <string name="call_other_fax">Appeler fax</string>
   <string name="call_pager">Appeler Bipper</string>
+  <string name="call_problem_report">Correction</string>
   <string name="call_radio">Appeler radio</string>
   <string name="call_record_setting_miui">Paramètres d\'enregistrement</string>
   <string name="call_settings">Paramètres</string>
@@ -96,6 +98,7 @@
   <string name="callrecordview_item_op_video">Vidéo</string>
   <string name="callrecordview_menu_add_call_note">Ajout. note d\'appel</string>
   <string name="callrecordview_menu_batch_delete">Suppression par lots</string>
+  <string name="callrecordview_menu_blocklist">Anti-Spam</string>
   <string name="callrecordview_menu_conference">Appel en conférence</string>
   <string name="callrecordview_menu_delete">Effacer du journal d\'appels</string>
   <string name="callrecordview_menu_delete_accepted">Effacer les appels reçus du journal d\'appels</string>
@@ -119,6 +122,7 @@
   <string name="callrecordview_menu_show_sim">%s appels</string>
   <string name="callrecordview_menu_show_stranger">Afficher les appels inconnus</string>
   <string name="callrecordview_menu_show_title">Filtre du journal d\'appels</string>
+  <string name="callrecordview_menu_voip">Mi Communication</string>
   <string name="cancel_confirmation_dialog_message">Voulez-vous annuler les modifications ?</string>
   <string name="cancel_confirmation_dialog_title">Annuler</string>
   <string name="cancel_export_confirmation_message">Êtes-vous sûr de vouloir annuler l\'exportation de %s ?</string>
@@ -172,8 +176,11 @@
   <string name="contactSavedErrorToast">"Une erreur s'est produite. Impossible d'enregistrer les modifications apportées au contact."</string>
   <string name="contactSavedToast">Contact enregistré</string>
   <string name="contact_delete_toast">Contact supprimé avec succès</string>
+  <string name="contact_detail_action_item_calllog">Journal d\'appels</string>
+  <string name="contact_detail_action_item_nocalllog">Aucun historique</string>
   <string name="contact_detail_calllog_call_note_tips">Note d\'appel</string>
   <string name="contact_detail_calllog_call_record_tips">Enregistrement d\'appel</string>
+  <string name="contact_detail_calllog_empty">Aucun historique</string>
   <string name="contact_detail_menu_delete_miprofile">Supprimer la fiche</string>
   <string name="contact_detail_miprofile_accept">Échange de fiches de contact</string>
   <string name="contact_detail_miprofile_accept_fail_toast">"Impossible d'échanger des fiches de contact"</string>
@@ -219,6 +226,7 @@ Les fiches de contact sont désactivés"</string>
   <string name="contacts_unavailable_add_account">Se connecter à un compte</string>
   <string name="contacts_unavailable_create_contact">Créer un contact</string>
   <string name="contacts_unavailable_import_contacts">Importer des contacts à partir d\'un fichier</string>
+  <string name="copy_number">Copier</string>
   <string name="copy_text">Copier dans le presse-papiers</string>
   <string name="createContactShortcutSuccessful">Widget de contact ajouté à l\'écran d\'accueil.</string>
   <string name="create_group_dialog_title">Créer un groupe</string>
@@ -263,6 +271,7 @@ Les fiches de contact sont désactivés"</string>
   <string name="description_dial_button">composer</string>
   <string name="description_dial_phone_number">Composer le numéro de %1$s</string>
   <string name="description_digits_edittext">numéro à composer</string>
+  <string name="description_image_button_dial">Numéroter</string>
   <string name="description_image_button_eight">huit</string>
   <string name="description_image_button_five">cinq</string>
   <string name="description_image_button_four">quatre</string>
@@ -364,6 +373,7 @@ Les fiches de contact sont désactivés"</string>
   <string name="export_to_sim">Exporter vers la carte SIM</string>
   <string name="export_to_sim1">Exporter vers la carte SIM 1</string>
   <string name="export_to_sim2">Exporter vers la carte SIM 2</string>
+  <string name="export_to_sim_prepare_title">Préparation&#8230;</string>
   <string name="export_to_sim_title">Export&#8230;</string>
   <string name="export_vcard_description">"Exporter les vCards sur la carte SD"</string>
   <string name="exporting_contact_failed_message">Échec de l\'exportation des données des contacts. (Raison : %s)</string>
@@ -391,9 +401,12 @@ Les fiches de contact sont désactivés"</string>
   <string name="favoritesFrequentContacted">Contacts fréquents</string>
   <string name="favorites_list_empty">Aucun favori</string>
   <string name="firewall_setting">Anti-Spam</string>
+  <string name="force_touch_new_contact">Nouveau contact</string>
   <string name="foundTooManyContacts">Plus de %d contacts trouvés</string>
+  <string name="fraud_more_indemnity">Plus d\'options</string>
   <string name="frequentList">Fréquents</string>
   <string name="full_name">Nom</string>
+  <string name="gallery">Galerie</string>
   <string name="generic_no_account_prompt">Assurez la sécurité de vos contacts, même si vous perdez votre téléphone en effectuant une synchronisation avec un service en ligne.</string>
   <string name="generic_no_account_prompt_title">Ajouter un compte</string>
   <string name="ghostData_company">Entreprise</string>
@@ -496,14 +509,17 @@ Les fiches de contact sont désactivés"</string>
   <string name="login_ok">Connexion</string>
   <string name="lunarBirthdayLabelsGroup">Anniversaire lunaire</string>
   <string name="lunar_calendar">Calendrier lunaire</string>
+  <string name="lunar_yue">Mois</string>
   <string name="make_primary">Mémoriser ce choix</string>
   <string name="map_custom">Afficher l\'adresse %s</string>
   <string name="map_home">Afficher adresse perso</string>
   <string name="map_other">Afficher l\'adresse</string>
   <string name="map_work">Afficher l\'adresse prof.</string>
+  <string name="menuMoreDescription">Plus d\'options</string>
   <string name="menu_accounts">Comptes</string>
   <string name="menu_addStar">Ajouter aux favoris</string>
   <string name="menu_bar_group_add">Ajouter</string>
+  <string name="menu_bar_group_batch_remove">Supprimer le groupe</string>
   <string name="menu_bar_group_delete">Supprimer</string>
   <string name="menu_bar_group_rename">Renommer</string>
   <string name="menu_bar_group_ringtone">Sonnerie du groupe</string>
@@ -568,7 +584,10 @@ Les fiches de contact sont désactivés"</string>
   <string name="miprofile_error_not_opened">Les fiches de contact sont désactivées</string>
   <string name="miprofile_error_not_set">"Votre fiche de contact n'a pas été synchronisé sur le serveur"</string>
   <string name="miprofile_error_unknown">Erreur inconnue</string>
+  <string name="miprofile_find_profile_batch_finish">Terminé</string>
+  <string name="miprofile_find_profile_loading">Chargement&#8230;</string>
   <string name="miprofile_name">Ma fiche</string>
+  <string name="miprofile_nick_name_edit_dialog_hint">Entrez le titre tel que : M./Mme.</string>
   <string name="miprofile_notice_text">"Appuyez pour afficher la photo du profil du contact"</string>
   <string name="miprofile_request_agenda_date">%1$s désirent échanger des fiches de contact</string>
   <string name="miprofile_request_agenda_today">%1$s désirent échanger des fiches de contact</string>
@@ -710,6 +729,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="phone_call_type_voip">VoIP</string>
   <string name="phone_primary">Principal</string>
   <string name="photoPickerNotFoundText">Aucune image disponible</string>
+  <string name="photo_fragment">Sélectionner une photo dans la galerie</string>
   <string name="photo_load_failed">"Impossible de charger la photo"</string>
   <string name="pick_new_photo">Sélectionner une autre photo</string>
   <string name="pick_photo">Sélectionner une photo</string>
@@ -735,6 +755,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="postal_postcode">Code postal</string>
   <string name="postal_region">État</string>
   <string name="postal_street">Rue</string>
+  <string name="pref_key_photo">Sélectionner une photo dans la galerie</string>
   <string name="pref_key_photo_word_summary">Afficher automatiquement une photo pour les contacts sans photo</string>
   <string name="pref_key_photo_word_title">Afficher une photo</string>
   <string name="pref_key_rebuild_t9_index_message">Reconstruire l\'index des contacts en cas de problème d\'affichage</string>
@@ -796,6 +817,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="pull_to_refresh_release_label">Relâcher pour actualiser…</string>
   <string name="qr_card_card">Code QR</string>
   <string name="qrcode_card_title">Carte code QR</string>
+  <string name="qrcode_detail_menu_scan">Analyser</string>
   <string name="quickcontact_missing_app">Aucune application pouvant gérer cette action n\'a été trouvée.</string>
   <string name="quit_dialog_confirm_message">"Vous n'avez aucun contacts de fusionné"</string>
   <string name="quit_dialog_confirm_title">Quitter l\'opération de fusion des contacts ?</string>
@@ -856,6 +878,7 @@ Pour commencer appuyez sur l\'icône en bas de l\'écran."</string>
   <string name="send_to_voicemail_checkbox">Renvoyer les appels directement vers la messagerie vocale</string>
   <string name="separatorJoinAggregateAll">Tous les contacts</string>
   <string name="separatorJoinAggregateSuggestions">Contacts suggérés</string>
+  <string name="service_more">Plus d\'options</string>
   <string name="service_provider">Pages jaunes</string>
   <string name="set_default">Définir par défaut</string>
   <string name="set_photo_failed_msg">"Échec de la mise en place de l'avatar"</string>
@@ -1005,12 +1028,17 @@ Sélectionnez l\'une des options suivantes :"</string>
   <string name="voicemail_status_configure_voicemail">Configurez votre messagerie vocale</string>
   <string name="voicemail_status_messages_waiting">"Récupération de nouveaux messages vocaux impossible. Veuillez essayer plus tard"</string>
   <string name="voicemail_status_voicemail_not_available">"Impossible de se connecter au serveur de messagerie vocale"</string>
+  <string name="voip_contact_label">Mi Communication</string>
+  <string name="voip_contacts_entry">Mi Communication</string>
   <string name="voip_loading_contact">Un instant&#8230;</string>
+  <string name="voip_name">Mi Communication</string>
   <string name="voip_recommend_msg">Appuyez pour utiliser la VoIP</string>
+  <string name="voip_shortcut_name">Mi Communication</string>
   <string name="websiteLabelsGroup">Site Web</string>
   <string name="wipe_data">Supprimer les données</string>
   <string name="yellowPageNavigationIconLabel">Pages jaunes</string>
   <string name="yellowPageNavigationLabel">Pages jaunes</string>
+  <string name="yellowpage_navigation_ad_hint">Annonce</string>
   <string name="yellowpage_navigation_clear_search_history">Effacer l\'historique</string>
   <string name="yellowpage_navigation_more_items">Plus</string>
   <string name="yellowpage_navigation_more_items_title">Plus de services</string>
