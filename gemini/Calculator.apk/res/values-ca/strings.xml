@@ -176,18 +176,12 @@
   <string name="unit_data_default_currency_0">CNY</string>
   <string name="unit_data_default_currency_1">USD</string>
   <string name="unit_data_default_currency_2">EUR</string>
-  <string name="unit_data_default_length_0">m</string>
-  <string name="unit_data_default_length_1">cm</string>
-  <string name="unit_data_default_temperature_0">C</string>
-  <string name="unit_data_default_temperature_1">F</string>
   <string name="unit_data_default_time_0">min</string>
   <string name="unit_data_default_time_1">s</string>
   <string name="unit_data_default_velocity_0">m/s</string>
   <string name="unit_data_default_velocity_1">km/s</string>
   <string name="unit_data_default_volume_0">m³</string>
   <string name="unit_data_default_volume_1">cm³</string>
-  <string name="unit_data_default_weight_0">kg</string>
-  <string name="unit_data_default_weight_1">g</string>
   <string name="unit_data_display_area_acre">Acre</string>
   <string name="unit_data_display_area_are">Àrea</string>
   <string name="unit_data_display_area_ha">Hectàrea</string>
@@ -359,7 +353,6 @@
   <string name="unit_data_short_weight_us.cwt">quintal</string>
   <string name="unit_myriads">×10K</string>
   <string name="unit_percentage">%</string>
-  <string name="unit_year">A</string>
   <string name="unit_year_format">Any %s</string>
   <string name="unit_yuan">CNY</string>
   <string name="wf_word_figure">Caràcters financers</string>
