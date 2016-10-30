@@ -183,6 +183,8 @@ Utilizza solo l\'alimentatore in dotazione."</string>
   <string name="media_projection_remember_text">"Non chiedere più"</string>
   <string name="megabyte_per_second">MB/s</string>
   <string name="mount_storage">Sì</string>
+  <string name="nav_guide_cancel">Ignora</string>
+  <string name="nav_guide_ok">Impostazioni</string>
   <string name="network_speed_suffix">%1$s %2$s</string>
   <string name="no_notification_tips">Nessuna notifica</string>
   <string name="no_weather_description">Recupera info meteo&gt;</string>
@@ -274,6 +276,7 @@ scorri in basso per bloccare"</string>
   <string name="status_bar_settings_signal_meter_disconnected">Nessuna connessione</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connesso</string>
   <string name="status_bar_style_settings">Impostazioni</string>
+  <string name="status_bar_volte_label">HD (720p)</string>
   <string name="task_access_locked_app_msg">Il contenuto dell\'applicazione è nascosto.</string>
   <string name="title_usb_accessory">Accessorio USB</string>
   <string name="torch_activity_hint">Puoi accedere velocemente alla torcia tenendo premuto il tasto [icon] nella lockscreen</string>
@@ -329,4 +332,5 @@ scorri in basso per bloccare"</string>
   <string name="wifi_no_internet">"Nessun accesso ad Internet, non si riconnetterà automaticamente."</string>
   <string name="wifi_not_in_range">Fuori portata</string>
   <string name="wifi_remembered">Salvata</string>
+  <string name="wifi_security_none">Nessuno</string>
 </resources>
