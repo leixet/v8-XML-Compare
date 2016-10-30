@@ -14,6 +14,11 @@
   <string name="check_phone_error_title">Servizio di sincronizzazione non attivato</string>
   <string name="check_phone_io_error">"Errore di rete."</string>
   <string name="close">Chiudi</string>
+  <string name="country_name_ac">CA</string>
+  <string name="country_name_mt">Nome punto di accesso</string>
+  <string name="country_name_nl">N</string>
+  <string name="country_name_no">No</string>
+  <string name="country_name_sd">SD (480p)</string>
   <string name="date_picker_dialog_title">Imposta data</string>
   <string name="date_time_done">Fatto</string>
   <string name="date_time_picker_dialog_title">Imposta data e ora</string>
