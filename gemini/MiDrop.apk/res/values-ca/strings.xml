@@ -16,14 +16,17 @@
   <string name="TestSender">Testar remitent</string>
   <string name="Unregister">treure registre</string>
   <string name="action_settings">Configuració</string>
+  <string name="app_name">Mi Drop</string>
   <string name="cancel_confirm">Cancel·lar</string>
   <string name="cancel_confirm_title">"Transferència no completada, cancel·lar ara?"</string>
   <string name="cancel_receive_confirm">Cancel·lar</string>
   <string name="cancel_receive_stop">Continuar rebent</string>
   <string name="cancel_stop">Continuar enviant</string>
   <string name="file_not_support">"Aquest tipus de fitxer no està suportat"</string>
+  <string name="hello_world">Hola món!</string>
   <string name="help">ajuda</string>
   <string name="i_know">Ho tinc</string>
+  <string name="intro_midrop">Mi Drop</string>
   <string name="intro_page1_text1">Comparteix fitxers amb dispositius propers</string>
   <string name="intro_page1_text2">"Més fàcil que mai"</string>
   <string name="intro_page2_choose_files">Tria els fitxers i toca \"Enviar\"</string>
@@ -66,6 +69,7 @@
   <string name="receiver_transfer_interrupt">"Transferència interrompuda, no apaguis el punt Wi-Fi durant la transferència"</string>
   <string name="receiver_video_file_current">Rebent %2$d​ vídeo(s) de %1$s…</string>
   <string name="receiver_video_file_num">%2$d​ vídeo(s) de %1$s</string>
+  <string name="runtime_permission_ungranted">"No es pot utilitzar Mi Drop per manca de permisos"</string>
   <string name="sender_cancel">"No enviar"</string>
   <string name="sender_complete">Fet</string>
   <string name="sender_fail">"No s'ha pogut enviar"</string>
