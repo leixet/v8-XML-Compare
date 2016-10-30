@@ -10,6 +10,7 @@
   <string name="bluetooth_remember_choice">Consenti sempre</string>
   <string name="bluetooth_sap_acceptance_dialog_text">%1$s vorrebbe accedere alla SIM. Concedere l\'accesso a %2$s?</string>
   <string name="bluetooth_sap_request">Richiesta SAP</string>
+  <string name="defaultname">Kit auto</string>
   <string name="dun_acceptance_timeout_message">Tempo scaduto per accettare la connessione da %1$s</string>
   <string name="dun_notif_message">Tocca per collegarti a \"%1$s\".</string>
   <string name="dun_notif_ticker">Richiesta Bluetooth DUN</string>
