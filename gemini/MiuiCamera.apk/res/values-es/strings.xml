@@ -90,10 +90,12 @@ El objeto no debe estar a más de 2 metros."</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Promedio del fotograma</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Medición puntual</string>
   <string name="pref_camera_autoexposure_title">Ajustes de exposición automática</string>
+  <string name="pref_camera_beautify_entry_10">10</string>
   <string name="pref_camera_beautify_entry_auto">Automática</string>
   <string name="pref_camera_beautify_entry_high">Alta</string>
   <string name="pref_camera_beautify_entry_low">Baja</string>
   <string name="pref_camera_beautify_entry_normal">Media</string>
+  <string name="pref_camera_beautify_entryvalue_10">10</string>
   <string name="pref_camera_coloreffect_entry_big_face">Difuminar</string>
   <string name="pref_camera_coloreffect_entry_blackwhite">B y N</string>
   <string name="pref_camera_coloreffect_entry_fisheye">Ojo de pez</string>
@@ -125,9 +127,12 @@ El objeto no debe estar a más de 2 metros."</string>
   <string name="pref_camera_focusmode_title">Modo de enfoque</string>
   <string name="pref_camera_gradienter_title">Enderezar</string>
   <string name="pref_camera_hand_night_title">Noche</string>
+  <string name="pref_camera_hdr_entry_auto">Automático</string>
   <string name="pref_camera_hdr_entry_live">En vivo</string>
   <string name="pref_camera_hdr_entry_off">Apagado</string>
+  <string name="pref_camera_hfr_entry_2x">60</string>
   <string name="pref_camera_hfr_entry_off">Apagado</string>
+  <string name="pref_camera_hfr_value_2x">60</string>
   <string name="pref_camera_histogram_entry_disable">Desactivar</string>
   <string name="pref_camera_histogram_entry_enable">Activar</string>
   <string name="pref_camera_iso_entry_auto">Automático</string>
@@ -194,6 +199,9 @@ El objeto no debe estar a más de 2 metros."</string>
   <string name="pref_camera_snap_entry_take_movie">Cuando la pantalla esté apagada, pulsa y mantén el botón de bajar volumen para empezar a grabar un vídeo. Suelta para parar.</string>
   <string name="pref_camera_snap_entry_take_picture">Cuando la pantalla esté apagada, pulsa y mantén el botón de bajar volumen para hacer una ráfaga de fotos. Suelta para parar.</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Can`t use Quick snap mode while \"Wake with Volume buttons\" is on."</string>
+  <string name="pref_camera_snap_value_off">Apagado</string>
+  <string name="pref_camera_snap_value_take_movie">Película</string>
+  <string name="pref_camera_snap_value_take_picture">Imagen</string>
   <string name="pref_camera_sound_title">Sonidos de cámara</string>
   <string name="pref_camera_square_mode_title">Cuadro</string>
   <string name="pref_camera_stereo_default">7</string>
@@ -232,6 +240,7 @@ El objeto no debe estar a más de 2 metros."</string>
   <string name="pref_front_mirror_entry_on">Encendido</string>
   <string name="pref_front_mirror_title">Cámara frontal espejo</string>
   <string name="pref_manual_exposure_title">Exposición manual</string>
+  <string name="pref_mtk_video_quality_default">10</string>
   <string name="pref_priority_storage_title">Guardar en la tarjeta SD</string>
   <string name="pref_qc_focus_position_title">Enfocar</string>
   <string name="pref_scan_qrcode_title">Escanear el código QR</string>
@@ -291,6 +300,8 @@ El objeto no debe estar a más de 2 metros."</string>
   <string name="simple_mode_button_text_stereo_mode">Desactivar estéreo</string>
   <string name="simple_mode_button_text_tilt_shift">Cerrar efecto diorama</string>
   <string name="simple_mode_button_text_ubifocus">Cerrar modo de reenfoque</string>
+  <string name="snap_cancel">Cancelar</string>
+  <string name="snap_confirmed">Confirmar</string>
   <string name="start_capture">Aceptar</string>
   <string name="tap_to_exposure">Toque para ajustar manualmente la exposición</string>
   <string name="tap_to_focus">Tocar para enfocar</string>
