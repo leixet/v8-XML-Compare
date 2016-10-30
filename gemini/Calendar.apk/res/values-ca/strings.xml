@@ -283,8 +283,6 @@
   <string name="online_reminder_header_text">Recorda</string>
   <string name="path_calendar">Aplicacions del sistema/Calendari/Configuració</string>
   <string name="pengzu">pengzu</string>
-  <string name="prefDefault_alerts_vibrateWhen">mai</string>
-  <string name="prefDefault_alerts_vibrate_false">mai</string>
   <string name="prefDialogTitle_vibrateWhen">Vibració</string>
   <string name="pref_error_no_ringtone_select">To de trucada per defecte</string>
   <string name="pref_title_alarm_remind">Recordatoris d\'alarma</string>
@@ -300,7 +298,6 @@
   <string name="preferences_category_general_title">Paràmetres generals</string>
   <string name="preferences_clear_search_history_summary">"Elimina totes les cerques que fetes"</string>
   <string name="preferences_clear_search_history_title">Neteja l\'historial de cerca</string>
-  <string name="preferences_default_reminder_default">10</string>
   <string name="preferences_default_reminder_dialog">Temps de recordatori per defecte</string>
   <string name="preferences_default_reminder_title">Temps de recordatori per defecte</string>
   <string name="preferences_general_title">Ajusta la vista del calendari</string>
