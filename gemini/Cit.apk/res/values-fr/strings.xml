@@ -291,4 +291,5 @@ Tournez le téléphone, parlez au micro du haut, vous devriez entendre votre voi
   <string name="cit_wifi_ap_scanning">Recherche des points d\'accès&#8230;</string>
   <string name="cit_wifi_fail_to_scan">"Impossible de trouver les réseaux Wi-Fi"</string>
   <string name="cit_wifi_state_refresh">Réactualiser</string>
+  <string name="start">Reprendre</string>
 </resources>
