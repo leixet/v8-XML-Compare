@@ -91,6 +91,7 @@
   <string name="event_hide_more">Masquer</string>
   <string name="event_info_descrip">Description : </string>
   <string name="event_info_end">Fin : </string>
+  <string name="event_info_from">De</string>
   <string name="event_info_reminders_label">Rappels</string>
   <string name="event_info_reminders_label_1">Rappel</string>
   <string name="event_info_reminders_label_more">Rappel %d</string>
@@ -101,6 +102,7 @@
   <string name="event_info_where">Endroit : </string>
   <string name="event_lunar_month">Mois</string>
   <string name="event_show_more">Plus d\'options…</string>
+  <string name="event_title">Nom</string>
   <string name="event_view">Afficher l\'événement</string>
   <string name="every_weekday">Jours ouvrés (lun–ven)</string>
   <string name="from_google_group_calendar">Calendrier Google</string>
@@ -110,6 +112,9 @@
   <string name="hint_attendees">Invités</string>
   <string name="hint_what">Nom de l\'événement</string>
   <string name="hint_where">Lieu</string>
+  <string name="insert_event_dialog_btn_negative">Non</string>
+  <string name="insert_event_dialog_btn_positive">Oui</string>
+  <string name="insert_event_toast_add_success">Événement créé</string>
   <string name="jump_date">Aller</string>
   <string name="jump_date_full">Aller à la date</string>
   <string name="loading">Chargement&#8230;</string>
@@ -118,6 +123,7 @@
   <string name="lunar_date">Date lunaire</string>
   <string name="menu_general_preferences">Paramètres généraux</string>
   <string name="menu_preferences">Paramètres</string>
+  <string name="menu_reminder_preferences">Mode de rappel par défaut</string>
   <string name="miui_menu_create_event">Nouveau</string>
   <string name="modify_all">Modifier tous les événements de la série</string>
   <string name="modify_all_following">Modifier cet événement et tous les suivants</string>
@@ -136,8 +142,10 @@
   <string name="monthly_on_day">Mensuel (même jour)</string>
   <string name="monthly_on_day_count">Mensuel (chaque %1$s %2$s)</string>
   <string name="more_string">+ %1$d</string>
+  <string name="network_not_available">"Pas de connexion réseau"</string>
   <string name="new_event_dialog_label">Nouvel événement</string>
   <string name="new_event_dialog_option">Nouvel événement</string>
+  <string name="no_network_btn">Réessayer</string>
   <string name="no_title_label">(Sans titre)</string>
   <string name="not_synced">non synchronisé</string>
   <string name="prefDialogTitle_vibrateWhen">Vibreur</string>
@@ -148,6 +156,7 @@
   <string name="pref_title_notification_remind">Notification de rappel</string>
   <string name="preferences_alerts_popup_title">Notification par pop-up</string>
   <string name="preferences_alerts_ringtone_title">Sonnerie</string>
+  <string name="preferences_alerts_title">Notifications de liste noire</string>
   <string name="preferences_alerts_vibrateWhen_title">Vibreur</string>
   <string name="preferences_category_account_title">Compte</string>
   <string name="preferences_category_general_title">Général</string>
@@ -159,6 +168,7 @@
   <string name="preferences_hide_declined_title">Masquer évèn. refusés</string>
   <string name="preferences_home_tz_default">Europe/Paris</string>
   <string name="preferences_home_tz_title">Mon fuseau horaire</string>
+  <string name="preferences_notification_ringtone_title">Sonnerie</string>
   <string name="preferences_reminder_title">Notifications et rappels</string>
   <string name="preferences_show_week_num_title">Afficher numéro semaine</string>
   <string name="preferences_title">Agenda</string>
@@ -204,6 +214,10 @@
   <string name="search_history_cleared">Historique des recherches effacé</string>
   <string name="select_date">Sélectionnez une date</string>
   <string name="select_synced_calendars_title">Agendas à synchroniser</string>
+  <string name="set_as_wallpaper">Définir comme fond d\'écran</string>
+  <string name="setting_about_imei">Code IMEI :</string>
+  <string name="setting_title_about">A propos</string>
+  <string name="settings_calendar">Agenda</string>
   <string name="show_day_view">Afficher le jour</string>
   <string name="show_newer_events">Appuyez sur l\'écran pour afficher les événements après le %1$s</string>
   <string name="show_older_events">Appuyez sur l\'écran pour afficher les événements avant le %1$s</string>
@@ -252,6 +266,8 @@
   <string name="travel_local">Localisation</string>
   <string name="travel_seat_number_text">Siège</string>
   <string name="travel_train_station">Gare</string>
+  <string name="user_notice_button_exit">Quitter</string>
+  <string name="user_notification">Notifications de liste noire</string>
   <string name="user_notification_descrip">Afficher une notification utilisateur à chaque ouverture de l\'agenda</string>
   <string name="view_event_calendar_label">Agenda : </string>
   <string name="view_event_organizer_label">Organisateur : </string>
