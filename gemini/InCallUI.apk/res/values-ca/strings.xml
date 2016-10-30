@@ -100,6 +100,7 @@
   <string name="description_image_button_three">tres</string>
   <string name="description_image_button_tools">Opcions</string>
   <string name="description_image_button_two">dos</string>
+  <string name="description_image_button_video_answer">Vídeotrucada</string>
   <string name="description_image_button_zero">zero</string>
   <string name="description_target_answer">Respondre</string>
   <string name="dialog_activate_livetalk">Verifiqueu el número</string>
