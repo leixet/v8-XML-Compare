@@ -97,6 +97,7 @@
   <string name="description_image_button_three">três</string>
   <string name="description_image_button_tools">Opções</string>
   <string name="description_image_button_two">dois</string>
+  <string name="description_image_button_video_answer">Videochamada</string>
   <string name="description_target_answer">Atender</string>
   <string name="dialog_activate_livetalk">Verificar número</string>
   <string name="dialog_call_ordinary_telephone">Chamada normal</string>
