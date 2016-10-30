@@ -3,6 +3,8 @@
 <resources>
   <string name="Connect">Connecter</string>
   <string name="Disconnect">Déconnecter</string>
+  <string name="Start">Reprendre</string>
+  <string name="Stop">Annuler</string>
   <string name="action_settings">Paramètres</string>
   <string name="cancel_confirm">Annuler</string>
   <string name="cancel_confirm_title">"Le transfert n'est pas terminé, l'annuler maintenant ?"</string>
@@ -10,6 +12,7 @@
   <string name="cancel_receive_stop">Continuer le téléchargement</string>
   <string name="cancel_stop">Continuer le transfert</string>
   <string name="file_not_support">"Ce type de fichier n'est pas supporté"</string>
+  <string name="hello_world">Bonjour monde!</string>
   <string name="help">Aide</string>
   <string name="i_know">Bien compris</string>
   <string name="intro_page1_text1">Partager vos fichiers avec les appareils à proximité ?</string>
