@@ -8,6 +8,8 @@
   <string name="activate_finddevice">Conéctese a la red para activar el dispositivo</string>
   <string name="activate_number_change_dialog_message">Seleccione un número de teléfono que será visible a otros dispositivos cuando se llama usando VoIP.</string>
   <string name="activating">Activando&#8230;</string>
+  <string name="add_short_cut">Añadir</string>
+  <string name="added_successfully">Agregado con éxito</string>
   <string name="antispam_sync">Ajustes del modo no molestar</string>
   <string name="apple_cloud">Servicio Apple Cloud</string>
   <string name="apple_cloud_price">Cerca de 72 RMB por año</string>
@@ -44,6 +46,7 @@ Para obtener más espacio de almacenamiento, visite mi.com/micloud."</string>
   <string name="cloud_space_upgrade_message">Pulse para añadir %sGB a su nube.</string>
   <string name="cloud_space_upgrade_no_quota_info">"No se puedo obtener información sobre almacenamiento"</string>
   <string name="cloud_space_upgrade_title">Más espacio para Mi Cloud</string>
+  <string name="cloud_storage_is_full">Completa</string>
   <string name="cloudservice_new_sync">Sincronizar %s con Mi Cloud</string>
   <string name="cmcc_micloud_dspt">Use Mi Cloud para sincronizar datos, localizar su dispositivo y compartir cosas con sus amigos.</string>
   <string name="connect_network">Conectese a Wi-Fi o inserte una tarjeta SIM</string>
@@ -53,6 +56,7 @@ Para obtener más espacio de almacenamiento, visite mi.com/micloud."</string>
   <string name="detect_sim_card">Buscar tarjeta SIM</string>
   <string name="disable_find_device_error">"\"No se puede desactivar Encontrar dispositivo. \"%1$s"</string>
   <string name="disable_find_device_success">La localización del dispositivo está desactivada.</string>
+  <string name="due_date_format">dd/MM/aaaa</string>
   <string name="enableAll">Sincronizar todo</string>
   <string name="enable_cloud_service_notification">Necesita activar Mi Cloud</string>
   <string name="enable_find_device_error">"\"No se puede activar Encontrar dispositivo. \"%1$s"</string>
@@ -89,6 +93,7 @@ Si cambia de tarjeta SIM, se le enviará automáticamente otro SMS para reactiva
   <string name="find_device_reading_status">Cargando estado&#8230;</string>
   <string name="find_device_reading_status_failure">"No se pudo cargar el estado."</string>
   <string name="find_device_send_sms_alert">Si cambia de tarjeta SIM, se enviará automáticamente una otra SMS para reactivar esta función.</string>
+  <string name="find_device_service_title">Encontrar dispositivo</string>
   <string name="find_device_status_ok">Encuentre su dispositivo desde cualquier parte en i.mi.com</string>
   <string name="find_device_status_ok_international">Encuentre su dispositivo desde cualquier parte en www.mi.com/micloud</string>
   <string name="find_device_success_title">Encontrar dispositivo</string>
@@ -145,6 +150,7 @@ su Cuenta Mi para reactivar Mi Cloud."</string>
   <string name="micloud_confusion_finish_hint">"Los cambios que haga en este dispositivo se sincronizarán en todos los dispositivos. Para proteger la cuenta, le recomendamos que desactive la sincronización de otros dispositivos cuando no estén en uso."</string>
   <string name="micloud_confusion_finish_message">Desactivar la sincronización para otros dispositivos.</string>
   <string name="micloud_confusion_finish_title">Cuenta verificada</string>
+  <string name="micloud_confusion_no">No</string>
   <string name="micloud_confusion_setting_notify_text">Desactive la sincronización de otros dispositivos asociados a su cuenta.</string>
   <string name="micloud_confusion_setting_notify_title">Proteja su cuenta</string>
   <string name="micloud_confusion_setting_password_error">La contraseña introducida no es correcta</string>
@@ -284,12 +290,14 @@ Pulse el botón Ajustes para más opciones.\"</string>
   <string name="micloud_notif_title_depend_wifi">%d está a la espera para sincronizarse</string>
   <string name="micloud_notif_title_master_depend_wifi">"No se pudo sincronizar con MI Cloud"</string>
   <string name="micloud_notif_title_memory_low">"No se pudo sincronizar con MI Cloud"</string>
+  <string name="micloud_notif_title_multi_user_error">"No se pudo sincronizar con MI Cloud"</string>
   <string name="micloud_notif_title_sync_finish">Sincronizado</string>
   <string name="micloud_notif_title_sync_not_finish">"Sin sincronizar"</string>
   <string name="micloud_notif_title_sync_progress">Sincronizando</string>
   <string name="micloud_notif_title_sync_with_off">Sincronización con Mi Cloud</string>
   <string name="micloud_other_product_price">Comparar precios</string>
   <string name="micloud_proceed">Continuar</string>
+  <string name="micloud_request_permission_confirm">Lo tengo</string>
   <string name="micloud_sec_dspt">y comparta cosas con sus amigos.</string>
   <string name="micloud_setting_antispam_summary">Excepciones y números de teléfono bloqueados</string>
   <string name="micloud_setting_browser_summary">Marcadores, historial y pestañas</string>
@@ -317,6 +325,7 @@ Pulse el botón Ajustes para más opciones.\"</string>
   <string name="micloud_sync_alert_dialog_negative">Cancelar</string>
   <string name="micloud_sync_alert_dialog_positive">Aceptar</string>
   <string name="micloud_sync_alert_dialog_title">Usar Mi Cloud</string>
+  <string name="micloud_sync_off">La sincronización con Mi Cloud está apagada</string>
   <string name="micloud_title_dspt" formatted="false">"%s en total
  %s usados | %s restantes"</string>
   <string name="micloud_title_dspt_remain">%s restantes</string>
@@ -357,6 +366,7 @@ Esta función encripta y envía el ID del dispositivo a los servidores de MI."</
   <string name="next">Siguiente</string>
   <string name="noRemind">"No recordármelo"</string>
   <string name="no_sim">Tarjeta SIM no detectada</string>
+  <string name="open_micloud_sync">Activar MiCloud</string>
   <string name="other_settings">Otros ajustes</string>
   <string name="password">Introduzca su contraseña</string>
   <string name="phone_number_may_required_dspt_provision">"Este servicio podría requerir su número de teléfono."</string>
@@ -368,6 +378,7 @@ Esta función encripta y envía el ID del dispositivo a los servidores de MI."</
   <string name="privacy_policy">Política de Privacidad</string>
   <string name="remind_later">Ahora no</string>
   <string name="restoreSync">Sincronizar ahora</string>
+  <string name="search_finddevice_pref">Encontrar dispositivo</string>
   <string name="setting">Ajustes</string>
   <string name="settings_backup_title">Realizar copia de seguridad a ajustes del sistema</string>
   <string name="share_cancel">Compartir cancelado</string>
@@ -411,6 +422,7 @@ Esta función encripta y envía el ID del dispositivo a los servidores de MI."</
   <string name="sync_item_calllog_title">Sincronizar historial de llamadas</string>
   <string name="sync_item_sms_summary">Sincronizar SMS enviados y recibidos en este teléfono</string>
   <string name="sync_item_sms_title">Sincronizar mensajes</string>
+  <string name="sync_item_title">Sincronizando elementos</string>
   <string name="sync_off">Desactivado</string>
   <string name="sync_on">Activado</string>
   <string name="sync_resend_sms_dspt_provision">" Si cambia las tarjetas SIM, su operador podría cobrarle un mensaje SMS que se usa para reactivar este servicio."</string>
