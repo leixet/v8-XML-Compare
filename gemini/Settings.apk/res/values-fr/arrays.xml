@@ -29,6 +29,10 @@
     <item>Bloqué</item>
     <item>Mauvaise connexion évitée momentanément</item>
   </string-array>
+  <string-array name="status_bar_style_entries">
+    <item>Combined</item>
+    <item>Séparer le contact</item>
+  </string-array>
   <string-array name="timezone_filters">
     <item>Amérique</item>
     <item>Europe</item>
@@ -70,7 +74,7 @@
   </string-array>
   <string-array name="entries_font_size">
     <item>Petit</item>
-    <item>Normal</item>
+    <item>Standard</item>
     <item>Moyen</item>
     <item>Grand</item>
   </string-array>
@@ -88,9 +92,22 @@
   <string-array name="tts_pitch_entries">
     <item>Très faible</item>
     <item>Faible</item>
-    <item>Normal</item>
+    <item>Standard</item>
     <item>Haut</item>
     <item>Très haut</item>
+  </string-array>
+  <string-array name="wifi_security">
+    <item>Ouvert</item>
+    <item>@string/wifi_security_wep</item>
+    <item>@string/wifi_security_psk_generic</item>
+    <item>@string/wifi_security_eap</item>
+  </string-array>
+  <string-array name="wifi_security_no_eap">
+    <item>Ouvert</item>
+    <item>@string/wifi_security_wep</item>
+    <item>@string/wifi_security_psk_generic</item>
+    <item>WAPI PSK</item>
+    <item>WAPI CERT</item>
   </string-array>
   <string-array name="wifi_ap_security">
     <item>Ouvert</item>
@@ -165,6 +182,18 @@
     <item>Manuel</item>
     <item>Configuration auto du proxy</item>
   </string-array>
+  <string-array name="apn_auth_entries">
+    <item>Aucun</item>
+    <item>PAP</item>
+    <item>CHAP</item>
+    <item>PAP ou CHAP</item>
+  </string-array>
+  <string-array name="mvno_type_entries">
+    <item>Aucun</item>
+    <item>SPN</item>
+    <item>IMSI</item>
+    <item>GID</item>
+  </string-array>
   <string-array name="app_install_location_entries">
     <item>Mémoire interne</item>
     <item>Carte SD amovible</item>
@@ -180,7 +209,7 @@
   <string-array name="app_ops_summaries">
     <item>position approximative</item>
     <item>position précise</item>
-    <item>GPS</item>
+    <item>Test du GPS</item>
     <item>vibreur</item>
     <item>accéder aux contacts</item>
     <item>write contacts</item>
@@ -286,10 +315,21 @@
     <item>Moyen</item>
     <item>Long</item>
   </string-array>
+  <string-array name="captioning_typeface_selector_titles">
+    <item>Centre SMS par défaut</item>
+    <item>Sans-serif</item>
+    <item>Sans-serif condensed</item>
+    <item>Sans-serif monospace</item>
+    <item>Serif</item>
+    <item>Serif monospace</item>
+    <item>Casual</item>
+    <item>Cursive</item>
+    <item>Small capitals</item>
+  </string-array>
   <string-array name="captioning_font_size_selector_titles">
     <item>Très petit</item>
     <item>Petit</item>
-    <item>Normal</item>
+    <item>Standard</item>
     <item>Grand</item>
     <item>Très grand</item>
   </string-array>
@@ -320,6 +360,13 @@
     <item>64 Ko</item>
     <item>256 Ko</item>
     <item>1 Mo</item>
+  </string-array>
+  <string-array name="select_logd_size_values">
+    <item>65536</item>
+    <item>262144</item>
+    <item>10485760</item>
+    <item>4194304</item>
+    <item>16777216</item>
   </string-array>
   <string-array name="select_logd_size_summaries">
     <item>64 Ko/tampon journal</item>
@@ -365,6 +412,20 @@
     <item>Vitesse d\'animation x5</item>
     <item>Vitesse d\'animation x10</item>
   </string-array>
+  <string-array name="overlay_display_devices_entries">
+    <item>Aucun</item>
+    <item>480p</item>
+    <item>480p (secure)</item>
+    <item>720p</item>
+    <item>720p (secure)</item>
+    <item>1080p</item>
+    <item>1080p (secure)</item>
+    <item>4K (Ultra HD)</item>
+    <item>4K (secure)</item>
+    <item>4K (upscaled)</item>
+    <item>4K (upscaled, secure)</item>
+    <item>720p, 1080p (dual screen)</item>
+  </string-array>
   <string-array name="enable_opengl_traces_entries">
     <item>Aucun</item>
     <item>Logcat</item>
@@ -409,6 +470,18 @@
     <item>Chimpanzé</item>
     <item>Singe</item>
   </string-array>
+  <string-array name="security_settings_premium_sms_values">
+    <item>Demander</item>
+    <item>Never allow</item>
+    <item>Always allow</item>
+  </string-array>
+  <string-array name="ram_states">
+    <item>Standard</item>
+    <item>Moderate</item>
+    <item>Bas</item>
+    <item>Critical</item>
+    <item>\?</item>
+  </string-array>
   <string-array name="proc_stats_memory_states">
     <item>Normale</item>
     <item>Moyenne</item>
@@ -430,6 +503,20 @@
     <item>Mise en cache (activité)</item>
     <item>Mise en cache (client d\'activité)</item>
     <item>Mise en cache (vide)</item>
+  </string-array>
+  <string-array name="color_picker">
+    <item>Teal</item>
+    <item>Bleu</item>
+    <item>Indigo</item>
+    <item>Purple</item>
+    <item>Pink</item>
+    <item>Rouge</item>
+  </string-array>
+  <string-array name="haptic_feedback_level_texts">
+    <item>Désactivé</item>
+    <item>Light</item>
+    <item>Moyen</item>
+    <item>Strong</item>
   </string-array>
   <string-array name="media_feedback_level_entries">
     <item>Fort</item>
@@ -456,6 +543,14 @@
     <item>8 secondes</item>
     <item>9 secondes</item>
   </string-array>
+  <string-array name="mi1_led_color_entries">
+    <item>Bleu</item>
+    <item>Rouge</item>
+    <item>Vert</item>
+    <item>Pink</item>
+    <item>Violet</item>
+    <item>Purple</item>
+  </string-array>
   <string-array name="led_color_entries">
     <item>Bleue</item>
     <item>Rouge</item>
@@ -464,6 +559,14 @@
     <item>Cyan</item>
     <item>Blanche</item>
     <item>Violette</item>
+  </string-array>
+  <string-array name="mi2_wifi_security">
+    <item>Ouvert</item>
+    <item>@string/wifi_security_wep</item>
+    <item>@string/wifi_security_psk_generic</item>
+    <item>@string/wifi_security_eap</item>
+    <item>WAPI PSK</item>
+    <item>WAPI CERT</item>
   </string-array>
   <string-array name="wifi_wapi_key_type">
     <item>WAPI ASCII</item>
@@ -480,13 +583,23 @@
     <item>Lancer Google Now</item>
     <item>Fermer l\'application actuelle</item>
     <item>Launch quick search</item>
-    <item>Show menu</item>
+    <item>Afficher le menu</item>
   </string-array>
   <string-array name="screen_key_long_press_timeout">
     <item>0.5 seconde</item>
     <item>1 seconde</item>
     <item>1.5 seconde</item>
     <item>2 secondes</item>
+  </string-array>
+  <string-array name="long_press_volume_down_action">
+    <item>Aucun</item>
+    <item>Quick snap mode (select in Camera)</item>
+    <item>Public transportation shortcuts</item>
+  </string-array>
+  <string-array name="long_press_volume_down_action_value">
+    <item>un</item>
+    <item>Street-snap</item>
+    <item>public_transportation_shortcuts</item>
   </string-array>
   <string-array name="button_light_timeout_entries">
     <item>1 seconde</item>
@@ -657,7 +770,7 @@
     <item>Mode enfant</item>
     <item>Explorateur de fichiers</item>
     <item>Verrou d\'applications</item>
-    <item>App lock</item>
+    <item>Moniteur</item>
     <item>Second space</item>
   </string-array>
   <string-array name="alarm_repeat_type">
@@ -669,5 +782,12 @@
     <item>Chaque jour</item>
     <item>En semaine</item>
     <item>Personnaliser</item>
+  </string-array>
+  <string-array name="privacy_password_function_specfication_names">
+    <item>SMS</item>
+    <item>Photos</item>
+    <item>Fichiers</item>
+    <item>Notes</item>
+    <item>Explorateur de fichiers</item>
   </string-array>
 </resources>
