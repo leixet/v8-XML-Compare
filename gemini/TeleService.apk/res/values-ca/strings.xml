@@ -1285,7 +1285,6 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="tty_mode_option_title">Mode TTY</string>
   <string name="turnover_mute_summary">"Quan el telèfon s'hagi girat horitzontalment, poseu-lo cap per vall per silenciar les trucades. Aquesta opció no s'activa si ja teniu activada la vibració per les trucades entrants."</string>
   <string name="turnover_mute_title">Gira per silenciar la trucada</string>
-  <string name="ui_default_package">com.android.dialer</string>
   <string name="unable_dial_livetalk">"No es pot completar la trucada"</string>
   <string name="undefined">Cap</string>
   <string name="unknown">Desconegut</string>
@@ -1325,7 +1324,6 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="voicemail_notification_ringtone_title">So</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Vibració</string>
   <string name="voicemail_notification_vibrate_key">voicemail_notification_vibrate_key</string>
-  <string name="voicemail_notification_vibrate_when_default">mai</string>
   <string name="voicemail_notification_vibrate_when_title">Vibració</string>
   <string name="voicemail_number_not_set">&lt;No definit&gt;</string>
   <string name="voicemail_provider">Servei</string>
