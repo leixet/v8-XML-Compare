@@ -47,6 +47,7 @@
   <string name="authenticating">&lt;CDATA&gt;Verificant&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="authenticating_manually">"Impossible autentificar"</string>
   <string name="average_score">Puntuació mitjana</string>
+  <string name="avg_score">%.1f</string>
   <string name="bestv">BesTv</string>
   <string name="birthday">Aniversari</string>
   <string name="bmp_quality_mode">Millorar qualitat de vídeo</string>
@@ -102,6 +103,7 @@
   <string name="delete_addon">Eliminar</string>
   <string name="delete_addon_content">Voleu eliminar aquest element?</string>
   <string name="delete_with">Eliminar (%d)</string>
+  <string name="detail">Detall</string>
   <string name="detail_comment_empty">Buit</string>
   <string name="develop_version">Actualitzacions beta</string>
   <string name="development_setting">Opcions de desenvolupament</string>
@@ -118,9 +120,11 @@
   <string name="download_file_fail">Error en accedir a fitxers locals, potser no hi hagi espai a la targeta SD</string>
   <string name="download_finished">Finalitzat</string>
   <string name="download_geturl_fail">"No es pot obtenir la URL"</string>
+  <string name="download_insufficient_space">Espai insuficient</string>
   <string name="download_is_in_tasklist">En cua de descàrrega</string>
   <string name="download_paused">Pausat</string>
   <string name="download_percent_hint">Descarregant %d%%</string>
+  <string name="download_progress_0p">0%</string>
   <string name="download_queue">Recuperant direcció</string>
   <string name="download_running">Descarregant</string>
   <string name="download_start_message">El plugin %1$s serà descarregat i instal·lat</string>
@@ -144,6 +148,7 @@
   <string name="forecasts">Previs</string>
   <string name="fullscreen">Pantalla completa</string>
   <string name="funshion">Fondre</string>
+  <string name="gong_count_ge">%d en total</string>
   <string name="gong_count_xiang">%d elements</string>
   <string name="good">D\'acord</string>
   <string name="hint_apk_download">Instal·lar aquesta aplicació</string>
@@ -161,6 +166,7 @@
   <string name="join_hint">Introduïu el codi d\'invitació</string>
   <string name="key_back_down_toast">Per sortir, premeu Enrere de nou</string>
   <string name="lastrefresh">Actualització recent:</string>
+  <string name="live">Animado</string>
   <string name="loading">&lt;CDATA&gt;Carregant&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="loading_video_netplay_label">Carregant&#8230;</string>
   <string name="loading_video_netplay_label_v5">Carregant&#8230;</string>
@@ -179,6 +185,7 @@
   <string name="minute">&#160;Minut</string>
   <string name="mipush_setting">Missatges automàtics de Mi</string>
   <string name="miwifi_app_download_content">Baixant&#8230;</string>
+  <string name="miwifi_app_download_title">Mi Router</string>
   <string name="miwifi_app_update_button">Actualitzar</string>
   <string name="miwifi_app_update_content">Actualitzar aplicació Mi Router per utilitzar aquesta funcionalitat.</string>
   <string name="miwifi_app_update_title">Actualitzar router?</string>
@@ -197,6 +204,7 @@
   <string name="no_longer_tips">"No tornar a mostrar"</string>
   <string name="no_sdcard_no_download">No hi ha prou espai, error en sol·licitar la descàrrega.</string>
   <string name="not_login">No s\'ha iniciat sessió</string>
+  <string name="notification_default_title">Vídeo offline</string>
   <string name="notification_sub_title">%d baixades completades</string>
   <string name="notification_ticker_text">S\'ha completat la baixada del vídeo local</string>
   <string name="notification_title">«%1$s» baixades completades</string>
@@ -228,8 +236,10 @@
   <string name="online_video">En línia</string>
   <string name="online_video_oneweek">Durant l\'última setmana</string>
   <string name="online_video_oneweek_ago">Fa una setmana</string>
+  <string name="open_in_browser">Obrir al navegador</string>
   <string name="operator_test">Configuració de l\'operador</string>
   <string name="operator_test_summary">Arrencar en el mode operador test</string>
+  <string name="other_info">Altres</string>
   <string name="other_setting">Altres</string>
   <string name="pause">Pausar</string>
   <string name="performance_mode">Millorar rendiment del reproductor</string>
@@ -293,13 +303,16 @@
   <string name="start_addon">iniciar plugin</string>
   <string name="storage_remain">"Disponible: "</string>
   <string name="storage_total">"Espai total: "</string>
+  <string name="suffix_countdown">s</string>
   <string name="system_setting">Configuració de sistema</string>
   <string name="temp_play_history_button_label">Historial</string>
+  <string name="tencent">Tencent</string>
   <string name="to_be_play_label_v5">"A continuació: "</string>
   <string name="toast_back_key_pressed_notice">Per sortir, premeu Enrere de nou </string>
   <string name="toast_message_continue_play_from">Reproduint des de&#160;</string>
   <string name="toast_message_continue_play_hour">h&#160;</string>
   <string name="toast_message_continue_play_minute">m&#160;</string>
+  <string name="toast_message_continue_play_second_and_play">s</string>
   <string name="top_status_offline_media">Fora de línia</string>
   <string name="top_status_online_media">En línia</string>
   <string name="total_episode">%1$s Episodis</string>
@@ -346,6 +359,7 @@
   <string name="vp_adapt_height">Ajustar alçada</string>
   <string name="vp_adapt_width">Ajustar amplada</string>
   <string name="vp_app_download">Aplicació baixada</string>
+  <string name="vp_app_name">Reproductor de Vídeo</string>
   <string name="vp_audio">Volum</string>
   <string name="vp_auto_select">Selecció automàtica</string>
   <string name="vp_back">Enrere</string>
@@ -369,6 +383,7 @@
   <string name="vp_function">Configuració</string>
   <string name="vp_get_url_error">"No es pot trobar URL per aquest vídeo."</string>
   <string name="vp_hide_media_info">Amaga informació de vídeo</string>
+  <string name="vp_high_definition">HD</string>
   <string name="vp_hint">Atenció</string>
   <string name="vp_install">Instal·lar</string>
   <string name="vp_install_title">Instal·lar</string>
@@ -413,10 +428,13 @@
   <string name="vp_select_ep">Seleccionar episodi</string>
   <string name="vp_select_function">Configuració del reproductor</string>
   <string name="vp_select_source">Seleccionar font</string>
+  <string name="vp_select_tv">Seleccionar canal</string>
   <string name="vp_select_video_definition">Seleccionar definició</string>
   <string name="vp_select_video_source">Seleccionar font</string>
   <string name="vp_skip">Saltar introducció i crèdits</string>
+  <string name="vp_standard_definition">SD</string>
   <string name="vp_super_definition">Súper</string>
+  <string name="vp_time_separator">/</string>
   <string name="vp_toast_downloadapk">Baixant&#8230;</string>
   <string name="vp_unknown_source">Font desconeguda</string>
   <string name="vp_using_16_9">Forçar 16:9</string>
