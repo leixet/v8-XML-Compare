@@ -40,7 +40,11 @@
   <string name="provisioning_error_title">Petit problème…</string>
   <string name="set_up">Configurer</string>
   <string name="setting_up_workspace">Configuration de votre profil professionnel en cours&#8230;</string>
+  <string name="setup_work_device">Restaurer les applications et les données utilisateur</string>
   <string name="sure_you_want_to_delete_profile">Voulez-vous vraiment supprimer ce profil professionnel ? Toutes les données associées seront supprimées.</string>
+  <string name="suw_back_button_label">Retour</string>
+  <string name="suw_more_button_label">Plus d\'options</string>
+  <string name="suw_next_button_label">Suivant</string>
   <string name="the_following_is_your_mdm">L\'application suivante devra pouvoir accéder à ce profil :</string>
   <string name="user_is_not_owner">Les profils professionnels doivent être configurés par le propriétaire de l\'appareil.</string>
 </resources>
