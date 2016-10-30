@@ -19,6 +19,7 @@
   <string name="menu_back">Retour</string>
   <string name="menu_end_session">Fermer la session</string>
   <string name="service_name">Service UniPlay</string>
+  <string name="sim_type_sim_name">Service UniPlay</string>
   <string name="stk_app_state">État de l\'application</string>
   <string name="stk_dialog_accept">Accepter</string>
   <string name="stk_dialog_reject">Refuser</string>
