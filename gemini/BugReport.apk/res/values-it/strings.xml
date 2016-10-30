@@ -6,6 +6,7 @@
   <string name="announcement">Attenzione</string>
   <string name="app_empty">"Non hai scaricato nessuna applicazione"</string>
   <string name="app_label">Segnalazione bug</string>
+  <string name="app_name">Segnalazione bug</string>
   <string name="btn_send">Invia</string>
   <string name="bugreport_dump_complete_notification_summary">Tocca per leggere.</string>
   <string name="bugreport_dump_complete_notification_title">Bug report creato</string>
@@ -87,6 +88,7 @@
   <string name="from">da %1$s</string>
   <string name="loading_apps">Creazione lista&#8230;</string>
   <string name="login_system_failed">"Impossibile accedere, prova di nuovo"</string>
+  <string name="logo_title">Segnalazione bug</string>
   <string name="max_error">Il tuo %1$s deve essere più corto.</string>
   <string name="menu_copy">Copia</string>
   <string name="message_label">Messaggio</string>
@@ -115,6 +117,7 @@
   <string name="michat_kefu_welcome">Benvenuto nel sistema di supporto online Xiaomi!</string>
   <string name="michat_menu_copy_text">Copia</string>
   <string name="michat_message_copy_info">Copiato negli appunti</string>
+  <string name="michat_message_error_network">"Impossibile collegarsi alla rete"</string>
   <string name="michat_message_join_again">"Siamo felici di rivederti!\""</string>
   <string name="michat_message_robot_welcome">"Il mio nome è Mi Bunny. Sono il tuo assistente online."</string>
   <string name="michat_msg_image_upload_error">"Impossibile inviare l'immagine, riprova più tardi"</string>
@@ -194,6 +197,7 @@
   <string name="system_app_select">App integrate</string>
   <string name="systemui">Pannello delle notifiche</string>
   <string name="tab_title_my_reports">I miei report</string>
+  <string name="tab_title_report">Segnalazione bug</string>
   <string name="title_nonsystem_app">Altre app</string>
   <string name="title_system_app">App MIUI</string>
   <string name="toast_description_required">La descrizione del feedback non può essere vuota</string>
@@ -211,6 +215,7 @@
   <string name="toast_report_sent_succeed">Il rapporto è stato inviato con successo</string>
   <string name="toast_title_required">Descrivi il tuo problema</string>
   <string name="try_again">Prova di nuovo</string>
+  <string name="upload_log_failed">"Caricamento log fallito"</string>
   <string name="warning_field_empty">Inserisci %1$s</string>
   <string name="warning_field_invalid">Seleziona un valido %1$s</string>
 </resources>
