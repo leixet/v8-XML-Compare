@@ -12,6 +12,7 @@
 </string>
   <string name="add_short_cut">Afegeix</string>
   <string name="added_successfully">Afegit correctament</string>
+  <string name="all_sync_item_open">Tots els elements estan activats</string>
   <string name="antispam_sync">Configuració de \"No molestar\"</string>
   <string name="app_name">Mi Cloud</string>
   <string name="apple_10gb">20GB</string>
@@ -51,6 +52,8 @@ Per obtenir més espai d\'emmagatzematge, visiteu mi.com/micloud."</string>
   <string name="cloud_space_upgrade_message">Toqui per obtenir %s GB d\'espai gratuït aquest mes</string>
   <string name="cloud_space_upgrade_no_quota_info">"Data errònia, si us plau inentar de nou"</string>
   <string name="cloud_space_upgrade_title">Més espai per a Mi Cloud</string>
+  <string name="cloud_storage_full">Emmagatzematge al núvol</string>
+  <string name="cloud_storage_is_full">Ple</string>
   <string name="cloudservice_new_sync">Sincronitzar %s amb Mi Cloud</string>
   <string name="cmcc_micloud_dspt">Utilitzar Mi Cloud per sincronitzar dades, localitzar el teu dispositiu,</string>
   <string name="connect_network">Connectar a Wi-Fi o inserir una targeta SIM</string>
@@ -60,6 +63,7 @@ Per obtenir més espai d\'emmagatzematge, visiteu mi.com/micloud."</string>
   <string name="detect_sim_card">Cerca la targeta SIM de nou</string>
   <string name="disable_find_device_error">"No es pot desactivar la recerca del dispositiu. %1$s"</string>
   <string name="disable_find_device_success">Trobar dispositiu apagat</string>
+  <string name="due_date_format">dd/MM/yyyy</string>
   <string name="enableAll">Sincronitzar tot</string>
   <string name="enable_cloud_service_notification">Necessites activar Mi Cloud</string>
   <string name="enable_find_device_error">"No es pot activar la recerca del dispositiu. %1$s"</string>
@@ -99,6 +103,9 @@ Si canvies de targeta SIM s\'enviarà un altre SMS automàticament per reactivar
   <string name="find_device_reading_status">Carregant status&#8230;</string>
   <string name="find_device_reading_status_failure">"No s'ha pogut carregar el status."</string>
   <string name="find_device_send_sms_alert">Si canvieu la targeta SIM s\'enviarà un altre SMS automàticament per reactivar el servei.</string>
+  <string name="find_device_service_summary">Accediu a i.mi.com per localitzar el dispositiu i bloquejar-lo remotament</string>
+  <string name="find_device_service_summary_international">Accediu a i.mi.com per localitzar el dispositiu i bloquejar-lo remotament</string>
+  <string name="find_device_service_title">Troba el dispositiu</string>
   <string name="find_device_status_ok">Trobi el seu dispositiu des de qualsevol lloc a i.mi.com</string>
   <string name="find_device_status_ok_international">Trobi el seu dispositiu des de qualsevol lloc a www.mi.com/micloud</string>
   <string name="find_device_success_title">Trobar dispositiu</string>
@@ -125,6 +132,7 @@ Si canvies de targeta SIM s\'enviarà un altre SMS automàticament per reactivar
   <string name="master_alert_notif_dspt_add">%s elements esperant la sincronització</string>
   <string name="master_alert_notif_dspt_no">S\'ha sincronitzat</string>
   <string name="master_alert_notif_title">Activar MiCloud</string>
+  <string name="member_due_date">Vàlid fins a %s</string>
   <string name="micloud_all_sub_1_intl_sms">S\'ha d\'enviar un SMS internacional per activar la teva targeta SIM. El teu operador et cobrarà. Quan encenguis \'Cercar dispositiu\', pot ser que s\'enviï un SMS d\'activació després que hagis canviat la targeta SIM.</string>
   <string name="micloud_all_sub_1_sms">S\'ha d\'enviar un SMS normal per activar la teva targeta SIM. El teu operador et cobrarà. Quan encenguis \'Cercar dispositiu\', pot ser que s\'enviï un SMS d\'activació després que hagis canviat la targeta SIM.</string>
   <string name="micloud_all_sub_1_sms_1_intl_sms">S\'hauran d\'enviar dos SMS (normal i internacional) per activar la teva targeta SIM. El teu operador et cobrarà. Quan encenguis \'Cerca dispositiu\', pot ser que s\'enviï un SMS d\'activació després que hagis canviat la targeta SIM.</string>
@@ -343,6 +351,7 @@ Toca el botó de configuració de sincronització per veure més opcions\"</stri
   <string name="micloud_sync_alert_dialog_negative">Cancel·la</string>
   <string name="micloud_sync_alert_dialog_positive">D\'acord</string>
   <string name="micloud_sync_alert_dialog_title">Utilitza Mi Cloud</string>
+  <string name="micloud_sync_off">La sincronització amb Mi Cloud està desactivada</string>
   <string name="micloud_title_dspt" formatted="false">"%s total
  %s usats | %s restants"</string>
   <string name="micloud_title_dspt_remain">%s restants</string>
@@ -383,10 +392,18 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="mx_sub_dspt_provision">Missatge Mi</string>
   <string name="mx_sub_dspt_provision_with_voip">Trucades per internet</string>
   <string name="mx_voip_dspt">Veu Mi</string>
+  <string name="network_unconnected">No esteu connectats a la xarxa</string>
   <string name="next">Següent</string>
   <string name="noRemind">"No recordar"</string>
   <string name="no_sim">Targeta SIM no detectada</string>
+  <string name="one_sync_item_close">%d està desactivat</string>
+  <string name="open_micloud_sync">Activa la sincronització amb Mi Cloud</string>
   <string name="other_settings">Altres configuracions</string>
+  <string name="other_sync_item">Altres elements a sincronitzar</string>
+  <string name="passed_synced_time_day">Sincronitzat fa %dd</string>
+  <string name="passed_synced_time_hour">Sincronitzat fa %1$d h %2$d m</string>
+  <string name="passed_synced_time_min">Sincronitzat fa %d min</string>
+  <string name="passed_synced_time_sec">Sincronitzat fa %d seg</string>
   <string name="password">Introduïu la contrasenya</string>
   <string name="phone_number_may_required_dspt_provision">"Aquest servei pot requerir el seu número de telèfon. "</string>
   <string name="phone_number_required_dspt_provision">"Aquest servei requereix el seu número de telèfon. "</string>
@@ -395,9 +412,13 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="pref_title_sync_contacts_title">Sincronitzar contactes</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Utilitza només Wi-Fi per sincronitzar fotos</string>
   <string name="privacy_policy">Política de Privacitat</string>
+  <string name="recommend_open_all_sync">Sincronitza tots els elements</string>
   <string name="remind_later">Més tard</string>
   <string name="restoreSync">Sincronitzar ara</string>
   <string name="search_cloudbackup_pref">Còpia de seguretat al núvol</string>
+  <string name="search_cloudbackup_pref_desc">Activa/desactiva la còpia de seguretat al núvol</string>
+  <string name="search_finddevice_pref">Troba el dispositiu</string>
+  <string name="search_finddevice_pref_desc">Activa/desactiva Troba el dispositiu</string>
   <string name="setting">Configuració</string>
   <string name="settings_backup_title">Configuració de còpia de seguretat del sistema</string>
   <string name="share_cancel">Compartir cancel·lat</string>
@@ -406,6 +427,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="share_success">Compartit</string>
   <string name="share_weibo_not_installed">Weibo no està instal·lat.</string>
   <string name="share_weixin_not_installed">WeChat no està instal·lat.</string>
+  <string name="short_cut_desc">Voleu afegir una icona de Mi Cloud a la pantalla inicial?</string>
   <string name="sina_share_fail">No s\'ha pogut enviar</string>
   <string name="sina_share_fail_content_repeat">"No es pot compartir, el contingut ja existeix…"</string>
   <string name="sina_share_pendding">Enviant&#8230;</string>
@@ -413,6 +435,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="sina_token_expired_warning">El compte Weibo ha caducat: Si us plau, torneu a enllaçar</string>
   <string name="sina_token_invalid_warning">El compte Weibo no és vàlid: Si us plau, torneu a enllaçar</string>
   <string name="sms">SMS</string>
+  <string name="some_sync_item_close">%d està desactivat</string>
   <string name="soundrecorder_sync_only_in_wifi">Només utilitzar Wi-Fi per sincronitzar</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">La gravadara no utilitzarà dades mòbils per descarregar o carregar les gravacions</string>
   <string name="soundrecorder_sync_records">Sincronitzar amb Mi Cloud</string>
@@ -444,6 +467,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="sync_item_calllog_title">Sincronitzar registres de trucades</string>
   <string name="sync_item_sms_summary">Sincronitzar els teus SMS enviats i rebuts en aquest telèfon</string>
   <string name="sync_item_sms_title">Sincronitzar missatges</string>
+  <string name="sync_item_title">S\'estan sincronitzant elements</string>
   <string name="sync_off">Apagat</string>
   <string name="sync_on">Ences</string>
   <string name="sync_resend_sms_dspt_provision">" Si canvia de targetes SIM, el seu operador pot cobrar pel missatge SMS utilitzat per reactivar aquest servei."</string>
@@ -475,6 +499,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="vcode">Codi de verificació</string>
   <string name="verify">Comprovar</string>
   <string name="view_storage_title">Espai d\'emmagatzematge</string>
+  <string name="virtual_sim_desc">Activeu Mi SIM per localitzar el dispositiu sense una targeta SIM</string>
   <string name="voip_choose_sim">Trieu el número de telèfon per activar Mi Voice</string>
   <string name="wipe_data_dialog_msg_separator">,</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
