@@ -263,7 +263,6 @@ a partir de %s»</string>
   <string name="default_audio_route_name">Telèfon</string>
   <string name="default_audio_route_name_dock_speakers">Altaveus de la base</string>
   <string name="default_audio_route_name_headphones">Auriculars</string>
-  <string name="default_media_route_name_hdmi">HDMI</string>
   <string name="delete">Elimina</string>
   <string name="deleteText">Elimina</string>
   <string name="deleted_key">%1$s eliminat</string>
