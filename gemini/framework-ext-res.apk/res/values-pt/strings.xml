@@ -80,6 +80,7 @@
   <string name="screen_on_proximity_sensor_title">Prevenir uso inadvertido no bolso</string>
   <string name="screen_paper_mode_enter_toast">O Modo de Leitura está ligado. Para desligar esta funcionalidade vá a Definições &gt; Ecrã &gt; Modo de Leitura</string>
   <string name="screen_rotation_freeze_message">Rotação automática desligada</string>
+  <string name="screenshot_gesture_detect_alert_dont_again">"Não mostrar novamente"</string>
   <string name="security_permission_denied_text">Acesso negado</string>
   <string name="security_permission_failed_text">Erro interno. Tente novamente mais tarde</string>
   <string name="security_permission_validate_warning">Obrigado por ajudar a fazer uma MIUI melhor!</string>
@@ -100,6 +101,7 @@
   <string name="status_bar_toggle_auto_brightness">Brilho auto</string>
   <string name="status_bar_toggle_cast">Transmitir</string>
   <string name="status_bar_toggle_data">Dados móveis</string>
+  <string name="status_bar_toggle_edit">Mais</string>
   <string name="status_bar_toggle_flight_mode">Modo Avião</string>
   <string name="status_bar_toggle_lock">Bloquear</string>
   <string name="status_bar_toggle_mute">Silêncio</string>
