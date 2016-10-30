@@ -124,6 +124,7 @@ O objecto não pode estar a mais de dois metros</string>
   <string name="pref_camera_focusmode_title">Modo de focagem</string>
   <string name="pref_camera_gradienter_title">Endireitar</string>
   <string name="pref_camera_hand_night_title">Nocturno</string>
+  <string name="pref_camera_hdr_entry_live">Papéis de parede animados</string>
   <string name="pref_camera_hdr_entry_off">Deslig.</string>
   <string name="pref_camera_hfr_entry_off">Deslig.</string>
   <string name="pref_camera_histogram_entry_disable">Desligar</string>
@@ -185,6 +186,9 @@ O objecto não pode estar a mais de dois metros</string>
   <string name="pref_camera_snap_entry_take_movie">Quando o ecrã está desligado prima e segure o botão de Volume Menos para iniciar a gravação de vídeo. Solte-o para parar</string>
   <string name="pref_camera_snap_entry_take_picture">Quando o ecrã está desligado prima e segure o botão de Volume Menos para iniciar o disparo contínuo de fotos. Solte-o para parar</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Não é possível usar disparo contínuo enquanto \"Acordar com botões de volume\" estiver ligado"</string>
+  <string name="pref_camera_snap_value_off">Desligado</string>
+  <string name="pref_camera_snap_value_take_movie">Filme</string>
+  <string name="pref_camera_snap_value_take_picture">Imagem</string>
   <string name="pref_camera_sound_title">Sons da câmara</string>
   <string name="pref_camera_square_mode_title">Quadrado</string>
   <string name="pref_camera_stereo_mode_title">Estéreo</string>
@@ -275,6 +279,8 @@ O objecto não pode estar a mais de dois metros</string>
   <string name="simple_mode_button_text_stereo_mode">Desligar Modo Estéreo</string>
   <string name="simple_mode_button_text_tilt_shift">Desligar Tilt-Shift</string>
   <string name="simple_mode_button_text_ubifocus">Desligar Refocar</string>
+  <string name="snap_cancel">Cancelar</string>
+  <string name="snap_confirmed">Confirmar</string>
   <string name="spaceIsLow_content_external_storage_priority">O cartão SD está a ficar cheio</string>
   <string name="spaceIsLow_content_primary_storage_priority">O armazenamento USB está a ficar cheio</string>
   <string name="tap_to_exposure">Toque para ajustar exposição manualmente</string>
