@@ -22,6 +22,7 @@
   <string name="cancel_receive_stop">Continuar recibiendo</string>
   <string name="cancel_stop">Continuar enviando</string>
   <string name="file_not_support">"Este tipo de archivo no está soportado"</string>
+  <string name="hello_world">¡Hola mundo!</string>
   <string name="help">ayuda</string>
   <string name="i_know">Lo tengo</string>
   <string name="intro_page1_text1">Comparte archivos con dispositivos cercanos</string>
