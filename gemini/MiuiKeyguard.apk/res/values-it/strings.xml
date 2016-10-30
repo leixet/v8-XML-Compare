@@ -4,6 +4,7 @@
   <string name="accessibility_enter_lock_wallpaper">Tocca lo sfondo della lockscreen</string>
   <string name="click_to_enter_text">Tocca per sbloccare</string>
   <string name="confirm_pin_msg">Inserisci di nuovo PIN</string>
+  <string name="custom_lock_wallpaper_enter">Invio</string>
   <string name="default_lockscreen_unlock_hint_text">Scorri in alto per sbloccare</string>
   <string name="delete">Elimina</string>
   <string name="emergency_call_string">Emergenza</string>
@@ -37,6 +38,8 @@
   <string name="keyguard_torch_cover_text">Premi a lungo il tasto accensione per tenere accesa la Torcia</string>
   <string name="lock_screen_date">EEE, dd MMMM</string>
   <string name="lock_screen_date_12">EEE, dd MMMM</string>
+  <string name="lock_wallpaper_enter">Invio</string>
+  <string name="lock_wallpaper_learn_more">Altro</string>
   <string name="lockscreen_access_pattern_cell_added">Cella aggiunta</string>
   <string name="lockscreen_access_pattern_cleared">Sequenza annullata</string>
   <string name="lockscreen_access_pattern_detected">Sequenza completa</string>
