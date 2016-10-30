@@ -137,4 +137,8 @@
     <item quantity="other">Podeu introduir %d càracters</item>
     <item quantity="one">Podeu introduir %d càracter</item>
   </plurals>
+  <plurals name="video_items">
+    <item quantity="other">%1$d elements</item>
+    <item quantity="one">%1$d element</item>
+  </plurals>
 </resources>
