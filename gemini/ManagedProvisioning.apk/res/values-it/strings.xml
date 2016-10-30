@@ -12,6 +12,7 @@
   <string name="continue_provisioning_notify_text">Tocca per continuare a impostare il profilo di lavoro</string>
   <string name="continue_provisioning_notify_title">Cifratura completata</string>
   <string name="copying_certs">Impostazione certificati CA</string>
+  <string name="default_managed_profile_name">Profilo di lavoro</string>
   <string name="delete_profile">Rimuovi</string>
   <string name="delete_profile_title">Rimuovere il profilo di lavoro?</string>
   <string name="device_owner_cancel_cancel">Annulla</string>
