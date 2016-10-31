@@ -17,27 +17,6 @@
     <item>网易</item>
     <item>http://3g.163.com/</item>
   </string-array>
-  <string-array name="tupian">
-    <item>图片</item>
-    <item>baidu.com</item>
-    <item>http://image.baidu.com/favicon.ico</item>
-    <item>http://m.baidu.com/s?from=1000228f&amp;vit=union&amp;st=103041&amp;word={searchTerms}&amp;tn=bdwis</item>
-    <item>UTF-8</item>
-    <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
-  </string-array>
-  <string-array name="shipin">
-    <item>视频</item>
-    <item>youku.com</item>
-    <item>http://m.baidu.com/favicon.ico</item>
-    <item>http://m.baidu.com/video?from=1000228j&amp;word={searchTerms}</item>
-    <item>UTF-8</item>
-    <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
-  </string-array>
-  <string-array name="sm_in_list">
-    <item>search_sm</item>
-    <item>ic_search_engine_sm</item>
-    <item>mc</item>
-  </string-array>
   <string-array name="menu_theme_setting">
     <item>Blanc</item>
     <item>Groc</item>
