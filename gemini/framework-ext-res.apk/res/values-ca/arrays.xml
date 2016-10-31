@@ -31,12 +31,6 @@
     <item>com.miui.personalassistant</item>
     <item>com.mi.AutoTest</item>
   </string-array>
-  <string-array name="font_size_scale">
-    <item>0,86</item>
-    <item>1.0</item>
-    <item>1,2</item>
-    <item>1.4</item>
-  </string-array>
   <string-array name="organized_languages_international">
     <item>in_ID</item>
     <item>ms_MY</item>
