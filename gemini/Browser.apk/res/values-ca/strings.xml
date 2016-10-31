@@ -134,9 +134,9 @@
   <string name="close_ads_choice_no">Permet</string>
   <string name="close_ads_choice_yes">Bloquejar</string>
   <string name="close_ads_message">"¿Voleu bloquejar el contingut d'aquesta web? Podeu veure els llocs que heu bloquejat a Configuració &gt; Avançat &gt; Llocs bloquejats."</string>
-  <string name="close_ads_title">Bloquejar contingut?</string>
-  <string name="close_all_tab_alert_message">Tancar totes les pestanyes?</string>
-  <string name="close_all_tab_alert_title">Tancar totes les pestanyes</string>
+  <string name="close_ads_title">Voleu bloquejar el contingut?</string>
+  <string name="close_all_tab_alert_message">Voleu tancar totes les pestanyes obertes al navegador?</string>
+  <string name="close_all_tab_alert_title">Tanca totes les pestanyes</string>
   <string name="close_cloud_tab_tip">Tancar totes les finestres de%s?</string>
   <string name="cloud_loading_tips">Tira cap avall per sincronitzar</string>
   <string name="cloud_no_new_data_toast">"Tot està actualitzat"</string>
