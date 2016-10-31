@@ -502,7 +502,7 @@
   <string name="stay_awake_summary">"La pantalla no s'apagarà durant l'ús del FTP "</string>
   <string name="stay_awake_title">Romandre encès</string>
   <string name="stop_server">Aturar el servidor</string>
-  <string name="storage_cloned_app">Emmagatzematge per a dobles aplicacions</string>
+  <string name="storage_cloned_app">Emmagatzematge per a aplicacions duals</string>
   <string name="storage_info_detail">Disponible:%1$s Total:%2$s</string>
   <string name="storage_internal">Emmagatzematge intern</string>
   <string name="storage_sd_card">Targeta SD</string>
