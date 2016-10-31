@@ -31,6 +31,7 @@
   <string name="notification_action_answer_video">Vidéo</string>
   <string name="notification_action_answer_voice">Voix humaine</string>
   <string name="notification_action_dismiss">OK</string>
+  <string name="notification_action_speaker">Haut-parleurs</string>
   <string name="notification_incoming_call">Appel entrant</string>
   <string name="online_check_provider_info">Signalé comme spam par %s</string>
   <string name="onscreen_add_call_text">Autre appel</string>
