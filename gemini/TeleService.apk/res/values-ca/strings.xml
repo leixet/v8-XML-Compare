@@ -620,6 +620,7 @@ per començar a utilitzar el paquet de recàrrega"</string>
   <string name="livetalk_provision_title">Prestació</string>
   <string name="livetalk_remain_minutes_title">Temps de trucada disponible</string>
   <string name="livetalk_setting">Paquet de recàrrega</string>
+  <string name="livetalk_shortcut_title">Paquet de recàrrega</string>
   <string name="livetalk_terms_conditions">Termes i condicions</string>
   <string name="livetalk_unavaiable_info">Aquest servei no està disponible temporalment</string>
   <string name="livetalk_user_config_title">Verificació de la SIM</string>
