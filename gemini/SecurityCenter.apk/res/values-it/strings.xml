@@ -572,6 +572,7 @@ o inserisci la password"</string>
   <string name="main_button_usage_adjusting">Carica in corso&#8230;</string>
   <string name="main_button_usage_package_setting">Imposta limite utilizzo dati</string>
   <string name="main_message_no_package_by_dual">Imposta limite dati per %s</string>
+  <string name="main_open_traffic_ctrl_button">Limita utilizzo dati</string>
   <string name="main_primary_message_traffic_cur_leisure">Utilizzo dati oltre soglia</string>
   <string name="main_primary_message_traffic_cur_normal">Sotto il livello minimo dati</string>
   <string name="main_primary_message_traffic_cur_normal_overlimit">Limite dati superato</string>
@@ -928,6 +929,7 @@ Soglia: %1$s%2$s | %3$s usati"</string>
   <string name="pref_title_traffic_speed_state">Mostra velocità di rete</string>
   <string name="pref_title_update_notification">Notifiche di utilizzo dati</string>
   <string name="pref_title_virus_white_list">Eccezioni</string>
+  <string name="pref_traffic_manage_title">Utilizzo dati</string>
   <string name="pref_version">Versione %s</string>
   <string name="pref_warning_values">Livello per avviso utilizzo dati</string>
   <string name="pref_whitelist_setting">Eccezioni dati roaming</string>
