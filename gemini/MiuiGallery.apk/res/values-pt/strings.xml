@@ -378,7 +378,6 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="not_is">Não</string>
   <string name="not_remind_again">"Não mostrar novamente"</string>
   <string name="not_remind_any_more">"Não mostrar novamente"</string>
-  <string name="number_of_uploading_finish">Os álbuns foram copiados automaticamente</string>
   <string name="open">Ligar</string>
   <string name="open_public_message">Criar URL para partilhar com os seus amigos</string>
   <string name="open_public_title">Partilhar</string>
@@ -423,6 +422,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="pet_album_display_name">Fotos do animal de estimação</string>
   <string name="photo">Fotos</string>
   <string name="photo_edit_file_not_exits_tip">Transferir foto antes de editar</string>
+  <string name="photo_editor_label">Editar</string>
   <string name="photo_editor_saving">A guardar&#8230;</string>
   <string name="photo_page_save_uri_image_fail">"Não foi possível guardar na Galeria"</string>
   <string name="photo_page_save_uri_image_ok">Foto guardada na Galeria</string>
