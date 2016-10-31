@@ -7,18 +7,6 @@
     <item>Missatge de text</item>
     <item>Alarma</item>
   </string-array>
-  <string-array name="preferences_default_reminder_values">
-    <item>-1</item>
-    <item>0</item>
-    <item>5</item>
-    <item>10</item>
-    <item>15</item>
-    <item>30</item>
-    <item>60</item>
-    <item>1440</item>
-    <item>2880</item>
-    <item>10080</item>
-  </string-array>
   <string-array name="preferences_week_start_day_labels">
     <item>Per defecte</item>
     <item>Dissabte</item>
@@ -43,7 +31,7 @@
     <item>Hora de Mountain</item>
     <item>Amèrica Central</item>
     <item>Hora central</item>
-    <item>Ciutat de Mèxic</item>
+    <item>Mexico City</item>
     <item>Saskatchewan</item>
     <item>Bogotà</item>
     <item>Hora de l\'est</item>
@@ -52,7 +40,7 @@
     <item>Hora de l\'Atlàntic (Canadà)</item>
     <item>Manaus</item>
     <item>Santiago</item>
-    <item>Illa de Terranova</item>
+    <item>Newfoundland</item>
     <item>Brasília</item>
     <item>Buenos Aires</item>
     <item>Groenlàndia</item>
@@ -63,25 +51,25 @@
     <item>Casablanca</item>
     <item>Londres, Dublín</item>
     <item>Amsterdam, Berlín</item>
-    <item>Belgrad</item>
-    <item>Brussel·les</item>
+    <item>Belgrade</item>
+    <item>Brussels</item>
     <item>Sarajevo</item>
     <item>Windhoek</item>
     <item>Hora d\'Àfrica Occ.</item>
     <item>Amman, Jordània</item>
     <item>Atenes, Istanbul</item>
     <item>Beirut, Liban</item>
-    <item>El Caire</item>
-    <item>Hèlsinki</item>
+    <item>Cairo</item>
+    <item>Helsinki</item>
     <item>Jerusalem</item>
     <item>Minsk</item>
     <item>Harare</item>
-    <item>Bagdad</item>
+    <item>Baghdad</item>
     <item>Moscou</item>
     <item>Kuwait</item>
     <item>Nairobi</item>
-    <item>Teheran</item>
-    <item>Bakú</item>
+    <item>Tehran</item>
+    <item>Baku</item>
     <item>Tbilisi</item>
     <item>Erevan</item>
     <item>Dubai</item>
@@ -91,7 +79,7 @@
     <item>Iekaterimburg</item>
     <item>Kolkata</item>
     <item>Sri Lanka</item>
-    <item>Katmandú</item>
+    <item>Kathmandu</item>
     <item>Astana</item>
     <item>Rangún</item>
     <item>Krasnoyarsk</item>
@@ -102,10 +90,10 @@
     <item>Kuala Lumpur</item>
     <item>Perth</item>
     <item>Taipei</item>
-    <item>Seül</item>
+    <item>Seoul</item>
     <item>Tòquio, Osaka</item>
     <item>Yakutsk</item>
-    <item>Adelaida</item>
+    <item>Adelaide</item>
     <item>Darwin</item>
     <item>Brisbane</item>
     <item>Hobart</item>
