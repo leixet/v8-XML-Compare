@@ -1557,6 +1557,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="input_methods_and_subtype_enabler_title">Selecciona mètodes d\'introducció actius</string>
   <string name="input_methods_settings_label_format">Configuració de %1$s</string>
   <string name="input_methods_settings_title">Introducció de text</string>
+  <string name="input_password_hint_text">Introduir contrasenya</string>
   <string name="input_settings">Configuració d\'entrada</string>
   <string name="install_all_warning">El telèfon i les dades personals són més vulnerables a atacs per part d\'aplicacions d\'orígens desconeguts. L\'usuari accepta ser l\'únic responsable de qualsevol dany que es produeixi al telèfon o de la pèrdua de dades que puguin resultar de l\'ús d\'aquestes aplicacions.</string>
   <string name="install_applications">Orígens desconeguts</string>
@@ -2481,7 +2482,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="path_xiaomi_account">Configuració/Compte Mi</string>
   <string name="path_xiaomi_cloud_service">Aplicacions</string>
   <string name="path_xiaomi_money_service">Aplicacions</string>
-  <string name="path_xspace">Configuració/Aplicacions clonades</string>
+  <string name="path_xspace">Configuració/Aplicacions duals</string>
   <string name="path_zen_mode_option_miui_silent">Configuració/So i vibració/Mode en silenci</string>
   <string name="performance_category">Rendiment</string>
   <string name="permission_detail_info">Detalls</string>
