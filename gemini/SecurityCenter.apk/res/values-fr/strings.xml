@@ -441,6 +441,7 @@ Au-delà de cette-ci la connexion au réseau mobile peut entrainer des frais sup
   <string name="main_button_usage_adjusting">Changement&#8230;</string>
   <string name="main_button_usage_package_setting">Définir le quota de données</string>
   <string name="main_message_no_package_by_dual">Définir une limite de données pour %s</string>
+  <string name="main_open_traffic_ctrl_button">Pare-feu</string>
   <string name="main_primary_message_traffic_cur_leisure">Heures creuses</string>
   <string name="main_primary_message_traffic_cur_normal">Sous la limite de données</string>
   <string name="main_primary_message_traffic_cur_normal_overlimit">Limite conso dépassée</string>
@@ -726,6 +727,7 @@ Heures de pointe: %1$s%2$s | %3$s utilisés"</string>
   <string name="pref_title_traffic_limit_number">Taille</string>
   <string name="pref_title_traffic_speed_state">Afficher la vitesse de transfert</string>
   <string name="pref_title_update_notification">Notifications pour la consommation de données</string>
+  <string name="pref_traffic_manage_title">Avertissement</string>
   <string name="pref_version">Version : %s</string>
   <string name="pref_warning_values">Alerte d\'usage des données</string>
   <string name="pref_whitelist_setting">Gérer les exceptions</string>
