@@ -17,30 +17,6 @@
     <item>网易</item>
     <item>http://3g.163.com/</item>
   </string-array>
-  <string-array name="easou">
-    <item>宜搜</item>
-    <item>easou.com:8080</item>
-    <item>http://ad3.easou.com:8080/favicon.ico</item>
-    <item>http://ad3.easou.com:8080/j10ad/ea2.jsp?channel=11&amp;cid=bwcn3511_49059_D_1&amp;wver=t&amp;q={searchTerms}</item>
-    <item>UTF-8</item>
-    <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
-  </string-array>
-  <string-array name="taobao">
-    <item>淘宝</item>
-    <item>taobao.com</item>
-    <item>http://r.m.taobao.com/favicon.ico</item>
-    <item>http://r.m.taobao.com/s?p=mm_32549094_4130482_13394846&amp;q={searchTerms}</item>
-    <item>UTF-8</item>
-    <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
-  </string-array>
-  <string-array name="dianping">
-    <item>团购</item>
-    <item>dianping.com</item>
-    <item>http://developer.dianping.com/favicon.ico</item>
-    <item>http://m.dianping.com/shoplist/2/kw/{searchTerms}/search</item>
-    <item>UTF-8</item>
-    <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
-  </string-array>
   <string-array name="tupian">
     <item>图片</item>
     <item>baidu.com</item>
