@@ -235,6 +235,7 @@
   <string name="st_antispam_bw_adress_add">Afegeix ubicacions</string>
   <string name="st_antispam_bw_choose_modes">Afegeix a la llista</string>
   <string name="st_antispam_bw_head_add">Afegeix prefix</string>
+  <string name="st_antispam_bw_man_add">Afegeix un número de telèfon</string>
   <string name="st_antispam_delete">Elimina</string>
   <string name="st_antispam_des_permit_nokeyword">Permet</string>
   <string name="st_antispam_des_uesless">Desactivat</string>
