@@ -8,7 +8,7 @@
     <item>Algiers</item>
     <item>Blantyre</item>
     <item>Brazzaville</item>
-    <item>El Caire</item>
+    <item>Cairo</item>
     <item>Casablanca</item>
     <item>Conakry</item>
     <item>Dakar</item>
@@ -73,14 +73,14 @@
     <item>Managua</item>
     <item>Martinique</item>
     <item>Metlakatla</item>
-    <item>Ciutat de Mèxic</item>
+    <item>Mexico City</item>
     <item>Monterrey</item>
     <item>Montevideo</item>
     <item>Montreal</item>
     <item>Nassau</item>
-    <item>Nova York</item>
+    <item>New York</item>
     <item>Beulah</item>
-    <item>Centrat</item>
+    <item>Center</item>
     <item>New Salem</item>
     <item>Panama</item>
     <item>Phoenix</item>
@@ -103,9 +103,9 @@
     <item>Amman</item>
     <item>Anadyr</item>
     <item>Aqtau</item>
-    <item>Bagdad</item>
+    <item>Baghdad</item>
     <item>Bahrain</item>
-    <item>Bakú</item>
+    <item>Baku</item>
     <item>Bangkok</item>
     <item>Beirut</item>
     <item>Calcutta</item>
@@ -120,7 +120,7 @@
     <item>Jerusalem</item>
     <item>Kabul</item>
     <item>Karachi</item>
-    <item>Katmandú</item>
+    <item>Kathmandu</item>
     <item>Kuala Lumpur</item>
     <item>Kuwait</item>
     <item>Macau</item>
@@ -132,20 +132,20 @@
     <item>Rangoon</item>
     <item>Riyadh</item>
     <item>Saigon</item>
-    <item>Seül</item>
+    <item>Seoul</item>
     <item>Shanghai</item>
-    <item>Singapur</item>
+    <item>Singapore</item>
     <item>Taipei</item>
-    <item>Teheran</item>
+    <item>Tehran</item>
     <item>Tel Aviv</item>
-    <item>Tòquio</item>
+    <item>Tokyo</item>
     <item>Ulaanbaatar</item>
     <item>Bermuda</item>
     <item>Canary</item>
     <item>Cape Verde</item>
     <item>Reykjavik</item>
     <item>Stanley</item>
-    <item>Adelaida</item>
+    <item>Adelaide</item>
     <item>Brisbane</item>
     <item>Canberra</item>
     <item>Darwin</item>
@@ -155,24 +155,24 @@
     <item>Queensland</item>
     <item>Sydney</item>
     <item>Victoria</item>
-    <item>Illa de Terranova</item>
+    <item>Newfoundland</item>
     <item>Saskatchewan</item>
     <item>Easter Island</item>
     <item>Amsterdam</item>
     <item>Andorra</item>
     <item>Athens</item>
     <item>Belfast</item>
-    <item>Belgrad</item>
-    <item>Berlín</item>
+    <item>Belgrade</item>
+    <item>Berlin</item>
     <item>Bratislava</item>
-    <item>Brussel·les</item>
+    <item>Brussels</item>
     <item>Bucharest</item>
     <item>Budapest</item>
     <item>Chisinau</item>
     <item>Copenhagen</item>
     <item>Dublin</item>
     <item>Gibraltar</item>
-    <item>Hèlsinki</item>
+    <item>Helsinki</item>
     <item>Isle of Man</item>
     <item>Istanbul</item>
     <item>Lisbon</item>
@@ -622,11 +622,6 @@
     <item>America/Tegucigalpa</item>
     <item>America/Paramaribo</item>
     <item>America/Panama</item>
-  </string-array>
-  <string-array name="stat_volume_button_behaviors">
-    <item>No</item>
-    <item>Posposa l\'alarma</item>
-    <item>Apaga</item>
   </string-array>
   <string-array name="alarm_in_furture">
     <item>Alarma en menys d\'1 minut</item>
