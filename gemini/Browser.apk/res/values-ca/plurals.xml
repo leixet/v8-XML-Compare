@@ -14,12 +14,12 @@
     <item quantity="one">%1$d seleccionat</item>
   </plurals>
   <plurals name="video_download_clear_prompt">
-    <item quantity="other">Voleu eliminar els vídeos %1$d?</item>
-    <item quantity="one">Voleu eliminar el vídeo %1$d?</item>
+    <item quantity="other">Voleu eliminar %1$d vídeos?</item>
+    <item quantity="one">Voleu eliminar el vídeo?</item>
   </plurals>
   <plurals name="video_download_clear_info">
     <item quantity="other">S\'han esborrat %1$d vídeos correctament.</item>
-    <item quantity="one">S\'ha esborrat %1$d vídeo correctament.</item>
+    <item quantity="one">S\'ha esborrat el vídeo correctament.</item>
   </plurals>
   <plurals name="video_subtitle_last_message">
     <item quantity="other">Resten %d minuts</item>
@@ -27,7 +27,7 @@
   </plurals>
   <plurals name="video_history_clear_prompt">
     <item quantity="other">Voleu eliminar %1$d elements de l\'historial?</item>
-    <item quantity="one">Voleu eliminar %1$d element de l\'historial?</item>
+    <item quantity="one">Voleu eliminar un element de l\'historial?</item>
   </plurals>
   <plurals name="video_history_clear_info">
     <item quantity="other">%1$d elements esborrats de l\'historial.</item>
