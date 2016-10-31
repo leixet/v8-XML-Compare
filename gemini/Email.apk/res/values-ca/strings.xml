@@ -830,7 +830,6 @@
   <string name="translation_loading">S\'està carregant&#8230;</string>
   <string name="translation_pronunciation_cn">Alfabet llatí</string>
   <string name="trash_folder_selection_title">Seleccioneu la carpeta d\'escombraries del servidor per %s</string>
-  <string name="trigger_compose_char">c</string>
   <string name="try_exchange_login">Iniciar sessió amb EXCHANGE</string>
   <string name="turn_auto_sync_on_dialog_body">"Els canvis que facis a 
     totes les aplicacions i els comptes, no només de Gmail, es sincronitzaran
