@@ -258,7 +258,6 @@
   <string name="not_ask_any_more">"Ne plus demander pour \"%s\" réponses"</string>
   <string name="not_is">Non</string>
   <string name="not_remind_any_more">"Ne plus afficher"</string>
-  <string name="number_of_uploading_finish">Synchronisé(s) avec Mi Cloud</string>
   <string name="open">Synchroniser</string>
   <string name="open_public_message">Générer une URL et l\'envoyer à des amis</string>
   <string name="open_public_title">Partager publiquement</string>
@@ -291,6 +290,7 @@
   <string name="people_page_label">Personnes</string>
   <string name="people_page_unname">Sans nom</string>
   <string name="pet_album_display_name">Photos d\'animaux</string>
+  <string name="photo_editor_label">Éditer</string>
   <string name="photo_editor_saving">Enregistrement&#8230;</string>
   <string name="photo_page_save_uri_image_fail">"Impossible d'enregistrer la photo."</string>
   <string name="photo_page_save_uri_image_ok">Enregistrer les photos dans le dossier de la caméra.</string>
