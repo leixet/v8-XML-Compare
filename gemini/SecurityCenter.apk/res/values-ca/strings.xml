@@ -632,6 +632,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="main_button_usage_adjusting">Canviant&#8230;</string>
   <string name="main_button_usage_package_setting">Establir límit d\'ús de dades</string>
   <string name="main_message_no_package_by_dual">Establir límit de dades per %s</string>
+  <string name="main_open_traffic_ctrl_button">Restricció d\'ús de dades a aplicació</string>
   <string name="main_primary_message_traffic_cur_leisure">Ús de dades en hora vall</string>
   <string name="main_primary_message_traffic_cur_normal">Per sota del límit de dades</string>
   <string name="main_primary_message_traffic_cur_normal_overlimit">Límit de dades excedit</string>
@@ -1024,6 +1025,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_title_traffic_speed_state">Mostra la velocitat de la xarxa</string>
   <string name="pref_title_update_notification">Notificacions d\'ús de dades</string>
   <string name="pref_title_virus_white_list">Excepcions</string>
+  <string name="pref_traffic_manage_title">Ús de dades</string>
   <string name="pref_version">Versió %s</string>
   <string name="pref_whitelist_setting">Administrar llista de permeses</string>
   <string name="preference_category_information_setting">category_information_setting</string>
