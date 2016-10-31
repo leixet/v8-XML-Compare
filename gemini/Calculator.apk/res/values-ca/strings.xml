@@ -75,9 +75,9 @@
   <string name="item_title_weight_conversion">Pes</string>
   <string name="leftParen">(</string>
   <string name="leftParenDesc">parèntesi esquerre</string>
-  <string name="lg">log</string>
+  <string name="lg">lg</string>
   <string name="lgDesc">logaritme</string>
-  <string name="lg_mathematical_value">log</string>
+  <string name="lg_mathematical_value">lg</string>
   <string name="ln">ln</string>
   <string name="lnDesc">logaritme neperià</string>
   <string name="loan_edittext_hint_commercial">Introduïu una quantitat</string>
