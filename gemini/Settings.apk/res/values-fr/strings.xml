@@ -1281,6 +1281,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="input_methods_and_subtype_enabler_title">Sélectionner modes de saisie actifs</string>
   <string name="input_methods_settings_label_format">Paramètres %1$s</string>
   <string name="input_methods_settings_title">Saisie de texte</string>
+  <string name="input_password_hint_text">Entrez votre mot de passe</string>
   <string name="input_settings">Paramètres d\'entrée</string>
   <string name="install_all_warning">Votre appareil et vos données personnelles sont plus vulnérables face aux attaques d\'applications provenant de sources inconnues. Vous reconnaissez être seul responsable de tout dommage subi par votre appareil ou de toute perte de données pouvant découler de l\'utilisation de ces applications.</string>
   <string name="install_applications">Sources inconnues</string>
