@@ -3814,9 +3814,9 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="uninstall_dlg_msg">Si ho desinstal·leu es suprimiran totes les dades de l\'aplicació.</string>
   <string name="uninstall_dlg_title">Voleu desinstal·lar-ho?</string>
   <string name="uninstall_text">Desinstal·la</string>
-  <string name="uninstall_with_xspace_app_dlg_msg">Les aplicacions clonades es suprimiran conjuntament amb les dades de l\'aplicació.</string>
-  <string name="uninstall_xspace_app_dlg_msg">Si desinstal·leu les aplicacions clonades, es suprimiran totes les dades de l\'aplicació.</string>
-  <string name="uninstall_xspace_app_dlg_title">Voleu desinstal·lar l\'aplicació clonada?</string>
+  <string name="uninstall_with_xspace_app_dlg_msg">Les aplicacions duals es suprimiran conjuntament amb les dades de l\'aplicació.</string>
+  <string name="uninstall_xspace_app_dlg_msg">Si desinstal·leu les aplicacions duals, es suprimiran totes les dades de l\'aplicació.</string>
+  <string name="uninstall_xspace_app_dlg_title">Voleu desinstal·lar l\'aplicació dual?</string>
   <string name="unknown">Desconegut</string>
   <string name="unknown_app">Aplicació desconeguda</string>
   <string name="unlock_change_lock_password_title">Canvi de contrasenya de desbloqueig</string>
