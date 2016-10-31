@@ -569,6 +569,7 @@ Faça um carregamento e comece a falar</string>
   <string name="livetalk_provision_title">Provisão</string>
   <string name="livetalk_remain_minutes_title">Tempo de chamada restante</string>
   <string name="livetalk_setting">Pacotes de carregamento</string>
+  <string name="livetalk_shortcut_title">Pacote de carregamento</string>
   <string name="livetalk_terms_conditions">Termos e Condições</string>
   <string name="livetalk_unavaiable_info">Este serviço está temporariamente indisponível</string>
   <string name="livetalk_user_config_title">Verificação do SIM</string>
