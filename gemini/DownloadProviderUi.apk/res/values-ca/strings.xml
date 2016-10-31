@@ -291,7 +291,6 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="turn_off_xunlei_title">Desactivar motor de descàrrega Xunlei</string>
   <string name="unbind_xunlei_2_success">Compte Xunlei afegida</string>
   <string name="unbind_xunlei_success">Sessió acabada en compte Xunlei</string>
-  <string name="unit_en_billion">B</string>
   <string name="valid_in_this_month">Només vàlid aquest mes</string>
   <string name="version">Versió %s</string>
   <string name="vip_auto_speedup">L\'accelerador de descàrregues Xunlei està activat</string>
