@@ -77,7 +77,7 @@
   <string name="app_update_install">Descarrega completada! A punt per instal·lar la versió actualitzada.</string>
   <string name="application_name">Navegador</string>
   <string name="aqi_quality_index_break">Altament perillós</string>
-  <string name="aqi_quality_index_dangerous">IQA %1$s</string>
+  <string name="aqi_quality_index_dangerous">Perillós</string>
   <string name="aqi_quality_index_good">Bo</string>
   <string name="aqi_quality_index_hazardous">Arriscat</string>
   <string name="aqi_quality_index_light_pollution">Contaminació lleu</string>
