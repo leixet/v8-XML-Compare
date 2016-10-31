@@ -136,10 +136,17 @@ o introdueixi la seva contrasenya"</string>
   <string name="auto_task_condition_time_pick_title">Estableix el temporitzador</string>
   <string name="auto_task_dialog_button_close">Fet</string>
   <string name="auto_task_edit_abandon_change">Voleu descartar els canvis?</string>
+  <string name="auto_task_edit_activity_title">Les meves tasques automatitzades</string>
   <string name="auto_task_edit_adandon_button_text">Descarta</string>
   <string name="auto_task_edit_my_custom_task">Nom</string>
   <string name="auto_task_edit_task_name">Nom</string>
+  <string name="auto_task_main_title">Tasques automatitzades</string>
   <string name="auto_task_mamange_activity_title">Configuració</string>
+  <string name="auto_task_manager_group_title">Les meves tasques automatitzades</string>
+  <string name="auto_task_notify_do_task_title">Tasques automatitzades iniciades</string>
+  <string name="auto_task_notify_exit_task_title">Tasques automatitzades finalitzades</string>
+  <string name="auto_task_notify_task_cancel_count_down">L\'acció automatitzada es cancel·larà en 5 segons</string>
+  <string name="auto_task_notify_task_count_down">L\'acció automatitzada començarà en 5 segons</string>
   <string name="auto_task_operation_airplane_mode">Mode avió</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
   <string name="auto_task_operation_brightness">Brillantor de la pantalla</string>
