@@ -501,6 +501,7 @@ Desideri passare comunque al nuovo servizio?"</string>
   <string name="livetalk_next_step">Avanti</string>
   <string name="livetalk_provision">Termini del Servizio</string>
   <string name="livetalk_setting">Ricarica pacchetto</string>
+  <string name="livetalk_shortcut_title">Ricarica pacchetto</string>
   <string name="livetalk_terms_conditions">Termini e condizioni</string>
   <string name="livetalk_user_config_title">Verifica numero di telefono</string>
   <string name="livetalk_white_list_number_title">White list senza utilizzo di pacchetto di ricarica</string>
