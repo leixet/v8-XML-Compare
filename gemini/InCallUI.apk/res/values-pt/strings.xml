@@ -166,6 +166,7 @@
   <string name="notification_action_answer_voice">Voz</string>
   <string name="notification_action_dismiss">Rejeitar</string>
   <string name="notification_action_end_call">Desligar</string>
+  <string name="notification_action_speaker">Altifalante</string>
   <string name="notification_dialing">A ligar</string>
   <string name="notification_incoming_call">A receber chamada</string>
   <string name="notification_incoming_video_call">Videochamada recebida</string>
