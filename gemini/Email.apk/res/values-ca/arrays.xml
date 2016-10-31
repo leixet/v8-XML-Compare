@@ -4,6 +4,23 @@
   <string-array name="account_providers">
     <item>content://com.android.email.provider/uiaccts</item>
   </string-array>
+  <string-array name="account_settings_mail_window_values">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+  </string-array>
+  <string-array name="account_settings_mail_window_values_with_default">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+  </string-array>
   <string-array name="calendar_remind_string_array">
     <item>Aquesta nit</item>
     <item>Demà</item>
