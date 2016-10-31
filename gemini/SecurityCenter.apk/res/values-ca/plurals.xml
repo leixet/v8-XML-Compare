@@ -34,8 +34,8 @@
     <item quantity="one">"%d dia "</item>
   </plurals>
   <plurals name="power_center_battery_hour">
-    <item quantity="other">"%d hores "</item>
-    <item quantity="one">"%d hora "</item>
+    <item quantity="other">"%d hores i "</item>
+    <item quantity="one">"%d hora i "</item>
   </plurals>
   <plurals name="power_center_battery_minute">
     <item quantity="other">"%d minuts "</item>
