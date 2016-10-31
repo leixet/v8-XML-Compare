@@ -303,7 +303,6 @@
   <string name="start_addon">iniciar plugin</string>
   <string name="storage_remain">"Disponible: "</string>
   <string name="storage_total">"Espai total: "</string>
-  <string name="suffix_countdown">s</string>
   <string name="system_setting">Configuració de sistema</string>
   <string name="temp_play_history_button_label">Historial</string>
   <string name="tencent">Tencent</string>
@@ -312,7 +311,6 @@
   <string name="toast_message_continue_play_from">Reproduint des de&#160;</string>
   <string name="toast_message_continue_play_hour">h&#160;</string>
   <string name="toast_message_continue_play_minute">m&#160;</string>
-  <string name="toast_message_continue_play_second_and_play">s</string>
   <string name="top_status_offline_media">Fora de línia</string>
   <string name="top_status_online_media">En línia</string>
   <string name="total_episode">%1$s Episodis</string>
