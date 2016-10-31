@@ -308,7 +308,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="celcius_symbol">℃</string>
   <string name="charging_text_battery_full_time">"Última càrrega "</string>
   <string name="charging_text_battery_nearly_full">Quasi carregada</string>
-  <string name="charging_text_battery_perfect">Completament carregada</string>
+  <string name="charging_text_battery_perfect">Càrrega completa</string>
   <string name="charging_text_time_calculating">S\'està calculant el temps de càrrega&#8230;</string>
   <string name="check_network_state">Comproveu l\'estat de la xarxa</string>
   <string name="choose">Triar</string>
@@ -505,7 +505,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="hints_last_virus_scan_yesterday_risk">Escanejat ahir: Sospitós</string>
   <string name="hints_last_virus_scan_yesterday_safe">Escanejat ahir: Segur</string>
   <string name="hints_last_virus_scan_yesterday_virus">Escanejat ahir: Perillós</string>
-  <string name="hints_loading_text">Carregant&#8230;</string>
+  <string name="hints_loading_text">S\'està carregant&#8230;</string>
   <string name="hints_need_quick_clean">Cercar i eliminar fitxers perillosos</string>
   <string name="hints_need_quick_scan">Es recomana escaneig ràpid</string>
   <string name="hints_need_regular_scan">Escaneja el teu dispositiu regularment</string>
