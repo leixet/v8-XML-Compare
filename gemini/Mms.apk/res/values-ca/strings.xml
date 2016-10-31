@@ -44,7 +44,7 @@
   <string name="audio_playing_seconds">%d\"</string>
   <string name="back_to_message_list">Torna a la llista de missatges</string>
   <string name="batch_adding_progress_message">S\'està afegint&#8230;</string>
-  <string name="batch_delete_confirm_dialog_message">Eliminar %1$s missatges?</string>
+  <string name="batch_delete_confirm_dialog_message">Voleu eliminar %1$s missatges?</string>
   <string name="batch_deleting_message_progress_message">Eliminant&#8230;</string>
   <string name="batch_deleting_progress_message">Eliminant&#8230;</string>
   <string name="bcc_label">"C/o: "</string>
