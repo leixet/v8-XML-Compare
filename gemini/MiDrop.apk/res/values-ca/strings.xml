@@ -70,7 +70,6 @@
   <string name="receiver_video_file_current">Rebent %2$d​ vídeo(s) de %1$s…</string>
   <string name="receiver_video_file_num">%2$d​ vídeo(s) de %1$s</string>
   <string name="runtime_permission_ungranted">"No es pot utilitzar Mi Drop per manca de permisos"</string>
-  <string name="send_file_time_format_s">s</string>
   <string name="sender_cancel">"No enviar"</string>
   <string name="sender_complete">Fet</string>
   <string name="sender_fail">"No s'ha pogut enviar"</string>
