@@ -1368,6 +1368,7 @@ Cuando active el servicio automático de respaldos, los datos de las aplicacione
   <string name="input_methods_and_subtype_enabler_title">Elegir los métodos de introducción activos</string>
   <string name="input_methods_settings_label_format">Configuración de %1$s</string>
   <string name="input_methods_settings_title">Ingreso de texto</string>
+  <string name="input_password_hint_text">Introducir contraseña</string>
   <string name="input_settings">Ajustes de entrada</string>
   <string name="install_all_warning">Tu dispositivo y datos personales son más vulnerables a los ataques de aplicaciones de fuentes desconocidas. Aceptas que eres el único responsable de cualquier daño a tu dispositivo o pérdida de datos que pueda producirse por el uso de estas aplicaciones.</string>
   <string name="install_applications">Fuentes desconocidas</string>
