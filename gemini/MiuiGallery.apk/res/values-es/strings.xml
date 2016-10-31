@@ -395,7 +395,6 @@
   <string name="not_is">No</string>
   <string name="not_remind_again">"No mostrar de nuevo"</string>
   <string name="not_remind_any_more">"No mostrar de nuevo"</string>
-  <string name="number_of_uploading_finish">Sincronizado con Mi Cloud</string>
   <string name="open">Sincronizar</string>
   <string name="open_public_message">Crear una dirección URL para compartir con tus amigos</string>
   <string name="open_public_title">Compartir</string>
@@ -441,6 +440,7 @@
   <string name="pet_album_display_name">Fotos de mascotas</string>
   <string name="photo">Imágen</string>
   <string name="photo_edit_file_not_exits_tip">Descargar la foto antes de editar</string>
+  <string name="photo_editor_label">Editar</string>
   <string name="photo_editor_saving">Guardando&#8230;</string>
   <string name="photo_page_save_uri_image_fail">"No se pudo guardar dentro del rollo de la Cámara"</string>
   <string name="photo_page_save_uri_image_ok">Foto guardada en en rollo de la Cámara</string>
