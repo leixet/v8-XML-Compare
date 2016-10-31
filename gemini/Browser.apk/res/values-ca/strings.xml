@@ -188,7 +188,7 @@
   <string name="contextmenu_view_image">Veure imatge</string>
   <string name="contextmenu_webpage_capture">Desa com a captura de pantalla</string>
   <string name="contextmenu_webpage_html">Desa com a fitxer HTML</string>
-  <string name="contextmenu_webpage_snapshot">Desar pàgina</string>
+  <string name="contextmenu_webpage_snapshot">Desa la pàgina</string>
   <string name="copy_to_clipboard_failure_message">No s\'ha pogut copiar al porta-retalls</string>
   <string name="copy_url">Copia l\'URL</string>
   <string name="create_qr_code">Codi QR</string>
