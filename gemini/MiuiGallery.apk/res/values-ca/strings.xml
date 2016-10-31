@@ -798,7 +798,6 @@ Feu més fotos als vostres amics!"</string>
   <string name="not_is">No</string>
   <string name="not_remind_again">"No ho mostris més"</string>
   <string name="not_remind_any_more">"No ho mostris més"</string>
-  <string name="number_of_uploading_finish">S\'ha fet una còpia de seguretat de l\'àlbum automàticament</string>
   <string name="open">Activa</string>
   <string name="open_public_message">Creeu una URL per compartir amb els vostres amics</string>
   <string name="open_public_title">Comparteix</string>
@@ -846,6 +845,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="petabyteShort">PB</string>
   <string name="photo">Fotos</string>
   <string name="photo_edit_file_not_exits_tip">Baixeu la foto abans d\'editar-la</string>
+  <string name="photo_editor_label">Edita</string>
   <string name="photo_editor_saving">S\'està desant&#8230;</string>
   <string name="photo_page_save_uri_image_fail">"No s'ha pogut desar a la galeria"</string>
   <string name="photo_page_save_uri_image_ok">Foto desada a la galeria</string>
