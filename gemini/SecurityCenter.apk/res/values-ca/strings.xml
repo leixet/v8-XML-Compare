@@ -1214,7 +1214,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="settings_power_save_ontime_title">Horari</string>
   <string name="settings_title_payment_security">Configuració de la seguretat de pagament</string>
   <string name="settings_title_permission">Configuració de Permisos</string>
-  <string name="share">Compartir</string>
+  <string name="share">Comparteix</string>
   <string name="show_traffic_dialog_message">La seva informació d\'ús de dades es mostrarà en l\'àrea de notificacions. Podeu activar o desactivar aquesta funció en qualsevol moment a Ús de Dades &gt; Configuració</string>
   <string name="show_traffic_dialog_title">Mostra ús a l\'àrea de notificacions</string>
   <string name="showpattern">Mostra patró</string>
