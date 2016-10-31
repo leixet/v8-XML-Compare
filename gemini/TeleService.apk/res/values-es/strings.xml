@@ -566,6 +566,7 @@ Recargar y empezar a hablar"</string>
   <string name="livetalk_provision_title">Términos de Servicio</string>
   <string name="livetalk_remain_minutes_title">Tiempo de llamada restante</string>
   <string name="livetalk_setting">Paquete de recarga</string>
+  <string name="livetalk_shortcut_title">Paquete de recarga</string>
   <string name="livetalk_terms_conditions">Términos y Condiciones</string>
   <string name="livetalk_unavaiable_info">Este servicio no está disponible temporalmente</string>
   <string name="livetalk_user_config_title">Comprobar número telefónico</string>
