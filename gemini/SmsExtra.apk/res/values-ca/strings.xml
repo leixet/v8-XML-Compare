@@ -19,7 +19,7 @@
   <string name="menu_lock">Afegeix estrella</string>
   <string name="menu_unlock">Treure estrella</string>
   <string name="message_details_title">Detalls del missatge</string>
-  <string name="message_type_label">"Escriure: "</string>
+  <string name="message_type_label">"Escriviu: "</string>
   <string name="received_label">"Rebut: "</string>
   <string name="sent_label">"Enviat: "</string>
   <string name="sms_card_partner_label">"Soci de targetes SMS: "</string>
