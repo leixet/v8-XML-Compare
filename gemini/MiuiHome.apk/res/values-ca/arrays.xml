@@ -23,7 +23,7 @@
   </string-array>
   <string-array name="wallpaper_scroll_entries">
     <item>Predefinit pel tema</item>
-    <item>Centrat</item>
+    <item>Center</item>
     <item>A l\'esquerra</item>
     <item>A la dreta</item>
   </string-array>
@@ -71,6 +71,12 @@
     <item>Ginys</item>
     <item>Fons</item>
     <item>Transicions</item>
+  </string-array>
+  <string-array name="editing_mode_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
   </string-array>
   <string-array name="quality_business_devices">
     <item>Lithium</item>
