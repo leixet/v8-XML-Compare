@@ -187,6 +187,7 @@
   <string name="notification_action_answer_voice">Veu</string>
   <string name="notification_action_dismiss">Rebutja</string>
   <string name="notification_action_end_call">Penja</string>
+  <string name="notification_action_speaker">Altaveu</string>
   <string name="notification_dialing">S\'està trucant</string>
   <string name="notification_incoming_call">Trucada entrant</string>
   <string name="notification_incoming_video_call">Videotrucada entrant</string>
