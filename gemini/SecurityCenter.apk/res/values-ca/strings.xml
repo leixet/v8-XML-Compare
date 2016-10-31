@@ -897,7 +897,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="power_cell">Telèfon en espera</string>
   <string name="power_center_auto_shutdown">Programar encesa i apagat</string>
   <string name="power_center_battery_full">"Bateria completament carregada"</string>
-  <string name="power_center_charge_time">%1$s fins càrrega completa</string>
+  <string name="power_center_charge_time">%1$sper completar la càrrega</string>
   <string name="power_center_consume_rank">Ús de la bateria</string>
   <string name="power_center_consume_time">%1$s restants</string>
   <string name="power_center_custom_title">Perfils de bateria</string>
