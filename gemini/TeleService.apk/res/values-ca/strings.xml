@@ -330,7 +330,6 @@
   <string name="dialpad_abc">ABC</string>
   <string name="dialpad_def">DEF</string>
   <string name="dialpad_eight">8</string>
-  <string name="dialpad_five">5</string>
   <string name="dialpad_four">4</string>
   <string name="dialpad_ghi">GHI</string>
   <string name="dialpad_jkl">JKL</string>
@@ -343,7 +342,6 @@
   <string name="dialpad_star_number">*</string>
   <string name="dialpad_three">3</string>
   <string name="dialpad_tuv">TUV</string>
-  <string name="dialpad_two">2</string>
   <string name="dialpad_wxyz">WXYZ</string>
   <string name="disable">Apaga</string>
   <string name="disable_all_cf">Desactiva totes les funcions de desviament de trucada</string>
