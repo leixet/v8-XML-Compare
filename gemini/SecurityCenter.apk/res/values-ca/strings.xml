@@ -394,7 +394,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="diagnostic_attention_dialog_message">"El diagnòstic per %1$s està en curs. Espereu que acabi i torneu a provar."</string>
   <string name="dialog_app_roaming_message">"%1$s no pot usar dades mòbils en itinerància. Quan està en itinerància internacional, només les aplicacions que ha afegit a la llista de permeses poden utilitzar les dades mòbils."</string>
   <string name="dialog_app_roaming_title">"Itinerància internacional no s'ha activat per %1$s"</string>
-  <string name="dialog_msg_auto_start_declare">Algunes aplicacions de seguretat poden indicar incorrectament que MIUI els ha prohibit iniciar. Per comprovar els permisos que han estat concedits a les aplicacions individualment, aneu a Configuració &gt; Aplicacions.</string>
+  <string name="dialog_msg_auto_start_declare">Algunes aplicacions de seguretat poden indicar incorrectament que MIUI els ha prohibit iniciar. Per comprovar els permisos que han estat concedits a les aplicacions individualment, aneu a Configuració i Aplicacions.</string>
   <string name="dialog_msg_stop_paysafety_scan">Aturar la comprovació de seguretat del pagament？</string>
   <string name="dialog_msg_stop_virus_scan">"Aturar l'escaneig de virus abans que acabi?"</string>
   <string name="dialog_roaming_apps_sorted_title">Ordenar per</string>
