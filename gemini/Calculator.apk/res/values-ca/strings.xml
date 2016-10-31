@@ -345,6 +345,7 @@
   <string name="unit_data_short_weight_us.cwt">quintal</string>
   <string name="unit_myriads">×10K</string>
   <string name="unit_percentage">%</string>
+  <string name="unit_year">Y</string>
   <string name="unit_year_format">Any %s</string>
   <string name="unit_yuan">CNY</string>
   <string name="wf_word_figure">Caràcters financers</string>
