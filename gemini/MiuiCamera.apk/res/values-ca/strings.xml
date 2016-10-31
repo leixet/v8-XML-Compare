@@ -162,9 +162,7 @@
   <string name="pref_camera_coloreffect_entry_vsco_a4">Analògic</string>
   <string name="pref_camera_coloreffect_entry_vsco_f2">Mat</string>
   <string name="pref_camera_coloreffect_title">Filtres</string>
-  <string name="pref_camera_contrast_default">5</string>
   <string name="pref_camera_contrast_title">Contrast</string>
-  <string name="pref_camera_delay_capture_default">5</string>
   <string name="pref_camera_delay_capture_entry_10s">10s</string>
   <string name="pref_camera_delay_capture_entry_3s">3s</string>
   <string name="pref_camera_delay_capture_entry_5s">5s</string>
@@ -273,7 +271,6 @@
   <string name="pref_camera_recordlocation_entry_on">Ences</string>
   <string name="pref_camera_recordlocation_title">Desar localització</string>
   <string name="pref_camera_referenceline_title">Línia de referència</string>
-  <string name="pref_camera_saturation_default">5</string>
   <string name="pref_camera_saturation_title">Saturació</string>
   <string name="pref_camera_scenemode_entry_auto">Automàtic</string>
   <string name="pref_camera_scenemode_entry_backlight">Llum de fons</string>
@@ -370,7 +367,6 @@
   <string name="pref_video_focusmode_entry_auto">Prémer</string>
   <string name="pref_video_focusmode_entry_continuous">Autofocus continu</string>
   <string name="pref_video_focusmode_title">Mode d\'enfocament</string>
-  <string name="pref_video_quality_default">5</string>
   <string name="pref_video_quality_entry_1080p">Full HD</string>
   <string name="pref_video_quality_entry_480p">SD</string>
   <string name="pref_video_quality_entry_4kuhd">4K</string>
