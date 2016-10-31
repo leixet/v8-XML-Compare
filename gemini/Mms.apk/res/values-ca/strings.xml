@@ -130,7 +130,7 @@
   <string name="delete_wild_sims_title">Elimina els números seleccionats</string>
   <string name="delivery_report_activity">Informe de lliurament</string>
   <string name="delivery_toast_body">Missatge rebut de %s</string>
-  <string name="disable_notifications_dialog_message">Aturar notificacions de missatge de text duplicat en aplicacion de missatges per defecte?</string>
+  <string name="disable_notifications_dialog_message">Voleu deixar de duplicar les notificacions d\'SMS de l\'aplicació de Missatgeria per defecte?</string>
   <string name="discard">Descarta</string>
   <string name="discard_message">Descarta</string>
   <string name="discard_message_reason">El seu missatge es descartarà perquè no té cap destinatari vàlid.</string>
