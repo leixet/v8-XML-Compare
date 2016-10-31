@@ -349,7 +349,6 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="js_dialog_before_unload_positive_button">Abandonar aquesta Pàgina</string>
   <string name="js_dialog_before_unload_title">Confirmar Navegació</string>
   <string name="js_dialog_title">La pàgina a \"%s\" diu:</string>
-  <string name="js_dialog_title_default">JavaScript</string>
   <string name="js_disable_confirm_message">Desactivar JavaScript pot causar que alguns llocs web es visualitzin incorrectament.</string>
   <string name="js_disable_confirm_title">Desactivar JavaScript?</string>
   <string name="keep_queued_download">Mantenir</string>
