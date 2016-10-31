@@ -573,6 +573,7 @@ ou desenhar padrão do Bloqueio de aplicações"</string>
   <string name="main_button_usage_adjusting">A alterar&#8230;</string>
   <string name="main_button_usage_package_setting">Definir limite de utilização de dados</string>
   <string name="main_message_no_package_by_dual">Definir limite de dados para %s</string>
+  <string name="main_open_traffic_ctrl_button">Restringir utilização de dados</string>
   <string name="main_primary_message_traffic_cur_leisure">Limite de utilização de dados no período de menor tráfego</string>
   <string name="main_primary_message_traffic_cur_normal">Abaixo do limite de dados</string>
   <string name="main_primary_message_traffic_cur_normal_overlimit">Limite de dados excedido</string>
@@ -929,6 +930,7 @@ T\"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar
   <string name="pref_title_traffic_speed_state">Mostrar velocidade da rede</string>
   <string name="pref_title_update_notification">Mostrar na área de notificações</string>
   <string name="pref_title_virus_white_list">Excepções</string>
+  <string name="pref_traffic_manage_title">Utilização de dados</string>
   <string name="pref_version">Versão %s</string>
   <string name="pref_warning_values">Nível de aviso de utilização de dados</string>
   <string name="pref_whitelist_setting">Excepções de dados em roaming</string>
