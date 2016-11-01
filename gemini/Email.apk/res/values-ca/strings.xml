@@ -4,6 +4,8 @@
   <string name="SMTP_independent_verification_text">Verificació independent SMTP</string>
   <string name="SMTP_password_text">Contrasenya</string>
   <string name="SMTP_username_text">Nom d\'usuari</string>
+  <string name="account_cache_provider">Proveïdor de memòria cau de comptes</string>
+  <string name="account_duplicate_dlg_message_fmt">"Ja esteu utilitzant aquest nom d'usuari pel compte \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Compte duplicada</string>
   <string name="account_manager_type_exchange">com.android.exchange</string>
   <string name="account_manager_type_imap">com.android.email</string>
