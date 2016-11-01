@@ -859,6 +859,7 @@ Toqui \" Sincronitza ara per sincronitzar el correu una vegada, o Canviar la con
   <string name="wait_for_sync_title">A l\'espera de sincronització</string>
   <string name="widget_all_mail">Tot el correu</string>
   <string name="widget_other_views">Altres</string>
+  <string name="wipe_account_fail_description">Permet</string>
   <string name="wrong_password">La contrasenya és incorrecta</string>
   <string name="yes">Sí</string>
   <string name="you_are_in_mobile_network">Està utilitzant ara la xarxa mòbil</string>
