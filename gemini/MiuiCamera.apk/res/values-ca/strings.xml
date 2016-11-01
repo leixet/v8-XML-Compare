@@ -369,7 +369,6 @@
   <string name="pref_video_focusmode_entry_continuous">Autofocus continu</string>
   <string name="pref_video_focusmode_title">Mode d\'enfocament</string>
   <string name="pref_video_quality_entry_1080p">Full HD</string>
-  <string name="pref_video_quality_entry_480p">SD</string>
   <string name="pref_video_quality_entry_4kuhd">4K</string>
   <string name="pref_video_quality_entry_720p">HD</string>
   <string name="pref_video_quality_entry_fwvga">FWVGA</string>
