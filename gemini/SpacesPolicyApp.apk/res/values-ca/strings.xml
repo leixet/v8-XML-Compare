@@ -48,5 +48,7 @@
   <string name="space_status_registration_error_qr_code_reused">La invitació ja no és vàlida</string>
   <string name="space_status_unregistering">S\'està anul·lant el registre&#8230;</string>
   <string name="sscm_registration_disclaimer">Els Espais segurs asseguren la integritat i les actualitzacions del vostre Espai. Els Espais segurs incorren en una petit ús de xarxa. Consulteu al vostre proveïdor local de servei per les quantitats carregades. Si hi esteu d\'acord amb aquestes condicions, si us plau seleccioneu «Sí» per subscriure el vostre Espai segur.</string>
+  <string name="sscm_registration_summary">Baixeu les notificacions per mostrar els detalls</string>
+  <string name="title_sscm_registration">Recordatori del servei d\'Espais segurs</string>
   <string name="wifi">wifi</string>
 </resources>
