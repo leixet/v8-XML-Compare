@@ -4,6 +4,8 @@
   <string name="account_logout">Surt del compte \"%1$s\"</string>
   <string name="action_mode_deselect_all">Desselecciona-ho tot</string>
   <string name="action_mode_select_all">Selecciona-ho tot</string>
+  <string name="adding_download_tasks">S\'estan afegint les tasques de baixada#8230;</string>
+  <string name="adding_upload_tasks">S\'estan afegint tasques de baixada#8230;</string>
   <string name="agree">Permet</string>
   <string name="app_name">Mi Drive</string>
   <string name="background">​​Amaga</string>
