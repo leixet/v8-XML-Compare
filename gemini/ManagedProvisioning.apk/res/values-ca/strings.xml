@@ -35,9 +35,12 @@
   <string name="encrypt_device_cancel">CANCEL·LA</string>
   <string name="encrypt_device_launch_settings">XIFRATGE</string>
   <string name="encrypt_device_text_for_device_owner_setup">"Per continuar configurant el dispositiu, l'heu de xifrar. És possible que trigui una mica."</string>
+  <string name="encrypt_device_text_for_profile_owner_setup">"Per continuar configurant el perfil de feina, cal que xifreu el dispositiu. Això pot portar una estona."</string>
   <string name="frp_clear_progress_text">Espereu...</string>
   <string name="frp_clear_progress_title">S\'està esborrant</string>
+  <string name="learn_more_label">Botó per saber-ne més</string>
   <string name="learn_more_link">Més informació</string>
+  <string name="managed_provisioning_error_text">"No s'ha pogut configurar el perfil de feina. Contacteu amb el departament d'informàtica o torneu-ho a provar més tard."</string>
   <string name="maximum_user_limit_reached">"No es pot crear el perfil professional perquè heu arribat al màxim d'usuaris permesos al dispositiu. Suprimiu-ne un com a mínim i torneu-ho a provar."</string>
   <string name="mdm_icon_label">icona de %1$s</string>
   <string name="ok_setup">D\'acord</string>
