@@ -14,5 +14,14 @@
   <string name="menu_action_search_json">Cerca JSON</string>
   <string name="or">o</string>
   <string name="pref_title_last_applied_policy">Última política aplicada</string>
+  <string name="pref_title_policy_delay">Política de retard</string>
+  <string name="pref_title_sscm_address">Adreça SSCM</string>
+  <string name="pref_title_sscm_mailbox">Id. de bústia SSCM</string>
+  <string name="pref_title_sss_address">Adreça SSMS</string>
+  <string name="progress_notification_text">S\'està actualitzant Space&#8230;</string>
+  <string name="progress_notification_title">Actualització de Space</string>
+  <string name="progress_notification_waiting">S\'està esperant</string>
+  <string name="roaming">itinerància</string>
+  <string name="securespaces_device_admin_description">Agent de dispositiu de Secure Spaces</string>
   <string name="space_status_registering">S\'està registrant&#8230;</string>
 </resources>
