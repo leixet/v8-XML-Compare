@@ -8,7 +8,11 @@
   <string name="lte_checkbox_text">Estableix les dades mòbils a la targeta SIM seleccionada un cop la targeta SIM amb 4G/3G per defecte es canviï.</string>
   <string name="lte_recognition_title">Reconeixement de targeta SIM</string>
   <string name="lte_recognize_summary">S\'han detectat dues targetes SIM amb 4G/3G. Heu d\'establir-ne una per defecte:</string>
+  <string name="lte_select_summary">La subscripció seleccionada serà tractada com a targeta 4G/3G mentre que l\'altra ho serà com a targeta 2G.</string>
+  <string name="lte_select_title">Targeta SIM amb 4G/3G per defecte</string>
   <string name="lte_set">Estableix</string>
+  <string name="lte_setting">S\'està establint la targeta SIM amb 4G/3G per defecte</string>
+  <string name="lte_switch_unavailable">El commutador de targetes SIM 4G/3G no està disponible</string>
   <string name="mobile_data">"Dades mòbils: "</string>
   <string name="mobile_data_off">desactivat</string>
   <string name="mobile_data_on">activat</string>
