@@ -16,7 +16,6 @@
   <string name="check_phone_error_title">Sincronització desactivada</string>
   <string name="check_phone_io_error">"No es pot connectar a la xarxa"</string>
   <string name="chinese_day_1">初一</string>
-  <string name="chinese_day_10">初十</string>
   <string name="chinese_day_11">十一</string>
   <string name="chinese_day_12">十二</string>
   <string name="chinese_day_13">十三</string>
@@ -27,7 +26,6 @@
   <string name="chinese_day_18">十八</string>
   <string name="chinese_day_19">十九</string>
   <string name="chinese_day_2">初二</string>
-  <string name="chinese_day_20">二十</string>
   <string name="chinese_day_21">廿一</string>
   <string name="chinese_day_22">廿二</string>
   <string name="chinese_day_23">廿三</string>
