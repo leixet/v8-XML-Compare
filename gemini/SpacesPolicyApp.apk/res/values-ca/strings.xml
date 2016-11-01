@@ -8,6 +8,11 @@
   <string name="dialog_password_expired_button">Actualitza la contrasenya</string>
   <string name="dialog_password_expired_message">La vostra contrasenya ha caducat o ja no és vàlida amb les condicions actuals. Actualitzeu la contrasenya.</string>
   <string name="dialog_password_expired_title">Contrasenya caducada</string>
+  <string name="expiration_status_future">La contrasenya caducarà d\'aquí %1$s</string>
+  <string name="expiration_status_past">La contrasenya va caducar fa %1$s</string>
+  <string name="menu_action_export_json">Exporta JSON</string>
+  <string name="menu_action_search_json">Cerca JSON</string>
   <string name="or">o</string>
+  <string name="pref_title_last_applied_policy">Última política aplicada</string>
   <string name="space_status_registering">S\'està registrant&#8230;</string>
 </resources>
