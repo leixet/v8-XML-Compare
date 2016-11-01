@@ -13,6 +13,7 @@
   <string name="continue_provisioning_notify_title">S\'ha acabat el xifratge</string>
   <string name="copying_certs">S\'estan configurant els certificats de CA</string>
   <string name="default_managed_profile_name">Perfil de feina</string>
+  <string name="default_owned_device_username">Dispositiu de feina de l\'usuari</string>
   <string name="delete_profile">SUPRIMEIX</string>
   <string name="delete_profile_title">Voleu suprimir el perfil professional?</string>
   <string name="device_owner_cancel_cancel">CANCEL·LA</string>
