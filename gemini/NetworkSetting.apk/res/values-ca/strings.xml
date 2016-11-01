@@ -15,7 +15,6 @@
   <string name="register_automatically">Registre automàtic&#8230;</string>
   <string name="register_on_network">S\'està registrant a %1$s&#8230;</string>
   <string name="registration_done">Registrat a la xarxa.</string>
-  <string name="roamingTextSearching">S\'està cercant el servei</string>
   <string name="search_networks">Cerca xarxes</string>
   <string name="select_automatically">Tria automàticament</string>
   <string name="sum_select_automatically">Tria automàticament la xarxa preferida</string>
