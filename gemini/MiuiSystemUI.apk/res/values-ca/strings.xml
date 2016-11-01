@@ -18,7 +18,7 @@
   <string name="accessibility_data_connection_gprs">GPRS</string>
   <string name="accessibility_data_four_bars">Dades 4 barres.</string>
   <string name="accessibility_data_one_bar">Dades 1 barra.</string>
-  <string name="accessibility_data_signal_full">Màx. senyal de dades.</string>
+  <string name="accessibility_data_signal_full">Senyal de dades màxima.</string>
   <string name="accessibility_data_three_bars">Dades 3 barres.</string>
   <string name="accessibility_data_two_bars">Dades 2 barres.</string>
   <string name="accessibility_home">Casa</string>
