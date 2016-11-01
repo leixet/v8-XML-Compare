@@ -26,10 +26,6 @@
   <string name="edit_frequent_phrases">Edita frases freqüents</string>
   <string name="frequent_phrases_des">Introdueix frases freqüents amb només uns tocs mentre edites text</string>
   <string name="frequent_phrases_size_exceeded">Podeu afegir fins a %1$d frases freqüents. Elimineu les frases menys usades per afegir-ne més.</string>
-  <string name="lunar_calendar">Calendari Lunar</string>
-  <string name="lunar_chu_shi">初十</string>
-  <string name="lunar_er_shi">二十</string>
-  <string name="lunar_year">Any</string>
   <string name="menu_add_frequent_phrases">Afegeix</string>
   <string name="menu_delete">Suprimeix</string>
   <string name="menu_edit">Edita</string>
