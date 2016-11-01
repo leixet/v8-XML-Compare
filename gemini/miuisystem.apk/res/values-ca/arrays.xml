@@ -61,20 +61,6 @@
     <item>壬</item>
     <item>癸</item>
   </string-array>
-  <string-array name="di_zhi">
-    <item>子</item>
-    <item>丑</item>
-    <item>寅</item>
-    <item>卯</item>
-    <item>辰</item>
-    <item>巳</item>
-    <item>午</item>
-    <item>未</item>
-    <item>申</item>
-    <item>酉</item>
-    <item>戌</item>
-    <item>亥</item>
-  </string-array>
   <string-array name="cta_permission_names">
     <item>access network</item>
     <item>llegeix SMS</item>
