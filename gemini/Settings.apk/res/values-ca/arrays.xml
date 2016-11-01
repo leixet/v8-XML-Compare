@@ -238,8 +238,18 @@
     <item>CHAP</item>
     <item>PAP o CHAP</item>
   </string-array>
+  <string-array name="apn_protocol_entries">
+    <item>IPv4</item>
+    <item>IPv6</item>
+    <item>IPv4/IPv6</item>
+  </string-array>
+  <string-array name="apn_protocol_values">
+    <item>IP</item>
+    <item>IPV6</item>
+    <item>IPV4V6</item>
+  </string-array>
   <string-array name="bearer_entries">
-    <item>Unspecified</item>
+    <item>Sense especificar</item>
     <item>LTE</item>
     <item>HSPAP</item>
     <item>HSPA</item>
@@ -391,13 +401,13 @@
   <string-array name="captioning_typeface_selector_titles">
     <item>Per defecte</item>
     <item>Sans-serif</item>
-    <item>Sans-serif condensed</item>
-    <item>Sans-serif monospace</item>
+    <item>Sans-serif condensada</item>
+    <item>Sans serif monoespaiada</item>
     <item>Serif</item>
-    <item>Serif monospace</item>
-    <item>Casual</item>
-    <item>Cursive</item>
-    <item>Small capitals</item>
+    <item>Serif amb un espai</item>
+    <item>Ocasional</item>
+    <item>Cursiva</item>
+    <item>Minúscules</item>
   </string-array>
   <string-array name="captioning_font_size_selector_titles">
     <item>Molt petita</item>
