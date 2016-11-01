@@ -190,6 +190,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="megabyte_per_second">MB/s</string>
   <string name="mount_storage">Sí</string>
   <string name="nav_guide_cancel">Ignora</string>
+  <string name="nav_guide_message">Podeu utilitzar gestos per ocultar o mostrar els botons en pantalla després de configurar-ho.</string>
   <string name="nav_guide_ok">Configuració</string>
   <string name="nav_guide_title">Amaga els botons de pantalla</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
@@ -225,6 +226,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="quick_settings_wifi_detail_empty_text">No hi ha xarxes Wifi disponibles</string>
   <string name="quick_settings_wifi_label">Wifi</string>
   <string name="quick_settings_wifi_nearby">Seleccioneu una xarxa propera</string>
+  <string name="recent_task_app_info_text">Info</string>
   <string name="recent_task_lock_text">Bloquejar</string>
   <string name="recent_task_unlock_text">Desbloquejar</string>
   <string name="reject_call">Rebutjar trucada</string>
