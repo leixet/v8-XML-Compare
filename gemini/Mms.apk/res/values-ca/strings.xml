@@ -623,7 +623,7 @@
   <string name="to_count">%d destinataris</string>
   <string name="to_label">"Per "</string>
   <string name="to_send_wrapper">Seran enviats a %s</string>
-  <string name="too_many_attachments">"Hi ha un límit de %1$s per a fitxers adjunts. Només el primer %2$s s'agregarà."</string>
+  <string name="too_many_attachments">"Hi ha un límit de %1$s per als adjunts. Només el primer %2$s s'afegirà."</string>
   <string name="too_many_recipients">"El missatge té massa destinataris (%1$s). No pots tenir més de %2$s destinataris."</string>
   <string name="too_many_unsent_mms">"No es pot enviar missatge. Massa missatges multimèdia no enviats."</string>
   <string name="try_to_send">Intenta enviar</string>
