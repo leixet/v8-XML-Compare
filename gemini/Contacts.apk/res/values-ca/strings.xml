@@ -92,7 +92,6 @@
   <string name="call_sim2_menu_title">Marca a SIM 2</string>
   <string name="call_telex">Trucada tèlex</string>
   <string name="call_tty_tdd">Trucada TTY/TDD</string>
-  <string name="call_type_and_date">%1$s %2$s</string>
   <string name="call_unit">USD</string>
   <string name="call_work">Trucar a la feina</string>
   <string name="call_work_mobile">Trucar al mòbil de la feina</string>
