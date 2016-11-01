@@ -5,6 +5,7 @@
   <string name="about_title">Quant a</string>
   <string name="about_version">1.0.1</string>
   <string name="about_version_label">"Codi de versió"</string>
+  <string name="account_auth_fail">fallada en l\'autenticació del compte</string>
   <string name="actor">Actor</string>
   <string name="actor_intro">Quant a</string>
   <string name="ad_moredetail">Mostra els detalls</string>
