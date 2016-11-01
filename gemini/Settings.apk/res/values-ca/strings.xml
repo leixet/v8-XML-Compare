@@ -385,7 +385,6 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="battery_info_health_unspecified_failure">S\'ha produït un error desconegut</string>
   <string name="battery_info_label">Informació de la bateria</string>
   <string name="battery_info_level_label">Nivell de la bateria:</string>
-  <string name="battery_info_power_ac">AC</string>
   <string name="battery_info_power_ac_usb">AC+USB</string>
   <string name="battery_info_power_label">Endoll:</string>
   <string name="battery_info_power_unknown">Desconegut</string>
