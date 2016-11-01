@@ -34,6 +34,7 @@
   <string name="all">tot</string>
   <string name="all_ep">Tots ep</string>
   <string name="all_episode">Tots els episodis</string>
+  <string name="already_buy_vip">ja ha comprat VIP</string>
   <string name="app_charging_wifi_mode">Carregant per actualitzar l\'aplicació</string>
   <string name="app_charging_wifi_mode_summary">Actualitzar automàticament quan estigui connectat a Wi-Fi i carregant-se</string>
   <string name="app_latest_version">Ja està utilitzant l\'última versió de l\'aplicació</string>
