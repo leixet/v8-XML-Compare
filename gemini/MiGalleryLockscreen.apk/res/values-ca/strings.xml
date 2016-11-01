@@ -26,6 +26,9 @@
   <string name="ok_international">D\'acord</string>
   <string name="ok_lockscreen">D\'acord</string>
   <string name="ok_network">D\'acord i activar pantalles de bloqueig diàries</string>
+  <string name="platform_unavailable_qzone">instal·leu Qzone</string>
+  <string name="platform_unavailable_wechat">instal·leu WeChat</string>
+  <string name="platform_unavailable_wechatmoment">instal·leu WeChat</string>
   <string name="resource_apply">Aplicar</string>
   <string name="resource_no_network_text">"No es pot connectar a la xarxa."</string>
   <string name="setting_head">Configuració</string>
