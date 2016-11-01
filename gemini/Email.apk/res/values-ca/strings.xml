@@ -388,7 +388,6 @@
   <string name="folder_trash_name_en1">Missatges eliminats</string>
   <string name="folder_trash_name_en2">Missatge eliminat</string>
   <string name="folder_trash_name_en3">[Gmail]/Paperera</string>
-  <string name="formatted_subject">%1$s %2$s</string>
   <string name="forward">Reenvia</string>
   <string name="forward_attachment">Reenvia</string>
   <string name="forward_attribution">---------- Missatge reenviat ----------De: %1$s Data: %2$s Assumpte: %3$s Per: %4$s</string>
