@@ -50,6 +50,7 @@ Per esborrar l\'historial del Navegador, feu servir la configuració del Navegad
   <string name="menu_help">Ajuda</string>
   <string name="menu_settings">Configuració de cerca</string>
   <string name="network_unavailable">"Sense connexió a internet"</string>
+  <string name="permission_prompt_start">Permet</string>
   <string name="recent_apps">Aplicacions recents</string>
   <string name="recently_shortcut_label">Dreceres recents</string>
   <string name="remove_from_history">Voleu eliminar aquest element de l\'historial de cerca?</string>
