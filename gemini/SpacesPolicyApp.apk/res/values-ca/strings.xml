@@ -10,9 +10,15 @@
   <string name="dialog_password_expired_title">Contrasenya caducada</string>
   <string name="expiration_status_future">La contrasenya caducarà d\'aquí %1$s</string>
   <string name="expiration_status_past">La contrasenya va caducar fa %1$s</string>
+  <string name="label_activity_debug">Política de depuració</string>
   <string name="menu_action_export_json">Exporta JSON</string>
   <string name="menu_action_search_json">Cerca JSON</string>
+  <string name="mobile">mòbil</string>
+  <string name="notification_message">Premeu per començar l\'actualització de política</string>
+  <string name="notification_title">Actualització de Política</string>
   <string name="or">o</string>
+  <string name="policy_search_field_hint">Nom de la Política</string>
+  <string name="policy_update_disclaimer">L\'actualització de política de l\'espai pot incórrer en càrrecs per ús de la xarxa. Els usuaris haurien de consultar als proveïdors locals de servei per les quantitats carregades. Si hi esteu d\'acord amb aquestes condicions, seleccioneu «Sí» per començar l\'actualització de la política.</string>
   <string name="pref_title_last_applied_policy">Última política aplicada</string>
   <string name="pref_title_policy_delay">Política de retard</string>
   <string name="pref_title_sscm_address">Adreça SSCM</string>
@@ -24,4 +30,5 @@
   <string name="roaming">itinerància</string>
   <string name="securespaces_device_admin_description">Agent de dispositiu de Secure Spaces</string>
   <string name="space_status_registering">S\'està registrant&#8230;</string>
+  <string name="wifi">wifi</string>
 </resources>
