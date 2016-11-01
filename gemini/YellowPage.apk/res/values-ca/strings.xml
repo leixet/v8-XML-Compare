@@ -282,6 +282,7 @@ Comproveu el número de seguiment."</string>
   <string name="more_express_numbers">Més números exprés</string>
   <string name="navigation_search_all_cities">Totes les ciutats</string>
   <string name="navigation_search_automatically_positioned_city">Ciutat actual</string>
+  <string name="navigation_search_default_hint">Cerca les ubicacions</string>
   <string name="navigation_search_hot_cities">Popular</string>
   <string name="navigation_search_no_city_list">"No s'ha trobat res"</string>
   <string name="navigation_search_positioning">S\'està ubicant&#8230;</string>
@@ -336,6 +337,7 @@ Comproveu el número de seguiment."</string>
   <string name="quick_yellow_page_tab_phones">Telèfon</string>
   <string name="recharge_actual_price">Preu:</string>
   <string name="recharge_charge_range">Preu: %1$s-%2$s iuans</string>
+  <string name="recharge_charge_value">Preu: %s €</string>
   <string name="recharge_follow_name">Recàrrega</string>
   <string name="recharge_history">Historial de recàrrega</string>
   <string name="recharge_history_empty">Buit</string>
