@@ -410,7 +410,7 @@ Total: %3$s iuans"</string>
   <string name="upload_and_verify_fraud_num_on">Comparteix informació de trucades no desitjades</string>
   <string name="uploads_disabled">Les pujades de fitxers estan desactivades</string>
   <string name="user_agreement2">" Condicions del servei"</string>
-  <string name="user_agreement4">Política de privacitat</string>
+  <string name="user_agreement4">Política de privadesa</string>
   <string name="user_notice_identify_summary_format">"El telèfon utilitzarà la base de dades de MIUI per bloquejar trucades no desitjades quan es connecti al senyal Wi-Fi. Utilitzant aquest servei accepteu %1$s i %2$s de Xiaomi."</string>
   <string name="user_notice_identify_summary_format_cta">"El telèfon utilitzarà la base de dades de MIUI per bloquejar trucades no desitjades quan es connecti al senyal Wi-Fi. Utilitzant aquest servei accepteu %1$s i %2$s de Xiaomi."</string>
   <string name="user_notice_title">Avís</string>
