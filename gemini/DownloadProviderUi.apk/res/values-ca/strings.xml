@@ -35,6 +35,7 @@
   <string name="cancle">Cancel·lar</string>
   <string name="choose_open_time">"Seleccioneu quan vol començar"</string>
   <string name="clear_data">Netejar</string>
+  <string name="complete_time">Completat:</string>
   <string name="confirm">D\'acord</string>
   <string name="confirm_delete_downloads_message">%d descàrregues seran eliminades.</string>
   <string name="confirm_delete_the_download_item_message">Eliminar aquestes descàrregues?</string>
@@ -76,6 +77,7 @@
   <string name="download_error">Ha fallat</string>
   <string name="download_error_insufficient_space">Espai insuficient</string>
   <string name="download_filesize_unknown">Desconegut</string>
+  <string name="download_from">Font:</string>
   <string name="download_in_process">Descarregant</string>
   <string name="download_info_count_deleted_tasks">%s descàrregues eliminades</string>
   <string name="download_info_start_deleted_tasks">Eliminar descàrregues</string>
@@ -95,6 +97,7 @@
   <string name="download_paused">Descàrrega pausada</string>
   <string name="download_pending">Descàrrega pendent</string>
   <string name="download_queued">En cua</string>
+  <string name="download_remain_time">Restant:</string>
   <string name="download_running">En curs</string>
   <string name="download_share_dialog">Comparteix mitjançant</string>
   <string name="download_speed">Velocitat de baixada:</string>
@@ -111,8 +114,18 @@
   <string name="downloading_empty">Buit</string>
   <string name="downloads_operating">En procés&#8230;</string>
   <string name="dredge_xunlei_account">Crear un compte Xunlei</string>
+  <string name="durationDayHour">%1$d dia %2$d h</string>
+  <string name="durationDayHours">%1$d dia %2$d hrs</string>
+  <string name="durationDays">%1$d dies</string>
+  <string name="durationHourMinute">%1$d h %2$d min</string>
+  <string name="durationHourMinutes">%1$d h %2$d min</string>
+  <string name="durationHours">%1$d hs</string>
+  <string name="durationMinute">%1$d min</string>
   <string name="durationMinuteSecond">%1$d min %2$d seg</string>
   <string name="durationMinuteSeconds">%1$d min %2$d seg</string>
+  <string name="durationMinutes">%1$d min</string>
+  <string name="durationSecond">%1$d seg</string>
+  <string name="durationSeconds">%1$d seg</string>
   <string name="edit_hint">&#160;Introduir http, torrent, o direcció d\'eMule</string>
   <string name="editmode_menu_delete">Eliminar</string>
   <string name="editmode_menu_share">Compartir</string>
@@ -125,6 +138,7 @@
   <string name="extract_file">Extraient fitxer&#8230;</string>
   <string name="file_exist_hint">Aquest fitxer ja existeix</string>
   <string name="file_picker">Escull una ubicació</string>
+  <string name="file_size">Mida:</string>
   <string name="free_high_speed_channel">Accelerador Xunlei (gratuït)</string>
   <string name="free_speedup_exp">Provi gratis el accelerador de descàrregues Xunlei</string>
   <string name="get_account_dialog_msg">Obtenir informació del compte&#8230;</string>
