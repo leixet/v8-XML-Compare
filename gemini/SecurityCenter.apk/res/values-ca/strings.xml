@@ -150,6 +150,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="auto_task_operation_airplane_mode">Mode avió</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
   <string name="auto_task_operation_brightness">Brillantor de la pantalla</string>
+  <string name="auto_task_operation_close">Desactivat</string>
   <string name="auto_task_operation_gps">GPS</string>
   <string name="auto_task_operation_lockscreen_time">Pantalla de bloqueig</string>
   <string name="auto_task_operation_mobile_data">Dades mòbils</string>
