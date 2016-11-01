@@ -313,12 +313,12 @@
   <string name="mx_auto_resend_sms">Envia com MMS</string>
   <string name="mx_auto_resend_sms_summary">"S'envia com MMS mitjançant connexió de dades mòbils quan no estàs connectat a Wi-Fi (s'apliquen càrrecs normals per l'ús de dades)."</string>
   <string name="mx_b2c_message_desc">Notificacions de xarxa</string>
-  <string name="mx_b2c_message_resend_not_online">"No es pot reenviar el missatge. Mi Message està fora de línia."</string>
+  <string name="mx_b2c_message_resend_not_online">"No es pot reenviar el missatge. Missatge Mi està fora de línia."</string>
   <string name="mx_b2c_message_server">Servidor</string>
-  <string name="mx_btn_enable">Activar</string>
-  <string name="mx_btn_enable_now">Activar</string>
-  <string name="mx_count_dspt">"Has enviat %1$d SMS i %2$d MMS"</string>
-  <string name="mx_current_status">Data usage settings</string>
+  <string name="mx_btn_enable">Activa</string>
+  <string name="mx_btn_enable_now">Activa</string>
+  <string name="mx_count_dspt">"Heu enviat %1$d SMS i %2$d MMS de franc"</string>
+  <string name="mx_current_status">Configuració</string>
   <string name="mx_dspt">"Send messages to other MIUI devices without incurring charges"</string>
   <string name="mx_dspt_listview">Envieu missatges a altres dispositius MIUI sense incórrer en despeses</string>
   <string name="mx_dspt_provision">Mi Message permet enviar i rebre SMS amb qualsevol usuari de MIUI sense patir càrrecs de SMS. La seva companyia podria cobrar pel SMS usat per activar aquest servei.</string>
