@@ -9,6 +9,10 @@
     <item>Càmera</item>
     <item>Galeria</item>
   </string-array>
+  <string-array name="note_sort_way">
+    <item>Ordenat per data de creació</item>
+    <item>Ordenat per la data de modificació</item>
+  </string-array>
   <string-array name="contact_entries">
     <item>Nom</item>
     <item>Sobrenom</item>
