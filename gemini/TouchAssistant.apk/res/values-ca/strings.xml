@@ -10,6 +10,7 @@
   <string name="close_panel">Desactiva el Menú de dreceres</string>
   <string name="customize_entries">Seleccioneu les dreceres</string>
   <string name="enable_touch_assistant">Activa el menú de dreceres</string>
+  <string name="enabled_for_pad_hint">Funciona quan «Bloqueja els botons de navegació en mode apaïsat» estigui activat</string>
   <string name="function_settings">Configura les dreceres</string>
   <string name="hide_touch_assistant">Amaga automàticament</string>
   <string name="hide_touch_assistant_intro">Amaga el Menú de dreceres en aplicacions seleccionades.</string>
@@ -33,6 +34,7 @@
   <string name="name_screenshot">Captura de pantalla</string>
   <string name="name_wechat_payment_code">Pagament WeChat</string>
   <string name="name_wechat_scan">Escàner WeChat</string>
+  <string name="not_working">%s (no funciona)</string>
   <string name="open_panel">Activa el Menú de dreceres</string>
   <string name="pay_entry_dialog_title_select">Seleccioneu una aplicació per obrir</string>
   <string name="pay_entry_dialog_title_setting">Configura la aplicació</string>
