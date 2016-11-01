@@ -391,12 +391,10 @@ Total: %3$s iuans"</string>
   <string name="sina_token_expired_warning">El compte Weibo ha caducat: restaureu-lo</string>
   <string name="sina_token_invalid_warning">El compte Weibo no és vàlid: restaureu-lo</string>
   <string name="smart_antispam">Identificació de la trucada entrant</string>
-  <string name="tag_follow_status">tag_follow_status</string>
-  <string name="tag_follow_yp_id">tag_follow_yp_id</string>
   <string name="title_activity_di_di_web">DiDi</string>
-  <string name="toast_finish_delete_call_log">Registre de trucades eliminat</string>
+  <string name="toast_finish_delete_call_log">S\'ha eliminat el registre de trucades</string>
   <string name="toast_text_copied">S\'ha copiat el text</string>
-  <string name="try_again">Torna-ho a provar</string>
+  <string name="try_again">Torna a provar-ho</string>
   <string name="turn_off_hint_title">No voleu identificar les trucades entrants?</string>
   <string name="turn_off_phone_event_hint">"No podreu veure remarcats quan us truquin números desconeguts."</string>
   <string name="turn_off_smart_antispam_hint">"No podreu veure remarcats quan us truquin números de telèfon desconeguts."</string>
