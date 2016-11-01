@@ -11,6 +11,8 @@
   <string name="background">​​Amaga</string>
   <string name="cancel">Cancel·la</string>
   <string name="category_midrive">Mi Drive</string>
+  <string name="category_transport">Mostra transbordaments</string>
+  <string name="change_mobile_network_message">S\'ha canviat a dades mòbils. Si utilitzeu les dades mòbils per transferir fitxers l\'operador us pot cobrar càrrecs adicionals. Voleu transferir-los igualment?</string>
   <string name="confirm">D’acord</string>
   <string name="consumption_alert">Connexió a Internet</string>
   <string name="copy_failed">"No s'ha pogut copiar, sembla que l'emmagatzematge és ple"</string>
@@ -70,6 +72,7 @@
   <string name="operation_resume">Començar</string>
   <string name="operation_save">Envia</string>
   <string name="operation_send">Desa</string>
+  <string name="operation_task_manage">Mostra transbordaments</string>
   <string name="operation_upload">Pujar</string>
   <string name="paused">En pausa</string>
   <string name="petabyteShort">PB</string>
