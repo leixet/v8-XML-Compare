@@ -113,6 +113,14 @@
     <item quantity="other">Actualitzacions disponibles per %d aplicacions.</item>
     <item quantity="one">Actualització disponible per %d aplicació.</item>
   </plurals>
+  <plurals name="hints_handle_item_text_risk_number">
+    <item quantity="other">%d riscos,</item>
+    <item quantity="one">%d risc,</item>
+  </plurals>
+  <plurals name="hints_handle_item_text_virus_number">
+    <item quantity="other">%d troians,</item>
+    <item quantity="one">%d troià,</item>
+  </plurals>
   <plurals name="notification_apps">
     <item quantity="other">%d aplicacions contenen riscos de privacitat</item>
     <item quantity="one">%d aplicació conté riscos de privacitat</item>
