@@ -9,8 +9,10 @@
   <string name="alert_message_delete">Voleu eliminar %1$s?</string>
   <string name="alert_message_delete_note">Voleu eliminar aquesta nota?</string>
   <string name="alert_message_edit_anyway">Si s\'edita aquesta nota pot perdre part del seu contingut.</string>
+  <string name="alert_message_restore">"No es pot obrir aquesta nota. Restaureu-la per editar-ne el contingut."</string>
   <string name="alert_title_delete">Eliminar nota</string>
   <string name="alert_title_edit_anyway">Aquesta nota conté contingut no suportat</string>
+  <string name="alert_title_hidden_note">S\'ha rebut un recordatori de nota oculta</string>
   <string name="all_folder_name">Totes les notes</string>
   <string name="all_terms">%1$s i %2$s</string>
   <string name="app_name">Notes</string>
@@ -26,6 +28,9 @@
   <string name="dlg_check_reminder">"No ho mostris més"</string>
   <string name="dlg_delete_message">Eliminant&#8230;</string>
   <string name="dlg_desc_confirm_alarm_silent">Les alarmes actives no sonaran quan el timbre està silenciat.</string>
+  <string name="dlg_hide_message">S\'està ocultant&#8230;</string>
+  <string name="dlg_info_creating_message">S\'està creant el missatge&#8230;</string>
+  <string name="dlg_message_password_reset">"Les contrasenyes de les notes ocultes es canviaran per contrasenyes de protecció de privadesa que funcionen pels missatges, les fotos, i les carpetes ocultes"</string>
   <string name="dlg_move_message">Movent&#8230;</string>
   <string name="dlg_restore_message">S\'està restaurant&#8230;</string>
   <string name="dlg_title_confirm_alarm_silent">Silenciar alarmes</string>
