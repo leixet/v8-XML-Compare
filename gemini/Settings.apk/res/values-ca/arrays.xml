@@ -1127,9 +1127,6 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>UY</item>
     <item>VE</item>
   </string-array>
-  <string-array name="ncc_locales">
-    <item>TW</item>
-  </string-array>
   <string-array name="common_password_business_names">
     <item>Bloqueig de pantalla</item>
     <item>Mode d\'infants</item>
