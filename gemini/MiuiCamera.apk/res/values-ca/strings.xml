@@ -348,7 +348,6 @@
   <string name="pref_front_mirror_entry_on">Ences</string>
   <string name="pref_front_mirror_title">Càmera frontal mirall</string>
   <string name="pref_manual_exposure_title">Exposició manual</string>
-  <string name="pref_mi_front_video_quality_default">6</string>
   <string name="pref_priority_storage_title">Desar a la targeta SD</string>
   <string name="pref_qc_focus_position_title">Enfocar</string>
   <string name="pref_scan_qrcode_title">Escaneja el codi QR</string>
@@ -372,7 +371,6 @@
   <string name="pref_video_quality_entry_4kuhd">4K</string>
   <string name="pref_video_quality_entry_720p">HD</string>
   <string name="pref_video_quality_entry_fwvga">FWVGA</string>
-  <string name="pref_video_quality_entry_value_4kuhd">8</string>
   <string name="pref_video_quality_entry_vga">VGA</string>
   <string name="pref_video_quality_entry_wqvga">WQVGA</string>
   <string name="pref_video_quality_entry_wvga">WVGA</string>
