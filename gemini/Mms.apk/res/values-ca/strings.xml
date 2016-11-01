@@ -574,12 +574,12 @@
   <string name="snippet_picture">[picture]</string>
   <string name="snippet_red_package">[Paquet vermell]</string>
   <string name="sp_category_all">Tots els missatges de servei</string>
-  <string name="sp_category_bank">Missatges de servei Banc</string>
+  <string name="sp_category_bank">Missatges de notificació del banc</string>
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Notificacions</string>
-  <string name="sp_mark_as_read">Marca tots els missatges com a llegits?</string>
+  <string name="sp_mark_as_read">Voleu marca tots els missatges com a llegits?</string>
   <string name="sp_mark_as_read_menu_title">Marca com a llegit</string>
-  <string name="sp_mark_as_read_progress">Marcant com llegit&#8230;</string>
+  <string name="sp_mark_as_read_progress">S\'està treballant&#8230;</string>
   <string name="sp_mark_as_read_title">Mark all as read</string>
   <string name="status_failed">No realitzat</string>
   <string name="status_label">"Estat: "</string>
