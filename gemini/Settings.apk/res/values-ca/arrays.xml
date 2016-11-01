@@ -537,6 +537,22 @@
     <item>Com a molt 3 processos</item>
     <item>Com a molt 4 processos</item>
   </string-array>
+  <string-array name="vpn_types">
+    <item>PPTP</item>
+    <item>L2TP/IPSec PSK</item>
+    <item>L2TP/IPSec RSA</item>
+    <item>IPSec Xauth PSK</item>
+    <item>IPSec Xauth RSA</item>
+    <item>IPSec Hybrid RSA</item>
+  </string-array>
+  <string-array name="vpn_types_long">
+    <item>PPTP VPN</item>
+    <item>VPN L2TP/IPSec amb claus prèviament compartides</item>
+    <item>VPN L2TP/IPSec amb certificats</item>
+    <item>VPN IPSec amb claus prèviament compartides i autenticació Xauth</item>
+    <item>VPN IPSec amb certificats i autenticació Xauth</item>
+    <item>VPN IPSec amb certificats i autenticació híbrida</item>
+  </string-array>
   <string-array name="vpn_states">
     <item>Desconnectat</item>
     <item>S\'està inicialitzant&#8230;</item>
@@ -554,8 +570,8 @@
   </string-array>
   <string-array name="security_settings_premium_sms_values">
     <item>Pregunta</item>
-    <item>Never allow</item>
-    <item>Always allow</item>
+    <item>No ho permetis mai</item>
+    <item>Permet-ho sempre</item>
   </string-array>
   <string-array name="ram_states">
     <item>Normal</item>
@@ -599,7 +615,7 @@
     <item>MTP (Media Transfer Protocol)</item>
     <item>PTP (Picture Transfer Protocol)</item>
     <item>RNDIS (USB Ethernet)</item>
-    <item>Audio Source</item>
+    <item>Font d\'àudio</item>
     <item>MIDI</item>
   </string-array>
   <string-array name="wifi_calling_mode_choices">
