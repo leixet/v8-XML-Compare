@@ -36,6 +36,7 @@ Per esborrar l\'historial del Navegador, feu servir la configuració del Navegad
   <string name="device_settings_category_title">Esborrar les dreceres</string>
   <string name="distance_unit_kilometer">km</string>
   <string name="distance_unit_meter">m</string>
+  <string name="entrance_setting">S\'està obrint la cerca</string>
   <string name="google_app_label">Cerca de Google</string>
   <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
   <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
