@@ -15,9 +15,9 @@
     <item>Pantalla completa</item>
     <item>Surt de la pantalla completa</item>
     <item>S\'està executant l\'aplicació en segon pla</item>
-    <item>Phone is charging</item>
-    <item>"Phone isn't charging"</item>
-    <item>Phone is idle</item>
+    <item>El telèfon s\'està carregant</item>
+    <item>"El telèfon no s'està carregant"</item>
+    <item>El telèfon està inactiu</item>
   </string-array>
   <string-array name="action_name_translate">
     <item>Max display brightness</item>
