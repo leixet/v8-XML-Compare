@@ -509,7 +509,6 @@ o introdueixi la seva contrasenya"</string>
   <string name="hints_need_quick_clean">Cercar i eliminar fitxers perillosos</string>
   <string name="hints_need_quick_scan">Es recomana escaneig ràpid</string>
   <string name="hints_need_regular_scan">Escaneja el teu dispositiu regularment</string>
-  <string name="hints_power_percent_title">bateria</string>
   <string name="hints_remember_choice">Recordar preferència</string>
   <string name="hints_risk_apk_list_item_summary">Risc (apk)</string>
   <string name="hints_risk_app_list_item_summary">Risc (app)</string>
