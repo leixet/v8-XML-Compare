@@ -238,12 +238,6 @@
     <item>CHAP</item>
     <item>PAP o CHAP</item>
   </string-array>
-  <string-array name="apn_auth_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-  </string-array>
   <string-array name="bearer_entries">
     <item>Unspecified</item>
     <item>LTE</item>
@@ -261,24 +255,6 @@
     <item>1xRTT</item>
     <item>IS95B</item>
     <item>IS95A</item>
-  </string-array>
-  <string-array name="bearer_values">
-    <item>0</item>
-    <item>14</item>
-    <item>15</item>
-    <item>11</item>
-    <item>10</item>
-    <item>9</item>
-    <item>3</item>
-    <item>2</item>
-    <item>1</item>
-    <item>13</item>
-    <item>12</item>
-    <item>8</item>
-    <item>7</item>
-    <item>6</item>
-    <item>5</item>
-    <item>4</item>
   </string-array>
   <string-array name="mvno_type_entries">
     <item>Cap</item>
@@ -546,14 +522,6 @@
     <item>Com a molt 3 processos</item>
     <item>Com a molt 4 processos</item>
   </string-array>
-  <string-array name="app_process_limit_values">
-    <item>-1</item>
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-  </string-array>
   <string-array name="vpn_states">
     <item>Desconnectat</item>
     <item>S\'està inicialitzant&#8230;</item>
@@ -569,13 +537,6 @@
     <item>Ximpanzé</item>
     <item>Mono</item>
   </string-array>
-  <string-array name="user_content_ratings_values">
-    <item>5</item>
-    <item>4</item>
-    <item>3</item>
-    <item>2</item>
-    <item>1</item>
-  </string-array>
   <string-array name="security_settings_premium_sms_values">
     <item>Pregunta</item>
     <item>Never allow</item>
@@ -587,13 +548,6 @@
     <item>Baix</item>
     <item>Crític</item>
     <item>\?</item>
-  </string-array>
-  <string-array name="simulate_color_space_values">
-    <item>-1</item>
-    <item>0</item>
-    <item>2</item>
-    <item>1</item>
-    <item>3</item>
   </string-array>
   <string-array name="proc_stats_memory_states">
     <item>Normal</item>
@@ -903,12 +857,6 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Baixa</item>
     <item>Al mig</item>
     <item>Alt</item>
-  </string-array>
-  <string-array name="whetstone_level_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
   </string-array>
   <string-array name="agps_network_entries">
     <item>Xarxa domèstica</item>
