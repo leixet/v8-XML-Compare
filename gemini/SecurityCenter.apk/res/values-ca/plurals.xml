@@ -121,6 +121,14 @@
     <item quantity="other">%d troians,</item>
     <item quantity="one">%d troià,</item>
   </plurals>
+  <plurals name="hints_scan_result_virus_number">
+    <item quantity="other">%d riscos</item>
+    <item quantity="one">%d risc</item>
+  </plurals>
+  <plurals name="hints_scan_result_danger">
+    <item quantity="other">%d riscos trobats, arregleu-los</item>
+    <item quantity="one">%d risc trobat, arregleu-lo</item>
+  </plurals>
   <plurals name="notification_apps">
     <item quantity="other">%d aplicacions contenen riscos de privacitat</item>
     <item quantity="one">%d aplicació conté riscos de privacitat</item>
