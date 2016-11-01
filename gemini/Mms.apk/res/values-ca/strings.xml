@@ -500,6 +500,7 @@
   <string name="search">Missatgeria</string>
   <string name="search_empty">Sense coincidències</string>
   <string name="search_hint">Search messages</string>
+  <string name="search_keyword_mms">Missatgeria;SMS;MMS;Text;Missatges de text;Missatge;Missatges</string>
   <string name="search_label">Missatgeria</string>
   <string name="search_path_mms">Configuració/Aplicacions del sistema/Missatges</string>
   <string name="search_setting_description">Text en els seus missatges</string>
