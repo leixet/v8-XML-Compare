@@ -357,15 +357,15 @@ Comproveu el número de seguiment."</string>
   <string name="recharge_payment_result_progress_summary">S\'està comprovant el resultat del pagament&#8230;</string>
   <string name="recharge_phone">Numero a recarregar:</string>
   <string name="recharge_phone_format">%1$s / %2$s</string>
-  <string name="recharge_phone_number_empty">"El camp número de telèfon no pot estar buit"</string>
+  <string name="recharge_phone_number_empty">"Cal introduir un número de telèfon"</string>
   <string name="recharge_phone_number_error">El número de telèfon introduït no és vàlid</string>
-  <string name="recharge_select_money_title">Seleccioneu la quantitat de la recàrrega</string>
+  <string name="recharge_select_money_title">Seleccioneu la quantitat a recarregar</string>
   <string name="recharge_status_description">Estat:</string>
   <string name="recharge_title">Recàrrega</string>
   <string name="recharge_unknown_number">Desconegut</string>
-  <string name="recharge_user_confirm_summary">"Se li cobraran %2$s € per %1$s.  
+  <string name="recharge_user_confirm_summary">"Us cobraran %2$s iuans per %1$s.
 
-Total: %3$s € "</string>
+Total: %3$s iuans"</string>
   <string name="recharge_user_confirm_title">Confirmació de la recàrrega</string>
   <string name="refresh">Actualitza</string>
   <string name="remember_preference">Recorda la preferència</string>
