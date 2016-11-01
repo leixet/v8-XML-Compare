@@ -237,9 +237,11 @@
   <string name="cfnrc_title_cta">Desviament si fora de cobertura</string>
   <string name="cfnry_title">Desviament si no es respon</string>
   <string name="cfu_title">Desviament incondicional</string>
+  <string name="change_data_preference_4g_only_prompt">Sembla que teniu una targeta SIM que només suporta 4G. Voleu establir-la per defecte per a les dades mòbils?</string>
   <string name="change_default_data_card">SIM de dades mòbils per defecte</string>
   <string name="change_default_data_card_summary">Sembla que va canviar les targetes SIM. Establir aquesta targeta com a targeta SIM per defecte de la seva connexió de dades mòbils?</string>
   <string name="change_num">Actualitza</string>
+  <string name="change_password">Canvia la contrasenya de restricció</string>
   <string name="change_pin">Canvia el PIN de la SIM</string>
   <string name="change_pin2">Canvia el PIN2</string>
   <string name="chose_product_summary">Trucades més barates</string>
@@ -257,6 +259,7 @@
   <string name="config_default_data_sim">Configuració</string>
   <string name="confirmPin2Label">Confirmar nou PIN2</string>
   <string name="confirmPinLabel">Confirmeu el PIN nou</string>
+  <string name="confirm_password_label">Confirmeu la nova contrasenya</string>
   <string name="confirm_pin2_label">Confirmeu el PIN2 nou</string>
   <string name="confirm_pin_label">Confirmeu el PIN nou</string>
   <string name="connect_disconnect_vibrate_none">Cap</string>
@@ -348,8 +351,11 @@
   <string name="disable_fdn_ok">Activa els NMP</string>
   <string name="disable_pin_ok">El PIN s\'ha esborrat</string>
   <string name="disable_sim_pin">Esborra el PIN de la SIM</string>
+  <string name="display_name">DisplayName</string>
+  <string name="display_name_summary">&lt;Igual que el nombre d\'usuari&gt;</string>
   <string name="display_name_title">Mostra nom</string>
   <string name="do_not_ask">"No m'ho tornis a preguntar"</string>
+  <string name="domain_address">SipDomain</string>
   <string name="domain_address_title">Servidor</string>
   <string name="domestic_calls">Només domèstic</string>
   <string name="doneButton">Fet</string>
@@ -415,6 +421,7 @@
   <string name="ensure_info">Sí</string>
   <string name="enterName">Nom</string>
   <string name="enterNumber">Número de telèfon</string>
+  <string name="enter_callbarring_password">Introduïu la contrasenya de restricció de trucades (4 dígits)</string>
   <string name="enter_input" formatted="false">Un missatge USSD ha de tenir entre %d i %d caràcters. Si us plau torneu a provar.</string>
   <string name="enter_pin2_text">PIN2</string>
   <string name="enter_pin_text">PIN de la SIM:</string>
@@ -445,6 +452,7 @@
   <string name="fdn_contact_deleted">Número de marcatge predefinit eliminat.</string>
   <string name="fdn_contact_updated">Número de marcatge predefinit actualitzat.</string>
   <string name="fdn_disabled">Els números de marcatge predefinit estan desactivats</string>
+  <string name="fdn_enable_puk2_requested">Contrasenya incorrecta, PIN2 bloquejat. Canvieu el PIN2 i torneu-ho a provar.</string>
   <string name="fdn_enabled">Els números de marcatge predefinit estan activats</string>
   <string name="fdn_failed">El marcatge NMP ha fallat.</string>
   <string name="fdn_full">"NMP no s'ha actualitzat perquè la llista està completa."</string>
@@ -480,6 +488,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="help_view">Ajuda</string>
   <string name="hintName">Nom</string>
   <string name="hintPhonenumber">Número de telèfon</string>
+  <string name="home_screen_shortcut">Drecera a la pantalla d\'inici</string>
   <string name="importAllSimEntries">Importa-ho tot</string>
   <string name="importSimEntry">Importa</string>
   <string name="importToFDNfromContacts">Importa des de contactes</string>
@@ -519,6 +528,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="invalidPin2">Introduïu un PIN2 que tingui entre 4 i 8 dígits.</string>
   <string name="invalidPsw">El PIN que heu introduït no és vàlid</string>
   <string name="invalidPuk2">Introduïu un PUK2 de 8 dígits.</string>
+  <string name="invalid_password">Introduïu una contrasenya de 4 números</string>
   <string name="invalid_pin">Introduïu un PIN que tingui entre 4 i 8 dígits.</string>
   <string name="invalid_pin2">Introduïu un PIN2 que tingui entre 4 i 8 dígits.</string>
   <string name="invalid_puk">Introduïu un PUK de 4 a 8 números.</string>
@@ -1018,6 +1028,7 @@ Queden %d intents."</string>
   <string name="pstn_connection_service_label">Targetes SIM integrades</string>
   <string name="pstn_phone">Trucada de telèfon mòbil</string>
   <string name="psw_enter_new">Nova contrasenya</string>
+  <string name="psw_enter_old">Contrasenya antiga</string>
   <string name="puk2_blocked">PUK2 està bloquejat permanentment.</string>
   <string name="puk2_label">Introduïu el codi PUK2</string>
   <string name="puk_label">Introduïu el codi PUK</string>
@@ -1282,6 +1293,7 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="title_user_config">Activa targeta SIM</string>
   <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
   <string name="top_up_first">Recarregueu primer</string>
+  <string name="transport_title">Tipus de transport</string>
   <string name="tty_mode_key">button_tty_mode_key</string>
   <string name="tty_mode_not_allowed_video_call">No es pot canviar el mode TTY durant una videotrucada</string>
   <string name="tty_mode_option_summary">Estableix mode TTY</string>
@@ -1305,6 +1317,7 @@ Voleu utilitzar-lo en un paquet de recàrrega?"</string>
   <string name="use_history">Activitat</string>
   <string name="use_history_duration_min">%1$smin</string>
   <string name="use_range">Gamma</string>
+  <string name="username">UserName</string>
   <string name="username_title">Nom d\'usuari</string>
   <string name="ussdRunning">El codi USSD està funcionant&#8230;</string>
   <string name="ussd_dialog_sep">----------</string>
