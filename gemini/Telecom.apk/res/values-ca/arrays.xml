@@ -131,28 +131,13 @@
     <item>Com a molt 3 processos</item>
     <item>Com a molt 4 processos</item>
   </string-array>
-  <string-array name="app_process_limit_values">
-    <item>-1</item>
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-  </string-array>
   <string-array name="usb_configuration_titles">
     <item>S\'està carregant</item>
     <item>MTP (Media Transfer Protocol)</item>
     <item>PTP (Picture Transfer Protocol)</item>
     <item>RNDIS (USB Ethernet)</item>
-    <item>Audio Source</item>
+    <item>Font d\'àudio</item>
     <item>MIDI</item>
-  </string-array>
-  <string-array name="simulate_color_space_values">
-    <item>-1</item>
-    <item>0</item>
-    <item>2</item>
-    <item>1</item>
-    <item>3</item>
   </string-array>
   <string-array name="tts_rate_entries">
     <item>Molt lent</item>
@@ -182,9 +167,14 @@
     <item>kor</item>
   </string-array>
   <string-array name="color_mode_names">
-    <item>Vibrant (default)</item>
+    <item>Vibrant (predeterminat)</item>
     <item>Natural</item>
     <item>Estàndard</item>
+  </string-array>
+  <string-array name="color_mode_descriptions">
+    <item>Colors millorats</item>
+    <item>Colors naturals tal com els veu l\'ull humà</item>
+    <item>Colors optimitzats per al contingut digital</item>
   </string-array>
   <string-array name="battery_labels">
     <item>0%</item>
