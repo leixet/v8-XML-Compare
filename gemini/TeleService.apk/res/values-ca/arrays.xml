@@ -142,8 +142,14 @@
     <item>1</item>
     <item>0</item>
   </string-array>
+  <string-array name="call_barring_outgoing_display_values">
+    <item>Desactivat</item>
+    <item>Roaming call barring</item>
+    <item>International call barring</item>
+    <item>Outgoing call barring</item>
+  </string-array>
   <string-array name="call_barring_incoming_display_values">
-    <item>Off</item>
+    <item>Desactivat</item>
     <item>Itinerància</item>
     <item>Tot</item>
   </string-array>
