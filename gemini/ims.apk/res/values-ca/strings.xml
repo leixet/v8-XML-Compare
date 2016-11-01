@@ -6,5 +6,6 @@
   <string name="device_is_hd_capable">El dispositiu és compatible amb HD</string>
   <string name="error_msg_cancelled">Cancel·lat</string>
   <string name="error_msg_failed">Ha fallat</string>
+  <string name="error_msg_reinvite_collision">Torna a convidar Collision</string>
   <string name="incoming_call_failed_low_battery">A causa de la bateria baixa ha fallat la trucada entrant.</string>
 </resources>
