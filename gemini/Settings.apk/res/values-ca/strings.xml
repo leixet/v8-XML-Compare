@@ -3737,7 +3737,7 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="total_memory">Memòria total</string>
   <string name="total_size">%s en total</string>
   <string name="total_size_label">Total</string>
-  <string name="touch_assistant">Assistent tàctil</string>
+  <string name="touch_assistant">Menú de dreceres</string>
   <string name="touch_filtered_warning">Com que hi ha una aplicació que amaga una sol·licitud de permís, des de la configuració no es pot verificar la resposta.</string>
   <string name="touch_sensitive_summary">Fes que la pantalla sigui més sensible a la pressió</string>
   <string name="touch_sensitive_title">Mode de Guants</string>
