@@ -186,6 +186,7 @@
   <string name="notification_action_answer_video">Vídeo</string>
   <string name="notification_action_answer_voice">Veu</string>
   <string name="notification_action_dismiss">Rebutja</string>
+  <string name="notification_action_earpiece">Auricular</string>
   <string name="notification_action_end_call">Penja</string>
   <string name="notification_action_speaker">Altaveu</string>
   <string name="notification_dialing">S\'està trucant</string>
