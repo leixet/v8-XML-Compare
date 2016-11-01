@@ -4,7 +4,10 @@
   <string name="carrier_name">(Nom de l\'operador)</string>
   <string name="change">Estableix</string>
   <string name="close">Tanca</string>
+  <string name="default_sim_setting">Torna als paràmetres per defecte de la SIM com a:</string>
+  <string name="lte_checkbox_text">Estableix les dades mòbils a la targeta SIM seleccionada un cop la targeta SIM amb 4G/3G per defecte es canviï.</string>
   <string name="lte_recognition_title">Reconeixement de targeta SIM</string>
+  <string name="lte_recognize_summary">S\'han detectat dues targetes SIM amb 4G/3G. Heu d\'establir-ne una per defecte:</string>
   <string name="lte_set">Estableix</string>
   <string name="mobile_data">"Dades mòbils: "</string>
   <string name="mobile_data_off">desactivat</string>
