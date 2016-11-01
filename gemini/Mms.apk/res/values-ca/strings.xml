@@ -385,7 +385,7 @@
   <string name="pref_messages_to_save">Estableix el número de missatges que es desaran</string>
   <string name="pref_mms_settings_title">Missatges multimèdia (MMS)</string>
   <string name="pref_notification_settings_title">Notificacions</string>
-  <string name="pref_other_title">Altres</string>
+  <string name="pref_other_title">Configuració addicional</string>
   <string name="pref_show_blocked_messages_summary">Mostra els SMS bloquejats a la llista de converses</string>
   <string name="pref_show_sms_template_in_summary">Detecta automàticament OTP en missatges SMS</string>
   <string name="pref_show_sms_template_summary">Automatically detect one-time passwords in SMS messages</string>
