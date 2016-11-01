@@ -9,4 +9,8 @@
     <item quantity="other">A %1$d passos d\'apagar de manera definitiva</item>
     <item quantity="one">A %1$d pas d\'apagar de manera definitiva</item>
   </plurals>
+  <plurals name="power_config_ultimate_unlock_count">
+    <item quantity="other">Acabeu %1$d passos per desbloquejar tots els elements</item>
+    <item quantity="one">Acabeu %1$d pas per desbloquejar tots els elements</item>
+  </plurals>
 </resources>
