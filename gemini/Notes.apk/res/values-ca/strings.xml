@@ -31,9 +31,14 @@
   <string name="dlg_hide_message">S\'està ocultant&#8230;</string>
   <string name="dlg_info_creating_message">S\'està creant el missatge&#8230;</string>
   <string name="dlg_message_password_reset">"Les contrasenyes de les notes ocultes es canviaran per contrasenyes de protecció de privadesa que funcionen pels missatges, les fotos, i les carpetes ocultes"</string>
+  <string name="dlg_message_set_password">Les contrasenyes de protecció de privadesa funcionen amb els missatges, les fotos i les carpetes ocultes</string>
+  <string name="dlg_message_use_privacy_password">Utilitzeu una contrasenya de protecció de privadesa. Funciona amb els missatges, les fotos i les carpetes ocultes</string>
   <string name="dlg_move_message">Movent&#8230;</string>
+  <string name="dlg_quick_delete_title">Supressió ràpida</string>
   <string name="dlg_restore_message">S\'està restaurant&#8230;</string>
+  <string name="dlg_stick_message">S\'està fixant&#8230;</string>
   <string name="dlg_title_confirm_alarm_silent">Silenciar alarmes</string>
+  <string name="dlg_title_password_reset">Actualitzeu la contrasenya</string>
   <string name="dlg_title_set_password">Establir contrasenya</string>
   <string name="enable_sync">Sincronització</string>
   <string name="enable_sync_desc">Sincronitza les teves notes amb el teu compte de Mi (%1$s)?</string>
@@ -86,6 +91,7 @@
   <string name="pref_title_font_size">Mida de la font</string>
   <string name="pref_title_note_style">Estil de nota</string>
   <string name="pref_title_recover_help">Recuperar notes</string>
+  <string name="pref_title_skip_confirm_for_quick_delete">Supressió ràpida</string>
   <string name="redo">Refer</string>
   <string name="rename_folder_dialog_tile">Reanomenar carpeta</string>
   <string name="search">Notes</string>
