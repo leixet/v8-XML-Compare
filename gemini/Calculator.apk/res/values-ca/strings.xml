@@ -315,7 +315,6 @@
   <string name="unit_data_short_velocity_mach">Mach</string>
   <string name="unit_data_short_velocity_mileph">milles/h</string>
   <string name="unit_data_short_velocity_mps">m/s</string>
-  <string name="unit_data_short_velocity_nmiph">nusos</string>
   <string name="unit_data_short_volume_cu.af">af³</string>
   <string name="unit_data_short_volume_cu.cm">cm³</string>
   <string name="unit_data_short_volume_cu.dm">dm³</string>
