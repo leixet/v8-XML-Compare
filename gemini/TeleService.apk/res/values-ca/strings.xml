@@ -687,6 +687,7 @@ per començar a utilitzar el paquet de recàrrega"</string>
   <string name="msim_disable_sim_card_btn_text">D\'acord</string>
   <string name="msim_disable_sim_card_summary_default_card">"Aquesta targeta està configurada com la vostra SIM per defecte. Si la desactiveu, no podreu fer trucades ni utilitzar la connexió de dades. Podeu desactivar aquesta SIM després configurar-ne una altra com la vostra targeta per defecte."</string>
   <string name="msim_disable_sim_card_summary_non_default_card">Podria ser que ja no poguéssiu realitzar trucades ni utilitzar la connexió de dades. Voleu desactivar la targeta SIM %s?</string>
+  <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"No restringiu la retrotrucada de la SIM secundaria en cas d'emergència."</string>
   <string name="msim_disable_sim_card_title">Desactiva targeta SIM</string>
   <string name="msim_enable_sim">Activa</string>
   <string name="msim_general_setting">Paràmetres</string>
@@ -754,6 +755,7 @@ S\'utilitza en el seu lloc la xarxa preferida."</string>
   <string name="networks_title">Xarxes mòbils</string>
   <string name="newPin2Label">PIN2 nou</string>
   <string name="newPinLabel">PIN nou</string>
+  <string name="new_password_label">Nova contrasenya de 4 dígits</string>
   <string name="new_pin2_label">Nou PIN2</string>
   <string name="new_pin_label">Nou PIN</string>
   <string name="no_balance_message">No hi ha prou saldo en el vostre paquet de recàrrega. Altrament, podeu provar de fer una trucada normal.</string>
@@ -769,6 +771,7 @@ S\'utilitza en el seu lloc la xarxa preferida."</string>
   <string name="no_vm_number_msg">No hi ha número de correu de veu emmagatzemat en la targeta SIM.</string>
   <string name="no_voip">Trucades per Internet no suportades</string>
   <string name="no_wifi_available">Necessiteu estar connectat a una xarxa Wi-Fi per fer trucades per internet (utilitzeu els paràmetres de la xarxa &amp; Wi-Fi).</string>
+  <string name="not_a_valid_port">El número de port ha d\'estar entre 1000 i 65534.</string>
   <string name="not_activate_sim_card_content">"El paquet de recàrrega no ha estat verificat per a la targeta SIM seleccionada. Proveu a fer servir la vostra SIM normal per fer aquesta trucada. El teu proveïdor et cobrarà per aquesta trucada."</string>
   <string name="not_activate_sim_card_content_title">"El número de telèfon no s'ha verificat"</string>
   <string name="not_activate_sim_card_content_with_operator">"El paquet de recàrrega no s'ha verificat per la targeta SIM %1$s(%2$s) que heu seleccionat. Proveu d'utilitzar la vostra SIM normal per fer aquesta trucada. El vostre operador us cobrarà per a aquesta trucada."</string>
@@ -792,6 +795,7 @@ S\'utilitza en el seu lloc la xarxa preferida."</string>
   <string name="ok">D\'acord </string>
   <string name="oldPin2Label">PIN2 antic</string>
   <string name="oldPinLabel">PIN antic</string>
+  <string name="old_password_label">Contrasenya anterior de 4 dígits</string>
   <string name="old_pin2_label">PIN2</string>
   <string name="old_pin_label">PIN antic</string>
   <string name="onHold">En espera</string>
@@ -1029,10 +1033,13 @@ Queden %d intents."</string>
   <string name="pstn_phone">Trucada de telèfon mòbil</string>
   <string name="psw_enter_new">Nova contrasenya</string>
   <string name="psw_enter_old">Contrasenya antiga</string>
+  <string name="psw_reenter_new">Introduïu la contrasenya de nou</string>
   <string name="puk2_blocked">PUK2 està bloquejat permanentment.</string>
   <string name="puk2_label">Introduïu el codi PUK2</string>
+  <string name="puk2_requested">Contrasenya incorrecta, la targeta SIM es bloquejarà. Introduïu el PUK2.</string>
   <string name="puk_label">Introduïu el codi PUK</string>
   <string name="puk_lock_warning">"La vostra targeta SIM es bloquejarà després d\'un altre intent incorrecte."</string>
+  <string name="puk_requested">La contrasenya no és correcta i el PIN es bloquejarà. Introduïu el PUK.</string>
   <string name="puk_unlock_failed">El desbloqueig PUK no s\'ha pogut fer.</string>
   <string name="puk_unlock_success">S\'ha pogut desbloquejar el PUK.</string>
   <string name="puk_unlocked">La vostra targeta SIM s\'ha desbloquejat. El vostre telèfon s\'està desbloquejant&#8230;</string>
@@ -1060,6 +1067,7 @@ Queden %d intents."</string>
   <string name="registration_status_checking_status">S\'està comprovant l\'estat...</string>
   <string name="registration_status_done">Es poden rebre trucades.</string>
   <string name="registration_status_failed_try_later">Registre del compte incorrecte: (%s); es provarà més tard</string>
+  <string name="registration_status_invalid_credentials">Ha fallat el registre del compte: Nom d\'usuari o contrasenya incorrectes.</string>
   <string name="registration_status_no_data">El registre del compte s\'ha aturat perquè no hi havia connexió a Internet.</string>
   <string name="registration_status_no_wifi_data">El registre del compte s\'ha aturat perquè no hi havia connexió sense fils.</string>
   <string name="registration_status_not_receiving">No es poden rebre trucades.</string>
