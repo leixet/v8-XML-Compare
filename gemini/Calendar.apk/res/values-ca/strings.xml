@@ -83,7 +83,6 @@
   <string name="card_title_change">Canvia el títol de la targeta</string>
   <string name="change_response_title">Canvia la resposta</string>
   <string name="check_reminded_text">Comproveu els recordatoris</string>
-  <string name="chinese_leap">Intercalar</string>
   <string name="chongsha">Fantasmes</string>
   <string name="click_watch">Toca per veure-ho</string>
   <string name="common_fri">Divendres</string>
@@ -179,7 +178,6 @@
   <string name="event_info_title_invite">Invitació a la reunió</string>
   <string name="event_info_when">Quan\u0009\u0009</string>
   <string name="event_info_where">On\u0009</string>
-  <string name="event_lunar_month">Mes</string>
   <string name="event_show_more">Més opcions</string>
   <string name="event_title">Títol</string>
   <string name="event_view">Mostra l\'esdeveniment</string>
