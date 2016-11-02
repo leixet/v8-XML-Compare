@@ -4,6 +4,7 @@
   <string name="Accounts_settings_title">Cuentas</string>
   <string name="aaid_info">"
 El identificador de anuncios es único y permanente para su dispositivo. Los vendedores lo usan con motivo de ofrecerle anuncios más útiles."</string>
+  <string name="about_phone_enter_xiaomi_net">Más información</string>
   <string name="about_settings">Acerca del dispositivo</string>
   <string name="about_settings_summary">Ver información legal, estado, versión de software del tablet</string>
   <string name="ac_enable_summary">Se requerirá una contraseña para abrir la aplicación</string>
@@ -942,6 +943,8 @@ Esta configuración afecta a todos los usuarios del teléfono."</string>
   <string name="device_admin_status">Este administrador está activo y permite que la aplicación %1$s realice las siguientes operaciones:</string>
   <string name="device_admin_title">Administración del dispositivo</string>
   <string name="device_admin_warning">Si activas este administrador, la aplicación %1$s podrá realizar las siguientes operaciones:</string>
+  <string name="device_complete_parameters">Completa</string>
+  <string name="device_display_layout_title">Caracteristicas</string>
   <string name="device_edit_title">Renombrar teléfono</string>
   <string name="device_feedback">Envía comentarios del dispositivo</string>
   <string name="device_info_default">Desconocido</string>
@@ -949,6 +952,7 @@ Esta configuración afecta a todos los usuarios del teléfono."</string>
   <string name="device_info_not_available">No disponible</string>
   <string name="device_info_settings">Estado del dispositivo</string>
   <string name="device_internal_memory">Memoria interna</string>
+  <string name="device_miui_more">Ver más</string>
   <string name="device_miui_version">Versión MIUI</string>
   <string name="device_name">Nombre del dispositivo</string>
   <string name="device_name_input_error">"No se pudo guardar el nombre del dispositivo"</string>
@@ -1746,6 +1750,7 @@ Para borrar la música, las imágenes y otros datos de usuario, debes borrar el 
   <string name="menu_proc_stats_type_foreground">En primer plano</string>
   <string name="menu_restore">Restablecer</string>
   <string name="menu_save">Guardar</string>
+  <string name="menu_share">Compartir</string>
   <string name="menu_show_system">Mostrar sistema</string>
   <string name="menu_stats_last_unplugged">Durante la última desconexión para %1$s</string>
   <string name="menu_stats_refresh">Actualizar</string>
@@ -1848,6 +1853,7 @@ Seleccione su sistema operativo:"</string>
   <string name="musicfx_title">Efectos de la música</string>
   <string name="mvno_match_data">Valor de OMV</string>
   <string name="mvno_type">Tipo de OMV</string>
+  <string name="my_device">Mi dispositivo</string>
   <string name="nearby_wifi">Redes disponibles</string>
   <string name="need_reboot_now">Reinicia para instalar la actualización.</string>
   <string name="network_assistant">Uso de datos</string>
@@ -1943,6 +1949,7 @@ Seleccione su sistema operativo:"</string>
   <string name="optimization_close">Desactivar y reiniciar</string>
   <string name="optimization_open">Activar</string>
   <string name="other_advanced_settings">Ajustes adicionales</string>
+  <string name="other_device_info">Otros</string>
   <string name="other_personal_settings">Ajustes personales</string>
   <string name="other_relative">Otros</string>
   <string name="other_sound_settings">Otros sonidos</string>
