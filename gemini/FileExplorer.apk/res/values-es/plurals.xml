@@ -113,10 +113,6 @@
     <item quantity="other">seguidores</item>
     <item quantity="one">seguidor</item>
   </plurals>
-  <plurals name="number_of_comment">
-    <item quantity="other">%1$s comentarios</item>
-    <item quantity="one">%1$s comentario</item>
-  </plurals>
   <plurals name="number_of_comment_flow">
     <item quantity="other">%1$s comentarios</item>
     <item quantity="one">%1$s comentario</item>
