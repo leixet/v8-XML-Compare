@@ -101,10 +101,6 @@
     <item quantity="other">%1$s visualizzazioni</item>
     <item quantity="one">%1$s visualizzazione</item>
   </plurals>
-  <plurals name="number_of_comment">
-    <item quantity="other">%1$s commenti</item>
-    <item quantity="one">%1$s commento</item>
-  </plurals>
   <plurals name="number_of_comment_flow">
     <item quantity="other">%1$s commenti</item>
     <item quantity="one">%1$s commento</item>
