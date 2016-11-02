@@ -8,7 +8,7 @@
   <string name="phone_numbers">Introduïu els números de telèfon</string>
   <string name="proceed">Endavant</string>
   <string name="radio_off_error">Per veure aquesta configuració, heu d\'activar el radio.</string>
-  <string name="reading_settings">S\'està llegint configuració&#8230;</string>
+  <string name="reading_settings">S\'està llegint la configuració&#8230;</string>
   <string name="response_error">Resposta inesperada de la xarxa.</string>
   <string name="reverting_settings">S\'estan desfent els canvis&#8230;</string>
   <string name="set_subscription_error_atleast_one">Seleccioneu almenys una subscripció</string>
