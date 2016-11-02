@@ -3188,7 +3188,7 @@ Per fer-ho:
   <string name="search_wifi_menu_wps_pin">Entrada de PIN WPS</string>
   <string name="search_wifi_more_settings">Més;Mode avió;VPN;Techering i; portable hotspot;Pantalla sense fil;Dades mòbils internacionals;NFC;Android Beam;Secure element position</string>
   <string name="search_wifi_scan_always_available">Escaneig sempre disponible</string>
-  <string name="search_wifi_setting_frequency_band_title">Banda de freqüències Wi-Fi</string>
+  <string name="search_wifi_setting_frequency_band_title">Banda de freqüències Wi-Fi;Freqüència WiFi;Freqüència Wi-Fi;Freqüència Wifi;banda de freqüències</string>
   <string name="search_wifi_setting_sleep_policy_title">Mantenir Wi-Fi durant el son</string>
   <string name="search_wifi_tether_checkbox">Zona Wi-Fi</string>
   <string name="search_wifi_tether_configure_ap_text">Configura zona Wi-Fi</string>
