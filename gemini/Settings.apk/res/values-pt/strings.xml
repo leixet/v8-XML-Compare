@@ -6,6 +6,7 @@
 Identificador de anúncios é um ID único e permanente do seu dispositivo. Os fornecedores utilizam-no para seleccionar anúncios que vão ser mais úteis para si.
 
 Se escolher não utilizar anúncios personalizados, a quantidade de anúncios não vai ser reduzida mas os anúncios úteis para si vão ser reduzidos drásticamente"</string>
+  <string name="about_phone_enter_xiaomi_net">Saber mais</string>
   <string name="about_settings">Acerca do telefone</string>
   <string name="about_settings_summary">Ver informações legais, estado, versão de software</string>
   <string name="ac_enable_summary">Definir uma palavra-passe para as aplicações individualmente</string>
@@ -1000,10 +1001,12 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="device_admin_status">Este administrador está activado e permite que a aplicação %1$s execute as seguintes operações:</string>
   <string name="device_admin_title">Administração do dispositivo</string>
   <string name="device_admin_warning">A activação deste administrador vai permitir que a aplicação %1$s execute as seguintes operações:</string>
+  <string name="device_complete_parameters">Concluído</string>
   <string name="device_cpu2_info">Dual-core </string>
   <string name="device_cpu4_info">Quad-core </string>
   <string name="device_cpu6_info">Hexa-core </string>
   <string name="device_cpu8_info">Octa-core </string>
+  <string name="device_display_layout_title">Funcionalidades</string>
   <string name="device_edit_title">Mudar o nome do telefone</string>
   <string name="device_feedback">Enviar comentários acerca do dispositivo</string>
   <string name="device_info_default">Desconhecido</string>
@@ -1011,6 +1014,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="device_info_not_available">Não disponível</string>
   <string name="device_info_settings">Estado do telefone</string>
   <string name="device_internal_memory">Armazenamento interno</string>
+  <string name="device_miui_more">Ver mais</string>
   <string name="device_miui_version">Versão MIUI</string>
   <string name="device_name">Nome do dispositivo</string>
   <string name="device_name_input_error">"Erro ao guardar o nome do dispositivo"</string>
@@ -1869,6 +1873,7 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="menu_proc_stats_type_foreground">Primeiro plano</string>
   <string name="menu_restore">Repor</string>
   <string name="menu_save">Guardar</string>
+  <string name="menu_share">Partilhar</string>
   <string name="menu_show_percentage">Mostrar percentagens</string>
   <string name="menu_show_system">Mostrar sistema</string>
   <string name="menu_stats_last_unplugged">Desligado desde %1$s</string>
@@ -1977,6 +1982,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="musicfx_title">Efeitos da música</string>
   <string name="mvno_match_data">Valor MVNO</string>
   <string name="mvno_type">Tipo MVNO</string>
+  <string name="my_device">O meu dispositivo</string>
   <string name="nearby_wifi">Redes disponíveis</string>
   <string name="need_reboot_now">Reiniciar para instalar a actualização</string>
   <string name="network_assistant">Utilização de dados</string>
@@ -2087,6 +2093,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="optimization_close">Desligar e reiniciar</string>
   <string name="optimization_open">Ligar</string>
   <string name="other_advanced_settings">Definições adicionais</string>
+  <string name="other_device_info">Outros</string>
   <string name="other_personal_settings">Definições adicionais</string>
   <string name="other_relative">Outras</string>
   <string name="other_sound_settings">Outros sons</string>
@@ -2564,6 +2571,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="radio_info_smsc_refresh_label">Actualizar</string>
   <string name="radio_info_smsc_update_label">Actualizar</string>
   <string name="radio_info_toggle_dns_check_label">Alternar selecção DNS</string>
+  <string name="rank_title">Tabelas</string>
   <string name="rarely_running">Raramente em execução (%s)</string>
   <string name="really_remove_account_message">Remover esta conta eliminará todas as suas mensagens, contactos e outros dados do telefone!</string>
   <string name="really_remove_account_title">Remover conta?</string>
