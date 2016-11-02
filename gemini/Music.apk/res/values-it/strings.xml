@@ -26,15 +26,6 @@
   <string name="add_music">Aggiungi brani</string>
   <string name="add_to_last_of_playlist">Aggiungi alla fine della playlist.</string>
   <string name="alaka_required">"Questo brano non è disponibile"</string>
-  <string name="alert_msg_vip_song_for_download">Effettua l\'iscrizione Premium per scaricare questo brano.</string>
-  <string name="alert_msg_vip_song_for_download_upgrade">Hai raggiunto il limite mensile per i download. Aggiorna la tua iscrizione Premium per continuare ad utilizzare il servizio.</string>
-  <string name="alert_msg_vip_song_for_stream">Effettua l\'iscrizione Premium per ascoltare questo brano.</string>
-  <string name="alert_msg_vip_songs_for_download">Effettua l\'iscrizione Premium per ascoltare tutti i brani.</string>
-  <string name="alert_msg_vip_songs_for_download_upgrade">Hai raggiunto il limite dei download per questo mese. Aggiorna la tua iscrizione Premium per scaricare altro.</string>
-  <string name="alert_msg_vip_songs_for_stream">Alcuni brani possono essere ascoltati solo con l\'iscrizione Premium.</string>
-  <string name="alert_title_vip_song">Brani Premium</string>
-  <string name="alert_title_vip_songs">Iscrizione Premium</string>
-  <string name="alert_title_vip_songs_upgrade">Aggiorna iscrizione Premium</string>
   <string name="all_artist">Tutti gli artisti</string>
   <string name="all_downloads">Tutti i download</string>
   <string name="all_fileter">Tutti</string>
@@ -80,7 +71,6 @@
   <string name="button_sort_by_size">Ordina per dimensione</string>
   <string name="button_wait_for_wifi">Attendi</string>
   <string name="buy_other_flow">Dati normali</string>
-  <string name="buy_vip">Effettua iscrizione Premium</string>
   <string name="can_not_find_resource">"Nessuna risorsa trovata"</string>
   <string name="cancel">Annulla</string>
   <string name="cancel_running_download">Annulla</string>
@@ -337,7 +327,6 @@ attendere o selezionare Musica Online."</string>
   <string name="local_music_is_not_available">Musica in locale non disponibile.</string>
   <string name="local_page_song_all">Tutti i brani</string>
   <string name="local_tracks_short">Brani locali</string>
-  <string name="login_first">Accedi prima al tuo Mi Account</string>
   <string name="lrc_search_failed">"Testi non trovati"</string>
   <string name="lrc_searching">Ricerca testi&#8230;</string>
   <string name="lyric">Testi</string>
@@ -472,7 +461,6 @@ attendere o selezionare Musica Online."</string>
   <string name="order_pending">In attesa di conferma</string>
   <string name="order_process_fail">"Impossibile autorizzare il tuo account. Attendi qualche minuto e riprova."</string>
   <string name="other_filter">Altro</string>
-  <string name="othor_song_in_album">Altri brani nello stesso Album.</string>
   <string name="package_filter">Pacchetti</string>
   <string name="pause_download">Pausa</string>
   <string name="paused_by_app">In pausa</string>
@@ -639,7 +627,6 @@ attendere o selezionare Musica Online."</string>
   <string name="storage_internal">Memoria interna</string>
   <string name="storage_sd_card">Scheda SD</string>
   <string name="storage_usb">Archivio USB</string>
-  <string name="stream_normal">Riproduci in qualità normale</string>
   <string name="stream_quality">Qualità streaming</string>
   <string name="streamloadingtext">Connessione a %s</string>
   <string name="sub_explanation">Piano dati musica</string>
@@ -678,8 +665,6 @@ attendere o selezionare Musica Online."</string>
   <string name="title_search_history">Cronologia</string>
   <string name="title_search_hot">Più richiesti</string>
   <string name="to_mi_pay">Mi Credit</string>
-  <string name="toast_cancel_download">Download annullato</string>
-  <string name="toast_cancel_play">Riproduzione annullata</string>
   <string name="toast_download_error_by_count_limit">Hai raggiunto il limite dei download per questo mese.</string>
   <string name="toast_download_error_by_not_login">Accedi al tuo Mi Account e riprova.</string>
   <string name="toast_download_error_by_vip_required">Effettua l\'iscrizione Premium per scaricare questo brano.</string>
@@ -689,8 +674,6 @@ attendere o selezionare Musica Online."</string>
   <string name="toast_stream_normal">Riproduzione in qualità normale. Effettua l\'iscrizione Premium per ascoltare musica in alta qualità.</string>
   <string name="toast_uhd_songs_for_download">Qualità download impostata su Alta</string>
   <string name="toast_uhd_songs_for_stream">Qualità streaming impostata su Alta</string>
-  <string name="toast_vip_download_one_limit">"Hai raggiunto il limite dei download per questo mese. Puoi scaricare altri brani con l'iscrizione Premium il prossimo mese."</string>
-  <string name="toast_vip_download_some_limit">"Hai raggiunto il limite dei download per questo mese. Puoi scaricare altri brani con l'iscrizione Premium il prossimo mese."</string>
   <string name="too_freq">Operazione ripetuta troppe volte</string>
   <string name="tos">Termini del Servizio</string>
   <string name="track_list_control_download">Scarica</string>
@@ -724,7 +707,6 @@ attendere o selezionare Musica Online."</string>
   <string name="upgrade_services">Aggiorna i servizi</string>
   <string name="upgrade_suggest">"Abbiamo interrotto il nostro servizio di streaming a causa di problemi con i diritti d'autore. Aggiorna all'ultima versione per ascoltare musica di alta qualità."</string>
   <string name="upgrade_to">Aggiorna a</string>
-  <string name="upgrade_vip">Aggiorna a Premium</string>
   <string name="upgrade_waringing">"Potrai ascoltare soltanto la musica archiviata in locale."</string>
   <string name="valid_period">Validità: </string>
   <string name="version_info">Versione</string>
