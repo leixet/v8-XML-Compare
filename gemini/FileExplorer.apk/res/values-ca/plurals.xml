@@ -137,4 +137,20 @@
     <item quantity="other">%1$d elements</item>
     <item quantity="one">%1$d element</item>
   </plurals>
+  <plurals name="original_user_days">
+    <item quantity="other">• &lt;font color=#fc7050&gt;%1$d&lt;/font&gt; dies</item>
+    <item quantity="one">• &lt;font color=#fc7050&gt;%1$d&lt;/font&gt; dia</item>
+  </plurals>
+  <plurals name="original_user_play_1">
+    <item quantity="other">• Heu pujat &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; vídeos,</item>
+    <item quantity="one">• Heu pujat &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; vídeo,</item>
+  </plurals>
+  <plurals name="original_user_play_2">
+    <item quantity="other">Heu fet feliç a &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; persones!</item>
+    <item quantity="one">Heu fet feliç a &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; persona!</item>
+  </plurals>
+  <plurals name="original_user_fans">
+    <item quantity="other">• Teniu &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; seguidors!</item>
+    <item quantity="one">• Teniu &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; seguidor!</item>
+  </plurals>
 </resources>
