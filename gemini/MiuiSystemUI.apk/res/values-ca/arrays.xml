@@ -43,24 +43,6 @@
     <item>-</item>
     <item>d</item>
   </string-array>
-  <string-array name="aqi_title_append">
-    <item>%1$s</item>
-    <item>%1$s</item>
-    <item>%1$s</item>
-    <item>%1$s</item>
-    <item>%1$s</item>
-    <item>%1$s</item>
-    <item>%1$s</item>
-  </string-array>
-  <string-array name="aqi_title">
-    <item>%1$s</item>
-    <item>%1$s</item>
-    <item>%1$s</item>
-    <item>%1$s</item>
-    <item>%1$s</item>
-    <item>%1$s</item>
-    <item>%1$s</item>
-  </string-array>
   <string-array name="weather_type">
     <item>Serè</item>
     <item>Ennuvolat</item>
