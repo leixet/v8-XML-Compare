@@ -304,6 +304,8 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="auto_disable_screenbuttons_auto">Sempre deshabilitat</string>
   <string name="auto_disable_screenbuttons_cancel">Cancel·la</string>
   <string name="auto_disable_screenbuttons_no">No ho deshabilitis mai</string>
+  <string name="auto_disable_screenbuttons_rotation_summary">Quan el dispositiu estigui en mode apaïsat, els botons de navegació es bloquejaran</string>
+  <string name="auto_disable_screenbuttons_rotation_title">Bloqueja els botons de navegació en mode apaïsat</string>
   <string name="auto_disable_screenbuttons_summary">Deshabilita automàticament els botons de navegació a les aplicacions seleccionades. Per habilitar-los feu doble clic a qualsevol botó de navegació.</string>
   <string name="auto_disable_screenbuttons_title">Deshabilita automàticament els botons de navegació</string>
   <string name="auto_launch_disable_text">No s\'ha predeterminat.</string>
@@ -347,6 +349,7 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="band_mode_title">Defineix la freqüència de GSM/UMTS</string>
   <string name="baseband_version">Versió de la freqüència base</string>
   <string name="batch_delete_saved_network">Voleu suprimir la xarxa desada: %s?</string>
+  <string name="batch_delete_saved_networks">Elimina totes les xarxes seleccionades</string>
   <string name="battery_action_app_details">Informació de l\'aplicació</string>
   <string name="battery_action_app_settings">Configuració de l\'aplicació</string>
   <string name="battery_action_bluetooth">Configuració del Bluetooth</string>
@@ -651,6 +654,9 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="bootloader_apply_step_4">Pot ser que que provoqui la divulgació i la pèrdua de les dades o que malmeti per sempre més el maquinari.</string>
   <string name="bootloader_apply_step_5">Assegureu-vos que sabeu com utilitzar el mode Fastboot abans d\'activar-lo.</string>
   <string name="bootloader_apply_title">Nota important</string>
+  <string name="bootloader_device_bind_already">S\'ha afegit amb èxit. El Compte Mi s\'associarà ara amb aquest dispositiu.</string>
+  <string name="bootloader_device_bind_fail">"No s'ha pogut verificar, espereu un o dos minuts i torneu-ho a provar"</string>
+  <string name="bootloader_device_bind_msg">S\'està preparant per afegir el compte i el dispositiu&#8230;</string>
   <string name="bootloader_device_bind_no_account">Inicieu sessió amb el vostre Compte Mi primer</string>
   <string name="bootloader_device_bind_no_network">Connectat a la xarxa i torna-ho a provar</string>
   <string name="bootloader_status_locked">Bloquejada</string>
