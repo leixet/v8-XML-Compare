@@ -176,7 +176,7 @@
     <item>Sense límit de temps</item>
   </string-array>
   <string-array name="wifi_signal">
-    <item>Mala qualitat</item>
+    <item>Pobre</item>
     <item>Suficient</item>
     <item>Bona</item>
     <item>Excel·lent</item>
