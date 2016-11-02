@@ -50,9 +50,9 @@
     <item>Mi Mobile</item>
   </string-array>
   <string-array name="cta_permission_names">
-    <item>access network</item>
+    <item>accés a la xarxa</item>
     <item>llegeix SMS</item>
-    <item>modify SMS</item>
+    <item>modifica SMS</item>
     <item>Rebre SMS</item>
     <item>envia SMS</item>
     <item>trucada de telèfon</item>
@@ -60,7 +60,7 @@
     <item>modifica contactes</item>
     <item>llegeix el registre de trucades</item>
     <item>modifica el registre de trucades</item>
-    <item>access camera</item>
-    <item>access location</item>
+    <item>accés a la càmera</item>
+    <item>accés a la ubicació</item>
   </string-array>
 </resources>
