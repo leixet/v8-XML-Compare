@@ -682,7 +682,12 @@
   <string name="video_description">Descripció del vídeo</string>
   <string name="video_encrypt_fans_btn">Fes-me admirador</string>
   <string name="video_encrypt_fans_text">Només els admiradors poden veure aquest vídeo</string>
+  <string name="video_encrypt_follow_fail">"No s'ha pogut seguir"</string>
+  <string name="video_encrypt_follow_success">S\'ha seguit a %s</string>
   <string name="video_encrypt_login_btn">Inicia la sessió</string>
+  <string name="video_encrypt_login_text">Inicieu sessió per reproduir aquest vídeo</string>
+  <string name="video_operation_need_fans">Seguieu a la persona que ha fet el vídeo per fer això</string>
+  <string name="video_operation_need_login">Inicieu sessió per fer això</string>
   <string name="video_parse_btn">Inici</string>
   <string name="video_parse_error_unknown">"Aquest servei de vídeo no és compatible, provi amb un altre"</string>
   <string name="video_parse_hint">Aplicacions compatibles: WeChat, Weibo, Youku.</string>
@@ -692,6 +697,7 @@
   <string name="video_play_failed">Error desconegut</string>
   <string name="video_publish_hint">Una bona descripció ajudarà al fet que altres persones trobin el teu vídeo</string>
   <string name="video_publish_hint2">Descripció</string>
+  <string name="video_recommend_upload">Recomanat</string>
   <string name="video_status_reject">Rebutjat</string>
   <string name="video_status_review">Sent ressenyat</string>
   <string name="video_tag">\#%s#</string>
@@ -703,10 +709,13 @@
   <string name="video_upload_btn_hint">Els vídeos MP$ hauran de tenir de 3s~10min de durada</string>
   <string name="video_upload_item_more">Més (%1$s)</string>
   <string name="video_upload_item_title">%1$s (%2$s)</string>
+  <string name="video_upload_kuaishou_hint">Pugeu vídeos a KuaiShou per aconseguir més admiradors.</string>
   <string name="video_upload_retry_confirm">Intentar de nou</string>
   <string name="video_upload_retry_message">"No s'ha pogut pujar, intentar de nou?"</string>
   <string name="video_upload_retry_title">Intentar de nou</string>
   <string name="video_upload_title">Seleccionar vídeo</string>
+  <string name="video_upload_wechat_hint">Pugeu vídeos a WeChat per aconseguir més admiradors.</string>
+  <string name="video_uploaded">Pujat</string>
   <string name="view_more_sticker">Veure més adhesius</string>
   <string name="wechat_btn_bind">WeChat</string>
   <string name="wechat_btn_str">WeChat</string>
@@ -714,6 +723,9 @@
   <string name="wechat_video">Vídeo a %s</string>
   <string name="weixin_not_installed">"WeChat no està instal·lat"</string>
   <string name="weixin_sticker_tag_str">Adhesius de WeChat</string>
+  <string name="welcome_to_my_page">Benvinguts a la meva pàgina inicial</string>
+  <string name="welcome_to_my_page_1">Seguiu-me!</string>
+  <string name="welcome_to_my_page_2">Seguiu-me!</string>
   <string name="wifi_state">Xarxa Wi-Fi</string>
   <string name="wx_title1">"Aquí teniu un vídeo genial!"</string>
   <string name="wx_title2">He compartit un vídeo, feu una ullada!</string>
@@ -725,5 +737,6 @@
   <string name="yes">Sí</string>
   <string name="yesterday">Ahir</string>
   <string name="youliao_ad_update">Actualitza</string>
+  <string name="youliao_dialog_title">No trobeu vídeos interessants?</string>
   <string name="zero">0</string>
 </resources>
