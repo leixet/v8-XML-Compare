@@ -29,15 +29,6 @@
   <string name="alaka_required">"Esta música não está disponível"</string>
   <string name="album_name">Álbum</string>
   <string name="album_search_title">Álbum</string>
-  <string name="alert_msg_vip_song_for_download">Obter Pacote Músicas Premium para transferir esta música</string>
-  <string name="alert_msg_vip_song_for_download_upgrade">Chegou ao limite das suas transferências para este mês. Actualize o seu Pacote Músicas Premium para transferir mais</string>
-  <string name="alert_msg_vip_song_for_stream">Obter Pacote Músicas Premium para transmitir esta música</string>
-  <string name="alert_msg_vip_songs_for_download">Obter Pacote Músicas Premium para transferir todas as músicas</string>
-  <string name="alert_msg_vip_songs_for_download_upgrade">Já utilizou toda a sua quota de transferências para este mês. Actualize o seu Pacote Músicas Premium para transferir mais</string>
-  <string name="alert_msg_vip_songs_for_stream">Algumas músicas apenas podem ser transmitidas com Pacote Músicas Premium</string>
-  <string name="alert_title_vip_song">Músicas Premium</string>
-  <string name="alert_title_vip_songs">Pacote Músicas Premium</string>
-  <string name="alert_title_vip_songs_upgrade">Actualizar o seu Pacote Músicas Premium</string>
   <string name="all_artist">Todos os Artistas</string>
   <string name="all_downloads">Todas as transferências</string>
   <string name="all_fileter">Tudo</string>
@@ -82,7 +73,6 @@
   <string name="button_sort_by_size">Ordenar por tamanho</string>
   <string name="button_wait_for_wifi">Aguardar</string>
   <string name="buy_other_flow">Dados móveis</string>
-  <string name="buy_vip">Obter Pacote Músicas Premium</string>
   <string name="can_not_find_resource">"Não foi possível encontrar os recursos"</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_running_download">Cancelar</string>
@@ -340,7 +330,6 @@
   <string name="local_music_is_not_available">As músicas no dispositivo não se encontram disponíveis</string>
   <string name="local_page_song_all">Todas as Músicas</string>
   <string name="local_tracks_short">Dispositivo</string>
-  <string name="login_first">Primeiro inicie sessão na sua Conta Mi</string>
   <string name="lrc_search_failed">"A letra não foi encontrada"</string>
   <string name="lrc_searching">A pesquisar a letra da música&#8230;</string>
   <string name="lyric">Letra</string>
@@ -422,6 +411,7 @@
   <string name="network_request_error">"Não foi possível ligar à rede"</string>
   <string name="network_settings_error">"Não foi possível ligar à rede"</string>
   <string name="network_traffic">Utilização de dados</string>
+  <string name="news_mark">Notícias</string>
   <string name="next_time">Agora não</string>
   <string name="no_album_info">Sem informação do álbum</string>
   <string name="no_artist_info">Sem informação do artista</string>
@@ -477,7 +467,6 @@
   <string name="order_pending">A aguardar confirmação</string>
   <string name="order_process_fail">"Não foi possível autorizar a sua conta. Aguarde alguns minutos e tente novamente"</string>
   <string name="other_filter">Outro</string>
-  <string name="othor_song_in_album">Outras músicas deste álbum</string>
   <string name="package_filter">Pacotes</string>
   <string name="pause_download">Pausar</string>
   <string name="paused_by_app">Em pausa</string>
@@ -642,7 +631,6 @@
   <string name="storage_internal">Armazenamento interno</string>
   <string name="storage_sd_card">Cartão SD</string>
   <string name="storage_usb">Armazenamento USB</string>
-  <string name="stream_normal">Reproduzir na qualidade normal</string>
   <string name="stream_quality">Qualidade do streaming</string>
   <string name="streamloadingtext">Ligar a %s</string>
   <string name="sub_explanation">Plano de dados da Música Mi</string>
@@ -681,8 +669,6 @@
   <string name="title_online_suggest">Pode gostar de</string>
   <string name="title_search_history">Histórico de pesquisa</string>
   <string name="to_mi_pay">Créditos Mi</string>
-  <string name="toast_cancel_download">Transferência cancelada</string>
-  <string name="toast_cancel_play">Reprodução cancelada</string>
   <string name="toast_download_error_by_count_limit">Chegou ao limite das suas transferências para este mês</string>
   <string name="toast_download_error_by_not_login">Inicie sessão na sua Conta Mi e tente novamente</string>
   <string name="toast_download_error_by_vip_required">Obter Pacote Músicas Premium para transferir esta música</string>
@@ -692,8 +678,6 @@
   <string name="toast_stream_normal">A reproduzir músicas em qualidade normal. Obter Pacote Músicas Premium para disfrutar de transmissão em alta qualidade</string>
   <string name="toast_uhd_songs_for_download">Qualidade da transferência definida para alta</string>
   <string name="toast_uhd_songs_for_stream">Qualidade da transmissão definida para alta</string>
-  <string name="toast_vip_download_one_limit">" Chegou ao limite das suas transferências para este mês. Pode transferir mais músicas quando obtiver Pacote Músicas no próximo mês"</string>
-  <string name="toast_vip_download_some_limit">" Chegou ao limite das suas transferências para este mês. Pode transferir mais músicas quando obtiver Pacote Músicas no próximo mês "</string>
   <string name="too_freq">Demasiados pedidos deste dispositivo</string>
   <string name="tos">Termos do Serviço</string>
   <string name="track_list_control_download">Transferir</string>
@@ -727,7 +711,6 @@
   <string name="upgrade_services">Actualizações</string>
   <string name="upgrade_suggest">"Estamos a descontinuar o nosso serviço de transmissão devido a questões de direitos de autor. Actualize para a versão mais recente da aplicação de música para ouvir música de alta qualidade"</string>
   <string name="upgrade_to">Actualizar para</string>
-  <string name="upgrade_vip">Actualizar para Pacote Músicas Premium</string>
   <string name="upgrade_waringing">"Só pode ouvir músicas que tenha armazenadas"</string>
   <string name="valid_period">Válido: %s</string>
   <string name="version_info">Versão</string>
