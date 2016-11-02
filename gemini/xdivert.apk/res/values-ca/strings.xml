@@ -23,10 +23,10 @@
   <string name="updating_title">Configuració de les trucades</string>
   <string name="xdivert_active">Activa</string>
   <string name="xdivert_button">Configuració de la desviació de trucades</string>
-  <string name="xdivert_enternumber_error">Introduïu el número de telèfon per les dues subscripcions</string>
-  <string name="xdivert_imsi_not_read">S\'està inicialitzant la SIM. Intenteu-ho més tard.</string>
+  <string name="xdivert_enternumber_error">Introduïu el número de telèfon per a ambdues subscripcions</string>
+  <string name="xdivert_imsi_not_read">S\'està inicialitzant la SIM. Torneu a provar-ho més tard.</string>
   <string name="xdivert_not_active">Inactiva</string>
-  <string name="xdivert_not_supported">Desviació de trucades no funciona amb multiplexat CDMA</string>
+  <string name="xdivert_not_supported">La desviació de trucades no és compatible amb el multiplexat CDMA</string>
   <string name="xdivert_partial_set">Desviació de trucades s\'ha establert només per a la primera subscripció</string>
   <string name="xdivert_setting">Configuració de Desviació de trucades</string>
   <string name="xdivert_status">Estat de Desviació de trucades</string>
