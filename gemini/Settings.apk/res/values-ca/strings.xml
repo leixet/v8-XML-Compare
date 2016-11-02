@@ -821,6 +821,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="color_white">Blanc</string>
   <string name="color_yellow">Groc</string>
   <string name="common_settings">Configuració ràpida</string>
+  <string name="complete_parameters">Totes les característiques</string>
   <string name="complete_settings">Configuració general</string>
   <string name="computing_size">S\'està calculant&#8230;</string>
   <string name="config_charging_function_name">s\'està carregant</string>
@@ -1083,6 +1084,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="development_settings_not_available">Les opcions per a desenvolupadors no són disponibles per a aquest usuari</string>
   <string name="development_settings_summary">Defineix les opcions per al desenvolupament d\'aplicacions</string>
   <string name="development_settings_title">Opcions per a desenvolupadors</string>
+  <string name="device_actionbar_title">Totes les característiques</string>
   <string name="device_admin_add_title">Administrador del dispositiu</string>
   <string name="device_admin_settings_title">Configuració d\'administració de dispositius</string>
   <string name="device_admin_status">Aquest administrador és actiu i permet que l\'aplicació %1$s faci les operacions següents:</string>
@@ -1106,6 +1108,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="device_memory">RAM</string>
   <string name="device_miui_more">Veure més</string>
   <string name="device_miui_version">Versió MIUI</string>
+  <string name="device_miui_version_update">Actualització de MIUI disponible</string>
   <string name="device_name">Nom del dispositiu</string>
   <string name="device_name_input_error">"No s'ha pogut desar el nom del dispositiu"</string>
   <string name="device_name_input_hint">Introduïu el nom</string>
@@ -1113,6 +1116,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="device_picker">Tria un dispositiu Bluetooth</string>
   <string name="device_reset_title">Reinicia el dispositiu</string>
   <string name="device_sd_memory">Targeta SD</string>
+  <string name="device_share_loading">S\'està creant la imatge</string>
   <string name="device_status">Estat</string>
   <string name="device_status_activity_title">Estat</string>
   <string name="device_status_summary">Número de telèfon, senyal, etc.</string>
@@ -2006,6 +2010,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="memory_use_running_format">%1$s / %2$s</string>
   <string name="memory_use_summary">%1$s mitjana de memòria utilitzada en les 3 últimes hores</string>
   <string name="menu_cancel">Descarta</string>
+  <string name="menu_check">Experiència</string>
   <string name="menu_delete">Suprimeix l\'APN</string>
   <string name="menu_duration_12h">12 hores</string>
   <string name="menu_duration_1d">1 dia</string>
@@ -2788,6 +2793,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="radio_info_smsc_refresh_label">Actualitza</string>
   <string name="radio_info_smsc_update_label">Actualitza</string>
   <string name="radio_info_toggle_dns_check_label">Commuta la comprovació DNS</string>
+  <string name="rank_title">Classificacions</string>
   <string name="rarely_running">S\'executa poques vegades (%s)</string>
   <string name="really_remove_account_message">Si suprimiu el compte se n\'esborraran tots els missatges, contactes i altres dades del telèfon!</string>
   <string name="really_remove_account_title">Voleu suprimir el compte?</string>
@@ -2795,6 +2801,11 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="receiver_clean">Allibera espai</string>
   <string name="recent_location_requests_summary">Veure aplicacions que han demanat accés a la ubicació</string>
   <string name="recent_location_requests_title">Accés a la ubicació</string>
+  <string name="recommend_item_1">Funda per al mòbil</string>
+  <string name="recommend_item_2">Mi Band</string>
+  <string name="recommend_item_3">Power bank</string>
+  <string name="recommend_item_4">Auriculars</string>
+  <string name="recommend_item_title">Recomanacions</string>
   <string name="recompute_size">S\'està tornant a calcular la mida&#8230;</string>
   <string name="record_anr_in_background">Registra l\'ANR en segon pla</string>
   <string name="regulatory_information">Informació de regulació</string>
