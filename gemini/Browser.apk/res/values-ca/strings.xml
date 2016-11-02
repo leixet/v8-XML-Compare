@@ -359,6 +359,7 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="local_bookmarks">Mi</string>
   <string name="login_failed_toast">"No hi ha connexió, actualitza i intenta de nou"</string>
   <string name="low_memory_error">No es pot completar l\'anterior operació a causa de la poca memòria</string>
+  <string name="low_memory_toast">"No es pot fer servir el Navegador causa de la poca memòria"</string>
   <string name="max_tabs_warning">"Límit de pestanyes assolit"</string>
   <string name="maximum_input_alert">"Màxima entrada 2048 caràcters"</string>
   <string name="media_error_action_refresh">Refrescar</string>
