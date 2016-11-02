@@ -316,12 +316,15 @@ o introdueixi la seva contrasenya"</string>
   <string name="card_main_deepclean_action">Neteja</string>
   <string name="card_main_deepclean_summary">Elimina fitxers innecessaris</string>
   <string name="card_main_deepclean_title">Neteja intensiva</string>
+  <string name="card_main_gamebooster_summary">Accelera la velocitat i milloreu l\'experiència de joc</string>
+  <string name="card_main_gamebooster_title">Accelera la velocitat de joc</string>
   <string name="card_main_monthreport_action">Mostra</string>
   <string name="card_main_monthreport_summary">Veure informes mensuals</string>
   <string name="card_main_monthreport_title">Estadístiques de seguretat</string>
   <string name="card_main_netcheck_action">Prova</string>
   <string name="card_main_netcheck_summary">Connexió de prova per problemes de xarxa</string>
   <string name="card_main_netcheck_title">Prova de xarxa</string>
+  <string name="card_main_overscroll_tips">Seguretat en el seu millor moment</string>
   <string name="card_main_paysafe_action">Activa</string>
   <string name="card_main_paysafe_summary">Escaneja l\'entorn de pagament per a possibles riscos</string>
   <string name="card_main_paysafe_title">Seguretat en el pagament</string>
@@ -344,6 +347,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="clean_immediately">Neteja</string>
   <string name="cleaned">Netejat</string>
   <string name="clear_bigfiles">Esborra els fitxers grans, fotos duplicades i altres elements inútils</string>
+  <string name="clear_garbage">Neteja la brossa per alliberar espai</string>
   <string name="clear_immediately">Neteja ara</string>
   <string name="close">Tanca</string>
   <string name="cmcc_app_check_dialog_message">Reinicieu el dispositiu per completar la reparació.</string>
@@ -442,6 +446,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="dual_setting_simcard2">SIM 2</string>
   <string name="empty_app">No hi ha aplicacions</string>
   <string name="empty_title_auto_start_list">No hi ha aplicacions amb inici automàtic</string>
+  <string name="empty_title_garbage_virus_white_list">Mantingueu els resultats a la llista per ometre\'ls durant el següent anàlisi</string>
   <string name="empty_title_manual_item_white_list">No hi ha excepcions.</string>
   <string name="empty_title_perm_apps">Cap aplicació té aquest permís.</string>
   <string name="empty_title_permission_apps_list">No hi ha aplicacions.</string>
@@ -517,6 +522,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="hide_mode_summary_text">"Gestionar l'activitat de fons d'apps per estalviar bateria"</string>
   <string name="hide_mode_title_text">Mode ocult</string>
   <string name="hints_auto_start_warning_info">"Si es restringeix l'inici automàtic, algunes aplicacions i serveis no podran rebre notificacions."</string>
+  <string name="hints_cleanning_done">Escanejat amb èxit</string>
   <string name="hints_cleanning_text">Netejant&#8230;</string>
   <string name="hints_handle_item_text_risk">Riscos: %d</string>
   <string name="hints_handle_item_text_safe">Segur</string>
@@ -538,11 +544,13 @@ o introdueixi la seva contrasenya"</string>
   <string name="hints_need_quick_clean">Cercar i eliminar fitxers perillosos</string>
   <string name="hints_need_quick_scan">Es recomana escaneig ràpid</string>
   <string name="hints_need_regular_scan">Escaneja el teu dispositiu regularment</string>
+  <string name="hints_power_percent_title">bateria</string>
   <string name="hints_remember_choice">Recordar preferència</string>
   <string name="hints_risk_apk_list_item_summary">Risc (apk)</string>
   <string name="hints_risk_app_list_item_summary">Risc (app)</string>
   <string name="hints_risk_descx_title">Descripció:</string>
   <string name="hints_risk_name_title">Risc:</string>
+  <string name="hints_scan_progress">S\'ha completat: %d</string>
   <string name="hints_scan_result_phone_safe">Tot pinta bé</string>
   <string name="hints_scan_result_risk">Risc detectat</string>
   <string name="hints_scan_result_safe">Segur</string>
@@ -646,6 +654,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="lockscreen_glogin_checking_password">Comprovant&#8230;</string>
   <string name="lockscreen_glogin_password_hint">Contrasenya</string>
   <string name="lockscreen_glogin_submit_button">Inicia sessió</string>
+  <string name="long_click_dialog_summary">Mantingueu els resultats a la llista per afegir-los a les excepcions</string>
   <string name="long_click_dialog_title">Atenció!</string>
   <string name="main_activity_content_summary_root">Accés de superusuari</string>
   <string name="main_activity_content_summary_update">Actualitzar sistema</string>
@@ -653,6 +662,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="main_alert_message_month_limit_error">El límit de dades que s\'ha establert és incorrecte</string>
   <string name="main_alert_message_no_imsi">SIM no detectada</string>
   <string name="main_alert_message_no_mobile_package">Establir límit de dades</string>
+  <string name="main_alert_message_open_traffic_ctrl">Li recomanem la restricció de l\'ús de dades</string>
   <string name="main_button_idel_traffic">Hora vall</string>
   <string name="main_button_normal_traffic">Límit</string>
   <string name="main_button_usage_adjust">Establir límit d\'ús de dades</string>
@@ -1055,6 +1065,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_title_virus_white_list">Excepcions</string>
   <string name="pref_traffic_manage_title">Ús de dades</string>
   <string name="pref_version">Versió %s</string>
+  <string name="pref_warning_values">Nivell d\'avís d\'ús de dades</string>
   <string name="pref_whitelist_setting">Administrar llista de permeses</string>
   <string name="preference_category_information_setting">category_information_setting</string>
   <string name="preference_category_key_reference_settings">key_reference_settings</string>
@@ -1130,6 +1141,8 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="quick_optimize_no_issue_subtitle">Tot es veu bé</string>
   <string name="quick_optimize_no_issue_title">"No s'han trobat problemes amb la bateria"</string>
   <string name="quick_optimize_sub_summary_text">Afegit %s de durada de la bateria</string>
+  <string name="reach_daily_limit_value_body">Reduïu l\'ús de dades mòbils.</string>
+  <string name="reach_daily_limit_value_title">Heu arribat al límit diari de dades</string>
   <string name="recently_reject_message">Instal·lació de %1$s i %2$d altres aplicacions rebutjades</string>
   <string name="recently_reject_message_one">%1$s sol·licituds d\'instal·lació rebutjades</string>
   <string name="recommend_app">Apps recomanades</string>
@@ -1263,6 +1276,8 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="sorted_button">Ordenar per</string>
   <string name="sorted_dialog_title">Ordenar per</string>
   <string name="sp_back_title_text_zero">Segur</string>
+  <string name="sp_button_text_ignore_alert_title">Voleu ignorar la comprovació d\'aquest element?</string>
+  <string name="sp_empty_title_sign_exception">Un únic clic en l\'aplicació en la pàgina de resultats per afegir-la a excepcions</string>
   <string name="sp_monitored_apps_count_zero">No hi ha aplicacions de pagament protegit</string>
   <string name="sp_monitored_apps_list_title">Configuració de Monitorització</string>
   <string name="sp_network_privacy_dialog_message">"L'aplicació de seguretat no pot comprovar els pagaments perquè s'ha restringit l'accés a Internet. Permet a seguretat connectar-se a internet?"</string>
@@ -1270,6 +1285,8 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="sp_safe_score_text">Pagament segur</string>
   <string name="sp_scan_item_monitor">Monitorització de pagament</string>
   <string name="sp_scan_item_url_antispam">Protecció d\'URLs maliciosos</string>
+  <string name="sp_settings_check_item_summary_sign_exception">Gestiona les excepcions de signatures</string>
+  <string name="sp_settings_check_item_summary_virus_exception">Gestiona les excepcions de virus</string>
   <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
   <string name="sp_settings_group_title_ime">Configuració de l\'IME segura</string>
   <string name="sp_settings_group_title_omit">Elements omesos</string>
