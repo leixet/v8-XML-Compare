@@ -121,10 +121,6 @@
     <item quantity="other">vídeos</item>
     <item quantity="one">vídeo</item>
   </plurals>
-  <plurals name="number_of_comment">
-    <item quantity="other">%1$s comentários</item>
-    <item quantity="one">%1$s comentário</item>
-  </plurals>
   <plurals name="video_count">
     <item quantity="other">%1$s vídeos</item>
     <item quantity="one">%1$s vídeo</item>
