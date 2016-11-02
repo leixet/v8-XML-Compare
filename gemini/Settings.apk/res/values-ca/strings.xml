@@ -6,6 +6,7 @@
 L\'identificador de publicitat del dispositiu és únic i permanent. Serveix als anunciants per oferir-vos publicitat personalitzada.
 
 Si trieu que no voleu rebre anuncis personalitzats, no es reduirà la quantitat d\'anuncis sinó que no es personalitzaran.»</string>
+  <string name="about_phone_enter_xiaomi_net">Saber més</string>
   <string name="about_settings">Quant al telèfon</string>
   <string name="about_settings_summary">Informació legal, estat i versió de programari</string>
   <string name="ac_enable_summary">Cal una contrasenya</string>
@@ -657,7 +658,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="bootloader_device_bind_already">S\'ha afegit amb èxit. El Compte Mi s\'associarà ara amb aquest dispositiu.</string>
   <string name="bootloader_device_bind_fail">"No s'ha pogut verificar, espereu un o dos minuts i torneu-ho a provar"</string>
   <string name="bootloader_device_bind_msg">S\'està preparant per afegir el compte i el dispositiu&#8230;</string>
-  <string name="bootloader_device_bind_no_account">Inicieu sessió amb el vostre Compte Mi primer</string>
+  <string name="bootloader_device_bind_no_account">Primer inicia la sessió al seu compte Mi</string>
   <string name="bootloader_device_bind_no_network">Connectat a la xarxa i torna-ho a provar</string>
   <string name="bootloader_locked_answer_1">"Bloquejarem els dispositius per assegurar que són segurs i la informació personal no sigui revelada a tercers. Si ha d'accedir al mode Fastboot i en flaixejar el dispositiu, podríeu desbloquejar-lo."</string>
   <string name="bootloader_locked_answer_1_warning">"Recordeu: No sereu capaços d'utilitzar Cerca el dispositiu després que el telèfon estigui desbloquejat."</string>
@@ -801,6 +802,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="close_gesture">Tanca amb un gest</string>
   <string name="close_miui_optimization_title">Atura la optimització de MIUI</string>
   <string name="close_miui_optimization_warning_message">El dispositiu arrencarà de nou per aplicar els canvis.</string>
+  <string name="cmcc_hardware_version">Versió del maquinari</string>
   <string name="color_black">Negre</string>
   <string name="color_blue">Blau</string>
   <string name="color_calibration_none">Nadiu</string>
@@ -1086,12 +1088,14 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="device_admin_status">Aquest administrador és actiu i permet que l\'aplicació %1$s faci les operacions següents:</string>
   <string name="device_admin_title">Administració del dispositiu</string>
   <string name="device_admin_warning">Aquest administrador és actiu i permet que l\'aplicació %1$s faci les operacions següents:</string>
+  <string name="device_complete_parameters">Fet</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu10_info">Deu-nuclis</string>
   <string name="device_cpu2_info">Doble-nucli</string>
   <string name="device_cpu4_info">Quatre-nuclis</string>
   <string name="device_cpu6_info">Sis-nuclis</string>
   <string name="device_cpu8_info">Vuit-nuclis</string>
+  <string name="device_display_layout_title">Característiques</string>
   <string name="device_edit_title">Reanomena el telèfon</string>
   <string name="device_feedback">Envia suggeriments sobre el dispositiu</string>
   <string name="device_info_default">Desconegut</string>
@@ -1100,6 +1104,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="device_info_settings">Estat del telèfon</string>
   <string name="device_internal_memory">Memòria interna</string>
   <string name="device_memory">RAM</string>
+  <string name="device_miui_more">Veure més</string>
   <string name="device_miui_version">Versió MIUI</string>
   <string name="device_name">Nom del dispositiu</string>
   <string name="device_name_input_error">"No s'ha pogut desar el nom del dispositiu"</string>
@@ -2017,6 +2022,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="menu_proc_stats_type_foreground">En primer pla</string>
   <string name="menu_restore">Reinicialitza</string>
   <string name="menu_save">Desa</string>
+  <string name="menu_share">Comparteix</string>
   <string name="menu_show_percentage">Mostra els percentatges</string>
   <string name="menu_show_system">Mostra el sistema</string>
   <string name="menu_stats_last_unplugged">Des de que es va desendollar (%1$s)</string>
@@ -2135,6 +2141,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="musicfx_title">Efectes musicals</string>
   <string name="mvno_match_data">Valor de MVNO</string>
   <string name="mvno_type">Tipus de MVNO</string>
+  <string name="my_device">El meu dispositiu</string>
   <string name="nearby_wifi">Xarxes disponibles</string>
   <string name="need_reboot_now">Reinicieu per aplicar l\'actualització.</string>
   <string name="network_assistant">Ús de dades</string>
@@ -2258,6 +2265,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="optimization_close">Desactiva &amp; i reinicia</string>
   <string name="optimization_open">Engega</string>
   <string name="other_advanced_settings">Configuració addicional</string>
+  <string name="other_device_info">Altres</string>
   <string name="other_personal_settings">Configuració personal</string>
   <string name="other_relative">Altres</string>
   <string name="other_sound_settings">Altres sons</string>
