@@ -1676,8 +1676,8 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="keywords_text_to_speech_output">puntuar idioma parla predeterminada parlar síntesi de veu accessibilitat lector invident</string>
   <string name="keywords_users">restricció restringir restringit</string>
   <string name="keywords_voice_input">reconeixedor entrada veu parlar idioma mans lliures mans-lliures gratuït reconeixement paraula ofensiva àudio historial bluetooth auriculars</string>
-  <string name="keywords_wifi">wi-fi Wi-Fi xarxa connexió</string>
-  <string name="keywords_wifi_calling">WiFi Wi-Fi truca trucades</string>
+  <string name="keywords_wifi">wifi wi-fi connexió xarxa</string>
+  <string name="keywords_wifi_calling">wifi wi-fi trucada trucar</string>
   <string name="keywords_write_settings">escriptura modificació configuració del sistema</string>
   <string name="language_keyboard_settings_title">Idioma i introducció de text</string>
   <string name="language_picker_title">Idioma</string>
@@ -3182,7 +3182,7 @@ Per fer-ho:
   <string name="search_wifi_advanced_mac_address_title">Adreça MAC Wi-Fi</string>
   <string name="search_wifi_advanced_settings">Configuració avançada;Wi-Fi</string>
   <string name="search_wifi_display">Pantalla sense fils</string>
-  <string name="search_wifi_enable">Wi-Fi;Wi-Fi</string>
+  <string name="search_wifi_enable">Wi-Fi;Wi-Fi;Wi-Fi;Activa la Wifi;Activa la WiFi;Activa la Wi-Fi</string>
   <string name="search_wifi_install_credentials">Instal·la certificats</string>
   <string name="search_wifi_menu_p2p">Wi-Fi Directe</string>
   <string name="search_wifi_menu_wps_pin">Entrada de PIN WPS</string>
