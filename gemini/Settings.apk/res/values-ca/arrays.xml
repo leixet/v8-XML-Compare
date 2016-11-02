@@ -995,13 +995,6 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Entre setmana</item>
     <item>Personalitzada</item>
   </string-array>
-  <string-array name="privacy_password_function_specfication_keys">
-    <item>privacy_mms</item>
-    <item>privacy_gallery</item>
-    <item>privacy_file</item>
-    <item>privacy_notes</item>
-    <item>privacy_applock</item>
-  </string-array>
   <string-array name="privacy_password_function_specfication_names">
     <item>Missatges</item>
     <item>Fotos</item>
