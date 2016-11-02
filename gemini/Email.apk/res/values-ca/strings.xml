@@ -661,7 +661,7 @@
   <string name="policy_dont_allow_unsigned_apps">"No es permeten aplicacions sense signar"</string>
   <string name="policy_dont_allow_unsigned_installers">"\"No permetre instal·ladors d'aplicacions 
         sense signar\""</string>
-  <string name="policy_dont_allow_wifi">"No permetre Wi-Fi"</string>
+  <string name="policy_dont_allow_wifi">"No permetis Wi-Fi"</string>
   <string name="policy_email_age">Limitar el número de missatges de correu electrònic sincronitzats</string>
   <string name="policy_html_truncation">Limitar mida de correus HTML</string>
   <string name="policy_password_expiration">Exigir que les contrasenyes caduquin</string>
