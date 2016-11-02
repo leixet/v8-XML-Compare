@@ -172,11 +172,16 @@ o introdueixi la seva contrasenya"</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
   <string name="auto_task_operation_brightness">Brillantor de la pantalla</string>
   <string name="auto_task_operation_close">Desactivat</string>
+  <string name="auto_task_operation_close_string">Desactiva %s</string>
   <string name="auto_task_operation_gps">GPS</string>
   <string name="auto_task_operation_lockscreen_time">Pantalla de bloqueig</string>
+  <string name="auto_task_operation_memory_clean_lockscreen">Neteja la memòria</string>
   <string name="auto_task_operation_mobile_data">Dades mòbils</string>
+  <string name="auto_task_operation_modify_string">Edita %s</string>
   <string name="auto_task_operation_mute">Mode silenci</string>
+  <string name="auto_task_operation_no_op">"No seleccioneu aquesta acció"</string>
   <string name="auto_task_operation_open">Activat</string>
+  <string name="auto_task_operation_open_string">Activa %s</string>
   <string name="auto_task_operation_string_comma">,</string>
   <string name="auto_task_operation_string_etc">, etc.</string>
   <string name="auto_task_operation_string_modify">Edita</string>
@@ -233,6 +238,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="bind_xiaomi_account_success">El compte Mi s\'ha afegit correctament</string>
   <string name="bind_xiaomi_account_summary">Per restablir la seva contrasenya utilitzeu el compte Mi</string>
   <string name="bind_xiaomi_account_title">Afegeix un compte Mi</string>
+  <string name="booster_immediately">Accelera</string>
   <string name="boot_reminder">Encendre el dispositiu a una hora programada</string>
   <string name="boot_time">Encesa: %1$s</string>
   <string name="boot_time_day">Encesa: %2$s %1$dd</string>
@@ -272,6 +278,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="button_text_cleanup">Netejar</string>
   <string name="button_text_clear">Netejar</string>
   <string name="button_text_create_shortcut">Crea una drecera a la pantalla inicial</string>
+  <string name="button_text_delete_from_virus_white_list">elimina</string>
   <string name="button_text_deny">Denega</string>
   <string name="button_text_disconnect_now">Desconnectar</string>
   <string name="button_text_fix">Arreglar</string>
