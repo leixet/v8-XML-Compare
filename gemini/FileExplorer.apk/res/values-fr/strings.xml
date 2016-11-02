@@ -18,6 +18,8 @@
   <string name="app_name_miuiringtone">Sonneries</string>
   <string name="app_name_miuiwallpaper">Fonds d\'écran</string>
   <string name="app_name_screenshot">Captures d\'écran</string>
+  <string name="auto_play_later">Plus tard</string>
+  <string name="auto_play_now">Activer</string>
   <string name="backup_cancel">"Ne pas sauvegarder"</string>
   <string name="backup_checkbox_msg">Toujours sauvegarder et afficher des notifications</string>
   <string name="backup_confirm">Sauvegarder maintenant</string>
@@ -56,6 +58,7 @@
   <string name="category_type_meida">Multimédia</string>
   <string name="category_type_other">Autres</string>
   <string name="category_video">Vidéos</string>
+  <string name="claim_remind_dialog_confirm">Rester sur cette page</string>
   <string name="clean_hint">Touchez pour libérer de l\'espace</string>
   <string name="compress_fail">"Échec de la compression. Un fichier du même nom existe déjà."</string>
   <string name="compress_message">Compresser vers :</string>
@@ -341,6 +344,8 @@
   <string name="sys_size_enable">" disponible"</string>
   <string name="tab_category">Parcourir</string>
   <string name="tab_common_app">Applications de base</string>
+  <string name="tab_discover">Découverte</string>
+  <string name="tab_homepage">Accueil</string>
   <string name="tab_hottest_video">Populaires</string>
   <string name="tab_local">Local</string>
   <string name="tab_more">Plus</string>
@@ -354,7 +359,6 @@
   <string name="title_select_volume">Sélectionner un volume</string>
   <string name="toast_file_not_can_read">Le fichier est illisible ou corrompu.</string>
   <string name="tools">OUTILS</string>
-  <string name="topic_message">%1$s : %2$s</string>
   <string name="transfer_done">Les fichiers ont été déplacés.</string>
   <string name="transfer_private_data">Déplacement des fichiers cachés à partir de la carte SD&#8230;</string>
   <string name="type_not_support">"Ce format de fichier n'est pas supporté. Décompressez ce fichier et essayez à nouveau."</string>
@@ -388,6 +392,7 @@
   <string name="utf8_summary">Codage par défaut</string>
   <string name="video_ad_download">Installer</string>
   <string name="video_data_consumption_cancel">Annuler</string>
+  <string name="video_encrypt_login_btn">Se connecter</string>
   <string name="video_parse_btn">Reprendre</string>
   <string name="video_play_failed">Erreur inconnue</string>
   <string name="video_status_reject">appel rejeté</string>
