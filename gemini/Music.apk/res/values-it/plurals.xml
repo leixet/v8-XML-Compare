@@ -61,10 +61,6 @@
     <item quantity="other">%d rimossi dalla playlist</item>
     <item quantity="one">1 brano rimosso dalla playlist</item>
   </plurals>
-  <plurals name="artist_list_fragment_item_count_format">
-    <item quantity="other">%d canzoni</item>
-    <item quantity="one">1 canzone</item>
-  </plurals>
   <plurals name="Nquit_warning">
     <item quantity="other">La riproduzione terminerà tra %d minuti</item>
     <item quantity="one">La riproduzione terminerà tra %d minuto</item>
