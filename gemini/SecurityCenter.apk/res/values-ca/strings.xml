@@ -30,7 +30,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="activity_title_apps_manager">Aplicacions</string>
   <string name="activity_title_auto_start_manager">Inici automàtic</string>
   <string name="activity_title_create_shortcut">Administrar accessos directes</string>
-  <string name="activity_title_deep_clean">Neteja profunda</string>
+  <string name="activity_title_deep_clean">Neteja intensiva</string>
   <string name="activity_title_default_apps_manager">Aplicacions per defecte</string>
   <string name="activity_title_garbage_cleanup">Netejador</string>
   <string name="activity_title_license_manager">Permisos</string>
@@ -233,7 +233,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="btn_text_open_now">Activar</string>
   <string name="btn_text_optimize_manually">Optimitzar manualment</string>
   <string name="btn_text_optimize_now">Optimitzar</string>
-  <string name="btn_text_power_cleanup">Súper Neteja</string>
+  <string name="btn_text_power_cleanup">Neteja intensiva</string>
   <string name="btn_text_power_consume_suggest_optimize">Optimitzar</string>
   <string name="btn_text_quick_antivirus">Arreglar</string>
   <string name="btn_text_quick_cleanup">Netejar</string>
@@ -287,7 +287,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="card_main_datasave_title">Estalvi de dades</string>
   <string name="card_main_deepclean_action">Neteja</string>
   <string name="card_main_deepclean_summary">Elimina fitxers innecessaris</string>
-  <string name="card_main_deepclean_title">Neteja profunda</string>
+  <string name="card_main_deepclean_title">Neteja intensiva</string>
   <string name="card_main_monthreport_action">Mostra</string>
   <string name="card_main_monthreport_summary">Veure informes mensuals</string>
   <string name="card_main_monthreport_title">Estadístiques de seguretat</string>
