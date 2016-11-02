@@ -53,10 +53,6 @@
     <item quantity="other">%d pistes retirées de la playlist</item>
     <item quantity="one">Piste retirée de la playlist</item>
   </plurals>
-  <plurals name="artist_list_fragment_item_count_format">
-    <item quantity="other">%d pistes</item>
-    <item quantity="one">1 piste</item>
-  </plurals>
   <plurals name="Nquit_warning">
     <item quantity="other">Le lecteur s\'arrêtera dans %d minutes</item>
     <item quantity="one">Le lecteur s\'arrêtera dans %d minute</item>
