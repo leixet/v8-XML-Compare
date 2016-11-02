@@ -1050,7 +1050,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="video_editor_filter_purple">Porpra</string>
   <string name="video_editor_filter_rainy">Plujós</string>
   <string name="video_editor_filter_rouge">Coloret</string>
-  <string name="video_editor_filter_sunny">Serè</string>
+  <string name="video_editor_filter_sunny">Assolellat</string>
   <string name="video_editor_invalid_trim_arguments">Hauria de ser superior a 1 segon</string>
   <string name="video_editor_loading_plugin">S\'està carregant&#8230;</string>
   <string name="video_editor_loading_warning_msg">"Per un error de codificació, algunes característiques no estaran disponibles durant el procés d'edició, però això no afectarà el fitxer de vídeo final."</string>
