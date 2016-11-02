@@ -240,6 +240,7 @@
   <string name="no_sdcard_no_download">No hi ha prou espai, error en sol·licitar la descàrrega.</string>
   <string name="no_vip_product">no compatible amb serveis vip</string>
   <string name="not_buy_vip">no vip</string>
+  <string name="not_exist_openid">s\'està obtenint la informació del compte, espereu...</string>
   <string name="not_login">No s\'ha iniciat sessió</string>
   <string name="notification_default_title">Vídeo offline</string>
   <string name="notification_sub_title">%d baixades completades</string>
@@ -279,7 +280,11 @@
   <string name="original_price">preu original</string>
   <string name="other_info">Altres</string>
   <string name="other_setting">Altres</string>
+  <string name="path_develop_settings">Aplicacions del sistema/Vídeo/Configuracions de desenvolupament</string>
+  <string name="path_settings">Aplicacions del sistema/Vídeo/Configuració</string>
   <string name="pause">Pausar</string>
+  <string name="pay_record">constància de pagament</string>
+  <string name="percent_status">%.0f%%</string>
   <string name="performance_mode">Millorar rendiment del reproductor</string>
   <string name="performance_mode_desc">"Maximitzar rendiment del reproductor de vídeo"</string>
   <string name="personal_center">Centre Personal</string>
@@ -293,11 +298,16 @@
   <string name="player_plugin_des">Veure plugins de vídeo disponibles</string>
   <string name="player_plugin_title">Plugins de vídeo</string>
   <string name="positive_comment">Positiu</string>
+  <string name="pps">PPS</string>
+  <string name="pptv">PPTV</string>
   <string name="priority_storage">Desar a la targeta SD</string>
   <string name="priority_storage_summary">Guardar automàticament a la SD externa si està disponible</string>
   <string name="pulltorefresh">Feu lliscar per actualitzar</string>
+  <string name="qiyi">iQiyi</string>
   <string name="rank_title_movie">Pel·lícula</string>
   <string name="receive_develop_summary">Rep actualitzacions de l\'aplicació quan estigui disponible una nova versió beta</string>
+  <string name="receive_follow">Notificacions de nous episodis</string>
+  <string name="receive_follow_summary">Rebre notificacions quan un nou episodio estigui disponible</string>
   <string name="receive_mipush">Notificacions de Mi</string>
   <string name="receive_mipush_summary">Rebre notificacions quan hi hagi nou contingut disponible</string>
   <string name="recentplay">Reproduït recentment</string>
@@ -306,6 +316,7 @@
   <string name="reload_sub_title">Premi la pantalla per tornar a intentar</string>
   <string name="reload_title">"No es pot connectar a la xarxa"</string>
   <string name="reload_title_ep">"No es poden obtenir les sèries completes"</string>
+  <string name="replay">Tornar a reproduir</string>
   <string name="retry">Reintentar</string>
   <string name="router">Remot local</string>
   <string name="router_download_task_with">%d tasques</string>
@@ -333,6 +344,9 @@
   <string name="share">Compartir</string>
   <string name="share_device">Dispositiu compartit</string>
   <string name="similar">Pel·lícula similar</string>
+  <string name="sina">Sina</string>
+  <string name="sniff">Origen</string>
+  <string name="souhu">Souhu</string>
   <string name="source_error">No s\'ha pogut aconseguir la font</string>
   <string name="star1">1 estrella</string>
   <string name="star2">2 estrelles</string>
@@ -342,6 +356,7 @@
   <string name="start_addon">iniciar plugin</string>
   <string name="storage_remain">"Disponible: "</string>
   <string name="storage_total">"Espai total: "</string>
+  <string name="subscribe">Subscriure\'s</string>
   <string name="system_setting">Configuració de sistema</string>
   <string name="temp_play_history_button_label">Historial</string>
   <string name="tencent">Tencent</string>
@@ -388,6 +403,8 @@
   <string name="video_plugin">Plugin de vídeo</string>
   <string name="video_plugin_downloading">Descarregant (%1$s)</string>
   <string name="video_plugin_prepare">Un moment&#8230;</string>
+  <string name="video_vip">vip</string>
+  <string name="vip_package">paquet vip</string>
   <string name="vp_VideoView_error_button">D\'acord</string>
   <string name="vp_VideoView_error_network_not_available">"No es pot connectar a la xarxa"</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">"Aquest tipus de fitxer no és compatible."</string>
@@ -416,6 +433,7 @@
   <string name="vp_download_file_fail">"Descàrrega fallida. Comprovar si hi ha prou espai al dispositiu."</string>
   <string name="vp_downloading_apk_title">S\'està baixant %1$s</string>
   <string name="vp_exit">Sortir</string>
+  <string name="vp_full_high_definition">1080P</string>
   <string name="vp_full_screen">Pantalla completa</string>
   <string name="vp_function">Configuració</string>
   <string name="vp_get_url_error">"No es pot trobar URL per aquest vídeo."</string>
@@ -431,6 +449,7 @@
   <string name="vp_maintitlearea">Veure vídeo en HD en qualsevol part</string>
   <string name="vp_media_info">Veure informació del vídeo</string>
   <string name="vp_media_type_unsported">Aquest tipus de mitjà no pot ser suportat</string>
+  <string name="vp_milink">Mi Link</string>
   <string name="vp_milink_function">Emetre a pantalla</string>
   <string name="vp_mobile_network_using_negative">Cancel·lar</string>
   <string name="vp_mobile_network_using_positive">Continuar</string>
@@ -469,6 +488,7 @@
   <string name="vp_select_video_definition">Seleccionar definició</string>
   <string name="vp_select_video_source">Seleccionar font</string>
   <string name="vp_skip">Saltar introducció i crèdits</string>
+  <string name="vp_standard_definition">SD</string>
   <string name="vp_super_definition">Súper</string>
   <string name="vp_time_separator">/</string>
   <string name="vp_toast_downloadapk">Baixant&#8230;</string>
@@ -479,7 +499,10 @@
   <string name="vp_video_loading">&lt;CDATA&gt;Carregant&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="vp_video_plugin_installation">Instal·lant plugin %1$s per a una millor qualitat d\'imatge...</string>
   <string name="waiting_to_download">Esperant</string>
+  <string name="wasu">Wasu</string>
   <string name="write_comment">Afegir comentari</string>
   <string name="xiaomi_account_type_unsupported">"El compte Mi no està suportada"</string>
   <string name="xiaomi_user">Usuari</string>
+  <string name="yinyuetai">YinYueTai</string>
+  <string name="youku">Youku</string>
 </resources>
