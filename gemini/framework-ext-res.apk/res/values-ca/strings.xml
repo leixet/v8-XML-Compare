@@ -19,6 +19,10 @@
   <string name="auto_start_warning_allow">Permet</string>
   <string name="auto_start_warning_deny">Denega</string>
   <string name="auto_start_warning_title">Voleu permetre que %s\'iniciï de forma automàtica?</string>
+  <string name="button_text_cancel">Cancel·la</string>
+  <string name="button_text_delete">Elimina</string>
+  <string name="button_text_delete_timer">Eliminar (%d)</string>
+  <string name="button_text_next_step">Següent</string>
   <string name="call_record_or">" o "</string>
   <string name="call_record_sample_prefix_miui">Trucada</string>
   <string name="caller_info_name_delimiter">" o "</string>
@@ -67,6 +71,7 @@
   <string name="memory_clear_nothing_result">Res a netejar en memòria cau</string>
   <string name="memory_clear_result">%1$sB netejats | %2$sB disponibles</string>
   <string name="miui">miui</string>
+  <string name="package_delete_confirm_step_1">Voleu eliminar %s?</string>
   <string name="paste">Enganxa</string>
   <string name="perm_send_push_dspt">Permet missatges de tramesa automàtica Mi</string>
   <string name="perm_send_push_lab">Envia missatge de tramesa automàtica</string>
