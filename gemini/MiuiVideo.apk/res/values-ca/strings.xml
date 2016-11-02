@@ -326,6 +326,7 @@
   <string name="score_douban">Puntuació Douban %1$s</string>
   <string name="sdcard_storage">Memòria interna</string>
   <string name="search">Cerca</string>
+  <string name="search_develop_settings">Configuracions de desenvolupament;Versió seleccionada;Versió triada;Actualitza la versió;Versió;Fòrum;Mode rendiment;Qualitat d\'imatge;Ginys del reproductor</string>
   <string name="search_hint">Cerca vídeo en línia</string>
   <string name="search_result_empty_text">"No s'ha trobat res"</string>
   <string name="search_snack_more">Més informació</string>
@@ -357,6 +358,7 @@
   <string name="storage_remain">"Disponible: "</string>
   <string name="storage_total">"Espai total: "</string>
   <string name="subscribe">Subscriure\'s</string>
+  <string name="suffix_countdown">s</string>
   <string name="system_setting">Configuració de sistema</string>
   <string name="temp_play_history_button_label">Historial</string>
   <string name="tencent">Tencent</string>
@@ -365,9 +367,12 @@
   <string name="toast_message_continue_play_from">Reproduint des de&#160;</string>
   <string name="toast_message_continue_play_hour">h&#160;</string>
   <string name="toast_message_continue_play_minute">m&#160;</string>
+  <string name="toast_message_continue_play_second_and_play">s</string>
+  <string name="top_status_local_media">Local</string>
   <string name="top_status_offline_media">Fora de línia</string>
   <string name="top_status_online_media">En línia</string>
   <string name="total_episode">%1$s Episodis</string>
+  <string name="tudou">Tudou</string>
   <string name="tv_channel_empty_hint">No hi ha canals.</string>
   <string name="tv_cp_info_format">Suportat per %1$s</string>
   <string name="ui_style">Estil d\'interfície</string>
