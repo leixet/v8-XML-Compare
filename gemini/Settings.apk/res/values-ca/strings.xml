@@ -662,9 +662,16 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="bootloader_locked_answer_1">"Bloquejarem els dispositius per assegurar que són segurs i la informació personal no sigui revelada a tercers. Si ha d'accedir al mode Fastboot i en flaixejar el dispositiu, podríeu desbloquejar-lo."</string>
   <string name="bootloader_locked_answer_1_warning">"Recordeu: No sereu capaços d'utilitzar Cerca el dispositiu després que el telèfon estigui desbloquejat."</string>
   <string name="bootloader_locked_answer_2">"Feu clic al botó de sota per associar el vostre Compte Mi amb aquest dispositiu. A continuació, aneu a la pàgina web de MIUI per baixar l'eina de desbloqueig i instal·lar-la a l'ordinador. Aquí està l'adreça:"</string>
+  <string name="bootloader_locked_check_status">Afegeix un compte i el dispositiu</string>
+  <string name="bootloader_locked_question_1">Per què s\'han de bloquejar els dispositius?</string>
+  <string name="bootloader_locked_question_2">Entenc els riscos, però encara vull desbloquejar el dispositiu.</string>
+  <string name="bootloader_status">Estat del Bloqueig Mi</string>
   <string name="bootloader_status_locked">Bloquejada</string>
   <string name="bootloader_status_locked_info">Aquest dispositiu està bloquejat</string>
+  <string name="bootloader_status_locked_summary">El telèfon està assegurat</string>
+  <string name="bootloader_status_summary">Comproveu si el dispositiu està bloquejat</string>
   <string name="bootloader_status_unlocked">S\'ha desbloquejat</string>
+  <string name="bootloader_status_unlocked_info">Aquest dispositiu està desbloquejat</string>
   <string name="bootloader_summary">Flasheja el dispositiu mitjançant USB</string>
   <string name="breathing_light_color_menu_title">Color del LED</string>
   <string name="breathing_light_color_summary">Color del LED per a notificacions noves</string>
@@ -2077,6 +2084,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="multi_touch_points_preference">Aquesta configuració s\'aplicarà quan reinicieu el dispositiu</string>
   <string name="music_audio_effect_optimize">Configuració d\'àudio</string>
   <string name="music_audio_effect_optimize_summary">Dirac, auriculars i altres configuracions d\'àudio</string>
+  <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD Sound, auriculars i altres configuracions d\'àudio</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, auriculars i altres configuracions d\'àudio</string>
   <string name="music_audio_effect_settings">Configuració d\'àudio</string>
   <string name="music_dirac_control">Optimitza la qualitat d\'àudio</string>
@@ -2101,6 +2109,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="music_dolby_mode_off">Apagat</string>
   <string name="music_equalizer">Equalitzador</string>
   <string name="music_equalizer_summary">Configuració individual dels nivells segons el tipus de música</string>
+  <string name="music_hd_title">Àudio HD Sound</string>
   <string name="music_headphone_settings">Seleccioneu el tipus d\'auriculars</string>
   <string name="music_headset_button_settings">Assigna botons del control remot</string>
   <string name="music_headset_calibrate">Assigna botons dels auriculars</string>
@@ -3609,6 +3618,7 @@ Un cop formatat, aquest ^1 només funcionarà en aquest dispositiu.
 
 \"&lt;b&gt;La formatació esborrarà totes les dades emmagatzemades actualment al ^1.&lt;/b&gt;\" Per evitar la pèrdua de les dades, feu-ne una còpia.»</string>
   <string name="storage_wizard_format_confirm_public_title">Formatació com a emmagatzematge extraïble</string>
+  <string name="storage_wizard_format_confirm_third_body">La ^1 està sent formatada</string>
   <string name="storage_wizard_format_confirm_title">Formatació com a emmagatzematge intern</string>
   <string name="storage_wizard_format_progress_body">No traieu ^1 mentre s\'està formatant.</string>
   <string name="storage_wizard_format_progress_title">S\'està formatant ^1&#8230;</string>
@@ -4176,6 +4186,8 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wait_for_debugger_summary">Abans d\'executar-se, l\'aplicació de depuració espera que es connecti el depurador</string>
   <string name="wakeup_for_keyguard_notification_title">Permet notificacions en pantalla de bloqueig</string>
   <string name="wallpaper_attributions">Fons de pantalla</string>
+  <string name="wallpaper_attributions_values">"Proveïdors d\'imatges per satèl·lit:
+©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
   <string name="wallpaper_desktop">Pantalla d\'inici</string>
   <string name="wallpaper_live">Fons de pantalla animats</string>
   <string name="wallpaper_lockscreen">Bloqueja la pantalla</string>
