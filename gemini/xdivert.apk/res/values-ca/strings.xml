@@ -7,7 +7,7 @@
   <string name="fdn_check_failure">"El paràmetre dels números de marcatge fix de l'aplicació Telèfon està activat. En conseqüència, algunes funcions relacionades amb les trucades no funcionen."</string>
   <string name="phone_numbers">Introduïu els números de telèfon</string>
   <string name="proceed">Endavant</string>
-  <string name="radio_off_error">Per veure aquesta configuració, heu d\'activar el radio.</string>
+  <string name="radio_off_error">Per veure aquesta configuració cal que abans activeu el senyal mòbil.</string>
   <string name="reading_settings">S\'està llegint la configuració&#8230;</string>
   <string name="response_error">Resposta inesperada de la xarxa.</string>
   <string name="reverting_settings">S\'estan desfent els canvis&#8230;</string>
@@ -27,10 +27,10 @@
   <string name="xdivert_imsi_not_read">S\'està inicialitzant la SIM. Torneu a provar-ho més tard.</string>
   <string name="xdivert_not_active">Inactiva</string>
   <string name="xdivert_not_supported">La desviació de trucades no és compatible amb el multiplexat CDMA</string>
-  <string name="xdivert_partial_set">Desviació de trucades s\'ha establert només per a la primera subscripció</string>
-  <string name="xdivert_setting">Configuració de Desviació de trucades</string>
-  <string name="xdivert_status">Estat de Desviació de trucades</string>
-  <string name="xdivert_sub_absent">Les dues subscripcions s\'haurien d\'activar per utilitzar Desviació de trucades</string>
-  <string name="xdivert_summary">Desviament si fora de cobertura</string>
+  <string name="xdivert_partial_set">La desviació de trucades s\'ha establert només per a la primera subscripció</string>
+  <string name="xdivert_setting">Configuració de la desviació de trucades</string>
+  <string name="xdivert_status">Estat de la desviació de trucades</string>
+  <string name="xdivert_sub_absent">S\'han d\'activar les dues subscripcions per utilitzar la desviació de trucades</string>
+  <string name="xdivert_summary">Desviament si es troba fora de cobertura</string>
   <string name="xdivert_title">Desviació de trucades</string>
 </resources>
