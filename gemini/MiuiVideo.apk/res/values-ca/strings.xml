@@ -73,6 +73,10 @@
   <string name="clear_search_history">Netejar historial de cerca</string>
   <string name="click_star_rate">Fes clic a la valoració per estrelles</string>
   <string name="click_to_login">Toca per iniciar sessió</string>
+  <string name="clubber">clubber</string>
+  <string name="clubber_center">centre clubber</string>
+  <string name="clubber_info">informació clubber</string>
+  <string name="cnlive">cnlive</string>
   <string name="comment">Comentaris</string>
   <string name="comment_count_less_tip">Els comentaris han de tenir almenys %1$s caràcters</string>
   <string name="comment_count_much_tip">"El comentari no pot excedir els %1$s caràcters"</string>
