@@ -27,8 +27,10 @@
   <string name="app_name_miuiringtone">Tons de trucada</string>
   <string name="app_name_miuiwallpaper">Fons de pantalla</string>
   <string name="app_name_screenshot">Captures de pantalla</string>
+  <string name="auto_play">Reprodueix automàticament quan estigui connectat a una Wi-Fi</string>
   <string name="auto_play_later">Més tard</string>
   <string name="auto_play_now">Activa</string>
+  <string name="auto_play_toast">Els vídeos es reproduiran automàticament. Podeu canviar-ho a la configuració.</string>
   <string name="backup_cancel">"No copiar"</string>
   <string name="backup_checkbox_msg">Copiar sempre i mostrar notificacions</string>
   <string name="backup_confirm">Copiar ara</string>
@@ -79,8 +81,14 @@
   <string name="change_sticker">Seleccioneu un altre emoticona</string>
   <string name="choose_report_comment_reason">Per què esteu enviant aquest comentari?</string>
   <string name="choose_report_reason">Per què reporta aquest clip de vídeo?</string>
+  <string name="claim_no_video">No hi ha vídeos per reclamar</string>
+  <string name="claim_operation_too_frequently">S\'han produït massa intents! Torneu-ho a provar més tard.</string>
+  <string name="claim_remind_dialog_cancel">Mostra altres vídeos</string>
   <string name="claim_remind_dialog_confirm">Romandre en aquesta Pàgina</string>
+  <string name="claim_remind_dialog_message">"No podreu reclamar aquest vídeo si torneu"</string>
   <string name="claim_remind_dialog_title">Atenció!</string>
+  <string name="claim_video">Reclama</string>
+  <string name="claim_video_already_claimed">Aquest vídeo ja s\'ha reclamat. Sigueu més ràpid la pròxima vegada!</string>
   <string name="clean_hint">Tocar per alliberar espai</string>
   <string name="click_to_switch_volume">Toqui per canviar entre l\'emmagatzematge intern i la targeta SD</string>
   <string name="click_to_switch_volume_pad">Toqueu per canviar entre l\'emmagatzematge intern i la targeta SD</string>
@@ -514,6 +522,7 @@
   <string name="storage_warning">"No es pot utilitzar emmagatzematge extern"</string>
   <string name="sys_size_enable">" disponible"</string>
   <string name="tab_category">Categories</string>
+  <string name="tab_claim">Reclama</string>
   <string name="tab_common_app">Aplicacions bàsiques</string>
   <string name="tab_discover">Descobrir</string>
   <string name="tab_follow">Seguint</string>
