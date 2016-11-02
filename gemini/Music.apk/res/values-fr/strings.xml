@@ -25,14 +25,6 @@
   <string name="ad_close">Fermer</string>
   <string name="add_music">Ajouter des pistes</string>
   <string name="alaka_required">"Cette piste n'est pas disponible."</string>
-  <string name="alert_msg_vip_song_for_download">Achetez un Pack Premium pour télécharger cette piste.</string>
-  <string name="alert_msg_vip_song_for_download_upgrade">Vous avez utilisé votre quota de téléchargement pour ce mois. Mettez à jour votre Pack Premium pour en télécharger davantage.</string>
-  <string name="alert_msg_vip_song_for_stream">Achetez un Pack Premium pour écouter cette piste.</string>
-  <string name="alert_msg_vip_songs_for_download">Achetez un Pack Premium pour télécharger toutes les pistes.</string>
-  <string name="alert_msg_vip_songs_for_download_upgrade">Vous avez utilisé votre quota de téléchargement pour ce mois. Mettez à jour votre Pack Premium pour en télécharger davantage.</string>
-  <string name="alert_title_vip_song">Pistes Premium</string>
-  <string name="alert_title_vip_songs">Pack Premium</string>
-  <string name="alert_title_vip_songs_upgrade">Mettre à jour votre Pack Premium</string>
   <string name="all_artist">Tous les artistes</string>
   <string name="all_downloads">Tous les téléchargements</string>
   <string name="all_fileter">Tous</string>
@@ -74,7 +66,6 @@
   <string name="button_sort_by_date">Trier par date</string>
   <string name="button_sort_by_size">Trier par taille</string>
   <string name="button_wait_for_wifi">Patientez</string>
-  <string name="buy_vip">Obtenez un Pack Premium</string>
   <string name="can_not_find_resource">"Impossible de trouver les ressources"</string>
   <string name="cancel">Annuler</string>
   <string name="cancel_running_download">Annuler</string>
@@ -298,7 +289,6 @@
   <string name="local_music_is_not_available">Musique locale non disponible.</string>
   <string name="local_page_song_all">Toutes les chansons</string>
   <string name="local_tracks_short">Fichiers locaux</string>
-  <string name="login_first">Veuillez vous connecter à votre compte Mi en premier.</string>
   <string name="lrc_search_failed">"Paroles introuvables !"</string>
   <string name="lrc_searching">Recherche de paroles&#8230;</string>
   <string name="lyric">Paroles</string>
@@ -546,7 +536,6 @@
   <string name="storage_internal">Mémoire interne</string>
   <string name="storage_sd_card">Carte SD</string>
   <string name="storage_usb">Stockage USB</string>
-  <string name="stream_normal">Lire en qualité Standard</string>
   <string name="stream_quality">Qualité du flux</string>
   <string name="streamloadingtext">Connexion à %s…</string>
   <string name="subed">Activé</string>
@@ -575,7 +564,6 @@
   <string name="title_search_history">Rechercher dans l\'historique</string>
   <string name="title_search_hot">Populaires</string>
   <string name="to_mi_pay">Mi Money</string>
-  <string name="toast_cancel_download">Téléchargement annulé</string>
   <string name="toast_download_error_by_count_limit">Vous avez atteint votre quota pour ce mois-ci.</string>
   <string name="toast_download_error_by_not_login">Vous devez vous connecter à votre compte Xiaomi, puis réessayer.</string>
   <string name="toast_download_error_by_vip_required">Obtenez un Pack Premium pour télécharger cette piste.</string>
@@ -584,8 +572,6 @@
   <string name="toast_stream_normal">La lecture est maintenant en qualité Standard. Obtenez un Pack Premium pour profiter de l\'écoute en haute qualité.</string>
   <string name="toast_uhd_songs_for_download">Qualité pour le téléchargement : Haute</string>
   <string name="toast_uhd_songs_for_stream">Qualité pour l\'écoute : Haute</string>
-  <string name="toast_vip_download_one_limit">" Vous avez atteint votre quota de téléchargement pour ce mois-ci. Vous pourrez télécharger plus de pistes en achetant un nouveau Pack Premium."</string>
-  <string name="toast_vip_download_some_limit">" Vous avez atteint votre quota de téléchargement pour ce mois-ci. Vous pourrez télécharger plus de pistes en achetant un nouveau Pack Premium. "</string>
   <string name="too_freq">Trop de requêtes soumises avec cet appareil.</string>
   <string name="tos">Conditions du service</string>
   <string name="track_list_control_download">Télécharger</string>
@@ -611,7 +597,6 @@
   <string name="upgrade_services">Mises à jour</string>
   <string name="upgrade_suggest">"Nous interrompons notre service de streaming à cause de problèmes de copyright. Mettez à jour vers la dernière version de l'application Musique pour écouter de la musique de haute qualité."</string>
   <string name="upgrade_to">Mettre à jour vers</string>
-  <string name="upgrade_vip">Mettre à jour le Pack Premium</string>
   <string name="upgrade_waringing">"Vous serez uniquement en mesure d'écouter de la musique stockée hors ligne."</string>
   <string name="valid_period">Validité : %s</string>
   <string name="vip_auto_renew_message">Votre abonnement à Musique sera renouvelé automatiquement ce soir. Assurez-vous d\'avoir suffisament de crédits Mi sur votre compte pour effectuer le paiement.</string>
