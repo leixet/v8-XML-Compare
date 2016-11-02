@@ -23,6 +23,8 @@
   <string name="app_name_miuiringtone">Toques</string>
   <string name="app_name_miuiwallpaper">Papéis de parede</string>
   <string name="app_name_screenshot">Capturas de ecrã</string>
+  <string name="auto_play_later">Mais tarde</string>
+  <string name="auto_play_now">Activar</string>
   <string name="backup_cancel">"Não fazer cópia"</string>
   <string name="backup_checkbox_msg">Fazer cópia automaticamente</string>
   <string name="backup_confirm">Fazer cópia agora</string>
@@ -68,6 +70,8 @@
   <string name="change_sticker">Escolher outro sticker</string>
   <string name="choose_report_comment_reason">Porque é que está a reportar este comentário?</string>
   <string name="choose_report_reason">Porque é que está a reportar este vídeo?</string>
+  <string name="claim_remind_dialog_confirm">Manter</string>
+  <string name="claim_remind_dialog_title">Atenção</string>
   <string name="clean_hint">Toque para libertar espaço</string>
   <string name="click_to_switch_volume">Toque para mudar entre armazenamento interno e cartão SD</string>
   <string name="click_to_switch_volume_pad">Toque para mudar entre armazenamento interno e cartão SD</string>
@@ -239,7 +243,6 @@
   <string name="midrop_send_files">Escolher ficheiros para enviar</string>
   <string name="mobile_network_dialog_cancle">Cancelar</string>
   <string name="mobile_network_dialog_tip">"Utilizar a sua ligação de dados móveis para ver esta página?"</string>
-  <string name="mobile_network_dialog_tip2">"Vai receber taxas de dados móveis da sua operadora se continuar a fazer streaming de vídeos utilizando a sua ligação de dados móveis"</string>
   <string name="mobile_network_dialog_title">Aviso de dados móveis</string>
   <string name="month_day_format">d \'de\' MMMM</string>
   <string name="move_failed">"Não é possível cortar"</string>
@@ -265,6 +268,7 @@
   <string name="no_enough_storage_title">Não há espaço suficiente</string>
   <string name="no_file">Vazio</string>
   <string name="no_login_btn_text">Iniciar sessão</string>
+  <string name="no_login_str">Sem sessão iniciada</string>
   <string name="no_message">Sem mensagens</string>
   <string name="no_new_content_tip">Todos os itens estão actualizados</string>
   <string name="no_recent_files">Sem ficheiros recentes</string>
@@ -453,12 +457,13 @@
   <string name="sys_size_enable">" disponível"</string>
   <string name="tab_category">Categorias</string>
   <string name="tab_common_app">Aplicações e pastas</string>
+  <string name="tab_discover">Descobrir</string>
   <string name="tab_follow">A seguir</string>
   <string name="tab_hottest_video">Populares</string>
   <string name="tab_local">Dispositivo</string>
+  <string name="tab_mine">Perfil</string>
   <string name="tab_more">Mais</string>
   <string name="tab_newest_video">Novo</string>
-  <string name="tab_profile">Perfil</string>
   <string name="tab_ranking_list">Classificação</string>
   <string name="tab_source">Aplicações</string>
   <string name="tip">Atenção</string>
@@ -545,6 +550,7 @@
   <string name="video_data_consumption_cancel">Cancelar</string>
   <string name="video_data_consumption_dialog_message">Enviar vai necessitar de %1$s de dados móveis</string>
   <string name="video_data_consumption_dialog_title">Aviso de dados móveis</string>
+  <string name="video_encrypt_login_btn">Iniciar a sessão</string>
   <string name="video_parse_btn">Iniciar</string>
   <string name="video_parse_error_unknown">"Este serviço de vídeo não é suportado. Tente um diferente"</string>
   <string name="video_parse_hint">Aplicações suportadas: WeChat, Weibo, Youku</string>
@@ -577,5 +583,4 @@
   <string name="yes">Sim</string>
   <string name="yesterday">Ontem</string>
   <string name="youliao_ad_update">Actualizar</string>
-  <string name="zero_comment">Sem comentários</string>
 </resources>
