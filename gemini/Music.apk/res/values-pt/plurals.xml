@@ -57,10 +57,6 @@
     <item quantity="other">%d músicas removidas da lista de reprodução</item>
     <item quantity="one">1 música removida da lista de reprodução</item>
   </plurals>
-  <plurals name="artist_list_fragment_item_count_format">
-    <item quantity="other">%d músicas</item>
-    <item quantity="one">1 música</item>
-  </plurals>
   <plurals name="Nquit_warning">
     <item quantity="other">Vai parar de tocar em %d minutos</item>
     <item quantity="one">Vai parar de tocar em %d minuto</item>
