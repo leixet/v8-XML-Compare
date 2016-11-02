@@ -21,6 +21,8 @@
   <string name="app_name_miuiringtone">Tonos de llamada</string>
   <string name="app_name_miuiwallpaper">Fondos de pantalla</string>
   <string name="app_name_screenshot">Capturas de pantalla</string>
+  <string name="auto_play_later">Más tarde</string>
+  <string name="auto_play_now">Activar</string>
   <string name="backup_cancel">"No copiar"</string>
   <string name="backup_checkbox_msg">Copiar siempre y mostrar notificaciones</string>
   <string name="backup_confirm">Copiar ahora</string>
@@ -65,6 +67,8 @@
   <string name="category_type_other">Otros</string>
   <string name="category_video">Vídeos</string>
   <string name="category_zip">Archivos</string>
+  <string name="claim_remind_dialog_confirm">Permanecer en esta Página</string>
+  <string name="claim_remind_dialog_title">Aviso</string>
   <string name="clean_hint">Tocar para liberar espacio</string>
   <string name="compress_fail">"No se pudo comprimir. Ya existe un archivo con el mismo nombre."</string>
   <string name="compress_fail_unknown">"No se pudo comprimir. Almacenamiento completo o error desconocido."</string>
@@ -224,7 +228,6 @@
   <string name="mobile_network_dialog_cancle">Cancelar</string>
   <string name="mobile_network_dialog_confirm">De acuerdo</string>
   <string name="mobile_network_dialog_tip">"¿Usar tu conexión de datos móviles para acceder a esta página? Recibirá las tarifas de datos móviles regulares de su compañía."</string>
-  <string name="mobile_network_dialog_tip2">"Al ver videos online o transmitirlos se aplicarán costos extras por usar datos según el plan de datos que tengas."</string>
   <string name="mobile_network_dialog_title">Advertencia de datos móviles</string>
   <string name="month_day_format">dd MMM</string>
   <string name="move_failed">"No se puede cortar"</string>
@@ -248,6 +251,7 @@
   <string name="no_enough_storage_title">No hay espacio suficiente</string>
   <string name="no_file">Vacío</string>
   <string name="no_login_btn_text">Iniciar sesión</string>
+  <string name="no_login_str">No has iniciado sesión</string>
   <string name="no_message">Vacío</string>
   <string name="no_new_content_tip">Todos los artículos están actualizados</string>
   <string name="no_recent_files">Sin archivos recientes</string>
@@ -425,11 +429,13 @@
   <string name="sys_size_enable">" disponible"</string>
   <string name="tab_category">Categorías</string>
   <string name="tab_common_app">Aplicaciones y carpetas</string>
+  <string name="tab_discover">Descubrir</string>
+  <string name="tab_homepage">Inicio</string>
   <string name="tab_hottest_video">Lo más visto</string>
   <string name="tab_local">Local</string>
+  <string name="tab_mine">Perfil</string>
   <string name="tab_more">Más</string>
   <string name="tab_newest_video">Nuevo</string>
-  <string name="tab_profile">Perfil</string>
   <string name="tab_ranking_list">Lista de clasificación</string>
   <string name="tab_source">Aplicaciones</string>
   <string name="tip">Aviso</string>
@@ -511,6 +517,7 @@
   <string name="video_data_consumption_cancel">Cancelar</string>
   <string name="video_data_consumption_dialog_message">Subir va a requerir %1$s de datos móviles</string>
   <string name="video_data_consumption_dialog_title">Aviso de uso de datos</string>
+  <string name="video_encrypt_login_btn">Iniciar sesión</string>
   <string name="video_parse_btn">Presiona comenzar</string>
   <string name="video_parse_error_unknown">"Enlace de vídeo no compatible, pruebe con otro"</string>
   <string name="video_parse_hint">Soporte WeChat, Weibo, enlace de video Youku.</string>
