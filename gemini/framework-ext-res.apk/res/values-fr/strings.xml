@@ -10,6 +10,10 @@
   <string name="auto_start_warning_allow">Autoriser</string>
   <string name="auto_start_warning_deny">Refuser</string>
   <string name="auto_start_warning_title">Autoriser %s à démarrer automatiquement ?</string>
+  <string name="button_text_cancel">Annuler</string>
+  <string name="button_text_delete">Supprimer</string>
+  <string name="button_text_delete_timer">Effacer (%d)</string>
+  <string name="button_text_next_step">Suivant</string>
   <string name="call_record_or">" ou "</string>
   <string name="call_record_sample_prefix_miui">Appel</string>
   <string name="caller_info_name_delimiter">" ou "</string>
@@ -53,6 +57,7 @@ Pour activer cette fonction, allez dans Paramètres &gt; Système &gt; Touches\"
   <string name="maml_component_customization_title">Paramètres</string>
   <string name="memory_clear_nothing_result">Pas de mémoire à libérer</string>
   <string name="memory_clear_result">%1$so libérés | %2$so disponibles</string>
+  <string name="package_delete_confirm_step_1">Supprimer l\'événement \"%s\" ?</string>
   <string name="paste">Coller</string>
   <string name="perm_send_push_dspt">Autoriser les messages push de Xiaomi</string>
   <string name="perm_send_push_lab">Réception de messages push</string>
