@@ -111,6 +111,9 @@
   <string name="account_setup_incoming_port_label">Port</string>
   <string name="account_setup_incoming_security_label">Tipus de seguretat</string>
   <string name="account_setup_incoming_security_none_label">Cap</string>
+  <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
+  <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (accepta tots els certificats)</string>
+  <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
   <string name="account_setup_incoming_server_label">Servidor</string>
   <string name="account_setup_incoming_username_label">Nom d\'usuari</string>
   <string name="account_setup_incoming_username_label_default_hint">Pots incloure el domini</string>
@@ -192,6 +195,8 @@
   <string name="auto_advance_summary">Tria quina pantalla es mostrarà després d\'eliminar un missatge</string>
   <string name="auto_sync_off">Sincronització automàtica apagada.</string>
   <string name="battery_saver">Estalvi de bateria</string>
+  <string name="bcc">Cco</string>
+  <string name="bcc_heading">"Cco: "</string>
   <string name="blank_feedback_toast">Necessites escriure un comentari</string>
   <string name="body_forward_email_text">[Reenvia]</string>
   <string name="body_hint">Escriure un correu electrònic</string>
@@ -199,14 +204,17 @@
   <string name="bottom_bar_more_quickreply">Resposta ràpida</string>
   <string name="bottom_bar_more_share">Compartir</string>
   <string name="bottom_bar_no_quickreply_toast">Sense respostes ràpides</string>
+  <string name="bytes">%s B</string>
   <string name="calendar_remind_dialog_title">Recordar</string>
   <string name="calendar_remind_gridview_pick_date">Triar data</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_action">Cancel·la</string>
   <string name="cant_move_or_change_labels">"\"No es pot moure perquè la selecció conté diversos 
          comptes.\""</string>
+  <string name="cc">Cc</string>
   <string name="cc_attribution">Cc: %1$s</string>
   <string name="cc_bcc">Cc/Cco</string>
+  <string name="cc_heading">"Cc: "</string>
   <string name="change_folders_selection_dialog_title">Canvia carpetes</string>
   <string name="change_sync_settings">Canvia la configuració de sincronització</string>
   <string name="changepw_dialog_tips">Torneu a introduir la contrasenya per %s</string>
