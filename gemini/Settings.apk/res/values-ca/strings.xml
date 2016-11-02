@@ -659,6 +659,9 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="bootloader_device_bind_msg">S\'està preparant per afegir el compte i el dispositiu&#8230;</string>
   <string name="bootloader_device_bind_no_account">Inicieu sessió amb el vostre Compte Mi primer</string>
   <string name="bootloader_device_bind_no_network">Connectat a la xarxa i torna-ho a provar</string>
+  <string name="bootloader_locked_answer_1">"Bloquejarem els dispositius per assegurar que són segurs i la informació personal no sigui revelada a tercers. Si ha d'accedir al mode Fastboot i en flaixejar el dispositiu, podríeu desbloquejar-lo."</string>
+  <string name="bootloader_locked_answer_1_warning">"Recordeu: No sereu capaços d'utilitzar Cerca el dispositiu després que el telèfon estigui desbloquejat."</string>
+  <string name="bootloader_locked_answer_2">"Feu clic al botó de sota per associar el vostre Compte Mi amb aquest dispositiu. A continuació, aneu a la pàgina web de MIUI per baixar l'eina de desbloqueig i instal·lar-la a l'ordinador. Aquí està l'adreça:"</string>
   <string name="bootloader_status_locked">Bloquejada</string>
   <string name="bootloader_status_locked_info">Aquest dispositiu està bloquejat</string>
   <string name="bootloader_status_unlocked">S\'ha desbloquejat</string>
