@@ -329,7 +329,9 @@
   <string name="search_develop_settings">Configuracions de desenvolupament;Versió seleccionada;Versió triada;Actualitza la versió;Versió;Fòrum;Mode rendiment;Qualitat d\'imatge;Ginys del reproductor</string>
   <string name="search_hint">Cerca vídeo en línia</string>
   <string name="search_result_empty_text">"No s'ha trobat res"</string>
+  <string name="search_settings">Configuració de vídeo;Xarxa mòbil;Wifi;Reproducció de vídeo;Push;Notificació;Memòria cau;Configuracions de desenvolupament</string>
   <string name="search_snack_more">Més informació</string>
+  <string name="search_snack_sniff">Tots els orígens de la xarxa</string>
   <string name="second">Segon</string>
   <string name="see_all_count_comment">%d comentaris més</string>
   <string name="select_all">Selecciona-ho tot</string>
@@ -346,6 +348,7 @@
   <string name="share_device">Dispositiu compartit</string>
   <string name="similar">Pel·lícula similar</string>
   <string name="sina">Sina</string>
+  <string name="single_pay">pagament únic</string>
   <string name="sniff">Origen</string>
   <string name="souhu">Souhu</string>
   <string name="source_error">No s\'ha pogut aconseguir la font</string>
@@ -410,11 +413,14 @@
   <string name="video_plugin_prepare">Un moment&#8230;</string>
   <string name="video_vip">vip</string>
   <string name="vip_package">paquet vip</string>
+  <string name="vip_rights">Drets Vip i interessos</string>
   <string name="vp_VideoView_error_button">D\'acord</string>
   <string name="vp_VideoView_error_network_not_available">"No es pot connectar a la xarxa"</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">"Aquest tipus de fitxer no és compatible."</string>
   <string name="vp_VideoView_error_text_unknown">S\'ha produït error desconegut.</string>
   <string name="vp_VideoView_error_title">Error desconegut</string>
+  <string name="vp_ad_skip">Omet l\'ANUNCI</string>
+  <string name="vp_ad_skip_at">Omet l\'ANUNCI després de %1$d</string>
   <string name="vp_adapt_height">Ajustar alçada</string>
   <string name="vp_adapt_width">Ajustar amplada</string>
   <string name="vp_app_download">Aplicació baixada</string>
@@ -434,6 +440,7 @@
   <string name="vp_datastream_alert_positive_button">Continuar</string>
   <string name="vp_datastream_alert_title">Avís d\'ús de dades</string>
   <string name="vp_device_list">Dispositius</string>
+  <string name="vp_download_apk_from_video_ad">Instal·la aquesta aplicació</string>
   <string name="vp_download_connect_fail">"No s'ha trobat l'URL."</string>
   <string name="vp_download_file_fail">"Descàrrega fallida. Comprovar si hi ha prou espai al dispositiu."</string>
   <string name="vp_downloading_apk_title">S\'està baixant %1$s</string>
@@ -461,12 +468,14 @@
   <string name="vp_mobile_network_using_warning">Utilitzar la teva connexió de dades mòbils per veure vídeos incrementarà el teu ús de dades. Si et passes del límit del teu pla, el proveïdor pot carregar despeses extra.</string>
   <string name="vp_mobile_network_using_warning_line_1">Utilitza la teva connexió de dades mòbils per veure vídeos incrementarà el teu ús de dades.</string>
   <string name="vp_mobile_network_using_warning_line_2">Si et passes del límit del teu pla, el proveïdor pot carregar despeses extra.</string>
+  <string name="vp_more_show_video">Mostra l\'ANUNCI</string>
   <string name="vp_mplayer_error_io">Error d\'operació IO</string>
   <string name="vp_mplayer_error_malformed">Contingut multimèdia mal format</string>
   <string name="vp_mplayer_error_server_died">El servidor multimèdia ha mort</string>
   <string name="vp_mplayer_error_timed_out">Operació expirada</string>
   <string name="vp_newest_ep">Nou</string>
   <string name="vp_next_ci">Següent</string>
+  <string name="vp_notify_apk_installed">L\'aplicació s\'ha instal·lat amb èxit</string>
   <string name="vp_offline">Fora de línia</string>
   <string name="vp_offline_status_done">Finalitzat</string>
   <string name="vp_offline_status_dowloading">Descarregant</string>
@@ -501,6 +510,7 @@
   <string name="vp_using_16_9">Forçar 16:9</string>
   <string name="vp_using_4_3">Forçar 4:3</string>
   <string name="vp_video_bad_network_condition">Mala connexió de xarxes, intenti-ho més tard</string>
+  <string name="vp_video_invalid_cp_info">Informació no vàlida del proveïdor de vídeo, reinicieu l\'aplicació</string>
   <string name="vp_video_loading">&lt;CDATA&gt;Carregant&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="vp_video_plugin_installation">Instal·lant plugin %1$s per a una millor qualitat d\'imatge...</string>
   <string name="waiting_to_download">Esperant</string>
