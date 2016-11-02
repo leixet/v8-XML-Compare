@@ -79,6 +79,11 @@ o introdueixi la seva contrasenya"</string>
   <string name="antivirus_choose_engine_disable_toast">"No es poden canviar les definicions durant l'escaneig"</string>
   <string name="antivirus_choose_engine_settings">Configuració de definicions de virus</string>
   <string name="antivirus_choose_engine_title">Definicions</string>
+  <string name="antivirus_monitor_btn_text_clean_risk">Elimina aplicacions perilloses</string>
+  <string name="antivirus_monitor_btn_text_clean_virus">Elimina virus</string>
+  <string name="antivirus_monitor_clean_tips">S\'han eliminat %s elements</string>
+  <string name="antivirus_monitor_risk_advice">"Aquesta aplicació no és segura, elimineu-la"</string>
+  <string name="antivirus_monitor_virus_advice">Aquesta aplicació podria contenir virus, elimineu-la</string>
   <string name="antivirus_more_engine_dialog_summary">Utilitzar diverses llistes de definicions pot alentir l\'escaneig.</string>
   <string name="antivirus_more_engine_dialog_title">Atenció</string>
   <string name="antivirus_none_engine_dialog_ok">D\'acord</string>
