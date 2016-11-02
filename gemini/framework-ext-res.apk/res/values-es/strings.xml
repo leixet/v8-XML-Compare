@@ -18,6 +18,10 @@
   <string name="auto_start_warning_allow">Permitir</string>
   <string name="auto_start_warning_deny">Rechazar</string>
   <string name="auto_start_warning_title">¿Permitir que %s inicie de forma automática?</string>
+  <string name="button_text_cancel">Cancelar</string>
+  <string name="button_text_delete">Borrar</string>
+  <string name="button_text_delete_timer">Borrar (%d)</string>
+  <string name="button_text_next_step">Siguiente</string>
   <string name="call_record_or">" o "</string>
   <string name="call_record_sample_prefix_miui">Llamada</string>
   <string name="caller_info_name_delimiter">" o "</string>
@@ -65,6 +69,7 @@
   <string name="maml_component_customization_title">Ajustes</string>
   <string name="memory_clear_nothing_result">Nada que limpiar en caché</string>
   <string name="memory_clear_result">%1$s eliminado | %2$s disponible</string>
+  <string name="package_delete_confirm_step_1">¿Eliminar %s?</string>
   <string name="paste">Pegar</string>
   <string name="perm_send_push_dspt">Permitir mensajes de envío Mi</string>
   <string name="perm_send_push_lab">Enviar mensaje de envío</string>
