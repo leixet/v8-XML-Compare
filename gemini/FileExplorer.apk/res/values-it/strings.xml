@@ -22,6 +22,8 @@
   <string name="app_name_miuiringtone">Suonerie</string>
   <string name="app_name_miuiwallpaper">Sfondi</string>
   <string name="app_name_screenshot">Screenshot</string>
+  <string name="auto_play_later">Più tardi</string>
+  <string name="auto_play_now">Abilita</string>
   <string name="backup_cancel">"No grazie"</string>
   <string name="backup_checkbox_msg">Esegui sempre il backup e mostra le notifiche</string>
   <string name="backup_confirm">Backup ora</string>
@@ -68,6 +70,8 @@
   <string name="change_sticker">Scegli un altro</string>
   <string name="choose_report_comment_reason">Perché segnali questo commento?</string>
   <string name="choose_report_reason">Perché stai segnalando?</string>
+  <string name="claim_remind_dialog_confirm">Resta su questa pagina</string>
+  <string name="claim_remind_dialog_title">Notifiche utente</string>
   <string name="clean_hint">Tocca per liberare spazio</string>
   <string name="click_to_switch_volume">Tocca qui per cambiare tra memoria interna e scheda SD</string>
   <string name="click_to_switch_volume_pad">Tocca qui per cambiare tra memoria interna e scheda SD</string>
@@ -241,7 +245,6 @@
   <string name="midrop_send_files">Seleziona i file da inviare</string>
   <string name="mobile_network_dialog_cancle">Annulla</string>
   <string name="mobile_network_dialog_tip">"L'utilizzo della rete dati mobile può comportare dei costi aggiuntivi."</string>
-  <string name="mobile_network_dialog_tip2">"Stai utilizzando la rete dati mobile per la visione di video online. Questo può comportare dei costi aggiuntivi."</string>
   <string name="mobile_network_dialog_title">Non collegato alla rete Wi-Fi</string>
   <string name="month_day_format">dd MMM</string>
   <string name="move_failed">"Impossibile spostare"</string>
@@ -266,6 +269,7 @@
   <string name="no_enough_storage_title">Spazio insufficiente</string>
   <string name="no_file">Nessun file</string>
   <string name="no_login_btn_text">Accedi immediatamente</string>
+  <string name="no_login_str">Non accedere</string>
   <string name="no_message">Nessun messaggio</string>
   <string name="no_new_content_tip">E\' stato aggiornato, puoi passare al più richiesto!</string>
   <string name="no_recent_files">Nessun file recente</string>
@@ -451,12 +455,13 @@
   <string name="sys_size_enable">" liberi"</string>
   <string name="tab_category">Cerca</string>
   <string name="tab_common_app">Applicazioni base</string>
+  <string name="tab_discover">Scopri</string>
   <string name="tab_follow">Seguito</string>
   <string name="tab_hottest_video">Popolari</string>
   <string name="tab_local">Locale</string>
+  <string name="tab_mine">Profilo</string>
   <string name="tab_more">altro</string>
   <string name="tab_newest_video">Nuovo evento</string>
-  <string name="tab_profile">Profilo</string>
   <string name="tab_ranking_list">Classifica</string>
   <string name="tab_source">APP</string>
   <string name="tip">Notifiche utente</string>
@@ -541,6 +546,7 @@
   <string name="video_data_consumption_cancel">Annulla</string>
   <string name="video_data_consumption_dialog_message">Il caricamento del video comporterà un consumo di %1$s di dati.</string>
   <string name="video_data_consumption_dialog_title">Avviso consumo dati</string>
+  <string name="video_encrypt_login_btn">Login</string>
   <string name="video_parse_btn">Avvia</string>
   <string name="video_parse_error_unknown">"Questo servizio video non è supportato, provane uno diverso"</string>
   <string name="video_parse_hint">Applicazioni supportate: WeChat, Weibo, Youku.</string>
@@ -577,5 +583,4 @@
   <string name="yes">Si</string>
   <string name="yesterday">ieri</string>
   <string name="youliao_ad_update">Aggiorna</string>
-  <string name="zero_comment">Nessun commento</string>
 </resources>
