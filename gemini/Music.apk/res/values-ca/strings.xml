@@ -514,6 +514,7 @@
   <string name="order_pending">S\'està esperant la confirmació</string>
   <string name="order_process_fail">"No s'ha pogut autoritzar el vostre compte. Espereu uns minuts i torne-ho a provar."</string>
   <string name="other_filter">Altres</string>
+  <string name="other_song_in_album">Altres cançons d\'aquest àlbum</string>
   <string name="package_filter">Paquets</string>
   <string name="pause_download">Pausa</string>
   <string name="paused_by_app">Pausat</string>
