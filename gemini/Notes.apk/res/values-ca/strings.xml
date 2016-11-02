@@ -116,6 +116,7 @@ Premeu al signe més per crear-ne una"</string>
   <string name="root_folder_name">Notes ràpides</string>
   <string name="search">Notes</string>
   <string name="search_hint">Cercar notes</string>
+  <string name="search_keyword_notes">Notes;Anotació</string>
   <string name="search_label">Buscant notes</string>
   <string name="search_path_notes">Aplicacions del sistema/Notes</string>
   <string name="search_setting_description">Escrigui les seves notes</string>
