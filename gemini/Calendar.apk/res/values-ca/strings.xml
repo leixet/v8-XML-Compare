@@ -149,7 +149,7 @@
   <string name="edit_event_label">Detalls</string>
   <string name="edit_event_reminder_off_toast">Els recordatoris estan desactivats</string>
   <string name="edit_event_show_all">Mostra-ho tot</string>
-  <string name="edit_event_to_label">A</string>
+  <string name="edit_event_to_label">Fins a</string>
   <string name="email_guests_label">Envia un correu als convidats</string>
   <string name="email_picker_label">Envia un correu amb</string>
   <string name="email_subject_prefix">"Re: "</string>
@@ -197,7 +197,7 @@
   <string name="fortune_name">称呼</string>
   <string name="fortune_name_hint">请输入</string>
   <string name="fortune_no_name">请填写称呼</string>
-  <string name="from_google_group_calendar">Calendari de Google</string>
+  <string name="from_google_group_calendar">Google Calendar</string>
   <string name="gadget_no_events">No hi ha esdeveniments de calendari pròxims </string>
   <string name="gadget_title">Calendari</string>
   <string name="guide_card_hint_text">Toqueu per obrir Mi Cloud</string>
@@ -445,7 +445,7 @@
   <string name="travel_item_reminder_overdue">Recordatori</string>
   <string name="travel_item_trafic">Trànsit</string>
   <string name="travel_item_virtual_sim">SIM Virtual de Mi</string>
-  <string name="travel_item_weather_forecast">Predicció de temps a la destinació</string>
+  <string name="travel_item_weather_forecast">Previsió del temps a la destinació</string>
   <string name="travel_item_weather_now">Temps a la destinació</string>
   <string name="travel_load_failed">"No s'ha pogut carregar"</string>
   <string name="travel_loaded">Amb tecnologia de Veryzhun</string>
