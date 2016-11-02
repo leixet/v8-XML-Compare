@@ -4,7 +4,7 @@
   <string name="close_dialog">D\'acord</string>
   <string name="error_updating_title">Error de configuració de les trucades</string>
   <string name="exception_error">Error de xarxa o de targeta SIM.</string>
-  <string name="fdn_check_failure">"La configuració que limita la marcació de números de les aplicacions al vostre telèfon està activa. Per tant, alguna característica relacionada amb les trucades no funcionarà."</string>
+  <string name="fdn_check_failure">"El paràmetre dels números de marcatge fix de l'aplicació Telèfon està activat. En conseqüència, algunes funcions relacionades amb les trucades no funcionen."</string>
   <string name="phone_numbers">Introduïu els números de telèfon</string>
   <string name="proceed">Endavant</string>
   <string name="radio_off_error">Per veure aquesta configuració, heu d\'activar el radio.</string>
