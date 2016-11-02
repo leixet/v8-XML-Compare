@@ -95,7 +95,7 @@
   <string name="power_config_event_delete">Esborra</string>
   <string name="power_config_idle_notification_summary">Mostra només la primera notificació de l\'aplicació</string>
   <string name="power_config_idle_notification_title">Mostra només primera notificació</string>
-  <string name="power_config_keyguard_notification_summary">Permet notificacions en pantalla de bloqueig</string>
+  <string name="power_config_keyguard_notification_summary">Permet notificacions a la pantalla de bloqueig</string>
   <string name="power_config_keyguard_notification_title">Notificacions en pantalla de bloqueig</string>
   <string name="power_config_lcd_mode_dialog_title">Mode LCD</string>
   <string name="power_config_lcd_mode_title">Mode LCD</string>
