@@ -796,7 +796,7 @@
   <string name="warning_tip_cancel">Baixa</string>
   <string name="warning_tip_content">"Ja no esteu connectats a Wi-Fi. Utilitzeu la vostra connexió de dades mòbils per completar aquesta baixada incrementarà l'ús de dades. Si excediu el límit de dades contractat, la vostra companyia podria cobrar-li taxes addicionals."</string>
   <string name="warning_tip_ok">Pausa</string>
-  <string name="warning_tip_title">Avis d\'ús de dades</string>
+  <string name="warning_tip_title">Alerta d\'ús de dades</string>
   <string name="welcome_to_new_music">Benvinguts a la nova versió de Música Mi</string>
   <string name="wifi_required_body" formatted="false">«Heu d\'utilitzar la Wi-Fi per completar aquesta descàrrega %s. 
 
