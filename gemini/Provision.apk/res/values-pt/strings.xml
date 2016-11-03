@@ -3,12 +3,9 @@
 <resources>
   <string name="agree">Concordar</string>
   <string name="agree_terms">"Eu li e aceito os Termos e Condições"</string>
-  <string name="app_name">Provisão</string>
   <string name="back">Voltar</string>
   <string name="congratulation_label">"Tudo pronto para começar!"</string>
   <string name="congratulation_title">Configuração concluída</string>
-  <string name="content_description_complete">Concluído</string>
-  <string name="content_description_start">Iniciar</string>
   <string name="desc_fingerprint">Utilize a sua impressão digital para desbloquear o seu dispositivo, para verificar as transações de pagamentos Mi ou para iniciar sessão em aplicações e serviços</string>
   <string name="desc_international_fingerprint">Utilize a sua impressão digital para desbloquear o seu dispositivo ou para iniciar sessão em aplicações e serviços</string>
   <string name="disagree">Cancelar</string>
@@ -25,11 +22,8 @@
   <string name="next">Seguinte</string>
   <string name="next_fingerprint">Seguinte</string>
   <string name="other_settings">Definições adicionais</string>
-  <string name="other_settings_auto_update">Actualizar automaticamente</string>
   <string name="other_settings_location">Localização</string>
   <string name="other_settings_location_summary">Permitir que aplicações determinem a sua localização</string>
-  <string name="other_settings_mifg_online_content">Carrossel de Papéis de Parede</string>
-  <string name="other_settings_upload_debug_log_title">Programa de Experiência do Utilizador</string>
   <string name="other_settings_user_experience">Experiência de utilização do Programa</string>
   <string name="other_settings_user_experience_summary">Ajudar a melhorar a MIUI enviando dados do utilizador anónimos (%s)</string>
   <string name="pref_title_data_slot">Cartão SIM dados preferidos</string>
