@@ -14,11 +14,9 @@
   <string name="app_category_music_movie">Vidéos musicales</string>
   <string name="app_category_news">Actus</string>
   <string name="app_category_productivity">Productivité</string>
-  <string name="app_category_sport">Sport</string>
   <string name="app_category_tools">Outils</string>
   <string name="app_category_travel">Voyages</string>
   <string name="application_name">Accueil MIUI</string>
-  <string name="apply">Définir</string>
   <string name="apply_action">Appliquer</string>
   <string name="apply_as_lock_screen">Écran de verrouill.</string>
   <string name="apply_as_wallpaper">Écran d\'accueil</string>
@@ -128,14 +126,11 @@
   <string name="invalid_contact_shortcut">Raccourci du contact non valide</string>
   <string name="is_setting_wallpaper_message">Application du fond d\'écran&#8230;</string>
   <string name="is_system_wallpaper_message">"Impossible de supprimer des ressources système"</string>
-  <string name="like">Ajouter aux favoris</string>
-  <string name="liked">Ajoutée aux favoris</string>
   <string name="loading_desktop">Chargement du lanceur&#8230;</string>
   <string name="loading_wallpaper">Chargement&#8230;</string>
   <string name="local_wallpaper">Téléchargé</string>
   <string name="lock_screen_failed_message">"Échec, non appliqué"</string>
   <string name="lock_screen_success_message">Appliqué</string>
-  <string name="lock_screen_wallpaper">Fond d\'écran de verrouillage</string>
   <string name="menu_add">Ajouter</string>
   <string name="menu_back_desktop">Retour à l\'accueil</string>
   <string name="menu_customize">Personnaliser les Paramètres</string>
@@ -153,9 +148,6 @@
   <string name="mi_wallpaper">Boutique de thèmes MIUI</string>
   <string name="mtzgadget_missing_text">"Widget non disponible"</string>
   <string name="multi_selecting_tips">Pour sélectionner une appli, touchez son icône</string>
-  <string name="normal_wallpaper">Fond d\'écran</string>
-  <string name="notification_installed">Configurer les permissions</string>
-  <string name="notification_open_button">Ouvrir</string>
   <string name="online_wallpaper">En ligne</string>
   <string name="out_of_space">Espace saturé sur cette page</string>
   <string name="permdesc_install_shortcut">Permet à l\'application d\'ajouter des raccourcis sans l\'intervention de l\'utilisateur.</string>
@@ -194,11 +186,8 @@
   <string name="scroll_tip_format_when_announce_accessibility">Page %1$d, %2$d apps</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="select_frame">Cadre</string>
-  <string name="select_photo">Sélectionner une photo dans la galerie</string>
   <string name="setting_wallpaper_tip">Pincez ou glissez pour ajuster</string>
-  <string name="settings">Paramètres</string>
   <string name="settings_shortcut">Paramèt.</string>
-  <string name="share">Partager</string>
   <string name="show_all">Afficher tous</string>
   <string name="sort_by_abc">Trier par nom</string>
   <string name="sort_by_frequency">Trier par utilisation</string>
@@ -236,7 +225,6 @@
   <string name="wallpaper_auto_change_title">Écran de verrouillage</string>
   <string name="wallpaper_failed_message">"Impossible d'appliquer le fond d'écran"</string>
   <string name="wallpaper_scaling_message">Mise à l\'échelle pour taille fixe</string>
-  <string name="wallpaper_scrolling">Tous</string>
   <string name="wallpaper_settings">Fond d\'écran</string>
   <string name="wallpaper_success_message">Fond d\'écran appliqué</string>
   <string name="widget_favorite_contacts_edit">Éditeur</string>
