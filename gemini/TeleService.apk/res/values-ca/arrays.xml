@@ -15,6 +15,11 @@
     <item>Hide number</item>
     <item>Mostra el número</item>
   </string-array>
+  <string-array name="clir_values">
+    <item>PER DEFECTE</item>
+    <item>HIDE</item>
+    <item>SHOW</item>
+  </string-array>
   <string-array name="call_barring_outgoing_display_values">
     <item>Desactivat</item>
     <item>Roaming call barring</item>
