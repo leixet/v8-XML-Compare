@@ -12,7 +12,6 @@
   <string name="continue_provisioning_notify_text">Toque para continuar a configurar o seu perfil de trabalho</string>
   <string name="continue_provisioning_notify_title">Encriptação concluída</string>
   <string name="copying_certs">A configurar os certificados da AC</string>
-  <string name="default_managed_profile_name">Perfil de trabalho</string>
   <string name="delete_profile">ELIMINAR</string>
   <string name="delete_profile_title">Remover perfil de trabalho?</string>
   <string name="device_owner_cancel_cancel">CANCELAR</string>
