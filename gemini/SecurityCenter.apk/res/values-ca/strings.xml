@@ -512,7 +512,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="gigabyteShort">GB</string>
   <string name="go_to">Continua</string>
   <string name="go_to_setting_fingerprint">Configuració</string>
-  <string name="goto_set">Fixar</string>
+  <string name="goto_set">Estableix</string>
   <string name="handle_bar_summary_wifi_unknown">Desconegut</string>
   <string name="handle_bar_title_apps">Aplicacions</string>
   <string name="handle_bar_title_paysms">Missatges</string>
@@ -1248,7 +1248,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="see_more">Més</string>
   <string name="select_pattern">Seleccioneu el patró</string>
   <string name="set_applock_password">Estableix una contrasenya</string>
-  <string name="set_immediately">Fixar</string>
+  <string name="set_immediately">Estableix</string>
   <string name="seton_immediately">Activa</string>
   <string name="setting_privacy_password">Estableix la contrasenya de protecció de la privacitat</string>
   <string name="settings">Configuració d\'ús de dades</string>
