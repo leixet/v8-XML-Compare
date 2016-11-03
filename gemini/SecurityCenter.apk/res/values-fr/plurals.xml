@@ -37,10 +37,6 @@
     <item quantity="other">"%d h "</item>
     <item quantity="one">"%d h "</item>
   </plurals>
-  <plurals name="view_num">
-    <item quantity="other">%1$d vues</item>
-    <item quantity="one">%1$d vue</item>
-  </plurals>
   <plurals name="hints_auto_start_enable_title">
     <item quantity="other">%d applications autorisées</item>
     <item quantity="one">%d application autorisée</item>
@@ -68,9 +64,5 @@
   <plurals name="notification_apps">
     <item quantity="other">%d applications ont des risques pour la vie privée</item>
     <item quantity="one">%d application a un risque pour la vie privée</item>
-  </plurals>
-  <plurals name="found_apps_title">
-    <item quantity="other">%d applications trouvées</item>
-    <item quantity="one">%d application trouvée</item>
   </plurals>
 </resources>
