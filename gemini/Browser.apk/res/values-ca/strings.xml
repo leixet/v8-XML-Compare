@@ -306,7 +306,7 @@ Les pàgines que visiteu no es veuran reflectides en l\'historial"</string>
   <string name="find_on_page_prev">Anterior</string>
   <string name="find_previous">Cerca l\'anterior</string>
   <string name="force_quick_search_title">Cerca</string>
-  <string name="force_touch_bookmark_history_title">Marcadors i historial</string>
+  <string name="force_touch_bookmark_history_title">Marcadors &amp; historial</string>
   <string name="force_touch_infoflow_title">Notícies</string>
   <string name="geolocation_permissions_prompt_dont_share">Rebutja</string>
   <string name="geolocation_permissions_prompt_message">%s vol saber la seva ubicació</string>
