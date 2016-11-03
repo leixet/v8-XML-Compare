@@ -22,7 +22,6 @@
   <string name="action_item_send">Enviar</string>
   <string name="action_item_share">Compartir</string>
   <string name="action_settings">Ajustes</string>
-  <string name="ad_close">Cerrar</string>
   <string name="add_music">Añadir canciones</string>
   <string name="add_to_last_of_playlist">Añadir al final de la lista de reproducción.</string>
   <string name="alaka_required">"Esta canción no está disponible."</string>
@@ -41,11 +40,8 @@
   <string name="app_downloads">%s descargas</string>
   <string name="app_label">Gestor de descargas</string>
   <string name="artist">Artistas</string>
-  <string name="artist_album">Álbumes</string>
-  <string name="artist_favor">Recomendado</string>
   <string name="artist_is_empty">El nombre del artista no puede estar vacío.</string>
   <string name="artist_name">Artista</string>
-  <string name="artist_news">Noticias</string>
   <string name="artist_search_title">Artista</string>
   <string name="artist_view">Artista</string>
   <string name="atmd_music">Último</string>
@@ -77,7 +73,6 @@
   <string name="buy_traffic">Compra Unicom</string>
   <string name="can_not_find_resource">"No se encuentra el recurso"</string>
   <string name="cancel">Cancelar</string>
-  <string name="cancel_running_download">Cancelar</string>
   <string name="chinese_female">Artistas femeninas (China)</string>
   <string name="chinese_group">Bandas (China)</string>
   <string name="chinese_male">Artistas masculinos (China)</string>
@@ -241,7 +236,6 @@
   <string name="enter_garbage_clean">Limpiar almacenamiento interno.</string>
   <string name="eq_auto">Personalizado</string>
   <string name="eq_classical">Clásica</string>
-  <string name="eq_country">País</string>
   <string name="eq_delete">Eliminar</string>
   <string name="eq_delete_success">Hecho</string>
   <string name="eq_electronic">Electrónica</string>
@@ -278,7 +272,6 @@
   <string name="filter_by_size_prefix">"Ocultar archivos más pequeños que "</string>
   <string name="filter_by_size_summary">Ocultar archivos de audio pequeños</string>
   <string name="find_music">Descubrir canciones</string>
-  <string name="follow">Seguir</string>
   <string name="force_touch_audio_picker">Reconocer canción</string>
   <string name="force_touch_play_local_music_random">Música aleatoria</string>
   <string name="format_not_support">"Este formato no es compatible."</string>
@@ -317,20 +310,17 @@
   <string name="japan_korea_female">Artistas femeninas (Japón/Corea)</string>
   <string name="japan_korea_group">Bandas (Japón/Corea)</string>
   <string name="japan_korea_male">Artistas masculinos (Japón/Corea)</string>
-  <string name="keep_queued_download">Mantener</string>
   <string name="ktv_playlist">Lista de reproducción de KTV</string>
   <string name="latest_song">Historial reproducciones(%d).</string>
   <string name="like">Me gusta</string>
   <string name="list_detail_title">Detalles</string>
   <string name="list_item_play_FM_radio">Toca para reproducir la radio FM</string>
   <string name="list_item_play_all_tracks">Reproducir todo</string>
-  <string name="loadercontainer_loading">Un momento&#8230;</string>
   <string name="loading_hint">Cargando&#8230;</string>
   <string name="local_music">Local</string>
   <string name="local_music_empty">La lista de reproducción local está vacía</string>
   <string name="local_music_empty_goto_online">No se encontraron canciones</string>
   <string name="local_music_is_not_available">La música local no está disponible</string>
-  <string name="local_page_song_all">Todas las canciones</string>
   <string name="local_tracks_short">Local</string>
   <string name="lrc_search_failed">"No se pudieron encontrar las letras"</string>
   <string name="lrc_searching">Buscando&#8230;</string>
@@ -339,7 +329,6 @@
   <string name="lyric_open_other_connect">Descargar letras utilizando los datos móviles</string>
   <string name="lyric_setting">Ajustes de letras</string>
   <string name="male_artist">Artistas masculinos</string>
-  <string name="media_filter">MEDIA</string>
   <string name="menu_all_task_pause">Pausar todo</string>
   <string name="menu_all_task_start">Iniciar todo</string>
   <string name="menu_preferences">Ajuste de descarga</string>
@@ -353,8 +342,6 @@
   <string name="metered_disallow">Cancelar</string>
   <string name="metered_play_toast">Usando conexión de datos móviles para streaming de radio</string>
   <string name="milink_unavaliable_please_update">"Milink función no está disponible. Necesita actualizar el sistema de MIUI."</string>
-  <string name="missing_title">&lt;Desconocido&gt;</string>
-  <string name="miui_music">Mi Música</string>
   <string name="miuishare_account_activate_confirmation">Activación requerida</string>
   <string name="miuishare_account_activate_ok">Activar</string>
   <string name="miuishare_account_login_cancel">Cancelar</string>
@@ -377,7 +364,6 @@
   <string name="monthly_price">Créditos Mi</string>
   <string name="more">Más</string>
   <string name="more_about_artist">Más sobre %s</string>
-  <string name="more_add_song_list">Añadir a lista de reproducción</string>
   <string name="more_online_artist">Más</string>
   <string name="more_online_billboard">Más</string>
   <string name="more_online_fm">Más</string>
@@ -387,7 +373,6 @@
   <string name="more_online_suggest">Más</string>
   <string name="more_settings">Opciones avanzadas</string>
   <string name="more_settings_summary">Ajustes de descargas, temporizador, uso de datos móviles, filtrar archivos, etc.</string>
-  <string name="more_share">Compartir</string>
   <string name="multichoice">Seleccionar</string>
   <string name="music_browser_label">Música</string>
   <string name="music_filter">Filtrar archivos de audio</string>
@@ -410,11 +395,9 @@
   <string name="network_request_error">"No se puede conectar a la red"</string>
   <string name="network_settings_error">"No se puede conectar a la red"</string>
   <string name="network_traffic">Uso de datos</string>
-  <string name="news_mark">NOTICIAS</string>
   <string name="next_time">La próxima vez</string>
   <string name="no_album_info">No hay información del álbum</string>
   <string name="no_artist_info">No hay información del artista</string>
-  <string name="no_downloads">Sin descargas</string>
   <string name="no_enough_info">No hay suficiente información de la canción</string>
   <string name="no_favorites_songs">Vacío</string>
   <string name="no_file_picker_find">"El Explorador no está instalado en este dispositivo"</string>
@@ -455,8 +438,6 @@
   <string name="nowplaying_menu_item_delete">Borrar</string>
   <string name="ok">Aceptar</string>
   <string name="one_month">1 mes</string>
-  <string name="online_bill">Listas</string>
-  <string name="online_favor">Recomendado</string>
   <string name="online_list_delete_message">Todas las canciones descargadas de esta lista de reproducción serán borradas de la memoria interna</string>
   <string name="online_music_enabled_subtitle">Pulsa para hacer streaming de tus canciones favoritas.</string>
   <string name="online_music_enabled_summary">Escucha y descarga tus canciones favoritas. ¡Consulta las mejores canciones y listas de reproducción recomendadas estés donde estés!</string>
@@ -488,9 +469,6 @@
   <string name="playback_failed_no_title_by_bad_file">"El formato no es compatible o el archivo no existe."</string>
   <string name="playlist_deleted_message">Lista de reproducción eliminada</string>
   <string name="playlist_renamed_message">Lista de reproducción renombrada</string>
-  <string name="playlist_type_album">Álbumes</string>
-  <string name="playlist_type_billboard">Listas</string>
-  <string name="playlist_type_recommend">Listas de reproducción recomendadas</string>
   <string name="playlist_unavailable">"Lo siento, la lista de reproducción no está disponible. Para borrarla, pulsa y mantén, después elige borrar."</string>
   <string name="please_download_first">Es necesario descargar la canción antes de poder ponerla como tono de llamada</string>
   <string name="please_search_or_select">Buscar o seleccionar un campo</string>
@@ -516,9 +494,6 @@
   <string name="privacy_tip_title">¿Usar Acelerador Xunlei?</string>
   <string name="project_device">Teléfono Mi</string>
   <string name="project_device_mobile">Dispositivo móvil</string>
-  <string name="pulluprefreshrecyclerview_loading_error">"No se pudo cargar"</string>
-  <string name="pulluprefreshrecyclerview_loading_finished">Cargado correctamente</string>
-  <string name="pulluprefreshrecyclerview_loading_running">Cargando&#8230;</string>
   <string name="radar_click_to_retry">Toca para reintentar</string>
   <string name="radar_fail">No hay resultados</string>
   <string name="radar_fail_by_noise">"Puede ser demasiado ruidoso"</string>
@@ -566,8 +541,6 @@
   <string name="select_local_lyric">Seleccionar letra</string>
   <string name="select_lyric">Seleccionar letra</string>
   <string name="select_none">Deseleccionar todo</string>
-  <string name="select_operation_items">Elegir elementos</string>
-  <string name="selected_count">Seleccionados %1$d de %2$d</string>
   <string name="send_to">Compartir</string>
   <string name="send_to_title">Enviar a (%1$s)</string>
   <string name="server_error">Error en el servidor. Por favor, inténtelo más tarde</string>
@@ -597,7 +570,6 @@
   <string name="settings_search_title_desktop_lyric">Pantalla de inicio con letras</string>
   <string name="settings_search_title_download_quality">Descargar calidad</string>
   <string name="settings_search_title_download_when_favorite">Descarga favoritos</string>
-  <string name="settings_search_title_main">Música</string>
   <string name="settings_search_title_notification">Notificaciones de música</string>
   <string name="settings_search_title_vip_service">Canciones premium</string>
   <string name="share_append_text">De @MIUI</string>
@@ -652,12 +624,6 @@
   <string name="tab_track">Canc.</string>
   <string name="tab_track_list">Canc.</string>
   <string name="take_effect_afater_restart">Es necesario reiniciar la aplicación para que esta configuración tenga efecto.</string>
-  <string name="talkback_back">Volver</string>
-  <string name="talkback_download">Descargar</string>
-  <string name="talkback_next">Próxima canción</string>
-  <string name="talkback_pre">Anterior canción</string>
-  <string name="talkback_search">Buscar</string>
-  <string name="talkback_share">Compartir</string>
   <string name="task_already_exist">Ya existe la tarea</string>
   <string name="ticket_summary">Comprar entradas para espectáculos, conciertos, obras de teatro y otros eventos</string>
   <string name="ticket_title">entradas para espectáculos</string>
@@ -671,7 +637,6 @@
   <string name="title_search_history">Histórico de búsqueda</string>
   <string name="to_mi_pay">Créditos Mi</string>
   <string name="toast_download_error_by_count_limit">Se ha agotado su cuota de descarga para este mes.</string>
-  <string name="toast_download_error_by_not_login">Inicia seccion en tu cuenta MI e intentalo de nuevo</string>
   <string name="toast_download_error_by_vip_required">Obtener paquete de canción premium para descargar esta canción.</string>
   <string name="toast_download_in_process">Descarga en proceso</string>
   <string name="toast_normal_songs_for_download">Descargando calidad estandar</string>
@@ -691,7 +656,6 @@
   <string name="track_search_title">Pista</string>
   <string name="track_view">Canción</string>
   <string name="traffic_free_to_play">Utilizar el plan de datos de música</string>
-  <string name="traffic_network_alert">Musica plan de datos</string>
   <string name="traffic_network_alert_message">"Estás usando Música Mi con un plan de datos de China Unicom. Debe conectarse a una red que no sea de datos para escuchar canciones en línea sin tener que gastar los datos móviles. Asegúrese de verificar la configuración de la red antes de escuchar música en línea."</string>
   <string name="trigger_to_scan_media_library_finish">Actualización completada</string>
   <string name="trigger_to_scan_media_library_processing">Todavía actualizando&#8230;</string>
