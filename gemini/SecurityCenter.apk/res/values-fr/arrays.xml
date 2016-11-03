@@ -48,32 +48,4 @@
     <item>Fréquence d\'utilisation</item>
     <item>Nom</item>
   </string-array>
-  <string-array name="roaming_network_type">
-    <item>Toujours</item>
-    <item>For exceptions only</item>
-    <item>Ne pas afficher</item>
-  </string-array>
-  <string-array name="long_add_menu">
-    <item>Ajouter aux exceptions</item>
-  </string-array>
-  <string-array name="power_dialog_auto_clean_memory_items">
-    <item>After 1 minute</item>
-    <item>After 5 minutes</item>
-    <item>After 10 minutes</item>
-    <item>After 30 minutes</item>
-    <item>Ne pas afficher</item>
-  </string-array>
-  <string-array name="alarm_repeat_type">
-    <item>Une fois</item>
-    <item>Quotidiennement</item>
-    <item>Legal workdays</item>
-    <item>Weekdays</item>
-    <item>Personnalisée</item>
-  </string-array>
-  <string-array name="alarm_repeat_type_no_workdays">
-    <item>Une fois</item>
-    <item>Quotidiennement</item>
-    <item>Weekdays</item>
-    <item>Personnalisée</item>
-  </string-array>
 </resources>
