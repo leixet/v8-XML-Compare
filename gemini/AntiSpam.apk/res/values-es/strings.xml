@@ -77,7 +77,6 @@
   <string name="close_callwait">Apagado</string>
   <string name="customizer_mode_user_define_name">Mis reglas</string>
   <string name="dlg_add_blacklist">¿Bloquear este número?</string>
-  <string name="dlg_add_blacklist_title">Agregar a lista de bloqueo</string>
   <string name="dlg_add_blacklist_warn_conflict_content">%1$sy %2$sotros contactos ya están en tu lista de excepciones.</string>
   <string name="dlg_add_blacklist_warn_conflict_title">Cuidado</string>
   <string name="dlg_add_keyword">Añadir palabras clave</string>
@@ -148,7 +147,6 @@
   <string name="mark_harass_block_large">Acosos</string>
   <string name="mark_harass_time_setting">Bloquear números que hayan sido reportados como acosos un número determinado de veces</string>
   <string name="mark_number_agent">Agencia</string>
-  <string name="mark_number_courier">Mensajería</string>
   <string name="mark_number_fraud">Fraude</string>
   <string name="mark_number_harass">Acoso</string>
   <string name="mark_number_info">"\"
