@@ -96,7 +96,7 @@
   <string name="datastream_alert_negative_button">Cancel·lar</string>
   <string name="datastream_alert_play">Utilitzar la connexió de dades mòbils per veure vídeos incrementarà l\'ús de les seves dades. Si sobrepassa el límit del seu pla de dades, la seva companyia podria cobrar despeses addicionals.</string>
   <string name="datastream_alert_positive_button">Continuar</string>
-  <string name="datastream_alert_title">Avís d\'ús de dades</string>
+  <string name="datastream_alert_title">Alerta d\'ús de dades</string>
   <string name="day">Dia</string>
   <string name="debug_mode">Mode depuració</string>
   <string name="debug_mode_desc">Arrenca en mode depuració i mostra la ID del vídeo a la part superior esquerra</string>
@@ -438,7 +438,7 @@
   <string name="vp_datastream_alert_negative_button">Cancel·lar</string>
   <string name="vp_datastream_alert_play">Va a utilitzar la connexió de dades mòbils per a reproduir vídeos. Si sobrepassa el límit del seu pla de dades, la seva companyia podria cobrar despeses addicionals</string>
   <string name="vp_datastream_alert_positive_button">Continuar</string>
-  <string name="vp_datastream_alert_title">Avís d\'ús de dades</string>
+  <string name="vp_datastream_alert_title">Alerta d\'ús de dades</string>
   <string name="vp_device_list">Dispositius</string>
   <string name="vp_download_apk_from_video_ad">Instal·la aquesta aplicació</string>
   <string name="vp_download_connect_fail">"No s'ha trobat l'URL."</string>
