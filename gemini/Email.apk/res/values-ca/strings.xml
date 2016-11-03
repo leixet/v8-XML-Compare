@@ -143,8 +143,10 @@
   <string name="account_setup_outgoing_port_label">Port</string>
   <string name="account_setup_outgoing_require_login_label">Necessites iniciar sessió</string>
   <string name="account_setup_outgoing_smtp_server_label">Servidor SMTP</string>
+  <string name="account_setup_security_policies_required_fmt">Cal que permeteu que el servidor %s controli de manera remota algunes funcions de seguretat del dispositiu Android. Voleu acabar de configurar aquest compte?</string>
   <string name="account_setup_security_required_title">Administració de seguretat remota</string>
   <string name="account_setup_server_acc_manager_title">Comptes</string>
+  <string name="account_setup_username_password_toast">Introduïu una adreça electrònica i una contrasenya.</string>
   <string name="account_sync_off">Sincronització de compte esta apagada.</string>
   <string name="account_waiting_for_folders_msg">Carregant llista de carpetes</string>
   <string name="actionbar_large_unread_count">%1$d no llegit</string>
@@ -152,6 +154,7 @@
   <string name="activity_mailbox_selection">Trieu compte</string>
   <string name="ad_merge">Publicitat i notificacions</string>
   <string name="add_account">Afegeix un compte</string>
+  <string name="add_account_keywords">Afegiu un compte;afegiu un compte de correu</string>
   <string name="add_attachment">Afegeix adjunt</string>
   <string name="add_calendar">Recordatori</string>
   <string name="add_label">Afegeix carpeta</string>
@@ -243,6 +246,8 @@
   <string name="compose_send">Envia</string>
   <string name="compose_sent">Enviat amb èxit</string>
   <string name="confirm">Confirmar</string>
+  <string name="confirm_before_delete">Confirma abans d\'eliminar</string>
+  <string name="confirm_before_send">Confirma abans d\'enviar</string>
   <string name="confirm_delete_conversation_title">Esborra</string>
   <string name="confirm_discard_text">Descarta aquest missatge?</string>
   <string name="confirm_response">Enviant resposta&#8230;</string>
@@ -266,6 +271,7 @@
   <string name="contact_list_add_btn">Afegeix</string>
   <string name="contact_list_search_hint">Cercar contactes</string>
   <string name="contact_list_title">Contactes</string>
+  <string name="contact_permission_error">"L'accés als contactes del telèfon està restringit"</string>
   <string name="contact_select">Selecciona contactes</string>
   <string name="content_description">%1$s sobre %2$s, %3$s en %4$s, %5$s</string>
   <string name="content_description_today">%1$s sobre %2$s, %3$s en %4$s, %5$s</string>
@@ -284,6 +290,8 @@
   <string name="contextmenu_openlink">Obrir al navegador</string>
   <string name="contextmenu_send_mail">Enviar email</string>
   <string name="contextmenu_sharelink">Compartir enllaç</string>
+  <string name="contextmenu_sms_dot">SMS&#8230;</string>
+  <string name="conversation_content_provider">Proveïdor de contingut de conversa</string>
   <string name="conversation_folder_moved">Es va moure a %1$s</string>
   <string name="conversation_item_mark_read">Llegit</string>
   <string name="conversation_item_mark_unread">No llegit</string>
@@ -297,6 +305,8 @@
   <string name="date_heading">"Data: "</string>
   <string name="date_message_received">%1$s, %2$s</string>
   <string name="date_message_received_today">Avui, %1$s</string>
+  <string name="default_">PER DEFECTE</string>
+  <string name="default_setup">CONFIGURACIÓ PER DEFECTE</string>
   <string name="default_signature">Enviat des del meu Xiaomi</string>
   <string name="del_account_questionnair_hint">"Ens pots dir per què estàs eliminant aquest compte?"</string>
   <string name="delete">Eliminar</string>
@@ -314,6 +324,7 @@
   <string name="dialog_gmail_proxy_server_is_error">Error de servidor intermediari de Gmail.</string>
   <string name="dialog_insufficient_space_on_external">"No es pot acabar de descarregar. No hi ha prou espai d'emmagatzematge extern."</string>
   <string name="dialog_insufficient_space_on_internal">No hi ha prou espai en l\'emmagatzematge intern.</string>
+  <string name="disable_admin_warning">"ATENCIÓ: Si desactiveu els permisos de l'aplicació Email per administrar el dispositiu, s'eliminaran tots els comptes de correu que els necessiten, així com els seus missatges, contactes, esdeveniments de calendari i altres dades."</string>
   <string name="discard">Descarta</string>
   <string name="discard_drafts">Descarta projecte</string>
   <string name="dismiss_tip_hover_text">Descarta consell</string>
@@ -344,6 +355,7 @@
   <string name="edit_quick_response_dialog">Resposta ràpida</string>
   <string name="elided_padding_token">&#160;</string>
   <string name="email_setting">Correu</string>
+  <string name="email_setting_keywords">Compte;Afegeix un compte;comptes de correu;afegeix un compte de correu;confirma abans d\'eliminar;confirmació de supressió;confirma abans d\'enviar;confirmació d\'enviament;flux de supressió de missatge;redirecció de supressió;visualització de conversa;conversa de correu;estalviador de bateria;bateria de correu;envia comentaris;puja registres</string>
   <string name="empty_account_tip">"No es pot trobar el compte"</string>
   <string name="empty_email_tip">"No es pot enviar un missatge buit"</string>
   <string name="empty_spam">Buidar spam</string>
@@ -355,10 +367,14 @@
         Aquest esdeveniment ha estat cancel·lat 
 		per: 
 %s "</string>
+  <string name="exception_updated">Els detalls d\'aquest esdeveniment s\'han canviat per: %s</string>
   <string name="exchange_name">Corporatiu</string>
   <string name="expand_recipient_details">Ampliar detalls del destinatari</string>
   <string name="fail_get_email_message">Recuperació de missatge fallida.</string>
   <string name="failed">"No s'ha pogut carregar la imatge"</string>
+  <string name="failed_read_phone_state_permission">"Permet l'accés a l'estat del dispositiu"</string>
+  <string name="failed_read_write_calendar_permission">Permet l\'accés al Calendari</string>
+  <string name="failed_read_write_contacts_permission">Permet l\'accés als Contactes</string>
   <string name="feedback">Enviar comentaris</string>
   <string name="feedback_body">Comentaris</string>
   <string name="feedback_sent">Gràcies pels seus comentaris. Seguirem millorant per a vostè</string>
@@ -412,9 +428,11 @@
   <string name="forward_attribution_no_headers">---------- Missatge reenviat ----------</string>
   <string name="forward_download_failed_ticker">"No s'ha pogut reenviar un o més fitxers adjunts."</string>
   <string name="forward_download_failed_title">Fitxer adjunt no reenviat</string>
+  <string name="forward_subject_label">Fwd:</string>
   <string name="from_heading">"De: "</string>
   <string name="general_preference_confirm_delete_label">Confirmar abans d\'eliminar</string>
   <string name="general_preference_confirm_send_label">Confirmar abans d\'enviar </string>
+  <string name="general_preference_str_auto_translation">Traducció ràpida</string>
   <string name="general_preference_text_zoom_dialog_title">Mida de text del missatge</string>
   <string name="general_preference_text_zoom_huge">Enorme</string>
   <string name="general_preference_text_zoom_label">Mida de text del missatge</string>
