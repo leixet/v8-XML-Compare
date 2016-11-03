@@ -29,7 +29,6 @@
   <string name="inbound_me_profile_text">Toque para adicionar esta pessoa como contacto</string>
   <string name="inbound_me_profile_title">Contacto recebido através de NFC</string>
   <string name="nfcUserLabel">NFC</string>
-  <string name="no">NÃO</string>
   <string name="outbound_me_profile_text">Toque para dar a esta pessoa as suas informação de contacto</string>
   <string name="outbound_me_profile_title">Interacção NFC concluída</string>
   <string name="pair_no">Não</string>
