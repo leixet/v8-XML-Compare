@@ -42,12 +42,8 @@ Deberá actualizar primero la versión para el desarrollador de MIUI para poder 
   <string name="Generic_MonitoredApp">Monitorizando (%1$d)</string>
   <string name="Generic_Operating">Procesando&#8230;</string>
   <string name="Generic_Optimize">Optimizar</string>
-  <string name="Generic_Service_Disabled">Apagado</string>
-  <string name="Generic_Service_Enabled">Encendido</string>
   <string name="Generic_Shortcut">Menú contextual</string>
   <string name="Generic_ShowSystemApp">Mostrar aplicaciones del sistema</string>
-  <string name="Generic_Summary_Disabled">Apagado</string>
-  <string name="Generic_Summary_Enabled">Encendido</string>
   <string name="Generic_SystemApp">Sistema (%d)</string>
   <string name="Generic_SystemApp_Label">Apps del sistema</string>
   <string name="Generic_TrustedApp">De confianza (%1$d)</string>
@@ -227,7 +223,6 @@ Deberá actualizar primero la versión para el desarrollador de MIUI para poder 
   <string name="HIPS_Perm_process_outgoing_calls_Desc">monitor y finalizar llamadas</string>
   <string name="HIPS_Perm_read_notification_sms">SMS de servicios</string>
   <string name="HIPS_Perm_read_notification_sms_Desc">leer SMS de servicio</string>
-  <string name="HIPS_Perm_show_when_locked">Mostrar en la Pantalla de bloqueo</string>
   <string name="HIPS_Perm_use_sip">Servicios de vídeo</string>
   <string name="HIPS_Perm_use_sip_Desc">utilizar SIP para transmitir vídeo</string>
   <string name="HIPS_SecurityPrompt_Accept">Permitir (%d)</string>
