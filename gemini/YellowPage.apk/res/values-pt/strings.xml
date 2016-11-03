@@ -34,7 +34,6 @@
   <string name="callrecordview_item_newcontact">Novo contacto</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d seg</string>
   <string name="callrecordview_item_op_time_missed">Não está ligado</string>
-  <string name="callrecordview_item_op_time_only_minutes">%d minutos</string>
   <string name="callrecordview_item_op_time_only_seconds">%d seg</string>
   <string name="callrecordview_item_op_time_rejected">Rejeitado</string>
   <string name="callrecordview_item_op_time_short_incoming">"Recebidas: "</string>
@@ -229,7 +228,6 @@ Verifique o seu número de pesquisa"</string>
   <string name="mark_number_check_dialog_title">Marcar número</string>
   <string name="mark_number_check_most_choice">(Escolha dos utilizadores)</string>
   <string name="mark_number_custom_mark_deleted">Marcador removido</string>
-  <string name="mark_number_delete_confirm_title">Remover marcador</string>
   <string name="mark_number_dialog_maintitle">Marcar este número</string>
   <string name="mark_number_dialog_subtitle">%1$s (marcado por %2$d pessoas)</string>
   <string name="mark_number_feedback">Marcar</string>
@@ -365,7 +363,6 @@ Total: EUR %3$s"</string>
   <string name="send_shortcut_success">Colocado no ecrã inicial</string>
   <string name="sending_shortcut">A enviar&#8230;</string>
   <string name="service_unavailiable">Serviço indisponível</string>
-  <string name="share">Partilhar</string>
   <string name="sim1">SIM 1</string>
   <string name="sim2">SIM 2</string>
   <string name="sina_share_fail">Erro ao enviar</string>
