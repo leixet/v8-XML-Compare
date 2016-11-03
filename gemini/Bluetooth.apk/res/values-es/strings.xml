@@ -10,8 +10,6 @@
   <string name="auth_notif_message">Tipo de clave de sesión para %1$s</string>
   <string name="auth_notif_ticker">Solicitud de autenticación OBEX</string>
   <string name="auth_notif_title">Clave de sesión</string>
-  <string name="bluetooth_map_settings_cancel">Cancelar</string>
-  <string name="bluetooth_map_settings_save">Guardar</string>
   <string name="bt_enable_cancel">Cancelar</string>
   <string name="bt_enable_line1">Para utilizar los servicios de Bluetooth, primero debes activar Bluetooth.</string>
   <string name="bt_enable_line2">¿Encender Bluetooth ahora?</string>
