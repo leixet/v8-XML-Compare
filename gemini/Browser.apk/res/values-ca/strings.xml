@@ -495,7 +495,7 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Entrada ràpida d\'URL</string>
   <string name="pref_adblock_counts">%d bloquejat</string>
   <string name="pref_adblock_title">Filtre de publicitat</string>
-  <string name="pref_auto_update_under_wifi">Actualitza automàticament amb Wifi</string>
+  <string name="pref_auto_update_under_wifi">Actualitza automàticament amb Wi-Fi</string>
   <string name="pref_category_hint">Categoria</string>
   <string name="pref_check_security_url_summary">"Enviar les URL dels llocs web als servidors de Xiaomi per validació"</string>
   <string name="pref_check_security_url_title">Comprovar seguretat de la URL</string>
