@@ -56,6 +56,10 @@
   <string name="progress_connect_to_wifi">S\'està connectant a la Wi-Fi&#8230;</string>
   <string name="progress_data_process">S\'estan processant les dades de configuració&#8230;</string>
   <string name="progress_download">S\'està baixant l\'aplicació d\'administració&#8230;</string>
+  <string name="progress_install">S\'està instal·lant l\'aplicació d\'administració&#8230;</string>
+  <string name="progress_set_owner">S\'està configurant el dispositiu&#8230;</string>
+  <string name="provisioning">S\'estan aprovisionant</string>
+  <string name="provisioning_error_title">Vaja!</string>
   <string name="set_up">Configura</string>
   <string name="setup_work_device">Restaurar disseny d\'escriptori i aplicacions</string>
   <string name="suw_back_button_label">Enrere</string>
