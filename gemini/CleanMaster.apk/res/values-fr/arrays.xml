@@ -33,14 +33,6 @@
     <item>Nettoyer</item>
     <item>"Fichier"</item>
   </string-array>
-  <string-array name="trash_clean_menu">
-    <item>Nettoyer</item>
-    <item>"Fichier"</item>
-  </string-array>
-  <string-array name="video_clean_menu">
-    <item>Nettoyer</item>
-    <item>Ouvrir</item>
-  </string-array>
   <string-array name="empty_floder_clean_menu">
     <item>Nettoyer</item>
   </string-array>
@@ -48,9 +40,6 @@
     <item>Nettoyer</item>
     <item>Fichier</item>
     <item>Exception</item>
-  </string-array>
-  <string-array name="long_add_menu">
-    <item>Ajouter aux exceptions</item>
   </string-array>
   <string-array name="app_clean_menu">
     <item>Détails</item>
