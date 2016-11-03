@@ -185,8 +185,6 @@ Utilize apenas o carregador fornecido"</string>
   <string name="media_projection_dialog_text">"%s vai iniciar a captura de tudo o que é mostrado no ecrã"</string>
   <string name="media_projection_remember_text">"Não mostrar novamente"</string>
   <string name="mount_storage">Sim</string>
-  <string name="nav_guide_cancel">Ignorar</string>
-  <string name="nav_guide_ok">Definições</string>
   <string name="no_notification_tips">Sem notificações</string>
   <string name="no_weather_description">Obter informação do tempo &gt;</string>
   <string name="notification_header_title">Notificações</string>
@@ -334,5 +332,4 @@ Deslize para baixo para bloquear"</string>
   <string name="wifi_no_internet">"Não foi detectado acesso à Internet. Não vai religar automaticamente"</string>
   <string name="wifi_not_in_range">Fora do alcance</string>
   <string name="wifi_remembered">Guardado</string>
-  <string name="wifi_security_none">Nenhum</string>
 </resources>
