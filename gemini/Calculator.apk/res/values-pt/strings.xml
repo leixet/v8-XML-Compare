@@ -8,7 +8,6 @@
   <string name="cal_text_copied">Texto copiado</string>
   <string name="choose_currency">Seleccionar moeda</string>
   <string name="choose_unit">Seleccionar unidade</string>
-  <string name="city">Cidade</string>
   <string name="clearDesc">limpar</string>
   <string name="clear_history">Limpar histórico</string>
   <string name="convert_currency">Conversor de moedas</string>
@@ -22,7 +21,6 @@
   <string name="convertion_unit_weight">Conversor de peso</string>
   <string name="cosDesc">cosseno</string>
   <string name="currency_update_time_format">Actualizado em %s</string>
-  <string name="dateformat">dd/MM/yyyy</string>
   <string name="del">del</string>
   <string name="divDesc">dividir</string>
   <string name="dotDesc">ponto</string>
@@ -85,7 +83,6 @@
   <string name="mortgage_show_details">Mostrar detalhes</string>
   <string name="mortgage_tab_accumulation_fund">Fundo acumulado</string>
   <string name="mortgage_tab_combining_loan">Híbrido</string>
-  <string name="mortgage_tab_commercial_loan">Comerciais</string>
   <string name="mortgage_years_amount">Período da hipoteca</string>
   <string name="mulDesc">multiplicar</string>
   <string name="network_confirm_content">"O conversor de moeda e o calculador taxas e hipoteca necessitam de utilizar a ligação à Internet para funcionar normalmente"</string>
