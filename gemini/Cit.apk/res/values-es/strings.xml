@@ -211,7 +211,6 @@ Sostenga el teléfono como si hiciera una llamada y hable al microfono principal
   <string name="cit_tool_log_kmsg">Último registro del núcleo</string>
   <string name="cit_tool_log_logcat">Registro de ADB</string>
   <string name="cit_tool_log_modem">Registro de módem</string>
-  <string name="cit_tool_log_no_sdcard">Tarjeta SD no detectada</string>
   <string name="cit_tool_log_ril">Registro de RIL</string>
   <string name="cit_tool_log_toast">Registro guardado en %s</string>
   <string name="cit_tool_log_toast_generate_bugreport">Crear informe de fallo. (Esto tarda aproximadamente 1 minuto)</string>
@@ -266,5 +265,4 @@ Sostenga el teléfono como si hiciera una llamada y hable al microfono principal
   <string name="cit_wifi_ap_scanning">Escaneando&#8230;</string>
   <string name="cit_wifi_fail_to_scan">"No se podía buscar redes"</string>
   <string name="cit_wifi_state_refresh">Actualizar</string>
-  <string name="start">Empezar</string>
 </resources>
