@@ -75,6 +75,7 @@
   <string name="call_transfer_block_type">Bloqueja les trucades desviades</string>
   <string name="call_transfer_info">Bloqueja les trucades desviades des de números desconeguts</string>
   <string name="cancle">Cancel·la</string>
+  <string name="close_callwait">Desactivat</string>
   <string name="customizer_mode_user_define_name">Les meves regles</string>
   <string name="dlg_add_blacklist">Voleu bloquejar aquest número?</string>
   <string name="dlg_add_blacklist_title">Afegeix a la llista de bloqueig</string>
