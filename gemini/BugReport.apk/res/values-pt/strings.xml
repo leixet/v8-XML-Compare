@@ -8,7 +8,6 @@
   <string name="app_label">Comentários</string>
   <string name="app_name">Comentários</string>
   <string name="btn_send">Enviar</string>
-  <string name="bugreport_dialog_not_show_again">"Não mostrar novamente"</string>
   <string name="bugreport_dump_complete_notification_summary">Toque para ver</string>
   <string name="bugreport_dump_complete_notification_title">Relatório de erros criado</string>
   <string name="bugreport_dump_start_notification_summary">Aguarde alguns minutos</string>
@@ -124,7 +123,6 @@
   <string name="michat_lose_artificial">Ocorreu um erro de rede. Saiu do chat</string>
   <string name="michat_menu_copy_text">Copiar</string>
   <string name="michat_message_copy_info">Copiado para a área de transferências</string>
-  <string name="michat_message_error_network">"Não é possível ligar à rede"</string>
   <string name="michat_message_join_again">"Estamos gratos por voltar!"</string>
   <string name="michat_message_robot_welcome">"O meu nome é Mi Bunny. Sou o robot de suporte online"</string>
   <string name="michat_motto">O Suporte Mi está pronto a ajudar</string>
@@ -224,7 +222,6 @@
   <string name="toast_report_sent_succeed">Relatório foi enviado</string>
   <string name="toast_title_required">Descreva o seu problema</string>
   <string name="try_again">Tente novamente</string>
-  <string name="upload_log_failed">"Não foi possível enviar registos"</string>
   <string name="warning_field_empty">Introduza %1$s</string>
   <string name="warning_field_invalid">Seleccione um %1$s válido</string>
 </resources>
