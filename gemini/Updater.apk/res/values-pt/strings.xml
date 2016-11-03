@@ -54,7 +54,6 @@
   <string name="continue_update_negative_btn">Continuar</string>
   <string name="continue_update_positive_btn">Parar</string>
   <string name="daily_build">Diária</string>
-  <string name="dialog_delay_update_cancel">Cancelar</string>
   <string name="dialog_reboot_message">"A MIUI está prestes a ser actualizada. Este processo demora cerca de 5 a 20 minutos. Mantenha o seu dispositivo ligado e não reinicie enquanto estiver a actualizar"</string>
   <string name="dialog_reboot_title">Actualização de sistema</string>
   <string name="dialog_reboot_yes">Actualizar</string>
@@ -130,7 +129,6 @@
   <string name="notification_reboot_title_hm">Reiniciar para aplicar a actualização</string>
   <string name="notification_restart">Actualizar novamente</string>
   <string name="notification_share">Partilhar</string>
-  <string name="notification_uncrypt_title_hm">Reiniciar para aplicar a actualização</string>
   <string name="notification_update_new_version">Actualização disponível</string>
   <string name="notification_update_now">Actualizar agora</string>
   <string name="notification_updating">A actualizar&#8230;</string>
