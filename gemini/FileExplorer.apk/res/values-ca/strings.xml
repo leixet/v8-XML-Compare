@@ -386,6 +386,7 @@
   <string name="original_user_register">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; s\'ha unit a la comunitat</string>
   <string name="original_user_signal">Equip de talent</string>
   <string name="original_user_title">Enhorabona! Heu esdevingut membre de l\'equip de Talent.</string>
+  <string name="original_user_verify">• Gràcies per quedar-vos!</string>
   <string name="other_user_fans_tab">Fans</string>
   <string name="other_user_follow_tab">Seguint</string>
   <string name="other_user_liked_topic_tip">No hi ha temes</string>
@@ -736,7 +737,12 @@
   <string name="year_month_day_format">dd MMM yyyy</string>
   <string name="yes">Sí</string>
   <string name="yesterday">Ahir</string>
+  <string name="youliao_ad_msg">"Gaudiu amb «Youliao»! 
+Formeu part dels 170 milions de Mi Fans!"</string>
+  <string name="youliao_ad_title">S\'han actualitzat els vídeos populars!</string>
   <string name="youliao_ad_update">Actualitza</string>
+  <string name="youliao_dialog_msg">"Els vídeos populars van ser substituïts per «Youliao»
+és tracta d\'una aplicació dedicada a portar més diversió!"</string>
   <string name="youliao_dialog_title">No trobeu vídeos interessants?</string>
   <string name="zero">0</string>
 </resources>
