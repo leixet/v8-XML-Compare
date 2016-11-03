@@ -10,10 +10,6 @@
   <string name="auto_start_warning_allow">Autoriser</string>
   <string name="auto_start_warning_deny">Refuser</string>
   <string name="auto_start_warning_title">Autoriser %s à démarrer automatiquement ?</string>
-  <string name="button_text_cancel">Annuler</string>
-  <string name="button_text_delete">Supprimer</string>
-  <string name="button_text_delete_timer">Effacer (%d)</string>
-  <string name="button_text_next_step">Suivant</string>
   <string name="call_record_or">" ou "</string>
   <string name="call_record_sample_prefix_miui">Appel</string>
   <string name="caller_info_name_delimiter">" ou "</string>
@@ -31,7 +27,6 @@ Pour activer cette fonction, allez dans Paramètres &gt; Système &gt; Touches\"
   <string name="fm_record_smaple_prefix_miui">Enregistrement FM</string>
   <string name="force_exit_message">L\'application \"%1$s\" a été fermée</string>
   <string name="force_exit_skip_message">"%1$s est un composant système, il ne peut être quitté."</string>
-  <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Pas maintenant</string>
   <string name="global_actions_airplane_mode">Mode avion</string>
   <string name="global_actions_reboot">Redémarrer</string>
   <string name="global_actions_shutdown">Éteindre</string>
@@ -57,7 +52,6 @@ Pour activer cette fonction, allez dans Paramètres &gt; Système &gt; Touches\"
   <string name="maml_component_customization_title">Paramètres</string>
   <string name="memory_clear_nothing_result">Pas de mémoire à libérer</string>
   <string name="memory_clear_result">%1$so libérés | %2$so disponibles</string>
-  <string name="package_delete_confirm_step_1">Supprimer l\'événement \"%s\" ?</string>
   <string name="paste">Coller</string>
   <string name="perm_send_push_dspt">Autoriser les messages push de Xiaomi</string>
   <string name="perm_send_push_lab">Réception de messages push</string>
@@ -76,8 +70,6 @@ Pour activer cette fonction, allez dans Paramètres &gt; Système &gt; Touches\"
   <string name="screen_on_proximity_sensor_title">Capteur de proximité obstrué !</string>
   <string name="screen_paper_mode_enter_toast">Le mode lecture est actif. Vous pouvez paramétrer cette fonction à tout moment dans Paramètres additionnels &gt; Mode lecture.</string>
   <string name="screen_rotation_freeze_message">Rotation automatique désactivée</string>
-  <string name="security_permission_denied_text">Impossible d\'accéder à votre application e-mail</string>
-  <string name="security_permission_validate_warning">Votre exploration aidera MIUI à devenir meilleure !</string>
   <string name="select">Sélectionner</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="set_password_action">Définir le mot de passe</string>
@@ -91,9 +83,7 @@ Pour activer cette fonction, allez dans Paramètres &gt; Système &gt; Touches\"
   <string name="softap_notifif_title">Hotspot \"%s\" activé</string>
   <string name="status_bar_toggle_auto_brightness">Lumin. auto</string>
   <string name="status_bar_toggle_data">Données</string>
-  <string name="status_bar_toggle_edit">Plus d\'options</string>
   <string name="status_bar_toggle_flight_mode">Mode avion</string>
-  <string name="status_bar_toggle_gps">Test du GPS</string>
   <string name="status_bar_toggle_lock">Verrouiller</string>
   <string name="status_bar_toggle_mute">Silencieux</string>
   <string name="status_bar_toggle_paper_mode">Mode lecture</string>
@@ -106,6 +96,5 @@ Pour activer cette fonction, allez dans Paramètres &gt; Système &gt; Touches\"
   <string name="status_bar_toggle_torch">Torche</string>
   <string name="status_bar_toggle_vibrate">Vibreur</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
-  <string name="turn_off">Désactiver</string>
   <string name="unknown_caller">Appelant inconnu</string>
 </resources>
