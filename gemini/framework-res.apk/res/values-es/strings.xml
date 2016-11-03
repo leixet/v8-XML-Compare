@@ -8,7 +8,6 @@
   <string name="CLIRDefaultOnNextCallOn">El identificador de llamadas está predeterminado en restringido. Llamada siguiente: restringida</string>
   <string name="CLIRPermanent">"No puedes cambiar la configuración del identificador de llamadas."</string>
   <string name="CfMmi">Desvío de llamadas</string>
-  <string name="China_Unicom">Compra Unicom</string>
   <string name="ClipMmi">Identificador de llamadas entrantes</string>
   <string name="ClirMmi">Identificador de llamadas salientes</string>
   <string name="CndMmi">Entrega de número de llamada</string>
@@ -42,7 +41,6 @@
   <string name="accessibility_binding_label">Accesibilidad</string>
   <string name="accessibility_enabled">Se activó la accesibilidad.</string>
   <string name="action_bar_home_description">Desplazarse hasta la página principal</string>
-  <string name="action_bar_home_description_format">%1$s, %2$s</string>
   <string name="action_bar_up_description">Desplazarse hacia arriba</string>
   <string name="action_menu_overflow_description">Más opciones</string>
   <string name="action_mode_done">Listo</string>
@@ -83,7 +81,6 @@
   <string name="app_not_found">No se encontró una aplicación para manejar esta acción.</string>
   <string name="app_running_notification_text">Toca para obtener más información o para detener la aplicación.</string>
   <string name="app_running_notification_title">%1$s se está ejecutando</string>
-  <string name="autofill_address_summary_separator">", "</string>
   <string name="autofill_area">Área</string>
   <string name="autofill_area_code_notext_re">^($</string>
   <string name="autofill_county">Condado</string>
@@ -167,8 +164,6 @@ con %s"</string>
   <string name="date_picker_increment_day_button">Aumentar día</string>
   <string name="date_picker_increment_month_button">Aumentar mes</string>
   <string name="date_picker_increment_year_button">Aumentar año</string>
-  <string name="date_picker_next_month_button">Próximo mes</string>
-  <string name="date_time">%1$s, %2$s</string>
   <string name="date_time_done">Listo</string>
   <string name="date_time_set">Establecer</string>
   <string name="day">día</string>
@@ -232,12 +227,8 @@ con %s"</string>
   <string name="ext_media_badremoval_notification_title">Almacenamiento USB extraído inesperadamente</string>
   <string name="ext_media_checking_notification_message">Verificando errores</string>
   <string name="ext_media_checking_notification_title">Preparando almacenamiento USB</string>
-  <string name="ext_media_init_action">Configurar</string>
   <string name="ext_media_nomedia_notification_message">Almacenamiento USB eliminado. Insertar nuevos medios.</string>
   <string name="ext_media_nomedia_notification_title">Almacenamiento USB extraído</string>
-  <string name="ext_media_status_checking">Comprobando&#8230;</string>
-  <string name="ext_media_status_mounted">Listo</string>
-  <string name="ext_media_status_unmountable">Corrupto</string>
   <string name="ext_media_unmountable_notification_message">El almacenamiento USB está dañado. Intenta formatearlo de nuevo.</string>
   <string name="ext_media_unmountable_notification_title">Almacenamiento USB dañado</string>
   <string name="faceunlock_multiple_failures">Se superó el máximo de intentos permitido para el desbloqueo facial del dispositivo.</string>
@@ -249,14 +240,12 @@ con %s"</string>
   <string name="factorytest_reboot">Reiniciar</string>
   <string name="fcComplete">Código de función completo.</string>
   <string name="fcError">Problema de conexión o código de función no válido.</string>
-  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="find">Buscar</string>
   <string name="find_next">Buscar siguiente</string>
   <string name="find_on_page">Buscar en la página</string>
   <string name="find_previous">Buscar anterior</string>
   <string name="fingerprint_error_canceled">Operación con huella cancelada.</string>
   <string name="fingerprints">Huellas digitales:</string>
-  <string name="floating_toolbar_open_overflow_description">Más opciones</string>
   <string name="force_close">Aceptar</string>
   <string name="forward_intent_to_owner">"Estás utilizando esta aplicación fuera del perfil de trabajo."</string>
   <string name="forward_intent_to_work">"Estás utilizando esta aplicación en tu perfil de trabajo."</string>
@@ -265,7 +254,6 @@ con %s"</string>
   <string name="global_action_lock">Bloqueo de pantalla</string>
   <string name="global_action_lockdown">Bloquear ahora</string>
   <string name="global_action_power_off">Apagar</string>
-  <string name="global_action_reboot">Reiniciar</string>
   <string name="global_action_settings">Configuración</string>
   <string name="global_action_silent_mode_off_status">El sonido está Activado</string>
   <string name="global_action_silent_mode_on_status">El sonido está Desactivado</string>
@@ -277,7 +265,6 @@ con %s"</string>
   <string name="gpsNotifMessage">Solicitado por %1$s (%2$s)</string>
   <string name="gpsNotifTicker">Solicitud de ubicación de %s</string>
   <string name="gpsNotifTitle">Solicitud de ubicación</string>
-  <string name="gpsVerifNo">No</string>
   <string name="gpsVerifYes">Sí</string>
   <string name="grant_credentials_permission_message_footer">¿Deseas permitir esta solicitud?</string>
   <string name="grant_credentials_permission_message_header">Las siguientes aplicaciones solicitan permiso para acceder a tu cuenta ahora y en el futuro.</string>
@@ -321,7 +308,6 @@ con %s"</string>
   <string name="ime_action_previous">Ant.</string>
   <string name="ime_action_search">Buscar</string>
   <string name="ime_action_send">Enviar</string>
-  <string name="immersive_cling_positive">Lo tengo</string>
   <string name="inputMethod">Método de entrada</string>
   <string name="input_method_binding_label">Método de entrada</string>
   <string name="invalidPin">Escribir un PIN que contenga entre 4 y 8 números.</string>
@@ -421,7 +407,6 @@ Vuelve a intentarlo en %d segundos."</string>
   <string name="launch_warning_original">%1$s se inició originalmente.</string>
   <string name="launch_warning_replace">%1$s se está ejecutando ahora.</string>
   <string name="launch_warning_title">Aplicación redireccionada</string>
-  <string name="list_delimeter">", "</string>
   <string name="loading">Cargando&#8230;</string>
   <string name="lock_to_app_description">"Fijación de pantalla bloquea para mostrar en una sola vista.
 
@@ -437,7 +422,6 @@ Para no fijar, pulse y mantenga presionado el botón Inicio y el botón Encendid
   <string name="lock_to_app_unlock_password">Solicitar contraseña para quitar fijación</string>
   <string name="lock_to_app_unlock_pattern">Solicitar patrón de desbloqueo para quitar fijación</string>
   <string name="lock_to_app_unlock_pin">Solicitar PIN para quitar fijación</string>
-  <string name="lockscreen_access_pattern_area">Área de patrón</string>
   <string name="lockscreen_access_pattern_cell_added">Se agregó una celda.</string>
   <string name="lockscreen_access_pattern_cleared">Se eliminó el patrón</string>
   <string name="lockscreen_access_pattern_detected">Se completó el patrón</string>
@@ -547,7 +531,6 @@ Vuelve a intentarlo en %d segundos."</string>
   <string name="needPuk">Tu tarjeta SIM está bloqueada con PUK. Escribe el código PUK para desbloquearla.</string>
   <string name="needPuk2">Escribir PUK2 para desbloquear la tarjeta SIM.</string>
   <string name="network_available_sign_in">Acceder a la red</string>
-  <string name="network_available_sign_in_detailed">%1$s</string>
   <string name="new_app_action">Inicio %1$s</string>
   <string name="new_app_description">Interrumpe la aplicación anterior sin guardar los cambios.</string>
   <string name="next_button_label">Siguiente</string>
@@ -560,7 +543,6 @@ Vuelve a intentarlo en %d segundos."</string>
   <string name="noon">mediodía</string>
   <string name="notification_listener_binding_label">Agente de escucha de notificaciones</string>
   <string name="notification_title">Error de acceso de %1$s</string>
-  <string name="notification_work_profile_content_description">Perfil de trabajo</string>
   <string name="number_picker_decrement_button">Reducir</string>
   <string name="number_picker_increment_button">Aumentar</string>
   <string name="number_picker_increment_scroll_action">Desliza el dedo hacia arriba para aumentar los valores y hacia abajo para reducirlos.</string>
@@ -692,7 +674,6 @@ Vuelve a intentarlo en %d segundos."</string>
   <string name="permgrouplab_microphone">Micrófono</string>
   <string name="permgrouplab_phone">Teléfono</string>
   <string name="permgrouplab_sensors">Sensores corporales</string>
-  <string name="permgrouplab_sms">Mensajes</string>
   <string name="permgrouplab_storage">Espacio de almacenamiento</string>
   <string name="permission">Permisos</string>
   <string name="permission_request_notification_title">Permiso solicitado</string>
@@ -850,7 +831,6 @@ para la cuenta %s"</string>
   <string name="reboot_safemode_confirm">¿Deseas reiniciar el dispositivo en modo seguro? Las aplicaciones de terceros que instalaste se desactivarán y se restablecerán cuando vuelvas a reiniciar el dispositivo.</string>
   <string name="reboot_safemode_title">Reiniciar en modo seguro</string>
   <string name="reboot_title">Reiniciar</string>
-  <string name="reboot_to_reset_title">Restablecer valores de fábrica</string>
   <string name="recent_tasks_title">Reciente</string>
   <string name="relationTypeAssistant">Asistente</string>
   <string name="relationTypeBrother">Hermano</string>
@@ -867,7 +847,6 @@ para la cuenta %s"</string>
   <string name="relationTypeRelative">Pariente</string>
   <string name="relationTypeSister">Hermana</string>
   <string name="relationTypeSpouse">Cónyuge</string>
-  <string name="relative_time">%1$s, %2$s</string>
   <string name="replace">Reemplazar&#8230;</string>
   <string name="report">Notificar</string>
   <string name="reset">Restablecer</string>
@@ -940,7 +919,6 @@ Escuchar a un alto volumen durante largos períodos puede dañar tu audición."<
   <string name="serviceClassDataAsync">Datos asíncronos</string>
   <string name="serviceClassDataSync">Sincronización</string>
   <string name="serviceClassPacket">Paquete</string>
-  <string name="serviceClassSMS">Mensajes</string>
   <string name="serviceClassVoice">Voz</string>
   <string name="serviceDisabled">Se ha desactivado el servicio.</string>
   <string name="serviceEnabled">Se ha activado el servicio.</string>
@@ -1087,7 +1065,6 @@ Escuchar a un alto volumen durante largos períodos puede dañar tu audición."<
   <string name="websearch">Buscar en la Web</string>
   <string name="week">semana</string>
   <string name="weeks">semanas</string>
-  <string name="wfc_mode_wifi_only_summary">Solamente por Wi-Fi</string>
   <string name="whichApplication">Completar la acción mediante</string>
   <string name="whichApplicationNamed">Completar acción con %1$s</string>
   <string name="whichEditApplication">Editar con</string>
@@ -1099,7 +1076,6 @@ Escuchar a un alto volumen durante largos períodos puede dañar tu audición."<
   <string name="whichViewApplication">Abrir con</string>
   <string name="whichViewApplicationNamed">Abrir con %1$s</string>
   <string name="wifi_available_sign_in">Accede a una red Wi-Fi.</string>
-  <string name="wifi_calling_off_summary">Apagado</string>
   <string name="wifi_p2p_dialog_title">Wi-Fi Directo</string>
   <string name="wifi_p2p_enabled_notification_message">Tocar para ajustar los parámetros de configuración</string>
   <string name="wifi_p2p_enabled_notification_title">Se activó Wi-Fi Directo.</string>
@@ -1122,9 +1098,6 @@ Escuchar a un alto volumen durante largos períodos puede dañar tu audición."<
   <string name="year">año</string>
   <string name="years">años</string>
   <string name="yes">Aceptar</string>
-  <string name="zen_mode_default_events_name">Evento</string>
-  <string name="zen_mode_default_weekends_name">Fin de semana</string>
-  <string name="zen_mode_feature_name">No molestar</string>
   <string name="zen_mode_forever">Indefinidamente</string>
   <string name="zen_mode_until">Hasta la(s) %1$s</string>
 </resources>
