@@ -63,7 +63,6 @@
   <string name="normal">Modo por defecto</string>
   <string name="operation_create_group">Nombre</string>
   <string name="operation_create_group_message">Introduce el nuevo nombre del grupo</string>
-  <string name="power_checker_recent_group_title">Recientemente</string>
   <string name="power_chooser_user_define_title">Nuevo modo</string>
   <string name="power_config_alarm_sync_summary">Permitir a la aplicación alarmas en segundo plano</string>
   <string name="power_config_alarm_sync_title">Alarma</string>
