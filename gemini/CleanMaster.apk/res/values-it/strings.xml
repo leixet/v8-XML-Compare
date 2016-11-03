@@ -23,7 +23,6 @@
   <string name="activity_title_uninstall_apps">App</string>
   <string name="activity_title_video">Elimina video</string>
   <string name="activity_title_white_list">Eccezioni</string>
-  <string name="ad_install_success_dialog_lunch">Apri</string>
   <string name="apk_status_damage">Corrotta</string>
   <string name="apk_status_duplicate">Duplicata</string>
   <string name="apk_status_install">Installata</string>
@@ -99,7 +98,6 @@
   <string name="deepclean_cache_content">Rimuovi i dati generati dalle app</string>
   <string name="deepclean_cache_header_left">File in cache: %d</string>
   <string name="deepclean_cache_summary_empty">Nessun dato da rimuovere</string>
-  <string name="deepclean_empty">Sembra tutto OK</string>
   <string name="deepclean_large_content">Rimuovi i file più grandi di 10 MB</string>
   <string name="deepclean_large_summary_empty">Nessun file da rimuovere</string>
   <string name="deepclean_list_item_from_app">App store</string>
@@ -291,7 +289,6 @@
   <string name="pref_title_auto_clean_content_choose">Seleziona elementi da ottimizzare</string>
   <string name="pref_title_auto_update_cleanup_db">Aggiornamento automatico</string>
   <string name="pref_title_choose_engine">Definizioni</string>
-  <string name="pref_title_clean_alert">Pulizia automatica</string>
   <string name="pref_title_cleanup_white_list">Lista eccezioni</string>
   <string name="pref_title_expand_cache_group">Espandi i gruppi della cache</string>
   <string name="pref_title_garbage_cleanup_check_size">Dimensione per allarme file</string>
@@ -322,7 +319,6 @@
   <string name="safety_rank">Migliore al %d%% rispetto alla media degli utenti MIUI in termini di sicurezza</string>
   <string name="sc_allow_network_dialog_button">Consenti</string>
   <string name="sc_allow_network_dialog_message">Consentire a questa applicazione di connettersi alla rete per ricevere i dati?</string>
-  <string name="scanning">Scansione...</string>
   <string name="search_history">Cronologia di ricerca</string>
   <string name="see_more">Altro</string>
   <string name="set_immediately">Imposta</string>
