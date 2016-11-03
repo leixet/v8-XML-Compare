@@ -5,11 +5,6 @@
     <item>Blanco y negro</item>
     <item>Color</item>
   </string-array>
-  <string-array name="duplex_mode_labels">
-    <item>Ninguno</item>
-    <item>Long edge</item>
-    <item>Short edge</item>
-  </string-array>
   <string-array name="orientation_labels">
     <item>Vertical</item>
     <item>Horizontal</item>
