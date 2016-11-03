@@ -17,7 +17,6 @@
   <string name="install_for_print_preview">Installer un lecteur PDF pour afficher l\'aperçu</string>
   <string name="label_color">Couleur</string>
   <string name="label_copies_summary">Copies :</string>
-  <string name="label_destination">Localisation</string>
   <string name="label_pages">Pages (%1$s)</string>
   <string name="label_paper_size">Format du papier</string>
   <string name="label_paper_size_summary">Taille du papier :</string>
