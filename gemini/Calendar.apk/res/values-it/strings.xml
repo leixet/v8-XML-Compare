@@ -169,8 +169,6 @@
   <string name="not_synced">Non sincronizzato</string>
   <string name="online_calendar_activity_label">Iscriviti al Calendario</string>
   <string name="path_calendar">App di sistema/Calendario/Impostazioni</string>
-  <string name="prefDefault_alerts_vibrateWhen">mai</string>
-  <string name="prefDefault_alerts_vibrate_false">mai</string>
   <string name="prefDialogTitle_vibrateWhen">Vibrazione</string>
   <string name="pref_error_no_ringtone_select">Nessuna selezione</string>
   <string name="pref_title_alarm_remind">Avviso sonoro</string>
@@ -182,7 +180,6 @@
   <string name="preferences_alerts_title">Notifiche</string>
   <string name="preferences_alerts_vibrateWhen_title">Vibrazione</string>
   <string name="preferences_alerts_vibrate_title">Vibrazione e suoneria</string>
-  <string name="preferences_category_account_title">Account calendario</string>
   <string name="preferences_category_general_title">Generale</string>
   <string name="preferences_clear_search_history_summary">"Elimina tutte le ricerche eseguite"</string>
   <string name="preferences_clear_search_history_title">Cancella cronologia</string>
@@ -211,7 +208,6 @@
   <string name="quick_response_settings_edit_title">Risposte rapide</string>
   <string name="quick_response_settings_summary">Modifica le risposte rapide predefinite</string>
   <string name="quick_response_settings_title">Modifica risposte rapide</string>
-  <string name="recommend_card_adding">Iscrizioni</string>
   <string name="repeat_activity_label">Ripeti</string>
   <string name="repeat_custom_activity_label">Personalizza</string>
   <string name="repeat_custom_prompt">ogni %1$s alle %2$s</string>
@@ -240,19 +236,11 @@
   <string name="search_history_cleared">Cronologia cancellata</string>
   <string name="select_date">Seleziona data</string>
   <string name="select_synced_calendars_title">Calendari da sincronizzare</string>
-  <string name="set_as_wallpaper">Imposta come sfondo</string>
-  <string name="setting_holiday_display_title">Mostra vacanze</string>
   <string name="setting_others">Aggiuntive</string>
-  <string name="setting_title_about">Informazioni</string>
   <string name="settings_calendar">Calendario</string>
   <string name="show_day_view">Mostra giorno</string>
   <string name="show_newer_events">Mostra eventi fino a %1$s. Tocca per vederne altri.</string>
   <string name="show_older_events">Mostra eventi da %1$s. Tocca per vederne altri.</string>
-  <string name="subscribe_channel_footer_title">Esistenti</string>
-  <string name="subscribe_channel_subscribe">Nuovo</string>
-  <string name="subscribe_channel_subscribing">Iscrizioni</string>
-  <string name="subscribe_ed">Esistenti</string>
-  <string name="subscribing_card">Iscrizioni</string>
   <string name="sync_notice_cancel_toast_message">"Il calendario locale non verrà sincronizzato con Mi Cloud"</string>
   <string name="sync_notice_message">Non hai ancora sincronizzato Mi Calendar, vuoi attivarlo adesso?</string>
   <string name="sync_notice_ok">Consenti</string>
@@ -295,8 +283,6 @@
   <string name="travel_seat_number_text">Numero posto</string>
   <string name="travel_train_number_text">Treno</string>
   <string name="travel_train_station">Stazione ferroviaria</string>
-  <string name="unsubscribe_card">Elimina</string>
-  <string name="unsubscribing_card">Annulla iscrizione</string>
   <string name="user_notice_button_exit">Esci</string>
   <string name="user_notice_declaration_ignore">"Non mostrare più"</string>
   <string name="user_notice_message">"Utilizzando questo prodotto, accetti %1$s e %2$s. Alcune funzioni devono connettersi ad internet per funzionare correttamente."</string>
@@ -310,7 +296,6 @@
   <string name="weekly">Ogni settimana (ogni %s)</string>
   <string name="when_label">Quando</string>
   <string name="widget_events">Prossimi eventi</string>
-  <string name="widget_get_weather_info">Recupera info meteo&gt;</string>
   <string name="widget_no_events">Avanti, nessun evento</string>
   <string name="widget_select_style">Seleziona uno stile</string>
   <string name="work_day_indication">:(</string>
