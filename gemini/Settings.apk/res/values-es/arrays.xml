@@ -78,14 +78,6 @@
     <item>Grande</item>
     <item>Enorme</item>
   </string-array>
-  <string-array name="entryvalues_font_size">
-    <item>Texto pequeño</item>
-    <item>normal</item>
-    <item>medium</item>
-    <item>Texto grande</item>
-    <item>Texto enorme</item>
-    <item>godzilla</item>
-  </string-array>
   <string-array name="tts_rate_entries">
     <item>Muy lento</item>
     <item>Lento</item>
@@ -96,17 +88,6 @@
     <item>Veloz</item>
     <item>Muy rápido</item>
     <item>A velocidad máxima</item>
-  </string-array>
-  <string-array name="tts_rate_values">
-    <item>60</item>
-    <item>80</item>
-    <item>100</item>
-    <item>150</item>
-    <item>200</item>
-    <item>250</item>
-    <item>300</item>
-    <item>350</item>
-    <item>400</item>
   </string-array>
   <string-array name="tts_pitch_entries">
     <item>Muy bajo</item>
@@ -183,36 +164,6 @@
     <item>Ninguno</item>
     <item>Manual</item>
     <item>Config. automática proxy</item>
-  </string-array>
-  <string-array name="apn_auth_entries">
-    <item>Ninguno</item>
-    <item>PAP</item>
-    <item>CHAP</item>
-    <item>PAP o CHAP</item>
-  </string-array>
-  <string-array name="bearer_values">
-    <item>0</item>
-    <item>14</item>
-    <item>15</item>
-    <item>11</item>
-    <item>10</item>
-    <item>9</item>
-    <item>3</item>
-    <item>2</item>
-    <item>1</item>
-    <item>13</item>
-    <item>12</item>
-    <item>8</item>
-    <item>7</item>
-    <item>6</item>
-    <item>5</item>
-    <item>4</item>
-  </string-array>
-  <string-array name="mvno_type_entries">
-    <item>Ninguno</item>
-    <item>SPN</item>
-    <item>IMSI</item>
-    <item>GID</item>
   </string-array>
   <string-array name="app_install_location_entries">
     <item>Dispositivo de almacenamiento interno</item>
@@ -335,17 +286,6 @@
     <item>Medio</item>
     <item>Largo</item>
   </string-array>
-  <string-array name="captioning_typeface_selector_titles">
-    <item>Predeterminada</item>
-    <item>Sans-serif</item>
-    <item>Sans-serif condensed</item>
-    <item>Sans-serif monospace</item>
-    <item>Serif</item>
-    <item>Serif monospace</item>
-    <item>Casual</item>
-    <item>Cursive</item>
-    <item>Small capitals</item>
-  </string-array>
   <string-array name="captioning_font_size_selector_titles">
     <item>Muy pequeño</item>
     <item>Pequeño</item>
@@ -413,15 +353,6 @@
     <item>Escala de animación 5x</item>
     <item>Escala de animación 10x</item>
   </string-array>
-  <string-array name="window_animation_scale_values">
-    <item>0</item>
-    <item>.5</item>
-    <item>1</item>
-    <item>1.5</item>
-    <item>2</item>
-    <item>5</item>
-    <item>10</item>
-  </string-array>
   <string-array name="transition_animation_scale_entries">
     <item>Animación desactivada</item>
     <item>Escala de animación .5x</item>
@@ -431,15 +362,6 @@
     <item>Escala de animación 5x</item>
     <item>Escala de animación 10x</item>
   </string-array>
-  <string-array name="transition_animation_scale_values">
-    <item>0</item>
-    <item>.5</item>
-    <item>1</item>
-    <item>1.5</item>
-    <item>2</item>
-    <item>5</item>
-    <item>10</item>
-  </string-array>
   <string-array name="animator_duration_scale_entries">
     <item>Animación desactivada</item>
     <item>Escala de animación .5x</item>
@@ -448,29 +370,6 @@
     <item>Escala de animación 2x</item>
     <item>Escala de animación 5x</item>
     <item>Escala de animación 10x</item>
-  </string-array>
-  <string-array name="animator_duration_scale_values">
-    <item>0</item>
-    <item>.5</item>
-    <item>1</item>
-    <item>1.5</item>
-    <item>2</item>
-    <item>5</item>
-    <item>10</item>
-  </string-array>
-  <string-array name="overlay_display_devices_entries">
-    <item>Ninguno</item>
-    <item>480p</item>
-    <item>480p (secure)</item>
-    <item>720p</item>
-    <item>720p (secure)</item>
-    <item>1080p</item>
-    <item>1080p (secure)</item>
-    <item>4K</item>
-    <item>4K (secure)</item>
-    <item>4K (upscaled)</item>
-    <item>4K (upscaled, secure)</item>
-    <item>720p, 1080p (dual screen)</item>
   </string-array>
   <string-array name="enable_opengl_traces_entries">
     <item>Ninguna</item>
@@ -501,14 +400,6 @@
     <item>Máximo 3 procesos</item>
     <item>Máximo 4 procesos</item>
   </string-array>
-  <string-array name="app_process_limit_values">
-    <item>-1</item>
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-  </string-array>
   <string-array name="vpn_states">
     <item>Desconectado</item>
     <item>Iniciando&#8230;</item>
@@ -517,24 +408,12 @@
     <item>Tiempo de espera agotado</item>
     <item>Incorrecta</item>
   </string-array>
-  <string-array name="security_settings_premium_sms_values">
-    <item>Preguntar</item>
-    <item>Never allow</item>
-    <item>Always allow</item>
-  </string-array>
   <string-array name="ram_states">
     <item>normal</item>
     <item>moderado</item>
     <item>bajo</item>
     <item>crítico</item>
     <item>\?</item>
-  </string-array>
-  <string-array name="simulate_color_space_values">
-    <item>-1</item>
-    <item>0</item>
-    <item>2</item>
-    <item>1</item>
-    <item>3</item>
   </string-array>
   <string-array name="proc_stats_memory_states">
     <item>Normal</item>
@@ -558,25 +437,11 @@
     <item>En caché (cliente de actividad)</item>
     <item>En caché (vacío)</item>
   </string-array>
-  <string-array name="color_picker">
-    <item>Teal</item>
-    <item>Azul</item>
-    <item>Indigo</item>
-    <item>Púrpura</item>
-    <item>Pink</item>
-    <item>Rojo</item>
-  </string-array>
   <string-array name="haptic_feedback_level_texts">
     <item>Apagado</item>
     <item>Suave</item>
     <item>Medio</item>
     <item>Fuerte</item>
-  </string-array>
-  <string-array name="haptic_feedback_level_values">
-    <item>-1</item>
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
   </string-array>
   <string-array name="media_feedback_level_entries">
     <item>Fuerte</item>
@@ -635,23 +500,13 @@
     <item>Lanzar Google Now</item>
     <item>Cerrar aplicación actual</item>
     <item>Launch quick search</item>
-    <item>Mostrar menú</item>
+    <item>Show menu</item>
   </string-array>
   <string-array name="screen_key_long_press_timeout">
     <item>0,5 segundos</item>
     <item>1 segundo</item>
     <item>1,5 segundos</item>
     <item>2 segundos</item>
-  </string-array>
-  <string-array name="long_press_volume_down_action">
-    <item>Ninguno</item>
-    <item>Quick snap mode (select in Camera)</item>
-    <item>Public transportation shortcuts</item>
-  </string-array>
-  <string-array name="long_press_volume_down_action_value">
-    <item>uno</item>
-    <item>Street-snap</item>
-    <item>public_transportation_shortcuts</item>
   </string-array>
   <string-array name="button_light_timeout_entries">
     <item>1 segundo</item>
@@ -660,14 +515,6 @@
     <item>10 segundos</item>
     <item>20 segundos</item>
     <item>Siempre</item>
-  </string-array>
-  <string-array name="button_light_timeout_value">
-    <item>1000</item>
-    <item>2000</item>
-    <item>5000</item>
-    <item>10000</item>
-    <item>20000</item>
-    <item>-1</item>
   </string-array>
   <string-array name="wfd_status">
     <item>Iniciando sesión&#8230;</item>
@@ -768,7 +615,7 @@ Note: Only for Ubuntu 8.04!"</item>
     <item>Galería</item>
     <item>Música</item>
     <item>Correo</item>
-    <item>Reproducir vídeo</item>
+    <item>Play video</item>
   </string-array>
   <string-array name="network_speed_slow_summary">
     <item>La red es lenta debido a que hay demasiado tráfico</item>
@@ -778,20 +625,6 @@ Note: Only for Ubuntu 8.04!"</item>
   <string-array name="priority_storage_entries">
     <item>Almacenamiento interno</item>
     <item>Almacenamiento externo</item>
-  </string-array>
-  <string-array name="tts_rate_xunfei_entries">
-    <item>Muy lento</item>
-    <item>Lento</item>
-    <item>Normal</item>
-    <item>Rápido</item>
-    <item>A mayor velocidad</item>
-  </string-array>
-  <string-array name="tts_rate_xunfei_values">
-    <item>60</item>
-    <item>80</item>
-    <item>100</item>
-    <item>150</item>
-    <item>200</item>
   </string-array>
   <string-array name="whetstone_level_entries">
     <item>Apagado</item>
@@ -831,10 +664,6 @@ Note: Only for Ubuntu 8.04!"</item>
     <item>Ultra alta (2K)</item>
     <item>Normal (720p)</item>
   </string-array>
-  <string-array name="screen_resolution_values">
-    <item>1440</item>
-    <item>720</item>
-  </string-array>
   <string-array name="miui_entries_font_size">
     <item>CH</item>
     <item>M</item>
@@ -843,141 +672,13 @@ Note: Only for Ubuntu 8.04!"</item>
     <item>XXG</item>
     <item>XXXG</item>
   </string-array>
-  <string-array name="organized_locales">
-    <item>dz</item>
-    <item>ao</item>
-    <item>ag</item>
-    <item>ar</item>
-    <item>bs</item>
-    <item>bh</item>
-    <item>bd</item>
-    <item>bb</item>
-    <item>be</item>
-    <item>bz</item>
-    <item>bo</item>
-    <item>bw</item>
-    <item>bg</item>
-    <item>br</item>
-    <item>cm</item>
-    <item>cl</item>
-    <item>co</item>
-    <item>cd</item>
-    <item>cr</item>
-    <item>ci</item>
-    <item>hr</item>
-    <item>cu</item>
-    <item>cz</item>
-    <item>dm</item>
-    <item>do</item>
-    <item>ec</item>
-    <item>eg</item>
-    <item>sv</item>
-    <item>gq</item>
-    <item>et</item>
-    <item>fk</item>
-    <item>fr</item>
-    <item>gf</item>
-    <item>de</item>
-    <item>gh</item>
-    <item>gr</item>
-    <item>gd</item>
-    <item>gt</item>
-    <item>gy</item>
-    <item>ht</item>
-    <item>hn</item>
-    <item>hk</item>
-    <item>hu</item>
-    <item>in</item>
-    <item>id</item>
-    <item>ir</item>
-    <item>iq</item>
-    <item>il</item>
-    <item>it</item>
-    <item>jm</item>
-    <item>jo</item>
-    <item>kz</item>
-    <item>ke</item>
-    <item>kw</item>
-    <item>lb</item>
-    <item>ls</item>
-    <item>ly</item>
-    <item>lt</item>
-    <item>mw</item>
-    <item>my</item>
-    <item>mr</item>
-    <item>mu</item>
-    <item>mx</item>
-    <item>ma</item>
-    <item>mz</item>
-    <item>mm</item>
-    <item>na</item>
-    <item>np</item>
-    <item>ni</item>
-    <item>ng</item>
-    <item>kp</item>
-    <item>om</item>
-    <item>pk</item>
-    <item>ps</item>
-    <item>pa</item>
-    <item>py</item>
-    <item>pe</item>
-    <item>ph</item>
-    <item>pl</item>
-    <item>qa</item>
-    <item>ro</item>
-    <item>ru</item>
-    <item>rw</item>
-    <item>sa</item>
-    <item>sn</item>
-    <item>rs</item>
-    <item>sg</item>
-    <item>sk</item>
-    <item>so</item>
-    <item>za</item>
-    <item>gs</item>
-    <item>kr</item>
-    <item>es</item>
-    <item>lk</item>
-    <item>Nudo</item>
-    <item>lc</item>
-    <item>vc</item>
-    <item>sd</item>
-    <item>sr</item>
-    <item>sz</item>
-    <item>ch</item>
-    <item>sy</item>
-    <item>tw</item>
-    <item>tz</item>
-    <item>th</item>
-    <item>tn</item>
-    <item>tr</item>
-    <item>tm</item>
-    <item>tt</item>
-    <item>ug</item>
-    <item>ua</item>
-    <item>ae</item>
-    <item>us</item>
-    <item>uy</item>
-    <item>uz</item>
-    <item>ve</item>
-    <item>vn</item>
-    <item>ye</item>
-    <item>zm</item>
-    <item>zw</item>
-  </string-array>
   <string-array name="common_password_business_names">
     <item>Pantalla de bloqueo</item>
     <item>Modo Niños</item>
     <item>Explorador de archivos</item>
     <item>Bloqueo de aplicaciones</item>
     <item>Segundo espacio</item>
-    <item>Segundo espacio</item>
-  </string-array>
-  <string-array name="anr_record_interval_values">
-    <item>10</item>
-    <item>20</item>
-    <item>30</item>
-    <item>60</item>
+    <item>Second space</item>
   </string-array>
   <string-array name="alarm_repeat_type">
     <item>Todos los días</item>
@@ -988,12 +689,5 @@ Note: Only for Ubuntu 8.04!"</item>
     <item>Todos los días</item>
     <item>Entre semana</item>
     <item>Personalizar</item>
-  </string-array>
-  <string-array name="privacy_password_function_specfication_names">
-    <item>Mensajes</item>
-    <item>Fotos</item>
-    <item>Archivos</item>
-    <item>Notas</item>
-    <item>Explorador de archivos</item>
   </string-array>
 </resources>
