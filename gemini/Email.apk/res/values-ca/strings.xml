@@ -762,6 +762,7 @@
   <string name="quick_reply_hint">Respon a %1$d persones</string>
   <string name="quick_reply_hint_bcc">(A BCC)</string>
   <string name="quick_reply_hint_cc">(A CC)</string>
+  <string name="quick_reply_hint_reply_only_from">Resposta ràpida (només el remitent)</string>
   <string name="quick_responses_empty_view">No hi ha respostes ràpides</string>
   <string name="quote_divider_1">-------- Missatge original --------</string>
   <string name="quote_divider_11">----- Original -----</string>
@@ -770,10 +771,14 @@
   <string name="quote_divider_3">-------- Missatge original --------</string>
   <string name="quote_divider_4">-----Missatge original-----</string>
   <string name="quote_divider_5">-----------S\'utilitza per fer referència a la línia divisòria-------------</string>
+  <string name="quote_divider_6">---Original---</string>
+  <string name="quote_divider_7">Missatge original</string>
+  <string name="quote_divider_apple">" &gt;"</string>
   <string name="quote_divider_huawei_zh">De Huawei</string>
   <string name="quote_divider_iphone_en">Enviat des del meu iPhone</string>
   <string name="quote_divider_iphone_fwd_en">Començar amb el missatge enviat:</string>
   <string name="quote_divider_iphone_fwd_zh">Començar amb el missatge enviat:</string>
+  <string name="quote_divider_ks_web">________________________________________</string>
   <string name="quote_divider_qq_en">------------------ Missatge original ------------------</string>
   <string name="quote_divider_qq_zh">------------------ Missatge original ------------------</string>
   <string name="quoted_text">Incloure text citat</string>
@@ -797,9 +802,15 @@
   <string name="reply_add_bodycontent">Afegir resposta ràpida al contingut del missatge?</string>
   <string name="reply_all">Respondre a tots</string>
   <string name="reply_attribution" formatted="false">En %s, %s va escriure:</string>
+  <string name="reply_subject_label">Re:</string>
   <string name="report_phishing">Denunciar phishing</string>
+  <string name="report_rendering_improvement">Pinta bé</string>
+  <string name="report_rendering_improvement_desc">Aquest missatge pinta bé.</string>
+  <string name="report_rendering_problem">Pinta malament</string>
+  <string name="report_rendering_problem_desc">Aquest missatge pinta malament.</string>
   <string name="report_spam">Denunciar spam</string>
   <string name="request_entity_large">El fitxer és massa gran</string>
+  <string name="request_permission_activity">Sol·licitud de permís</string>
   <string name="respond_inline">"Respondre en línia"</string>
   <string name="save_action">Desar</string>
   <string name="save_attachment">Desar</string>
@@ -817,24 +828,34 @@
   <string name="search_tabs_name_subject">Assumpte</string>
   <string name="search_title">Correu electrònic unificat</string>
   <string name="search_txt_size_limit_prompt">La cadena de cerca ha de ser més gran que 3.</string>
+  <string name="security_changed_ticker_fmt">El compte «%s» ha canviat la pròpia configuració de seguretat; no es requereix cap acció per part de l\'usuari.</string>
+  <string name="security_needed_ticker_fmt">El compte «%s» requereix d\'una actualització de la configuració de seguretat.</string>
   <string name="security_notification_content_change_title">"Han canviat les polítiques de 
          seguretat"</string>
   <string name="security_notification_content_unsupported_title">"Les polítiques de seguretat no poden 
          complir-se"</string>
   <string name="security_notification_content_update_title">Actualització de seguretat requerida</string>
+  <string name="security_unsupported_ticker_fmt">"No es pot sincronitzar el compte «%s» a causa dels requisits de seguretat."</string>
   <string name="select_attachment_type">Trieu la font del fitxer adjunt</string>
   <string name="select_no_file">No hi ha fitxers adjunts seleccionats</string>
   <string name="selected_lable">Seleccionat</string>
   <string name="send">Enviar</string>
   <string name="send_failed">"El missatge no va ser enviat."</string>
   <string name="send_feed_back">Enviar comentaris</string>
+  <string name="send_feed_back_keywords">envia suggeriments</string>
   <string name="sender_whitelist_cleared">"Imatges no es mostraran automàticament."</string>
+  <string name="senders_elided">..</string>
   <string name="senders_split_token">,</string>
   <string name="sending">Enviant&#8230;</string>
   <string name="sending_message">Enviant el missatge&#8230;</string>
   <string name="sent_folder_selection_title">Seleccioneu la carpeta d\'elements enviats pel servidor %s</string>
   <string name="ser_resp_err_map_certificate_validator_err">"No s\'ha pogut validar certificat de servidor
 \u0009 (assegureu-vos si està activat \'Temps de sincronització automàtica\' a Característiques)"</string>
+  <string name="ser_resp_err_map_landing_more_failure">Massa intents fallits d\'inici de sessió</string>
+  <string name="ser_resp_err_map_landing_too_frequently">Massa intents d\'inici de sessió</string>
+  <string name="ser_resp_err_map_mailbox_locked">El compte de correu electrònic està protegit per contrasenya</string>
+  <string name="ser_resp_err_map_mailbox_not_open">Cap compte de correu</string>
+  <string name="ser_resp_err_map_max_connections">Massa intents de connexió</string>
   <string name="ser_resp_err_map_nouser">"No existeix aquest usuari"</string>
   <string name="ser_resp_err_map_or">%1$s o %2$s</string>
   <string name="ser_resp_err_map_pserr">Nom d\'usuari o contrasenya incorrecta</string>
@@ -847,9 +868,11 @@
   <string name="shortcut_name_title">Nom per drecera de carpeta</string>
   <string name="show_elided">▶ Mostra text citat</string>
   <string name="show_images">Descarregar i veure fotos</string>
+  <string name="signature">" %s"</string>
   <string name="silent_ringtone">Silenciós</string>
   <string name="single_new_message_notification_big_text">«%1$s
 %2$s»</string>
+  <string name="single_new_message_notification_title">%1$s: %2$s</string>
   <string name="smtp_password_error">Contrasenya del servidor de correu sortint és incorrecta</string>
   <string name="sort_attachment">Ordenar per</string>
   <string name="special_text_1">Va escriure:</string>
@@ -858,11 +881,14 @@
   <string name="special_text_4">Va escriure:</string>
   <string name="special_text_5">Va escriure:</string>
   <string name="special_text_colon_en">:</string>
+  <string name="special_text_colon_zh">：</string>
+  <string name="special_text_qq_subscribe">loadScript(_aoFiles){</string>
   <string name="special_text_sender_en">Remitent</string>
   <string name="special_text_sender_zh">Remitent</string>
   <string name="storage">Emmagatzematge</string>
   <string name="str_select_all">Selecciona-ho tot</string>
   <string name="str_select_none">Desselecciona</string>
+  <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Assumpte</string>
   <string name="sync_error">"No s'ha pogut sincronitzar."</string>
   <string name="sync_error_message">"El dispositiu no té prou espai d'emmagatzematge per sincronitzar."</string>
@@ -874,6 +900,7 @@
   <string name="system_folders_trash_dlg">"Seleccioneu la carpeta Paperera del seu servidor"</string>
   <string name="system_folders_trash_summary">"Seleccioneu la carpeta Paperera del seu servidor"</string>
   <string name="system_folders_trash_title">Paperera</string>
+  <string name="tablet">tauleta</string>
   <string name="tap_to_configure">Toqui per configurar.</string>
   <string name="tap_to_enable_sync">Toqui per encendre.</string>
   <string name="to">Per</string>
@@ -886,8 +913,15 @@
   <string name="too_large_to_attach_additional">"No s'ha adjuntat. %1$s de límit assolit."</string>
   <string name="too_large_to_attach_multiple">"Un o més fitxers no adjuntats. Límit de %1$s."</string>
   <string name="too_large_to_attach_single">"No es poden adjuntar fitxers més grans que %1$s."</string>
+  <string name="topic_merge">Combina temes</string>
   <string name="translation_loading">S\'està carregant&#8230;</string>
+  <string name="translation_no_result">No s\'han trobat resultats</string>
+  <string name="translation_pronunciation_am">ArE</string>
   <string name="translation_pronunciation_cn">Alfabet llatí</string>
+  <string name="translation_pronunciation_en">BrE</string>
+  <string name="translation_pronunciation_other">Màquina</string>
+  <string name="translation_query_failure">La cerca ha fallat</string>
+  <string name="translation_technology_support">Suport tècnic proveït per PowerWord</string>
   <string name="trash_folder_selection_title">Seleccioneu la carpeta d\'escombraries del servidor per %s</string>
   <string name="try_exchange_login">Iniciar sessió amb EXCHANGE</string>
   <string name="turn_auto_sync_on_dialog_body">"Els canvis que facis a 
@@ -916,11 +950,14 @@
   <string name="wait_for_manual_sync_body">\"Aquest compte no està configurat per sincronitzar automàticament. 
 Toqui \" Sincronitza ara per sincronitzar el correu una vegada, o Canviar la configuració de sincronització per configurar la sincronització automàtica d\'aquest compte.\"</string>
   <string name="wait_for_sync_title">A l\'espera de sincronització</string>
+  <string name="wait_help_context">espereu</string>
   <string name="widget_all_mail">Tot el correu</string>
   <string name="widget_other_views">Altres</string>
   <string name="wipe_account_fail_description">Permet</string>
+  <string name="wipe_account_fail_title">"No s'ha pogut eliminar la informació personal"</string>
   <string name="wrong_password">La contrasenya és incorrecta</string>
   <string name="yes">Sí</string>
+  <string name="yidianzixun">Yi Dian Zixun</string>
   <string name="you_are_in_mobile_network">Està utilitzant ara la xarxa mòbil</string>
   <string name="zip_viewer_no_file">Buit</string>
 </resources>
