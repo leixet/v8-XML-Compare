@@ -17,13 +17,10 @@
   <string name="backup_theme_name">Ma sauvegarde</string>
   <string name="backup_theme_progress_message">Sauvegarde du thème en cours, veuillez patienter&#8230;</string>
   <string name="backup_theme_success_message">Le thème a été sauvegardé avec succès !</string>
-  <string name="browser_local_resource">Ressources locales</string>
   <string name="change_wallpaper">Fond d\'écran</string>
   <string name="close">Fermer</string>
   <string name="component_category_finest_title">Principaux</string>
   <string name="component_category_more_title">Plus</string>
-  <string name="component_title_ringtone">Sonnerie</string>
-  <string name="component_title_wallpaper">Fonds d\'écran</string>
   <string name="deleting">Suppression&#8230;</string>
   <string name="description_author">Auteur</string>
   <string name="description_designer">Concepteur</string>
@@ -33,7 +30,6 @@
   <string name="description_uploadtime">Mis à jour</string>
   <string name="description_version_szie">Version : %1$s Taille : %2$s</string>
   <string name="desktop_wallpaper">Écran d\'accueil</string>
-  <string name="dev_options">Options pour les développeurs</string>
   <string name="download_failed">Échec du téléchargement !</string>
   <string name="download_preview_failed">"Impossible de charger l'aperçu."</string>
   <string name="download_success">Téléchargé avec succès</string>
@@ -72,7 +68,6 @@
   <string name="gift_use_confirmation_dlg_title">Envoyer ce cadeau ?</string>
   <string name="gift_use_fail_dlg_title">Il y a eu une erreur</string>
   <string name="gift_used">Envoyé</string>
-  <string name="incompatible_dialog_ok">Compris</string>
   <string name="live_wallpaper">Fond d\'écran animé</string>
   <string name="loading">Un instant&#8230;</string>
   <string name="loading_resource_detail_fail">"Impossible de charger la ressource !"</string>
@@ -85,20 +80,14 @@
   <string name="lockscreen_wallpaper">Écran de verrouillage</string>
   <string name="lockstyle_personal_settings">Personnalisation</string>
   <string name="mi_wallpaper">Fond d\'écran</string>
-  <string name="multi_sim_ringtone_settings_dialog_ok">Compris</string>
   <string name="my_gifts">Cadeaux</string>
   <string name="my_gifts_purchased">Achetés</string>
   <string name="my_gifts_received">Reçus</string>
-  <string name="no_data">"Pas de connexion réseau"</string>
   <string name="online_no_network">"Impossible de se connecter au réseau."</string>
   <string name="online_search_hint">Recherche de ressources en ligne.</string>
   <string name="present_local_themes">Téléchargés</string>
   <string name="present_online_themes">En ligne</string>
-  <string name="provision_default_theme_title">Centre SMS par défaut</string>
-  <string name="provision_loading_tips">Veuillez patienter&#8230;</string>
-  <string name="provision_title">Sélectionner un thème</string>
   <string name="purchased_list">Achats</string>
-  <string name="reload">Réessayer</string>
   <string name="resource_account_abnormal_state">Erreur liée au compte, veuillez réessayer plus tard.</string>
   <string name="resource_account_fail_to_add">"Impossible d'ajouter le compte !"</string>
   <string name="resource_account_login">Connexion</string>
@@ -109,7 +98,6 @@
   <string name="resource_app_name">Navigateur de ressources</string>
   <string name="resource_apply">Appliquer</string>
   <string name="resource_apply_trial">Essayer </string>
-  <string name="resource_back">Retour</string>
   <string name="resource_buy">Acheter</string>
   <string name="resource_can_not_selected">"%1$s ne peut pas être sélectionné !"</string>
   <string name="resource_category">Catégories</string>
@@ -150,7 +138,6 @@
   <string name="resource_comment_upload_not_bought">Vous devez appliquer le thème avant de commenter.</string>
   <string name="resource_comment_upload_not_logined">Veuillez vous connecter d\'abord</string>
   <string name="resource_comment_upload_success">Commentaire envoyé ! Il s\'affichera une fois vérifié.</string>
-  <string name="resource_continue">Suivant</string>
   <string name="resource_default">Sonnerie par défaut</string>
   <string name="resource_default_name">Ressources</string>
   <string name="resource_delete">Supprimer</string>
@@ -212,7 +199,6 @@
   <string name="resource_no_match_app">Aucune application pour gérer cette action.</string>
   <string name="resource_no_network_text">"Impossible de se connecter au réseau."</string>
   <string name="resource_no_result">"Aucun résultat."</string>
-  <string name="resource_notification_default">Notifications de liste noire</string>
   <string name="resource_on_trial">Essai de \"%1$s\" en cours</string>
   <string name="resource_online">%1$s en ligne</string>
   <string name="resource_pack_confirm">"Vous avez déjà acheté %1$d articles, le prix actuel est plus intéressant que d'acheter les articles restants individuellement, souhaitez-vous continuer ?"</string>
@@ -283,8 +269,6 @@
   <string name="sdcard_not_mounted_dialog_title">Carte SD non détectée</string>
   <string name="selected_resource_file_invalid">"Le fichier sélectionné est non valide."</string>
   <string name="settings">Paramètres</string>
-  <string name="theme_apply_audio_dialog_item_alarm">Alarme</string>
-  <string name="theme_apply_audio_dialog_item_ringtone">Sonnerie du groupe</string>
   <string name="theme_apply_failured">"Vous ne pouvez pas appliquer le fond d'écran, sur l'écran de verrouillage"</string>
   <string name="theme_apply_success">Écran de verrouillage appliqué</string>
   <string name="theme_applying">Personnalisation&#8230;</string>
@@ -293,7 +277,6 @@
   <string name="theme_batch_update_dlg_content_single">Mettre à jour %1$s ?</string>
   <string name="theme_batch_update_dlg_title">Mise à jour</string>
   <string name="theme_batch_updating_text">Mise à jour (%1$d)…</string>
-  <string name="theme_bug_report">Rapports</string>
   <string name="theme_changed_failed_message">"Échec de l'application du thème"</string>
   <string name="theme_changed_message">Appliqué avec succès</string>
   <string name="theme_changing_dialog_title">"Application du nouveau thème, veuillez patienter…"</string>
