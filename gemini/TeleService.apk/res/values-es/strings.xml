@@ -32,13 +32,11 @@
   <string name="alert_dialog_close">Cerrar el perfil</string>
   <string name="alert_dialog_dismiss">Descartar</string>
   <string name="alert_dialog_in_ecm_call">"La acción seleccionada no está disponible durante una llamada de emergencia."</string>
-  <string name="alert_dialog_no">No</string>
   <string name="alert_dialog_ok">Aceptar</string>
   <string name="alert_dialog_yes">Sí</string>
   <string name="alertdialogtitle">Resultado…</string>
   <string name="allContactdeleteFailed">"No se pueden borrar los contactos de la SIM"</string>
   <string name="allContactdeleteSuccess">Se han eliminado todos los contactos de la SIM</string>
-  <string name="all_day">Todo el día</string>
   <string name="always_enable_mms">Recibir siempre MMS</string>
   <string name="always_enable_mms_summary">Recibir MMS incluso cuando la conexión de datos móviles esté desactivada</string>
   <string name="answer_features_setting_category">Contestador</string>
@@ -108,7 +106,6 @@
   <string name="callFailed_dsac_restricted_normal">Las llamadas normales están restringidas por control de acceso.</string>
   <string name="callFailed_fdn_only">Las llamadas salientes están restringidas por NMF.</string>
   <string name="callFailed_incoming_cb_enabled">Se han bloqueado todas las llamadas entrantes.</string>
-  <string name="callFailed_invalid_credentials">Usuario o contraseña incorrectos</string>
   <string name="callFailed_limitExceeded">Se excedió el límite de ACM.</string>
   <string name="callFailed_noSignal">No hay señal.</string>
   <string name="callFailed_number_unreachable">No se puede establecer conexión con el número.</string>
@@ -123,8 +120,6 @@
   <string name="callFailed_userBusy">Línea ocupada</string>
   <string name="callUnanswered_forwarded">Llamada perdida y reenviada</string>
   <string name="call_advanced_setting_title">Ajustes avanzados</string>
-  <string name="call_background_default">Predeterminada</string>
-  <string name="call_background_lock_wallpaper">Fondo de pantalla de bloqueo</string>
   <string name="call_barring">Restricción de llamadas</string>
   <string name="call_barring_incoming">Restricción de llamadas entrantes</string>
   <string name="call_barring_outgoing">Restricción de llamadas salientes</string>
@@ -304,7 +299,6 @@
   <string name="dialog_activate_livetalk">Verificar</string>
   <string name="dialog_call_ordinary_telephone">Utilizar SIM</string>
   <string name="dialog_network_priority_title">Red de prioridad</string>
-  <string name="dialog_no">No</string>
   <string name="dialog_purchase">Recargar</string>
   <string name="dialog_yes">Si</string>
   <string name="disable">Desactivar</string>
@@ -463,7 +457,6 @@ Ponte en contacto con tu operador si el problema persiste."</string>
   <string name="incall_error_supp_service_unknown">Servicio no compatible</string>
   <string name="incall_error_wfc_only_no_wireless_network">Conéctese a una red inalámbrica para realizar una llamada.</string>
   <string name="incall_status_dialed_mmi">Iniciando secuencia MMI&#8230;</string>
-  <string name="input_password">Introducir contraseña</string>
   <string name="international_calls">Solo internacional</string>
   <string name="international_dial_complete_intention">Hacer llamadas internacionales con tarifas más bajas</string>
   <string name="international_dial_complete_no">Ahora no</string>
@@ -496,7 +489,6 @@ Ponte en contacto con tu operador si el problema persiste."</string>
   <string name="labelCW">Llamada en espera</string>
   <string name="labelCallerId">ID de emisor</string>
   <string name="labelCbCancelAll">Desactivar restricciones</string>
-  <string name="labelCbChangePassword">Cambiar contraseña</string>
   <string name="labelCdmaMore_with_label">Configuración de llamadas CDMA (%s)</string>
   <string name="labelGSMMore">Ajustes de llamadas GSM</string>
   <string name="labelGsmMore_with_label">Configuración de llamada GSM (%s)</string>
@@ -566,7 +558,6 @@ Recargar y empezar a hablar"</string>
   <string name="livetalk_provision_title">Términos de Servicio</string>
   <string name="livetalk_remain_minutes_title">Tiempo de llamada restante</string>
   <string name="livetalk_setting">Paquete de recarga</string>
-  <string name="livetalk_shortcut_title">Paquete de recarga</string>
   <string name="livetalk_terms_conditions">Términos y Condiciones</string>
   <string name="livetalk_unavaiable_info">Este servicio no está disponible temporalmente</string>
   <string name="livetalk_user_config_title">Comprobar número telefónico</string>
@@ -585,7 +576,6 @@ Recargar y empezar a hablar"</string>
   <string name="local_weather_enable">Previsión del tiempo local activado</string>
   <string name="lodgings_disable">Alojamientos desactivados</string>
   <string name="lodgings_enable">Alojamientos activados</string>
-  <string name="login_account_button_text">Iniciar sesión</string>
   <string name="maintenance_disable">Mantenimiento desactivado</string>
   <string name="maintenance_enable">Mantenimiento activado</string>
   <string name="manageConferenceLabel">Configurar llamada en conferencia</string>
@@ -780,11 +770,7 @@ Inténtalo de nuevo o ponte en contacto con el servicio de atención al cliente 
   <string name="other_settings">Otras opciones de llamado</string>
   <string name="other_settings_category">Otros</string>
   <string name="overseas_roaming_setting">Roaming de datos</string>
-  <string name="password">Contraseña</string>
-  <string name="password_changed">Contraseña cambiada</string>
-  <string name="password_title">Contraseña</string>
   <string name="path_antispam_setting">Aplicaciones del sistema/Teléfono/Lista de bloqueos</string>
-  <string name="pause_prompt_no">No</string>
   <string name="pause_prompt_str">"Enviando tonos
 "</string>
   <string name="pause_prompt_yes">Sí</string>
@@ -828,8 +814,6 @@ Su teléfono se bloqueará automáticamente después del último intento fallido
   <string name="pin_progress_set_icc_lock">Configurando estado del bloqueo ICC&#8230;</string>
   <string name="pin_progress_unlock_icc">Desbloqueando tarjeta SIM&#8230;</string>
   <string name="please_enter_phone_number">Por favor introduzca el número de teléfono</string>
-  <string name="port">Puerto</string>
-  <string name="port_title">Número de puerto</string>
   <string name="preference_auto_ip_summary_disable">Apagado</string>
   <string name="preference_category_ringtone">Tono y vibración</string>
   <string name="preference_data_usage_summary">Establecer el plan de datos para controlar el uso de datos móviles</string>
@@ -977,7 +961,6 @@ Su tarjeta SIM podría eliminarse después del último intento fallido."</string
   <string name="reverting_settings">Restableciendo configuración&#8230;</string>
   <string name="rhrpd_unlock_failed">Falló la solicitud de desbloqueo RUIM Hrpd.</string>
   <string name="rhrpd_unlock_success">Desbloqueo hrpd RUIM correcto.</string>
-  <string name="ringtone_silent">Ninguno</string>
   <string name="rnw1_unlock_failed">Falló la solicitud de desbloqueo da la red1 RUIM.</string>
   <string name="rnw1_unlock_success">Desbloqueo de la red 1 RUIM correcto.</string>
   <string name="rnw2_unlock_failed">Falló la solicitud de desbloqueo de la red2 RUIM.</string>
@@ -1133,7 +1116,6 @@ El próximo período comienza en %4$d días (%5$s)"</string>
   <string name="throttle_time_frame">Período de uso de datos</string>
   <string name="throttle_time_frame_subtext">"%1$d٪ del ciclo consumido
 El próximo período comienza en %2$d días (%3$s)"</string>
-  <string name="time_end">Hasta</string>
   <string name="title_country">Ubicación</string>
   <string name="title_duration">Duración</string>
   <string name="title_purchase">Recargar</string>
@@ -1158,10 +1140,8 @@ El próximo período comienza en %2$d días (%3$s)"</string>
   <string name="uplmn_numeric_is_empty">Introduzca una ID de red</string>
   <string name="use_current_account_creat_livetalk">"Iniciaste sesión con una Cuenta Mi: %1$s.
 ¿Utilizarla para el paquete Top-up?"</string>
-  <string name="use_current_account_creat_livetalk_button">Usar</string>
   <string name="use_history">Actividad</string>
   <string name="use_range">Características</string>
-  <string name="username_title">Nombre de usuario</string>
   <string name="ussdRunning">Código USSD en ejecución&#8230;</string>
   <string name="verified">Verificado</string>
   <string name="verify_fialed">"No se pudo verificar"</string>
@@ -1196,6 +1176,5 @@ Ponte en contacto con tu operador si el problema persiste."</string>
   <string name="whole_calls">Todas las llamadas</string>
   <string name="wifi_calling">Llamada Wi-Fi</string>
   <string name="wild_prompt_str">Reemplazar carácter especial con</string>
-  <string name="wrong_password">La contraseña introducida no es correcta</string>
   <string name="xdivert_summary">Ajustes CFNRc</string>
 </resources>
