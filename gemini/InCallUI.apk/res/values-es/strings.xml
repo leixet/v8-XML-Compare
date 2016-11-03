@@ -4,7 +4,6 @@
   <string name="accept_modify_call_request_prompt">¿Aceptar modificar solicitud de llamada?</string>
   <string name="add_vm_number_str">Agregar número</string>
   <string name="antispam_marked_count">Informado por %1$d usuarios MIUI</string>
-  <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Número desconocido</string>
   <string name="antispam_provider">Identificado por %s</string>
   <string name="callFailed_cb_enabled">"No pueden hacer llamadas mientras esté activada la restricción de llamadas."</string>
@@ -61,7 +60,6 @@
   <string name="card_title_incoming_call">Llamada entrante</string>
   <string name="card_title_on_hold">"En espera "</string>
   <string name="card_title_threeway_call">Llamada a 3</string>
-  <string name="card_title_video_call">Videollamada</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. Total %s</string>
   <string name="conference_call_number">%s personas</string>
   <string name="contacts_icon_label">Contactos</string>
@@ -83,7 +81,6 @@
   <string name="description_image_button_three">tres</string>
   <string name="description_image_button_tools">Opciones</string>
   <string name="description_image_button_two">dos</string>
-  <string name="description_image_button_video_answer">Videollamada</string>
   <string name="description_image_button_zero">cero</string>
   <string name="description_target_answer">Responder</string>
   <string name="dialog_call_ordinary_telephone">Llamada regular</string>
@@ -126,13 +123,11 @@
   <string name="modify_call_option_voice">Voz solamente</string>
   <string name="modify_call_option_vt_rx">Recibir vídeo</string>
   <string name="modify_call_option_vt_tx">Transmitir vídeo</string>
-  <string name="modify_call_prompt_no">No</string>
   <string name="modify_call_prompt_yes">Sí</string>
   <string name="network_error_message">Intenta hacer una llamada normal. Será cobrada por tu operador.</string>
   <string name="network_error_title">Error de red</string>
   <string name="no_balance_message">No tienes saldo suficiente en tu paquete de recarga. Puedes hacer una llamada normal en su lugar.</string>
   <string name="no_balance_title">Saldo insuficiente</string>
-  <string name="no_call_back_title">Aviso</string>
   <string name="no_vm_number">No hay número de buzón de voz</string>
   <string name="no_vm_number_msg">Ningún número de buzón de voz almacenado en la tarjeta SIM.</string>
   <string name="non_ivr_menu_collapse_menu">Contraer menú</string>
@@ -144,7 +139,6 @@
   <string name="notification_action_answer_voice">Voz</string>
   <string name="notification_action_dismiss">Rechazar</string>
   <string name="notification_action_end_call">Colgar</string>
-  <string name="notification_action_speaker">Altavoz</string>
   <string name="notification_dialing">Llamando</string>
   <string name="notification_incoming_call">Llamada entrante</string>
   <string name="notification_on_hold">En espera</string>
@@ -161,15 +155,11 @@
   <string name="onscreen_audio_mode_speaker">Altavoz</string>
   <string name="onscreen_audio_switch_mode">Cambiar audio</string>
   <string name="onscreen_call_record">Grabar</string>
-  <string name="onscreen_change_to_video">Videollamada</string>
-  <string name="onscreen_close_preview_camera">Cerrar</string>
   <string name="onscreen_hold_text">Retener</string>
   <string name="onscreen_merge_calls_text">Combinar las llamadas</string>
   <string name="onscreen_mute_text">Silenciar</string>
   <string name="onscreen_note_calls_text">Nota</string>
-  <string name="onscreen_rcs_text">Mensajes</string>
   <string name="onscreen_swap_calls_text">Alternar</string>
-  <string name="pause_prompt_no">No</string>
   <string name="pause_prompt_yes">Sí</string>
   <string name="payphone">Teléfono público</string>
   <string name="private_num">Número privado</string>
@@ -182,7 +172,6 @@
   <string name="suspect_info">Siempre verifique la identidad de la persona con la que está hablando mediante una llamada de teléfono o vídeo antes de responder a cualquier mensaje relacionado con sus finanzas personales.</string>
   <string name="unknown">Desconocido</string>
   <string name="upgrade_vt_prompt">¿Quieres cambiar la llamada a llamada de vídeo?</string>
-  <string name="voicemail">Mensaje de voz</string>
   <string name="wait_prompt_str">"¿Enviar los siguientes tonos?
 "</string>
   <string name="waiting_close_airplane_mode">Un momento&#8230;</string>
