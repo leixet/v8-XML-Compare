@@ -242,6 +242,7 @@
   <string name="colon">:</string>
   <string name="compose">Redactar</string>
   <string name="compose_attachment_number_limit">"No es poden afegir més de 10 adjunts"</string>
+  <string name="compose_paste_address_oob">El contingut a enganxar és massa llarg, aquest s\'ha truncat</string>
   <string name="compose_picturesexceedlimits">"No es poden afegir més de 5 imatges"</string>
   <string name="compose_send">Envia</string>
   <string name="compose_sent">Enviat amb èxit</string>
@@ -516,6 +517,7 @@
   <string name="mailbox_settings_mailbox_sync_window_label">Dies de correu per sincronitzar</string>
   <string name="mailbox_settings_sync_enabled_label">Sincronitza aquesta carpeta</string>
   <string name="mailbox_settings_sync_enabled_summary">Els missatges es descarregueran quan es connecti</string>
+  <string name="main_help_context">ttl</string>
   <string name="manual_sync">Sincronitza ara</string>
   <string name="mark_important">Marca com a important</string>
   <string name="mark_not_important">Macar com no important</string>
@@ -557,6 +559,7 @@
   <string name="meeting_where">"
         On: 
 %s "</string>
+  <string name="megabytes">%s MB</string>
   <string name="menu_att_mgr">Fitxers adjunts</string>
   <string name="menu_att_mgr_order_default">Recents</string>
   <string name="menu_att_mgr_order_mime">Ordenar per format</string>
@@ -608,6 +611,7 @@
   <string name="new_messages">%1$d missatges nous</string>
   <string name="next_action">Següent</string>
   <string name="no">No</string>
+  <string name="no_address_email">noaddressemail@123.com</string>
   <string name="no_application_found">Cap aplicació pot obrir aquest accessori per a la seva visualització.</string>
   <string name="no_application_found_title">Obre aquest fitxer adjunt.</string>
   <string name="no_contacts">Buit</string>
@@ -659,8 +663,19 @@
   <string name="password_expire_warning_ticker_fmt">"\"%s\" requereix que canviïs el teu PIN de pantalla de 
             bloqueig o contrasenya."</string>
   <string name="password_expired_content_title">Contrasenya de pantalla de bloqueig expirada</string>
+  <string name="password_expired_dialog_content_fmt">Les dades de %s s\'estan esborrant del dispositiu. Podeu restaurar-les en canviar el vostre PIN o contrasenya de bloqueig de pantalla. Voleu fer-lo ara?</string>
   <string name="password_expired_dialog_title">Contrasenya de pantalla de bloqueig expirada</string>
   <string name="password_expired_ticker">El PIN de la pantalla de bloqueig o contrasenya ha expirat.</string>
+  <string name="path_about_account_setting">Correu/Configuració/Comptes</string>
+  <string name="path_about_add_account">Correu/Configuració/Afegix compte</string>
+  <string name="path_about_battery_saver">Correu/Configuració/Estalvi de bateria</string>
+  <string name="path_about_confirm_before_delete">Correu/Configuració/Confirma abans de suprimir</string>
+  <string name="path_about_confirm_before_send">Correu/Configuració/Confirma abans d\'enviar</string>
+  <string name="path_about_conversation_view">Correu/Configuració/Vista de conversa</string>
+  <string name="path_about_delete_message_flow">Correu/Configuració/Elimina el flux del missatge</string>
+  <string name="path_about_email_setting">Correu/Configuració</string>
+  <string name="path_about_send_feed_back">Correu/Configuració/Envia comentaris</string>
+  <string name="path_about_upload_logs">Correu/Configuració/Puja els registres</string>
   <string name="perference_change_pw_notnull_tips">La contrasenya no pot estar en blanc</string>
   <string name="perference_change_pw_ok_tips">Contrasenya actualitzada correctament</string>
   <string name="perference_setup_pop_del">Eliminar missatges del servidor</string>
@@ -744,6 +759,7 @@
   <string name="quick_3">"Que jo aniré llegint això més endavant i tornar a tu.\""</string>
   <string name="quick_4">"Fixem una reunió per parlar d'això."</string>
   <string name="quick_reply_dialog_title">Si us plau, triï</string>
+  <string name="quick_reply_hint">Respon a %1$d persones</string>
   <string name="quick_reply_hint_bcc">(A BCC)</string>
   <string name="quick_reply_hint_cc">(A CC)</string>
   <string name="quick_responses_empty_view">No hi ha respostes ràpides</string>
