@@ -22,12 +22,10 @@
   <string name="nfcUserLabel">NFC</string>
   <string name="outbound_me_profile_text">Toque para transmitir a esta persona su información de contacto.</string>
   <string name="outbound_me_profile_title">Interacción NFC completa</string>
-  <string name="pair_no">No</string>
   <string name="pair_yes">Sí</string>
   <string name="pay_with">Pagar con</string>
   <string name="tap_again_to_complete">Toque otra vez para completar con %1$s</string>
   <string name="tap_again_to_pay">Toque otra vez para pagar con %1$s</string>
   <string name="touch">Toque para transmitir</string>
   <string name="transaction_failure">"Esta transacción no pudo ser completada con %1$s."</string>
-  <string name="wifi_connect">Conectar</string>
 </resources>
