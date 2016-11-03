@@ -44,7 +44,6 @@
   <string name="button_sure_abandon">¿Descartar los cambios?</string>
   <string name="close">Cerrar</string>
   <string name="commercial">Comercial</string>
-  <string name="common_loading_text">Un momento&#8230;</string>
   <string name="daily_forcast_drawer_on_bottom">Ocultar</string>
   <string name="daily_forcast_drawer_on_top">Ver más días</string>
   <string name="daily_forcast_no_stable_direction">Sin viento</string>
@@ -57,7 +56,6 @@
   <string name="first_start_network_msg">Para obtener la información del tiempo, es necesario conectarse a internet.</string>
   <string name="first_start_network_title">Alerta de conexión</string>
   <string name="gps_hint">Ubicación actual</string>
-  <string name="hide_topic">Ocultar</string>
   <string name="hourly_forcast_now">Ahora</string>
   <string name="hourly_forecast_title">Pronóstico por hora</string>
   <string name="index_item_install_now">Instalar ahora</string>
@@ -83,7 +81,6 @@
   <string name="international_details_real_feel_title">SENSACIÓN TÉRMICA®</string>
   <string name="international_details_title">Detalles</string>
   <string name="international_details_uv_index_title">ÍNDICE UV</string>
-  <string name="international_details_wind_connect">%1$s %2$s</string>
   <string name="international_details_wind_title">VIENTO</string>
   <string name="location_management">Ubicaciones</string>
   <string name="location_tag">Localizar</string>
@@ -98,10 +95,8 @@
   <string name="realtime_aqi_title">Índicador de Calidad del Aire</string>
   <string name="realtime_humidity_title">Humedad relativa</string>
   <string name="realtime_wind_default_title">Viento</string>
-  <string name="refresh_fail">"No se pudo conectar a la red"</string>
   <string name="retry">Inténtalo de nuevo</string>
   <string name="set">Fijar</string>
-  <string name="set_land_mile">millas/h</string>
   <string name="share">Compartir</string>
   <string name="share_btn_cancel">Cancelar</string>
   <string name="share_btn_confirm">Compartir</string>
