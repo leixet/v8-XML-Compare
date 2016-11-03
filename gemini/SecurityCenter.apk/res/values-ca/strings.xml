@@ -176,7 +176,6 @@ o introdueixi la seva contrasenya"</string>
   <string name="auto_task_operation_auto_brightness">Lluentor automàtica</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
   <string name="auto_task_operation_brightness">Brillantor de la pantalla</string>
-  <string name="auto_task_operation_close">Desactivat</string>
   <string name="auto_task_operation_close_string">Desactiva %s</string>
   <string name="auto_task_operation_gps">GPS</string>
   <string name="auto_task_operation_lockscreen_time">Pantalla de bloqueig</string>
@@ -399,7 +398,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="data_usage_restricted_body">Toqui per activar dades en segon pla</string>
   <string name="data_usage_restricted_title">Dades en segon pla restringides</string>
   <string name="data_usage_warning_body">Toqui per veure detalls sobre ús de dades.</string>
-  <string name="data_usage_warning_title">Avís de límit d\'ús de dades</string>
+  <string name="data_usage_warning_title">Alerta d\'ús de dades</string>
   <string name="datausage_ignore_app_list_count">"Ignorant %d ús de dades d'aplicacions"</string>
   <string name="declaration_dialog_msg">Aquesta característica pot ajudar a vigilar el seu ús, però no li garanteix evitar càrrecs addicionals. Per obtenir millors resultats, estableixi un límit conservador.</string>
   <string name="deep_clean_disconnect_data_title">Desactivar dades mòbils quan el dispositiu està bloquejat</string>
@@ -632,7 +631,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="lock_screen_warning_category">Notificacions en pantalla de bloqueig</string>
   <string name="lock_screen_warning_switch_summary">Mostra advertència en pantalla de bloqueig quan l\'ús de dades excedeixi d\'una determinada quantitat</string>
   <string name="lock_screen_warning_switch_title">Mostra advertències en pantalla de bloqueig</string>
-  <string name="lock_screen_warning_value">Advertiment d\'ús de dades</string>
+  <string name="lock_screen_warning_value">Alerta d\'ús de dades</string>
   <string name="lock_settings_title">Pantalla de bloqueig i contrasenya</string>
   <string name="lockpassword_confirm_your_password_header">Confirmeu la contrasenya</string>
   <string name="lockpassword_confirm_your_pattern_header">Confirmeu el patró</string>
@@ -679,7 +678,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="main_primary_message_traffic_cur_leisure">Ús de dades en hora vall</string>
   <string name="main_primary_message_traffic_cur_normal">Per sota del límit de dades</string>
   <string name="main_primary_message_traffic_cur_normal_overlimit">Límit de dades excedit</string>
-  <string name="main_primary_message_traffic_cur_normal_warning">Avís d\'ús de dades</string>
+  <string name="main_primary_message_traffic_cur_normal_warning">Alerta d\'ús de dades</string>
   <string name="main_primary_message_traffic_enough">Per sota del límit d\'ús de dades</string>
   <string name="main_primary_message_traffic_overlimit">Límit d\'ús de dades excedit</string>
   <string name="main_primary_message_traffic_overlimit_purchase">Necessita recarregar</string>
