@@ -117,8 +117,4 @@
     <item quantity="other">%1$s comentarios</item>
     <item quantity="one">%1$s comentario</item>
   </plurals>
-  <plurals name="video_items">
-    <item quantity="other">&#160;%1$d elementos</item>
-    <item quantity="one">&#160;%1$d elemento</item>
-  </plurals>
 </resources>
