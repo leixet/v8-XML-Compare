@@ -58,7 +58,6 @@
   <string name="add_ql_bm_title">Guardar</string>
   <string name="add_quicklink_to_popular">Adicionar à página inicial</string>
   <string name="add_quicklinks">Adicionar à página inicial</string>
-  <string name="add_shortcut">Adicionar utilidades</string>
   <string name="add_to_bookmark">Marcadores</string>
   <string name="add_to_desk">Adicionar ao ecrã inicial</string>
   <string name="add_to_desk_success">Adicionado ao ecrã inicial</string>
@@ -90,8 +89,6 @@
   <string name="block_ads_message">Quer bloquear mensagens desta página?</string>
   <string name="block_ads_title">O conteúdo pode conter anúncios</string>
   <string name="bookmark_add_to">Adicionar a</string>
-  <string name="bookmark_btn_select_all">Seleccionar todos</string>
-  <string name="bookmark_btn_select_none">Desmarcar tudo</string>
   <string name="bookmark_cannot_save_url">"Este URL não pode ser adicionado"</string>
   <string name="bookmark_folder_needs_title">Introduza um nome de grupo</string>
   <string name="bookmark_group_lable">Grupo</string>
@@ -175,7 +172,6 @@
   <string name="copy_url">Copiar URL</string>
   <string name="create_qr_code">Código QR</string>
   <string name="current_version_pad">Tablet</string>
-  <string name="current_version_pc">Computador de mesa</string>
   <string name="current_version_phone">Telefone</string>
   <string name="custom_head_card_text">"Acredita sempre que alguma coisa maravilhosa
 está para acontecer"</string>
@@ -190,7 +186,6 @@ janela privada ​"</string>
   <string name="date_picker_dialog_title">Definir data</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="delete">Eliminar</string>
-  <string name="delete_bookmark">Eliminar</string>
   <string name="delete_bookmark_group_warning">Eliminar \"%s\"? Todos os marcadores deste grupo vão ser eliminados</string>
   <string name="delete_bookmark_warning">Eliminar marcador \"%s\"?</string>
   <string name="delete_download">Eliminar</string>
@@ -208,12 +203,6 @@ janela privada ​"</string>
   <string name="dialog_queued_body">Este ficheiro está na lista para futura tranferência</string>
   <string name="dialog_title_not_available">"Não foi possível transferir"</string>
   <string name="dialog_title_queued_body">Ficheiro ainda não disponível</string>
-  <string name="document_download_cancel_btn">Cancelar</string>
-  <string name="document_download_failed">"Não foi possível transferir"</string>
-  <string name="document_download_title">A transferir</string>
-  <string name="document_open_file">Abrir %s</string>
-  <string name="document_open_other">Outras aplicações</string>
-  <string name="document_open_title">Abrir com</string>
   <string name="dont_remind_again">Memorizar preferência</string>
   <string name="download_btn_select_all">Seleccionar tudo</string>
   <string name="download_btn_select_none">Desmarcar tudo</string>
@@ -227,7 +216,6 @@ janela privada ​"</string>
   <string name="download_dialog_file_length_nolength_txt">Aguarde&#8230;</string>
   <string name="download_failed">"A transferência falhou"</string>
   <string name="download_filter_all">Tudo</string>
-  <string name="download_filter_apk">APK</string>
   <string name="download_filter_application">Aplicações</string>
   <string name="download_filter_audio">Música</string>
   <string name="download_filter_image">Fotos</string>
@@ -412,13 +400,10 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="nav_bottom_bar_new_tab">Novo separador</string>
   <string name="nav_screen_container_tab_incognito">Separador Incógnito</string>
   <string name="nav_screen_container_tab_normal">Separador Normal</string>
-  <string name="navigationbar_rightbutton_actiontext_cancle">Cancelar</string>
-  <string name="navigationbar_rightbutton_actiontext_go">Ir</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Ligar a esta rede</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Disponível ligação Wi-Fi aberta</string>
   <string name="new_folder_name_lable">Nome do grupo</string>
   <string name="next_button_label">Seguinte</string>
-  <string name="no_app_open_document">Não foi encontrada nenhuma aplicação para efectuar esta acção</string>
   <string name="no_matches">Sem resultados</string>
   <string name="no_space_alert_cancel">Mais tarde</string>
   <string name="no_space_alert_clean">Libertar espaço</string>
@@ -606,11 +591,9 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="search">Pesquisar</string>
   <string name="search_button_text">Ir</string>
   <string name="search_hint">Pesquisar</string>
-  <string name="search_keyword_browser">Navegador</string>
   <string name="search_label">Navegador</string>
   <string name="search_settings_description">Marcadores e histórico da rede</string>
   <string name="search_shipin">Vídeo</string>
-  <string name="search_title_browser">Navegador</string>
   <string name="search_tupian">Imagem</string>
   <string name="secure_download_in_xiaomi_market">Transferir na Loja de Aplicações</string>
   <string name="secureaccess">Alterar para Modo Seguro</string>
@@ -622,7 +605,6 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="select_download_device">Seleccionar dispositivo</string>
   <string name="send_comment_button">enviar</string>
   <string name="send_comment_title">comentar</string>
-  <string name="sendstartpage">Página inicial</string>
   <string name="share_page_text">"Estou a divertir-me 【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">"O URL deste Website será enviado para os servidores da Xiaomi para ser verificado se é seguro. Pode desligar esta funcionalidade em qualquer altura nas Definições"</string>
   <string name="show_weather_location_getter_tip_dialog_description">Serviços do tempo necessitam da sua informação de localização para lhe dar informação actualizada do tempo no seu navegador. Pode desligar esta funcionalidade nas Definições</string>
@@ -657,7 +639,6 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="suggest_access_item_singer_albums">%d álbuns</string>
   <string name="suggest_access_item_singer_pop">%d músicas populares</string>
   <string name="suggest_access_music">Música Mi</string>
-  <string name="suggest_item_delete_text">Eliminar</string>
   <string name="suggest_open_app_failed">"Não foi possível abrir esta aplicação"</string>
   <string name="tab_hotpage">Mais vistos</string>
   <string name="tab_quicklinks">Mais utilizados</string>
@@ -728,7 +709,6 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="video_group_noupdates_list">Sem actualizações disponíveis</string>
   <string name="video_group_updates_list">Actualizações</string>
   <string name="video_history_empty">Sem histórico</string>
-  <string name="video_manager_action_bar_end_view">Vídeos</string>
   <string name="video_play_error">"Não foi possível reproduzir vídeo"</string>
   <string name="video_project_button">Parar</string>
   <string name="video_project_msg">O vídeo está a ser projectado no %s</string>
