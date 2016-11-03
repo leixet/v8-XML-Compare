@@ -51,14 +51,9 @@
   <string name="battery_low_percent_format">%d%% restants</string>
   <string name="battery_low_title">Veuillez connecter le chargeur</string>
   <string name="battery_profiles">Profils de batterie</string>
-  <string name="block_notification_text">Masquer</string>
   <string name="block_record_notification_more_text">Les notifications de %1$s %2$d applications sont masquées.</string>
   <string name="block_record_notification_text">Les notifications de %1$s sont masquées.</string>
   <string name="block_record_notification_title">Notifications masquées</string>
-  <string name="bluetooth_connecting">Connexion&#8230;</string>
-  <string name="bluetooth_pairing">Jumelage de périphériques (vous devrez peut-être confirmer sur l\'autre téléphone)&#8230;</string>
-  <string name="bluetooth_pairing_decline">Annuler</string>
-  <string name="bluetooth_profile_opp">Transfert de fichier</string>
   <string name="bluetooth_tethered">Connexion Bluetooth partagée</string>
   <string name="call_status_dialing">Numérotation</string>
   <string name="call_status_ringing">Sonnerie</string>
@@ -114,8 +109,6 @@ Si vous utilisez des données supplémentaires, celles-ci pourront être factur�
 Vous devez utiliser le chargeur fourni."</string>
   <string name="label_view">Afficher</string>
   <string name="lockscreen_carrier_default">Aucun service</string>
-  <string name="long_screenshot_processing">Traitement&#8230;</string>
-  <string name="long_screenshot_stop">Ok</string>
   <string name="mdb_entering">Entrée MDB</string>
   <string name="mdb_restore_cancel">Annuler</string>
   <string name="mdb_restore_info1">"Restaurera les données de votre appareil"</string>
@@ -127,10 +120,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="media_projection_dialog_text">"%s va capturer tout ce qui est affiché sur votre écran."</string>
   <string name="media_projection_remember_text">"Ne plus afficher"</string>
   <string name="mount_storage">Oui</string>
-  <string name="nav_guide_ok">Paramètres</string>
   <string name="no_notification_tips">Aucune notification</string>
-  <string name="notification_header_title">Notifications de liste noire</string>
-  <string name="notification_manager">Gérer les notifications</string>
   <string name="notification_otg_gamestick_in">Manette de jeu connectée</string>
   <string name="notification_otg_gamestick_out">Manette de jeu déconnectée</string>
   <string name="notification_otg_keyboard_in">Clavier connecté</string>
@@ -150,9 +140,6 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="notification_template_text">"Nouvelle notification. Touchez pour l'afficher."</string>
   <string name="oldman_airplane_mode_text">mode avion</string>
   <string name="oldman_incall_text">en appel</string>
-  <string name="quick_settings_done">Ok</string>
-  <string name="quick_settings_wifi_label">En utilisant le réseau Wi-Fi</string>
-  <string name="recent_task_unlock_text">Déverrouiller</string>
   <string name="reject_call">Rejeter l\'appel</string>
   <string name="return_to_incall_screen">Appuyer pour revenir à l\'appel</string>
   <string name="screen_button_notification_text">Pour les activer, appuyez sur les boutons d\'accueil et d\'alimentation simultanément.</string>
@@ -162,11 +149,6 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="screen_pinning_negative">Non merci</string>
   <string name="screen_pinning_positive">J\'ai compris</string>
   <string name="screen_pinning_title">L\'écran est épinglé</string>
-  <string name="screenshot_delete">Supprimer</string>
-  <string name="screenshot_delete_dlg_title">Supprimer</string>
-  <string name="screenshot_dlg_cancel">Annuler</string>
-  <string name="screenshot_dlg_delete_button">Supprimer</string>
-  <string name="screenshot_edit">Éditer</string>
   <string name="screenshot_failed_text">"Impossible de prendre une capture d'écran, l'espace de stockage étant insuffisant ou l'application ne dispose pas de droits suffisants."</string>
   <string name="screenshot_saved_text">Appuyer pour l\'afficher</string>
   <string name="screenshot_saved_title">Capture d\'écran effectuée</string>
@@ -179,10 +161,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="settings_toggle_position_divider_page">%1$d commutateurs placés au-dessus de la barre sont actifs</string>
   <string name="settings_toggle_position_reset">Réinitialiser les paramètres d\'activation/désactivation</string>
   <string name="share">Partager</string>
-  <string name="status_bar_clock_date_format">EEE d MMMM</string>
   <string name="status_bar_date_format">"EEEE
-d MMMM yyyy"</string>
-  <string name="status_bar_date_format_12">"EEEE
 d MMMM yyyy"</string>
   <string name="status_bar_network_flow_content">"Aujourd'hui: %1$s | Restant: %2$s"</string>
   <string name="status_bar_network_flow_exceed_content">Aujourd\'hui: %1$s | Dépassement: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
@@ -198,11 +177,9 @@ d MMMM yyyy"</string>
   <string name="status_bar_recording_back">Appuyer pour retourner au dictaphone</string>
   <string name="status_bar_recording_pause">Enregistrement mis en pause.</string>
   <string name="status_bar_settings_airplane">Mode avion</string>
-  <string name="status_bar_settings_battery_meter_format">%d %%</string>
   <string name="status_bar_settings_signal_meter_disconnected">Aucune connexion</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Connecté au Wi-Fi</string>
   <string name="status_bar_style_settings">Paramètres de la barre d\'état</string>
-  <string name="status_bar_volte_label">720p (HD)</string>
   <string name="task_access_locked_app_msg">Le contenu de l\'application est masqué.</string>
   <string name="title_usb_accessory">Accessoire USB</string>
   <string name="torch_activity_hint">Vous pouvez allumer la torche en maintenant la touche [icon] quand l\'écran est verrouillé</string>
@@ -245,6 +222,4 @@ d MMMM yyyy"</string>
   <string name="vpn_text_long">Connecté à %s. Appuyer pour afficher les détails.</string>
   <string name="vpn_title">VPN activé</string>
   <string name="vpn_title_long">Connexion au VPN via %s</string>
-  <string name="weather_publish_time">Dernière mise à jour %1$s</string>
-  <string name="wifi_security_none">Aucun</string>
 </resources>
