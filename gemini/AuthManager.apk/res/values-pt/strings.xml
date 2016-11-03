@@ -228,7 +228,6 @@ Tem que instalar a versão Developer da MIUI para conceder acesso root"</string>
   <string name="HIPS_Perm_process_outgoing_calls_Desc">monitorizar e terminar chamadas</string>
   <string name="HIPS_Perm_read_notification_sms">SMS de serviços</string>
   <string name="HIPS_Perm_read_notification_sms_Desc">Ler SMS de serviços</string>
-  <string name="HIPS_Perm_show_when_locked">Mostrar no ecrã de bloqueio</string>
   <string name="HIPS_Perm_use_sip">Serviços de vídeo</string>
   <string name="HIPS_Perm_use_sip_Desc">utilizar Protocolo de Início de Sessão para transmitir vídeo</string>
   <string name="HIPS_SecurityPrompt_Accept">Permitir (%d)</string>
