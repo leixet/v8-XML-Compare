@@ -49,11 +49,7 @@
   <string name="comment_upload_success">Votre commentaire a été envoyé !</string>
   <string name="confirm_local_package_wipe_btn">Effacer et mettre à jour</string>
   <string name="confirm_local_package_wipe_msg">Vos données personnelles vont être effacées. Assurez-vous d\'avoir sauvegardé tous vos éléments importants avant de démarrer le processus.</string>
-  <string name="continue_update_negative_btn">Continuer</string>
-  <string name="continue_update_positive_btn">Annuler</string>
   <string name="daily_build">quotidienne</string>
-  <string name="dialog_delay_update_cancel">Annuler</string>
-  <string name="dialog_reboot_yes">Mettre à jour</string>
   <string name="download_again">Retélécharger</string>
   <string name="download_cancel">Annuler</string>
   <string name="download_current_rom">Télécharger la ROM complète</string>
@@ -125,7 +121,6 @@
   <string name="notification_reboot_title">Mise à jour effectuée</string>
   <string name="notification_reboot_title_hm">Redémarrer pour mettre à jour</string>
   <string name="notification_share">Partager</string>
-  <string name="notification_uncrypt_title_hm">Télécharger la ROM complète</string>
   <string name="notification_update_new_version">Mise à jour disponible</string>
   <string name="notification_update_now">Mettre à jour</string>
   <string name="notification_updating">Mise à jour&#8230;</string>
