@@ -86,12 +86,4 @@
     <item>Oeste</item>
     <item>Noroeste</item>
   </string-array>
-  <string-array name="aqi_value">
-    <item>Bom</item>
-    <item>Satisfactory</item>
-    <item>Moderately polluted</item>
-    <item>Fraco</item>
-    <item>Very poor</item>
-    <item>Grave</item>
-  </string-array>
 </resources>
