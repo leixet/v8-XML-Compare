@@ -9,6 +9,5 @@ L\'ID del dispositivo deve essere un IMEI o MAC valido. Senza l\'ID del disposit
   <string name="explain_send_sms_permission_msg">Attiva %s, Xiaomi Service Framework invierà un SMS per verificar eil numero di telefono. Pagheri l\'SMS in base al tuo piano tariffario.</string>
   <string name="explain_send_sms_permission_title">Verifica il tuo numero di telefono</string>
   <string name="sync_notification_title_format">Elemento in sincronizzazione: %1$s</string>
-  <string name="xiaomi_cloud_service">Online</string>
   <string name="xmsf_activate_info">Attiva informazioni XMSF</string>
 </resources>
