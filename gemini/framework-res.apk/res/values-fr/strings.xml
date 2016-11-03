@@ -223,12 +223,8 @@ en utilisant %s</string>
   <string name="ext_media_badremoval_notification_title">Mémoire USB retirée inopinément</string>
   <string name="ext_media_checking_notification_message">Recherche d\'erreurs</string>
   <string name="ext_media_checking_notification_title">Préparation de la mémoire de stockage USB</string>
-  <string name="ext_media_init_action">Configurer</string>
   <string name="ext_media_nomedia_notification_message">Mémoire de stockage USB retirée. Insérez un nouveau support.</string>
   <string name="ext_media_nomedia_notification_title">Mémoire de stockage USB retirée</string>
-  <string name="ext_media_status_checking">Vérification</string>
-  <string name="ext_media_status_mounted">Prêt</string>
-  <string name="ext_media_status_unmountable">Corrompu</string>
   <string name="ext_media_unmountable_notification_message">La mémoire de stockage USB est endommagée. Veuillez essayer de la reformater.</string>
   <string name="ext_media_unmountable_notification_title">Mémoire de stockage USB endommagée</string>
   <string name="faceunlock_multiple_failures">Nombre maximal autorisé de tentatives Face Unlock atteint.</string>
@@ -246,7 +242,6 @@ en utilisant %s</string>
   <string name="find_on_page">Rechercher sur la page</string>
   <string name="find_previous">Rechercher précédent</string>
   <string name="fingerprints">Empreintes :</string>
-  <string name="floating_toolbar_open_overflow_description">Plus d\'options</string>
   <string name="forward_intent_to_owner">"Vous utilisez cette application en dehors de votre profil professionnel."</string>
   <string name="forward_intent_to_work">"Vous utilisez cette application dans votre profil professionnel."</string>
   <string name="gadget_host_error_inflating">"Impossible d'ajouter le widget."</string>
@@ -316,7 +311,6 @@ en utilisant %s</string>
   <string name="ime_action_search">Rechercher</string>
   <string name="ime_action_send">Envoyer</string>
   <string name="imei">Code IMEI</string>
-  <string name="immersive_cling_positive">Compris</string>
   <string name="inputMethod">Mode de saisie</string>
   <string name="input_method_binding_label">Mode de saisie</string>
   <string name="invalidPin">Le code PIN doit compter de 4 à 8 chiffres.</string>
@@ -434,7 +428,6 @@ Pour annuler l\'épinglage, appuyez de manière prolongée sur \"Vue d\'ensemble
   <string name="lock_to_app_unlock_password">Demander le mot de passe avant d\'annuler l\'épinglage</string>
   <string name="lock_to_app_unlock_pattern">Demander le schéma de déverrouillage avant d\'annuler l\'épinglage</string>
   <string name="lock_to_app_unlock_pin">Demander le code PIN avant d\'annuler l\'épinglage</string>
-  <string name="lockscreen_access_pattern_area">Zone du schéma</string>
   <string name="lockscreen_access_pattern_cell_added">Cellule ajoutée.</string>
   <string name="lockscreen_access_pattern_cleared">Schéma effacé.</string>
   <string name="lockscreen_access_pattern_detected">Schéma terminé.</string>
@@ -675,7 +668,6 @@ Veuillez réessayer dans %d secondes.</string>
   <string name="permgrouplab_calendar">Agenda</string>
   <string name="permgrouplab_camera">Appareil photo</string>
   <string name="permgrouplab_location">Votre position</string>
-  <string name="permgrouplab_phone">Téléphone</string>
   <string name="permgrouplab_storage">Stockage</string>
   <string name="permission_request_notification_title">Autorisation demandée</string>
   <string name="permission_request_notification_with_subtitle">Autorisation demandée
@@ -832,7 +824,6 @@ pour le compte \"%s\"</string>
   <string name="reboot_safemode_confirm">Voulez-vous redémarrer en mode sans échec ? Cette opération aura pour effet de désactiver toutes les applications tierces que vous avez installées. Elles seront réactivées au prochain redémarrage.</string>
   <string name="reboot_safemode_title">Redémarrer en mode sans échec</string>
   <string name="reboot_title">Redémarrer</string>
-  <string name="reboot_to_reset_title">Restaurer valeurs d\'usine</string>
   <string name="recent_tasks_title">Récentes</string>
   <string name="relationTypeBrother">Frère</string>
   <string name="relationTypeChild">Enfant</string>
@@ -1018,7 +1009,6 @@ L\'écoute à un volume élevé pendant des périodes prolongées peut endommage
   <string name="usb_accessory_notification_title">Connecté à un accessoire USB</string>
   <string name="usb_cd_installer_notification_title">Connecté en tant que programme d\'installation</string>
   <string name="usb_charging_notification_title">Connecté en mode charge</string>
-  <string name="usb_midi_peripheral_manufacturer_name">Par défaut</string>
   <string name="usb_mtp_notification_title">Connecté en tant qu\'appareil multimédia</string>
   <string name="usb_notification_message">Appuyer pour accéder aux options USB</string>
   <string name="usb_ptp_notification_title">Connecté en tant qu\'appareil photo</string>
@@ -1068,7 +1058,6 @@ Voulez-vous la fermer ?</string>
   <string name="websearch">Recherche Web</string>
   <string name="week">semaine</string>
   <string name="weeks">semaines</string>
-  <string name="wfc_mode_wifi_only_summary">Wi-Fi uniquement</string>
   <string name="whichApplication">Continuer avec</string>
   <string name="whichApplicationNamed">Terminer l\'action avec %1$s</string>
   <string name="whichEditApplication">Modifier avec</string>
@@ -1080,7 +1069,6 @@ Voulez-vous la fermer ?</string>
   <string name="whichViewApplication">Ouvrir avec</string>
   <string name="whichViewApplicationNamed">Ouvrir avec %1$s</string>
   <string name="wifi_available_sign_in">Connectez-vous au réseau Wi-Fi</string>
-  <string name="wifi_calling_off_summary">Désactivé</string>
   <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
   <string name="wifi_p2p_enabled_notification_message">Appuyer pour accéder aux paramètres</string>
   <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct activé</string>
@@ -1103,9 +1091,6 @@ Voulez-vous la fermer ?</string>
   <string name="write_fail_reason_cannot_write">Erreur lors de la modification du contenu.</string>
   <string name="year">année</string>
   <string name="years">années</string>
-  <string name="zen_mode_default_events_name">Évènement</string>
-  <string name="zen_mode_default_weekends_name">Week-end</string>
-  <string name="zen_mode_feature_name">Silence</string>
   <string name="zen_mode_forever">Jusqu\'à la désactivation</string>
   <string name="zen_mode_until">Jusqu\'à %1$s</string>
 </resources>
