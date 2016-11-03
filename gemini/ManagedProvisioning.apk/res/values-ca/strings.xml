@@ -49,7 +49,6 @@
   <string name="opening_paragraph_delete_profile_known_company">%s gestiona aquest perfil professional mitjançant:</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Ja existeix un perfil professional. L\'administrador és:</string>
   <string name="pick_launcher">D\'ACORD</string>
-  <string name="profile_owner_cancel_cancel">NO</string>
   <string name="profile_owner_cancel_message">Voleu aturar la configuració?</string>
   <string name="profile_owner_cancel_ok">SÍ</string>
   <string name="profile_owner_cancelling">S\'està cancel·lant&#8230;</string>
