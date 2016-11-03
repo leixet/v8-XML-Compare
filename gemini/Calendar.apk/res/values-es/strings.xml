@@ -72,7 +72,6 @@
   <string name="can_not_modify_allday_event">"Los eventos de todo el día no se pueden modificar"</string>
   <string name="can_not_modify_event">"No se puede modificar"</string>
   <string name="can_not_modify_repeating_acrossing_days_event">"Los eventos periódicos no se pueden modificar"</string>
-  <string name="card_detail_title">Detalles de la suscripción</string>
   <string name="card_manager">Administrador de tarjeta</string>
   <string name="card_title_change">Cambiar</string>
   <string name="change_response_title">Cambiar respuesta</string>
@@ -261,7 +260,6 @@
   <string name="preferences_clear_search_history_summary">"Eliminar todas las búsquedas que realizaste"</string>
   <string name="preferences_clear_search_history_title">Limpiar historial de búsqueda</string>
   <string name="preferences_default_reminder_default">10</string>
-  <string name="preferences_default_reminder_default_value">10</string>
   <string name="preferences_default_reminder_dialog">Tiempo de recordatorio predeterminado</string>
   <string name="preferences_default_reminder_title">Tiempo de recordatorio predeterminado</string>
   <string name="preferences_general_title">Ajuste de vista de calendario</string>
@@ -290,7 +288,6 @@
   <string name="quick_response_settings_edit_title">Respuesta rápida</string>
   <string name="quick_response_settings_summary">Editar las respuestas por defecto cuando se envía un email a los invitados</string>
   <string name="quick_response_settings_title">Editar respuestas rápidas</string>
-  <string name="recommend_card_adding">Suscripciones</string>
   <string name="refresh">Actualizar</string>
   <string name="repeat_activity_label">Repetir</string>
   <string name="repeat_custom_activity_label">Personalizar</string>
@@ -327,10 +324,8 @@
   <string name="select_date">Seleccionar fecha</string>
   <string name="select_synced_calendars_title">Calendarios a sincronizar</string>
   <string name="set_as_wallpaper">Establecer como fondo de pantalla</string>
-  <string name="setting_holiday_display_title">Mostras los días festivos</string>
   <string name="setting_others">Otros</string>
   <string name="setting_sms_import">Importar eventos por SMS</string>
-  <string name="setting_title_about">Acerca de</string>
   <string name="settings_calendar">Calendario</string>
   <string name="show_day_view">Mostrar día</string>
   <string name="show_newer_events">Toque para ver los eventos después de %1$s</string>
@@ -344,15 +339,10 @@
   <string name="str_from_mon_to_fri">de lunes a viernes</string>
   <string name="str_hour_of_everyday">Diario%s</string>
   <string name="str_hour_of_next">Siguiente%s</string>
-  <string name="subscribe_channel_footer_button">Administrador de tarjeta</string>
-  <string name="subscribe_channel_footer_title">Ya está suscrito</string>
-  <string name="subscribe_channel_subscribe">Suscribirse</string>
-  <string name="subscribe_channel_subscribing">Suscripciones</string>
   <string name="subscribe_description_card_more_cut">Colapso</string>
   <string name="subscribe_description_card_more_launch">Expansión</string>
   <string name="subscribe_detail_title">Detalles de la suscripción</string>
   <string name="subscribe_ed">Ya estás suscrito</string>
-  <string name="subscribing_card">Suscripciones</string>
   <string name="sync_notice_cancel_toast_message">"El calendario local no se sincronizará con Mi Cloud"</string>
   <string name="sync_notice_message">¿Sincronizar su calendario con Mi Cloud?</string>
   <string name="sync_notice_ok">Sincronizar ahora</string>
@@ -407,8 +397,6 @@
   <string name="travel_seat_number_text">Asiento</string>
   <string name="travel_train_number_text">Tren</string>
   <string name="travel_train_station">Estación de tren</string>
-  <string name="unsubscribe_card">Anular suscripción</string>
-  <string name="unsubscribing_card">Darse de baja en</string>
   <string name="user_notice_button_exit">Salir</string>
   <string name="user_notice_button_ok">De acuerdo</string>
   <string name="user_notice_declaration_ignore">"No mostrar de nuevo"</string>
@@ -423,7 +411,6 @@
   <string name="weekly">Semanal (cada %s)</string>
   <string name="when_label">Cuándo</string>
   <string name="widget_events">Próximo evento</string>
-  <string name="widget_get_weather_info">Obtener información del clima &gt;</string>
   <string name="widget_no_events">No hay eventos</string>
   <string name="widget_select_style">Seleccione un estilo</string>
   <string name="work_day_indication">:(</string>
