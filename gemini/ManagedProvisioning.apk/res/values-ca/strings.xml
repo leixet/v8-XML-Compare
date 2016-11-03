@@ -41,6 +41,7 @@
   <string name="learn_more_label">Botó per saber-ne més</string>
   <string name="learn_more_link">Més informació</string>
   <string name="managed_provisioning_error_text">"No s'ha pogut configurar el perfil de feina. Contacteu amb el departament d'informàtica o torneu-ho a provar més tard."</string>
+  <string name="managed_provisioning_not_supported">"El dispositiu no és compatible amb els perfils professionals"</string>
   <string name="maximum_user_limit_reached">"No es pot crear el perfil professional perquè heu arribat al màxim d'usuaris permesos al dispositiu. Suprimiu-ne un com a mínim i torneu-ho a provar."</string>
   <string name="mdm_icon_label">icona de %1$s</string>
   <string name="ok_setup">D\'acord</string>
