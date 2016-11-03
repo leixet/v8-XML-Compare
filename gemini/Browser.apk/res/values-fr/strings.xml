@@ -53,7 +53,6 @@
   <string name="add_ql_bm_title">Enregistrer</string>
   <string name="add_quicklink_to_popular">Ajouter à la page d\'accueil</string>
   <string name="add_quicklinks">Ajouter à la page d\'accueil</string>
-  <string name="add_shortcut">Ajouter aux utiles</string>
   <string name="add_to_bookmark">Favoris</string>
   <string name="add_to_desk">Ajouter sur l\'écran d\'accueil</string>
   <string name="add_to_desk_success">Ajouté sur l\'écran d\'accueil</string>
@@ -65,7 +64,6 @@
   <string name="app_new_version">Vous avez déjà téléchargé la dernière version</string>
   <string name="app_update_install">Nouvelle version téléchargée et prête pour l\'installation</string>
   <string name="application_name">Navigateur</string>
-  <string name="aqi_quality_index_good">Correct</string>
   <string name="autologin_bar_error">"Connexion impossible."</string>
   <string name="autologin_bar_hide_text">Masquer</string>
   <string name="autologin_bar_login_text">Connexion</string>
@@ -190,12 +188,6 @@
   <string name="dialog_queued_body">Ce fichier a été mis en file d\'attente pour un prochain téléchargement.</string>
   <string name="dialog_title_not_available">"Échec du téléchargement"</string>
   <string name="dialog_title_queued_body">Le fichier n\'est pas encore disponible</string>
-  <string name="document_download_cancel_btn">Annuler</string>
-  <string name="document_download_failed">"Échec du téléchargement"</string>
-  <string name="document_download_title">Téléchargement</string>
-  <string name="document_open_file">Ouvrir %s</string>
-  <string name="document_open_other">Autres applis</string>
-  <string name="document_open_title">Ouvrir avec</string>
   <string name="dont_remind_again">Se souvenir de mon choix</string>
   <string name="download_btn_select_all">Tout sélectionner</string>
   <string name="download_btn_select_none">Tout désélectionner</string>
@@ -344,9 +336,6 @@ Voulez-vous vraiment quitter cette page ?"</string>
   <string name="miui_search_notification_message">Ouvrir la Recherche rapide</string>
   <string name="miui_search_notification_title">Recherche</string>
   <string name="miui_startpage">Page de démarrage</string>
-  <string name="miuichromium_error_page_airplane_mode">Mode avion</string>
-  <string name="miuichromium_error_page_btn_close">Fermer</string>
-  <string name="miuichromium_error_page_btn_refresh">Actualiser</string>
   <string name="miuichromium_error_page_homepage">Accueil</string>
   <string name="miuichromium_error_page_mobile">Réseaux mobiles</string>
   <string name="miuichromium_error_page_reload">Recharger</string>
@@ -375,12 +364,10 @@ Voulez-vous vraiment quitter cette page ?"</string>
   <string name="nav_bottom_bar_new_tab">Nouvel onglet</string>
   <string name="nav_screen_container_tab_incognito">Onglet privé</string>
   <string name="nav_screen_container_tab_normal">Onglet</string>
-  <string name="navigationbar_rightbutton_actiontext_cancle">Annuler</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Souhaitez-vous vous connecter ?</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Connexion Wi-Fi locale disponible</string>
   <string name="new_folder_name_lable">Nom du groupe</string>
   <string name="next_button_label">Suivant</string>
-  <string name="no_app_open_document">Aucune application pouvant gérer cette action n\'a été trouvée.</string>
   <string name="no_matches">Aucun résultat</string>
   <string name="no_space_alert_cancel">Plus tard</string>
   <string name="no_space_alert_clean">Libérer de l\'espace de stockage</string>
@@ -452,9 +439,6 @@ Voulez-vous vraiment quitter cette page ?"</string>
   <string name="pref_nav_mode_summary_pad">Tablette</string>
   <string name="pref_nav_mode_summary_phone">Téléphone</string>
   <string name="pref_nav_mode_title">Mode de navigation</string>
-  <string name="pref_notifications_hint">Notifications de liste noire</string>
-  <string name="pref_notifications_receive">Notifications de liste noire</string>
-  <string name="pref_notifications_title">Notifications de liste noire</string>
   <string name="pref_other_title">Autres</string>
   <string name="pref_privacy_clear_cache">Vider le cache</string>
   <string name="pref_privacy_clear_cache_dlg">Supprimer les bases de données et le contenu mis en cache localement ?</string>
@@ -565,18 +549,13 @@ Voulez-vous vraiment quitter cette page ?"</string>
   <string name="search">&gt;</string>
   <string name="search_button_text">OK</string>
   <string name="search_hint">Rech. ou saisir l\'URL</string>
-  <string name="search_keyword_browser">Navigateur</string>
-  <string name="search_label">Navigateur</string>
   <string name="search_settings_description">Favoris et historique de navigation</string>
-  <string name="search_shipin">Vidéo</string>
-  <string name="search_title_browser">Navigateur</string>
   <string name="secure_download_in_xiaomi_market">Télécharger sur le Mi market</string>
   <string name="security_url_confirm_message">Désactiver cette fonction peut entraîner des failles de sécurité.</string>
   <string name="security_warning">Avertissement de sécurité</string>
   <string name="security_warnings_confirm_message">Désactiver cette fonction peut entraîner des failles de sécurité.</string>
   <string name="select_dot">Sélectionner le texte</string>
   <string name="select_download_device">Sélectionnez un périphérique</string>
-  <string name="sendstartpage">Page de démarrage</string>
   <string name="share_page_text">"Jette un oeil à ce lien : 【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">"L'adresse de ce site sera envoyée vers les serveurs de Xiaomi afin vérifier sa sécurité. Vous pouvez désactiver cette fonctionnalité à tout moment dans les paramètres."</string>
   <string name="show_security_tip_dialog_title">Conditions d\'utilisation du Service</string>
@@ -609,7 +588,6 @@ Voulez-vous vraiment quitter cette page ?"</string>
   <string name="suggest_access_item_album_songs">%d chansons</string>
   <string name="suggest_access_item_app_update">Maj : %s</string>
   <string name="suggest_access_item_singer_pop">%d chansons populaires</string>
-  <string name="suggest_item_delete_text">Supprimer</string>
   <string name="suggest_open_app_failed">"Impossible d'ouvrir cette application"</string>
   <string name="tab_hotpage">Tendances</string>
   <string name="tab_quicklinks">Liens rapides</string>
@@ -686,7 +664,6 @@ Voulez-vous vraiment quitter cette page ?"</string>
   <string name="video_group_noupdates_list">Aucune mise à jour</string>
   <string name="video_group_updates_list">Mises à jour</string>
   <string name="video_history_empty">Aucun historique</string>
-  <string name="video_project_button">Annuler</string>
   <string name="video_project_msg">Affiché sur %s</string>
   <string name="video_project_title">Affichage externe</string>
   <string name="video_push_multi_message">%1$d mises à jour</string>
