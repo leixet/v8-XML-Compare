@@ -32,7 +32,6 @@
   <string name="cmas_exercise_alert">Alerta de emergencia (ejercicio)</string>
   <string name="cmas_extreme_alert">Alerta de emergencia: Extrema</string>
   <string name="cmas_operator_defined_alert">Alerta de emergencia (operador)</string>
-  <string name="cmas_opt_out_button_no">No</string>
   <string name="cmas_opt_out_button_yes">Sí</string>
   <string name="cmas_opt_out_dialog_text">Estás recibiendo alertas de emergencia. ¿Quieres seguir recibiendo alertas de emergencia?</string>
   <string name="cmas_presidential_level_alert">Alerta presidencial</string>
