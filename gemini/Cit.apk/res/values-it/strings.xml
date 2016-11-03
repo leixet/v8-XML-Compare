@@ -22,9 +22,6 @@
   <string name="cit_audio_loopback_dualmic_earpiece_title">Test Audio chiamata</string>
   <string name="cit_audio_loopback_next">Successivo</string>
   <string name="cit_audio_loopback_previous">Precedente</string>
-  <string name="cit_batterylight_blue">Blu</string>
-  <string name="cit_batterylight_green">Verde</string>
-  <string name="cit_batterylight_red">Rosso</string>
   <string name="cit_blue_tooth_address_check_title">Test Bluetooth</string>
   <string name="cit_blue_tooth_scan_check_title">Test scansione Bluetooth</string>
   <string name="cit_camera_calibration_summary">"Test instructions:
@@ -51,8 +48,6 @@ Tocca lo schermo per attivare il GPS&#8230;"</string>
   <string name="cit_headset_button_play_pause">Play/Pausa</string>
   <string name="cit_headset_button_previous">Precedente</string>
   <string name="cit_headset_button_rewind">Ricomincia</string>
-  <string name="cit_headset_button_stop">Annulla Backup</string>
-  <string name="cit_headset_button_unknown">Sconosciuto</string>
   <string name="cit_headset_loopback_check_title">Test loopback cuffie</string>
   <string name="cit_headset_plug_detect_title">Test Rilevamento Cuffie</string>
   <string name="cit_headset_pull_detect_title">Test Rimozione cuffie</string>
@@ -99,9 +94,6 @@ Tocca lo schermo per attivare il GPS&#8230;"</string>
   <string name="cit_tool_bluetooth_not_on">Bluetooth non abilitato</string>
   <string name="cit_tool_bluetooth_off">Disattiva Bluetooth</string>
   <string name="cit_tool_cal_camera">Calibrazione Fotocamera</string>
-  <string name="cit_tool_log_generate_bugreport">Creazione bug report</string>
-  <string name="cit_tool_log_no_sdcard">Nessuna scheda SD rilevata</string>
-  <string name="cit_tool_log_toast">Log salvato in %s</string>
   <string name="cit_tool_modem">Test Modem</string>
   <string name="cit_tool_modem_bugreport">Forza Coredump Modem</string>
   <string name="cit_tool_modem_offline_log">Apri/Chiudi Log offline</string>
@@ -138,10 +130,6 @@ Tocca lo schermo per attivare il GPS&#8230;"</string>
   <string name="cit_vga_camera_delete">Elimina</string>
   <string name="cit_vga_camera_deleted">Foto eliminata</string>
   <string name="cit_vibrator_check_title">Test Vibrazione</string>
-  <string name="cit_vibrator_play_touch_pattern">Test Vibrazione</string>
   <string name="cit_wifi_address_check_title">Test Wi-Fi IP</string>
   <string name="cit_wifi_ap_scan_check_title">Test scansione AP Wi-Fi</string>
-  <string name="cit_wifi_ap_scanning">Scansione...</string>
-  <string name="cit_wifi_state_refresh">Aggiorna</string>
-  <string name="start">Avvia</string>
 </resources>
