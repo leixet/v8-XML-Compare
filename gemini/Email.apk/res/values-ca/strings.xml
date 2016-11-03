@@ -81,7 +81,7 @@
   <string name="account_setup_exchange_no_certificate">Cap</string>
   <string name="account_setup_failed_certificate_inaccessible">El certificat és vàlid o inaccessible.</string>
   <string name="account_setup_failed_certificate_required">Es requereix un certificat de client. Vols connectar amb el servidor amb un certificat de client?</string>
-  <string name="account_setup_failed_check_credentials_message">El servidor ha contestat amb un error. Comprova el nom d\'usuari i la contrasenya i torna-ho a provar.</string>
+  <string name="account_setup_failed_check_credentials_message">El servidor ha contestat amb un error. Comproveu el nom d\'usuari i la contrasenya i torneu a provar-ho.</string>
   <string name="account_setup_failed_dlg_auth_message">Nom d\'usuari o contrasenya són incorrectes.</string>
   <string name="account_setup_failed_dlg_certificate_message">"No es pot connectar segurament amb el servidor."</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"No es pot connectar segurament amb el servidor.
