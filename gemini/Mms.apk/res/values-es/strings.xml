@@ -43,7 +43,6 @@
   <string name="batch_delete_confirm_dialog_message">¿Borrar %1$s mensajes?</string>
   <string name="batch_deleting_message_progress_message">Eliminando&#8230;</string>
   <string name="batch_deleting_progress_message">Eliminando&#8230;</string>
-  <string name="bcc_label">"Cco: "</string>
   <string name="block_messaging_entry_title">SMS bloqueados</string>
   <string name="block_support_text">Apoyado por Antiy.</string>
   <string name="bookmark">Favorito</string>
@@ -57,7 +56,6 @@
   <string name="cannot_resend_audio">"No se puede enviar grabación"</string>
   <string name="cannot_send_message">"No se pueden enviar mensajes"</string>
   <string name="cannot_send_message_reason">Su mensaje no tiene destinatarios válidos.</string>
-  <string name="card_insert_to_contact">Importar contacto</string>
   <string name="change_duration_activity">Cambiar duración</string>
   <string name="check_all">Seleccionar todo</string>
   <string name="chenghu_disable_mms">"No puede utilizar apodos en MMS"</string>
@@ -257,7 +255,6 @@
   <string name="msg_type_hint_mx_b2c">Notificación de red</string>
   <string name="msg_type_hint_mx_b2c_omit">Notificación de red</string>
   <string name="msg_type_hint_sms">Mensaje de texto</string>
-  <string name="msg_type_hint_sms_omit">Mensajes</string>
   <string name="msglist_continue_to_pull_for_more">Deslice hacia abajo para ver más</string>
   <string name="msglist_more_refreshing">Refrescar&#8230;</string>
   <string name="msglist_no_more_to_refresh">Ya está actualizado</string>
@@ -352,7 +349,6 @@
   <string name="play">Jugar</string>
   <string name="playing_failed">"No se puede reproducir"</string>
   <string name="pref_advanced_settings_title">Ajustes adicionales</string>
-  <string name="pref_cell_broadcast">Transmisiones móviles</string>
   <string name="pref_collapse_sp_messages_summary">Agrupar notificaciones de su compañía en el mismo hilo</string>
   <string name="pref_delivery_ringtone">Sonido de notificación</string>
   <string name="pref_edit_smsc_address">Centro de servicio de mensajes cortos (SMSC)</string>
@@ -418,8 +414,6 @@
   <string name="priority_label">"Prioridad: "</string>
   <string name="priority_low">Baja</string>
   <string name="privacy_mode_hint">"No se puede enviar mensajes en modo Invitado"</string>
-  <string name="privacy_password_set_password">Fijar</string>
-  <string name="privacy_password_title1">Establecer contraseña</string>
   <string name="private_message">Mensajes privados</string>
   <string name="private_new_notification">Notificaciones de los mensajes</string>
   <string name="private_protect">Contraseñas</string>
@@ -446,7 +440,6 @@
   <string name="remove_video">Quitar vídeo</string>
   <string name="replace">Reemplazar</string>
   <string name="replace_image">Cambiar imagen</string>
-  <string name="reply_button_msg">Respuesta</string>
   <string name="resent_message">Reenviar</string>
   <string name="resize_image_error_information">Esta imagen es demasiado grande para enviar, incluso cuando se redimensiona.</string>
   <string name="resource_price_free">Gratis</string>
@@ -484,7 +477,6 @@
   <string name="select_link_title">Elige Acción</string>
   <string name="select_local_audio">Seleccione audio</string>
   <string name="select_local_video">Seleccionar vídeo</string>
-  <string name="select_message_send_sim">Elegir tarjeta SIM</string>
   <string name="select_recipient">Elija los destinatarios</string>
   <string name="select_top_text">Texto en la parte superior</string>
   <string name="send">Enviar</string>
