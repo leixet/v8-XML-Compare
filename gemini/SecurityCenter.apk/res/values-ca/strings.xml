@@ -632,7 +632,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="lock_screen_warning_category">Notificacions en pantalla de bloqueig</string>
   <string name="lock_screen_warning_switch_summary">Mostra advertència en pantalla de bloqueig quan l\'ús de dades excedeixi d\'una determinada quantitat</string>
   <string name="lock_screen_warning_switch_title">Mostra advertències en pantalla de bloqueig</string>
-  <string name="lock_screen_warning_value">Avís d\'ús de dades</string>
+  <string name="lock_screen_warning_value">Advertiment d\'ús de dades</string>
   <string name="lock_settings_title">Pantalla de bloqueig i contrasenya</string>
   <string name="lockpassword_confirm_your_password_header">Confirmeu la contrasenya</string>
   <string name="lockpassword_confirm_your_pattern_header">Confirmeu el patró</string>
