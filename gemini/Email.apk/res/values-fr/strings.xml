@@ -16,7 +16,6 @@
       à distance certaines fonctionnalités de sécurité de votre appareil Android."</string>
   <string name="account_security_title">Sécurité de l\'appareil</string>
   <string name="account_set_up_change_type_note">Si vous souhaitez permuter entre POP3 et IMAP, vous devez d\'abord supprimer le compte puis le reconfigurer.</string>
-  <string name="account_setting">Compte et Calendrier</string>
   <string name="account_settings_action">Paramètres du compte</string>
   <string name="account_settings_background_attachments_label">Télécharger les pièces jointes</string>
   <string name="account_settings_data_usage">Consommation des données</string>
@@ -82,7 +81,6 @@
   <string name="account_setup_failed_dlg_server_message_fmt">"Connexion impossible au serveur :
 (%s)"</string>
   <string name="account_setup_failed_dlg_title">"Impossible de configurer le compte"</string>
-  <string name="account_setup_failed_dlg_unknown_auth_message">Erreur inconnue.</string>
   <string name="account_setup_failed_ioerror">"Impossible d'établir la connexion avec le serveur."</string>
   <string name="account_setup_failed_protocol_unsupported">"\"         L'adresse de serveur saisie est incorrecte ou le serveur exige 
       une version du protocole non compatible avec E-mail.\""</string>
@@ -96,7 +94,6 @@
   <string name="account_setup_incoming_imap_path_prefix_hint">Facultatif</string>
   <string name="account_setup_incoming_imap_path_prefix_label">Préfixe du chemin IMAP</string>
   <string name="account_setup_incoming_password_label">Mot de passe</string>
-  <string name="account_setup_incoming_port_label">Port de destination :</string>
   <string name="account_setup_incoming_security_label">Type de sécurité</string>
   <string name="account_setup_incoming_security_none_label">Aucune</string>
   <string name="account_setup_incoming_server_label">Serveur</string>
@@ -120,7 +117,6 @@
   <string name="account_setup_options_mail_window_default">Utiliser paramètres défaut</string>
   <string name="account_setup_options_mail_window_label">Synchroniser depuis</string>
   <string name="account_setup_options_title">Paramètres du compte</string>
-  <string name="account_setup_outgoing_port_label">Port de destination :</string>
   <string name="account_setup_outgoing_require_login_label">Exiger une connexion</string>
   <string name="account_setup_outgoing_smtp_server_label">Serveur SMTP</string>
   <string name="account_setup_security_required_title">Administration de la sécurité à distance</string>
@@ -164,7 +160,6 @@
   <string name="attachment_not_exists">Pièce jointe indisponible !</string>
   <string name="attachment_open_SecurityException_hint">Permissions insuffisantes ou fichier endommagé.</string>
   <string name="attachment_open_SecurityException_title">"Échec d'ouverture du fichier"</string>
-  <string name="attachment_stop_all">Annuler</string>
   <string name="attachment_text">Texte</string>
   <string name="attachment_type_blocked">"Malheureusement, vous ne pouvez pas enregistrer ni ouvrir ce type de pièce jointe."</string>
   <string name="attachment_unknown">Fichier %s</string>
@@ -224,7 +219,6 @@
   <string name="contact_edit_set_black_list_from">Déplacer tous les mails de cet expéditeur dans le dossier des indésirables</string>
   <string name="contact_edit_set_black_list_receive">Déplacer le message de ce destinataire dans le dossier des indésirables (uniquement les nouveaux messages)</string>
   <string name="contact_edit_set_black_list_receive_summary">Supprimer les messages incluant ce destinataire, dans les champs A ou Cc</string>
-  <string name="contact_edit_set_black_list_title">Ajouter à la liste noire</string>
   <string name="contact_edit_set_phone_contact">Modifier les contacts du téléphone</string>
   <string name="contact_edit_title_phone_contact">Liste des contacts du téléphone</string>
   <string name="contact_in_filter_call_phone_str">Appel de %s</string>
@@ -269,7 +263,6 @@
   <string name="default_setup">PARAMÈTRES PAR DÉFAUT</string>
   <string name="default_signature">Envoyé de mon Mi</string>
   <string name="delete">Suppr.</string>
-  <string name="delete_message_flow">Supprimer le fil de messages</string>
   <string name="deleted">Supprimé</string>
   <string name="device_activity_btn_str">Retour pour activer</string>
   <string name="device_activity_lint_str">Activer la mise à jour complète du service de messagerie et l\'équipement de sûreté</string>
@@ -308,7 +301,6 @@
   <string name="drawer_close">Fermer le panneau de navigation</string>
   <string name="drawer_open">Ouvrir le panneau de navigation</string>
   <string name="edit_quick_response_dialog">Réponse rapide</string>
-  <string name="email_setting">E-mail</string>
   <string name="empty_account_tip">"Impossible de trouver de compte"</string>
   <string name="empty_email_tip">"Vous pouvez envoyer un e-mail vide"</string>
   <string name="empty_spam">Vider le dossier de spam</string>
@@ -381,9 +373,7 @@
   <string name="hide_elided">▼ Masquer le texte des messages précédents</string>
   <string name="hint_quick_reply_all">Composez un message</string>
   <string name="imap_password_error">Le mot de passe du serveur entrant est incorrect</string>
-  <string name="info_actionbar_normal_detail">Détails</string>
   <string name="info_actionbar_subscribe">Flux d\'infos</string>
-  <string name="info_item_hide">Masquer</string>
   <string name="info_loading">Chargement&#8230;</string>
   <string name="info_no_message">Aucun article à voir</string>
   <string name="info_no_more_message">Plus rien à voir</string>
@@ -421,12 +411,6 @@
   <string name="mailbox_name_display_starred">Messages suivis</string>
   <string name="mailbox_name_display_trash">Corbeille</string>
   <string name="mailbox_name_display_unread">Non lus</string>
-  <string name="mailbox_name_server_all_unread">Non lu</string>
-  <string name="mailbox_name_server_drafts">Brouillons</string>
-  <string name="mailbox_name_server_inbox">Boîte de réception</string>
-  <string name="mailbox_name_server_outbox">Boîte d\'envoi</string>
-  <string name="mailbox_name_server_starred">Favoris</string>
-  <string name="mailbox_name_server_trash">Corbeille</string>
   <string name="mailbox_settings_activity_title">Options de synchronisation</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Options de synchronisation (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Synchroniser depuis</string>
@@ -502,7 +486,6 @@
   <string name="message_saved">Brouillon enregistré.</string>
   <string name="message_view_attachment_background_load">\"Une ou plusieurs pièces jointes au message
       que vous transférez vont être téléchargées avant l\'envoi.\"</string>
-  <string name="mibill_privacy_policy_button1">Plus tard</string>
   <string name="mibill_privacy_policy_button2">J\'accepte</string>
   <string name="mibill_privacy_policy_description">Mi Wallet va gérer automatiquement toutes vos factures. Ce service est désactivé par défaut pour les adresses professionnelles.</string>
   <string name="mibill_privacy_policy_link">En utilisant cette fonctionnalité, vous acceptez <a href="https://www.mipay.com/res/doc/eula/email.html">les conditions d\'utilisation du service de facturation bancaire</a></string>
@@ -617,18 +600,12 @@
   <string name="preference_pop_tips">Les pièces-jointes seront téléchargées avec le contenu du message, comme l\'impose le protocole POP3. Veuillez vérifier la consommation de vos données mobiles.</string>
   <string name="preference_sender_image_description">"Afficher à côté du nom dans la liste des conversations"</string>
   <string name="preference_sender_image_title">Image de l\'expéditeur</string>
-  <string name="preferences_signature_summary_not_set">Non défini</string>
   <string name="preview_attachment">Prévisualiser</string>
   <string name="previous_action">Précédente</string>
   <string name="print">Imprimer</string>
   <string name="prompt_title">Invite</string>
   <string name="pull_to_refresh">Tirer pour actualiser</string>
   <string name="pull_up_to_load_more">Monter pour charger plus</string>
-  <string name="push_wps_better_confirm_exit">Pas maintenant</string>
-  <string name="push_wps_confirm_cancel">Pas maintenant</string>
-  <string name="questionnair_confirm_delete">Supprimer</string>
-  <string name="questionnair_other_reasons">Autre</string>
-  <string name="questionnair_waste_resource">Espace de stockage insuffisant</string>
   <string name="quick_1">Merci !</string>
   <string name="quick_2">Cela me convient.</string>
   <string name="quick_3">"Je lirai cela plus tard, et je vous recontacterai."</string>
@@ -711,7 +688,6 @@
   <string name="sort_attachment">Trier par</string>
   <string name="storage">Stockage</string>
   <string name="str_select_all">Tout sélectionner</string>
-  <string name="str_select_none">Désélectionner</string>
   <string name="subject_and_snippet" formatted="false">%s – %s</string>
   <string name="subject_hint">Objet</string>
   <string name="sync_error">"Synchronisation impossible"</string>
@@ -737,8 +713,6 @@
   <string name="too_large_to_attach_additional">"Le fichier n'a pas été joint. Limite de %1$s atteinte."</string>
   <string name="too_large_to_attach_multiple">"Un ou plusieurs fichiers n'ont pas été joints. La limite est de %1$s."</string>
   <string name="too_large_to_attach_single">"Impossible de joindre un fichier dont la taille dépasse %1$s."</string>
-  <string name="translation_loading">Chargement&#8230;</string>
-  <string name="translation_pronunciation_cn">Alphabet latin</string>
   <string name="trash_folder_selection_title">Sélect. dossier \"Corbeille\" du serveur pour %s.</string>
   <string name="turn_auto_sync_on_dialog_body">"Les modifications que vous apporterez dans l\'ensemble des
       applications et des comptes, pas seulement dans Gmail, seront synchronisées avec le 
@@ -747,7 +721,6 @@
   <string name="turn_auto_sync_on_dialog_title">Activer la synchronisation automatique ?</string>
   <string name="undo">Annuler</string>
   <string name="unread_string">conversation non lue</string>
-  <string name="unselected_lable">Plus d\'options</string>
   <string name="unsent_messages_in_outbox">%1$s message(s) non envoyé(s) dans %2$s</string>
   <string name="unzip_file_failed">"La décompression a échoué ！"</string>
   <string name="updated_at">Dernière màj : %1$s</string>
@@ -757,7 +730,6 @@
   <string name="upload_log_success">"Logs envoyés avec succès, nous reviendrons rapidement vers vous."</string>
   <string name="upload_log_title">Envoyer logs pour améliorer WPS Mail</string>
   <string name="upload_log_yes">Envoyer</string>
-  <string name="upload_logs">Envoyer les logs de diagnostic</string>
   <string name="uploading_logs">Envoi des logs...</string>
   <string name="validation_failed_prompt">"La validation a échoué, veuillez configurer le serveur %s"</string>
   <string name="view_more_conversations">Afficher d\'autres conversations</string>
@@ -765,7 +737,6 @@
   <string name="wait_for_sync_title">En attente de synchronisation</string>
   <string name="widget_all_mail">Tous</string>
   <string name="widget_other_views">Autres</string>
-  <string name="wipe_account_fail_description">Autoriser</string>
   <string name="wrong_password">Mot de passe incorrect !</string>
   <string name="yes">Oui</string>
   <string name="you_are_in_mobile_network">Vous êtes actuellement connecté à un réseau mobile, continuer l\'envoi du fichier (taille : nKo) ?</string>
