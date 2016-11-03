@@ -78,7 +78,6 @@
   <string name="call_other">Chiama</string>
   <string name="call_other_fax">Chiama fax</string>
   <string name="call_pager">Chiama cercapersone</string>
-  <string name="call_problem_report">Correzione</string>
   <string name="call_radio">Chiama radiotelefono</string>
   <string name="call_record_setting_miui">Impostazioni registrazione</string>
   <string name="call_settings">Impostazioni</string>
@@ -185,7 +184,6 @@
   <string name="contact_detail_action_item_nocalllog">Nessuna chiamata</string>
   <string name="contact_detail_calllog_call_note_tips">Note</string>
   <string name="contact_detail_calllog_call_record_tips">Registra chiamata</string>
-  <string name="contact_detail_calllog_empty">La cronologia è vuota</string>
   <string name="contact_detail_menu_delete_miprofile">Elimina scheda</string>
   <string name="contact_detail_miprofile_accept">Scambio schede contatto</string>
   <string name="contact_detail_miprofile_accept_fail_toast">"Impossibile scambiare schede contatti"</string>
@@ -434,7 +432,6 @@ Motivo: \"%s\""</string>
   <string name="fraud_more_indemnity">Altro</string>
   <string name="frequentList">Frequenti</string>
   <string name="full_name">Nome</string>
-  <string name="gallery">Galleria</string>
   <string name="generic_no_account_prompt">Tieni al sicuro i tuoi contatti anche se perdi il telefono: sincronizzali con un servizio online.</string>
   <string name="generic_no_account_prompt_title">Aggiungi un account</string>
   <string name="ghostData_company">Società</string>
@@ -800,7 +797,6 @@ Per aggiungere un contatto alla lista dei Preferiti:
   <string name="payphone">Telefonata a pagamento</string>
   <string name="people">Contatti</string>
   <string name="phoneLabelsGroup">Telefono</string>
-  <string name="phone_call_type_livetalk">Ricarica pacchetto</string>
   <string name="phone_call_type_voip">VoIP</string>
   <string name="phone_number_too_long_toast">Numero troppo lungo</string>
   <string name="phone_primary">Primario</string>
@@ -1142,7 +1138,6 @@ Scegli una delle seguenti opzioni:"</string>
   <string name="wipe_data">Azzera dati</string>
   <string name="yellowPageNavigationIconLabel">Directory</string>
   <string name="yellowPageNavigationLabel">Directory</string>
-  <string name="yellowpage_navigation_ad_hint">Scelte dagli editori</string>
   <string name="yellowpage_navigation_clear_search_history">Cancella cronologia</string>
   <string name="yellowpage_navigation_more_items">Altro</string>
   <string name="yellowpage_navigation_more_items_title">Altri servizi</string>
