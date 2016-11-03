@@ -74,7 +74,6 @@
   <string name="close_callwait">Disattiva</string>
   <string name="customizer_mode_user_define_name">Personalizza</string>
   <string name="dlg_add_blacklist">Aggiungere numero alla blacklist?</string>
-  <string name="dlg_add_blacklist_title">Aggiungi alla blacklist</string>
   <string name="dlg_add_blacklist_warn_conflict_content">%1$s ed altri %2$s contatti sono già tra le tue eccezioni.</string>
   <string name="dlg_add_blacklist_warn_conflict_title">Attenzione</string>
   <string name="dlg_add_keyword">Aggiungi parole chiave</string>
@@ -144,7 +143,6 @@
   <string name="mark_harass_block_large">Disturbi</string>
   <string name="mark_harass_time_setting">Blocca i numeri segnalati come indesiderati più di un certo numero di volte</string>
   <string name="mark_number_agent">Venditore</string>
-  <string name="mark_number_courier">Corriere</string>
   <string name="mark_number_fraud">Truffa</string>
   <string name="mark_number_harass">Indesiderato</string>
   <string name="mark_number_info">"Ricorda che a volte queste chiamate potrebbero essere utili (ad esempio se stai realmente cercando qualcosa da acquistare). Blocca soltanto i numeri da cui non vuoi mai ricevere chiamate."</string>
