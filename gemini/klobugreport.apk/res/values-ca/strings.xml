@@ -18,8 +18,10 @@
 Gràcies per la vostra ajuda"</string>
   <string name="noti_body">genera un registre d\'error</string>
   <string name="noti_btn_text">Pujar</string>
+  <string name="noti_title">S\'ha creat un informe d\'errors</string>
   <string name="notification_update_new_version">Actualització disponible</string>
   <string name="notification_update_now">Actualitza ara</string>
   <string name="passport_xiaomi_account_dspt">Utilitzeu el Compte Mi per iniciar sessió al Mi Cloud, a la botiga de temes MIUI i als serveis Mi, des d\'arreu.</string>
+  <string name="title">Eina de recopilació d\'informes d\'errors</string>
   <string name="to_turn_on_wifi">Activeu la Wi-Fi</string>
 </resources>
