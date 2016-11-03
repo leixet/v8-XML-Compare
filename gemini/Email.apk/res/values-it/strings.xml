@@ -5,7 +5,6 @@
   <string name="SMTP_username_text">Nome utente</string>
   <string name="account_duplicate_dlg_title">Account duplicato</string>
   <string name="account_name_toast">Nome già esistente, rinominare</string>
-  <string name="account_options_sync_title">Attiva</string>
   <string name="account_password_spaces_error">Questa password inizia o termina con uno o più spazi. Molti server non supportano le password contenenti spazi.</string>
   <string name="account_security_dialog_content_fmt">%s richiede l\'aggiornamento delle impostazioni di sicurezza.</string>
   <string name="account_security_dialog_title">Aggiornamento sicurezza</string>
@@ -241,7 +240,6 @@
   <string name="contextmenu_copylink">Copia URL link</string>
   <string name="contextmenu_create">Crea un nuovo contatto</string>
   <string name="contextmenu_dial_dot">Componi&#8230;</string>
-  <string name="contextmenu_edit">Modifica contatto</string>
   <string name="contextmenu_feedback">Invia feedback</string>
   <string name="contextmenu_help">Guida</string>
   <string name="contextmenu_map">Mappa</string>
@@ -305,7 +303,6 @@
   <string name="download_message_failed_for_too_large">Messaggio troppo grande per essere scaricato.</string>
   <string name="download_whole_email">Scarica il resto dei contenuti</string>
   <string name="drawer_close">Chiudi pannello di navigazione</string>
-  <string name="drawer_contacts">Contatti</string>
   <string name="drawer_open">Apri pannello di navigazione</string>
   <string name="edit_quick_response_dialog">Risposta veloce</string>
   <string name="email_setting">Email Setting</string>
@@ -375,7 +372,6 @@
   <string name="gmail_login_failed_non_proxy_title">"Impossibile accedere ai server Gmail"</string>
   <string name="gmail_server_authorization_deleted">"Autenticazione account non riuscita. Prova ad aggiungere di nuovo questo account."</string>
   <string name="header_category_account">Account</string>
-  <string name="header_category_other">Segnalazione bug</string>
   <string name="header_label_general_preferences">Generali</string>
   <string name="help_and_info">Guida</string>
   <string name="hide_atts_remaining">Nascondi %1$d allegati</string>
@@ -420,13 +416,6 @@
   <string name="mailbox_name_display_starred">Speciali</string>
   <string name="mailbox_name_display_trash">Cestino</string>
   <string name="mailbox_name_display_unread">Da leggere</string>
-  <string name="mailbox_name_server_all_unread">Non letta</string>
-  <string name="mailbox_name_server_drafts">Bozze</string>
-  <string name="mailbox_name_server_inbox">Lista conversazioni</string>
-  <string name="mailbox_name_server_outbox">In uscita</string>
-  <string name="mailbox_name_server_sent">Inviato</string>
-  <string name="mailbox_name_server_starred">Speciali</string>
-  <string name="mailbox_name_server_trash">Cestino</string>
   <string name="mailbox_settings_activity_title">Opzioni di sincronizzazione</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Opzioni di sincronizzazione (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Giorni da sincronizzare</string>
@@ -479,7 +468,6 @@
   <string name="message_invite_title">Invito calendario</string>
   <string name="message_saved">Messaggio salvato come bozza.</string>
   <string name="message_view_attachment_background_load">Prima dell\'invio verranno scaricati uno o più allegati del messaggio inoltrato.</string>
-  <string name="mibill_privacy_policy_button1">Più tardi</string>
   <string name="mibill_privacy_policy_button2">OK</string>
   <string name="mibill_privacy_policy_description">Mi Wallet analizzerà il contenuto delle tue email e recupererà tutti i documenti relativi alle carte di credito. Questo servizio è disattivato di default per gli account aziendali.</string>
   <string name="mibill_privacy_policy_link">Accetto l\'<a href="https://www.mipay.com/res/doc/eula/email.html">Accordo Utente del Servizio Carte di Credito</a></string>
@@ -601,12 +589,10 @@
   <string name="preference_sender_image_description">"Mostra a fianco al nome nella lista"</string>
   <string name="preference_sender_image_title">Immagine mittente</string>
   <string name="preferences_signature_dialog_title">Firma</string>
-  <string name="preferences_signature_summary_not_set">Non impostato</string>
   <string name="preferences_signature_title">Firma</string>
   <string name="preview_attachment">Anteprima</string>
   <string name="previous_action">Indietro</string>
   <string name="print">Stampa</string>
-  <string name="prompt_title">Chiedi</string>
   <string name="pull_to_refresh">Trascina per aggiornare</string>
   <string name="pull_up_to_load_more">Trascina in alto per caricare altre</string>
   <string name="push_wps_better_confirm_download">Scarica</string>
@@ -700,7 +686,6 @@
   <string name="selected_lable">Selezionato</string>
   <string name="send">Invia</string>
   <string name="send_failed">"Il messaggio non è stato inviato."</string>
-  <string name="send_feed_back">Invia feedback</string>
   <string name="sender_whitelist_cleared">"Le immagini non verranno mostrate automaticamente."</string>
   <string name="sending">Invio&#8230;</string>
   <string name="sending_message">Invio messaggio&#8230;</string>
@@ -724,7 +709,6 @@
   <string name="sort_attachment">Ordina per</string>
   <string name="storage">Memoria</string>
   <string name="str_select_all">Seleziona tutto</string>
-  <string name="str_select_none">Deseleziona</string>
   <string name="subject_hint">Oggetto</string>
   <string name="sync_error">"Impossibile sincronizzare"</string>
   <string name="sync_error_message">"Spazio insufficiente per la sincronizzazione"</string>
@@ -748,14 +732,12 @@
   <string name="too_large_to_attach_additional">"File non allegato. Limite di %1$s raggiunto."</string>
   <string name="too_large_to_attach_multiple">"Uno o più file non allegati. Limite di %1$s."</string>
   <string name="too_large_to_attach_single">"Impossibile allegare un file superiore a %1$s."</string>
-  <string name="translation_loading">Caricamento&#8230;</string>
   <string name="trash_folder_selection_title">Selez. cartella Cestino server per %s</string>
   <string name="turn_auto_sync_on_dialog_body">Tutte le modifiche apportate ad applicazioni ed account, non solo Gmail, verranno sincronizzate tra web, i tuoi altri dispositivi ed il tuo %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Attiva</string>
   <string name="turn_auto_sync_on_dialog_title">Attivare sincron. automatica?</string>
   <string name="undo">Annulla</string>
   <string name="unread_string">Conversazione non letta</string>
-  <string name="unselected_lable">Altro</string>
   <string name="unsent_messages_in_outbox">%1$s non inviati in %2$s</string>
   <string name="unzip_file_failed">"Impossibile decomprimere il file"</string>
   <string name="update_date_format_templete">HH:mm aa, dd MMMM</string>
