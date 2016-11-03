@@ -80,5 +80,7 @@
   <string name="theft_protection_disabled_warning">Si continueu, no s\'habilitaran les funcions contra robatori. Per activar la protecció contra robatori, cancel·leu ara i instal·leu això com un dispositiu personal.</string>
   <string name="user_is_not_owner">Els perfils professionals han de ser establerts per l\'usuari principal del dispositiu</string>
   <string name="work_profile_setup_continue">CONTINUA</string>
+  <string name="work_profile_setup_later_message">Podreu configurar el perfil professional posterior aplicació de gestió utilitzat per la seva empresa.</string>
+  <string name="work_profile_setup_later_title">Voleu aturar la configuració del perfil?</string>
   <string name="work_profile_setup_stop">ATURA</string>
 </resources>
