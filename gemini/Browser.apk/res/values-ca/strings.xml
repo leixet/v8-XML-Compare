@@ -143,8 +143,8 @@
   <string name="cloud_sync_closed_toast">"No es pot actualitzar perquè la sincronització està desactivada"</string>
   <string name="cloud_sync_failed_toast">"No s'ha pogut actualitzar"</string>
   <string name="cloud_tab">Pestanyes en el núvol</string>
-  <string name="cloud_time_tips">Ultima sincronització</string>
-  <string name="cloud_up_to_loading_tips">Preparat per sincronitzar</string>
+  <string name="cloud_time_tips">Darrera sincronització</string>
+  <string name="cloud_up_to_loading_tips">Deixeu anar per sincronitzar</string>
   <string name="color_picker_button_black">Negre</string>
   <string name="color_picker_button_blue">Blau</string>
   <string name="color_picker_button_cancel">Cancel·la</string>
@@ -153,10 +153,10 @@
   <string name="color_picker_button_magenta">Magenta</string>
   <string name="color_picker_button_more">Més</string>
   <string name="color_picker_button_red">Vermell</string>
-  <string name="color_picker_button_set">Fixar</string>
+  <string name="color_picker_button_set">Estableix</string>
   <string name="color_picker_button_white">Blanc</string>
   <string name="color_picker_button_yellow">Groc</string>
-  <string name="color_picker_dialog_title">Seleccionar el color</string>
+  <string name="color_picker_dialog_title">Seleccioneu el color</string>
   <string name="color_picker_hue">Tonalitat</string>
   <string name="color_picker_saturation">Saturació</string>
   <string name="comment_app_menu">Comentari</string>
