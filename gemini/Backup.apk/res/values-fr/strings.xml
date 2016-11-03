@@ -253,7 +253,6 @@ Allez dans Paramètres &gt; Paramètres additionnels &gt; Transfert
   <string name="trans_operate_old_phone_tips2">"\"Méthode B
 Allez dans Paramètres &gt; Paramètres additionnels &gt; Transfert
  Sélectionnez [Je suis un expéditeur]\""</string>
-  <string name="trans_please_waiting">Veuillez patienter&#8230;</string>
   <string name="trans_progress_subdescript_br_receiver">Réception de %s</string>
   <string name="trans_progress_subdescript_br_sender">Sauvegarde de %s</string>
   <string name="trans_progress_subdescript_transing_receiver">Réception de %s</string>
@@ -265,7 +264,6 @@ Allez dans Paramètres &gt; Paramètres additionnels &gt; Transfert
   <string name="trans_receiving_completed">Données reçues</string>
   <string name="trans_restoring">Restauration&#8230;</string>
   <string name="trans_restoring_no_items">Synchronisation des éléments</string>
-  <string name="trans_retry">Réessayer</string>
   <string name="trans_scan_invalid_qrcode">Code QR invalide</string>
   <string name="trans_scan_qr_code_tips">Scannez le code QR avec votre nouvel appareil</string>
   <string name="trans_select_device_receive">Sélectionnez un appareil pour la réception des données.</string>
