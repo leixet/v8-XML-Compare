@@ -45,8 +45,4 @@
     <item quantity="other">Pendant %d heures</item>
     <item quantity="one">Pendant une heure</item>
   </plurals>
-  <plurals name="selected_count">
-    <item quantity="other">%1$d éléments sélectionnés</item>
-    <item quantity="one">%1$d élément sélectionné</item>
-  </plurals>
 </resources>
