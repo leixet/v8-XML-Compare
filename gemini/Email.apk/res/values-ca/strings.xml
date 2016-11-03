@@ -81,6 +81,7 @@
   <string name="account_setup_exchange_no_certificate">Cap</string>
   <string name="account_setup_failed_certificate_inaccessible">El certificat és vàlid o inaccessible.</string>
   <string name="account_setup_failed_certificate_required">Es requereix un certificat de client. Vols connectar amb el servidor amb un certificat de client?</string>
+  <string name="account_setup_failed_check_credentials_message">El servidor ha contestat amb un error. Comprova el nom d\'usuari i la contrasenya i torna-ho a provar.</string>
   <string name="account_setup_failed_dlg_auth_message">Nom d\'usuari o contrasenya són incorrectes.</string>
   <string name="account_setup_failed_dlg_certificate_message">"No es pot connectar segurament amb el servidor."</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"No es pot connectar segurament amb el servidor.
@@ -147,6 +148,7 @@
   <string name="actionbar_large_unread_count">%1$d no llegit</string>
   <string name="activity_folder_selection">Trieu carpeta</string>
   <string name="activity_mailbox_selection">Trieu compte</string>
+  <string name="ad_merge">Publicitat i notificacions</string>
   <string name="add_account">Afegeix un compte</string>
   <string name="add_attachment">Afegeix adjunt</string>
   <string name="add_calendar">Recordatori</string>
@@ -173,6 +175,7 @@
   <string name="att_mgr_title_order_sender">Remitent</string>
   <string name="att_mgr_title_order_size">Mida del fitxer</string>
   <string name="attached_message">Missatge adjunt</string>
+  <string name="attachment_application_msword">Document</string>
   <string name="attachment_application_pdf">PDF</string>
   <string name="attachment_application_vnd_ms_excel">Full de càlcul</string>
   <string name="attachment_application_vnd_ms_powerpoint">Presentació</string>
@@ -283,6 +286,7 @@
   <string name="conversation_item_mark_read">Llegit</string>
   <string name="conversation_item_mark_unread">No llegit</string>
   <string name="conversation_photo_welcome_text">Toqui una imatge del remitent per a seleccionar aquesta conversa.</string>
+  <string name="conversation_view">Vista de conversa</string>
   <string name="copied">Copiat</string>
   <string name="copy_email">Copiar l\'adreça de correu electrònic</string>
   <string name="copy_number">Copiar el número telefònic</string>
@@ -431,6 +435,7 @@
   <string name="hide_atts_remaining">Amaga %1$d adjunts</string>
   <string name="hide_elided">▼ Amaga el text citat</string>
   <string name="hint_quick_reply_all">Respondre a tots</string>
+  <string name="imap_name">IMAP</string>
   <string name="imap_password_error">Contrasenya del servidor de correu entrant és incorrecta</string>
   <string name="info_actionbar_normal_detail">Detalls</string>
   <string name="info_actionbar_subscribe">Servei de notícies</string>
@@ -673,6 +678,7 @@
   <string name="policy_require_smime">Requerir missatges SMIME</string>
   <string name="policy_screen_timeout">Bloquejar la pantalla del dispositiu quan estigui inactiu</string>
   <string name="policy_text_truncation">Restringeix la mida del text email</string>
+  <string name="pop3_name">POP3</string>
   <string name="preference_eas_tips">La següent pàgina d\'activació és requerida pel servidor de correus, si us plau, permeti que s\'activi.</string>
   <string name="preference_pop_tips">Els adjunts es descarregaran amb el contingut del correu ja que el protocol POP3 ho requereix obligatòriament. Si us plau, vagi amb compte si fa servir les dades mòbils.</string>
   <string name="preference_sender_image_description">"Mostrar al costat del nom a la llista de conversa"</string>
@@ -682,6 +688,7 @@
   <string name="preferences_signature_title">Signatura</string>
   <string name="preview_attachment">Vista prèvia</string>
   <string name="previous_action">Enrere</string>
+  <string name="print">Imprimeix</string>
   <string name="prompt_title">Punter</string>
   <string name="protocol_imap">imap</string>
   <string name="protocol_legacy_imap">imap</string>
