@@ -433,6 +433,7 @@
   <string name="general_preference_confirm_delete_label">Confirmar abans d\'eliminar</string>
   <string name="general_preference_confirm_send_label">Confirmar abans d\'enviar </string>
   <string name="general_preference_str_auto_translation">Traducció ràpida</string>
+  <string name="general_preference_str_auto_translation_prompt">Copieu el contingut corresponent per veure\'n el resultat de la traducció</string>
   <string name="general_preference_text_zoom_dialog_title">Mida de text del missatge</string>
   <string name="general_preference_text_zoom_huge">Enorme</string>
   <string name="general_preference_text_zoom_label">Mida de text del missatge</string>
@@ -454,6 +455,9 @@
   <string name="help_and_info">Ajuda</string>
   <string name="hide_atts_remaining">Amaga %1$d adjunts</string>
   <string name="hide_elided">▼ Amaga el text citat</string>
+  <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
+  <string name="hierarchical_folder_parent_top_ellip">%1$s∕&#8230;∕%2$s∕</string>
+  <string name="hierarchical_folder_top">%1$s∕</string>
   <string name="hint_quick_reply_all">Respondre a tots</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_password_error">Contrasenya del servidor de correu entrant és incorrecta</string>
@@ -650,6 +654,7 @@
   <string name="outbox_no_mails">No hi ha missatges a la bústia de sortida</string>
   <string name="parase_setup_data">Obtenint dades&#8230;</string>
   <string name="password_expire_warning_content_title">Contrasenya de pantalla de bloqueig expirada</string>
+  <string name="password_expire_warning_dialog_content_fmt">Heu de canviar el PIN o contrasenya de la pantalla de bloqueig aviat, o les dades de %s s\'eliminaran. Voleu canviar-ho ara?</string>
   <string name="password_expire_warning_dialog_title">Contrasenya de pantalla de bloqueig expirada</string>
   <string name="password_expire_warning_ticker_fmt">"\"%s\" requereix que canviïs el teu PIN de pantalla de 
             bloqueig o contrasenya."</string>
