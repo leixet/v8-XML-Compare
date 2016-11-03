@@ -34,7 +34,6 @@
   <string name="adding_recipients">Aggiungo destinatari&#8230;</string>
   <string name="adding_to_album">Inserimento foto&#8230;</string>
   <string name="adjust">Regola</string>
-  <string name="adjust_auto">Automatico</string>
   <string name="adjust_blur">Sfocato</string>
   <string name="adjust_brightness">Luminosità</string>
   <string name="adjust_contrast">Contrasto</string>
@@ -125,7 +124,6 @@
   <string name="browse_category_title">Sfoglia</string>
   <string name="buy_member_tip">diventa un membro.</string>
   <string name="by_others">Altro</string>
-  <string name="by_sms">Messaggi</string>
   <string name="camera_needs_auto_backup_tip">Backup album fotocamera eseguito</string>
   <string name="cancel">Annulla</string>
   <string name="cancel_baby_lock_wallpaper_confirm_msg">Annullare lo sfondo del bambino e ripristinare lo sfondo predefinito del Blocco schermo?</string>
@@ -147,7 +145,6 @@
   <string name="cloud_guide_login_title">Esegui automaticamente il backup di foto e video</string>
   <string name="cloud_guide_slim_text">Esegui il backup automaticamente. Risparmia più del 90% di spazio con la Compressione.</string>
   <string name="cloud_guide_slim_title">Attiva la Compressione album per risparmiare %1$s</string>
-  <string name="cloud_guide_welcome_title">Online</string>
   <string name="cloud_screenshots_display_name">Screenshot</string>
   <string name="cloud_space_full_button_text">Ottieni ulteriore spazio su Mi Cloud</string>
   <string name="cloudfolder_cannot_start_with">"Il nome della cartella non può iniziare con '%s'"</string>
@@ -155,7 +152,6 @@
   <string name="cloudfolder_name_cannot_empty">Inserisci un nome per la cartella.</string>
   <string name="cloudfolder_name_reserved">Il nome della cartella è riservato.</string>
   <string name="collaps_people">Chiudi altre persone</string>
-  <string name="com.tencent.mm.ui.tools.ShareImgUI">Wechat</string>
   <string name="confirm_download_video_message">Il video richiede il download. Il download riprenderà quando sarà disponibile una connessione Wi-Fi.</string>
   <string name="confirm_download_video_title">Scarica video</string>
   <string name="confirm_face">Corrispondenza</string>
@@ -213,10 +209,7 @@
   <string name="detail_title">Dettagli</string>
   <string name="do_not_remind_me">"Non mostrare più"</string>
   <string name="doodle">Pennello</string>
-  <string name="doodle_middle_size">Medio</string>
   <string name="doodle_mosaic">Mosaico</string>
-  <string name="doodle_small_size">Piccolo</string>
-  <string name="doodle_super_big_size">Molto grande</string>
   <string name="download_canceled">Download annullato</string>
   <string name="download_retry_message">"Impossibile scaricare i file, verifica la connessione di rete e riprova"</string>
   <string name="download_retry_text">Prova di nuovo</string>
@@ -226,7 +219,6 @@
   <string name="download_without_wifi_title">Avviso utilizzo dati</string>
   <string name="edit_baby_info">Mostra informazioni bambino</string>
   <string name="email_picker_title">Aggiungi email</string>
-  <string name="enable_auto_upload_title">Ultima sincronizzazione: %s giorni fa</string>
   <string name="enable_cloud_for_sharing">Abilita l\'album per vedere le immagini condivise.</string>
   <string name="enable_face_album_summary">Ordina automaticamente le foto in base alle persone ritratte</string>
   <string name="enable_face_album_title">Ordina per contatti</string>
@@ -395,7 +387,6 @@
   <string name="operation_do_delete_local_thumnail">Elimina dal dispositivo</string>
   <string name="operation_download">Scarica foto (%s)</string>
   <string name="operation_edit">Modifica</string>
-  <string name="operation_enable_auto_upload">Ultima sincronizzazione: %s giorni fa</string>
   <string name="operation_enter_delete_local">Elimina foto e video di backup dal dispositivo</string>
   <string name="operation_failed">"Operazione fallita"</string>
   <string name="operation_force_top">Fissa</string>
@@ -429,7 +420,6 @@
   <string name="pet_album_display_name">Foto di animali</string>
   <string name="photo">Immagine</string>
   <string name="photo_edit_file_not_exits_tip">Scarica la foto prima della modifica</string>
-  <string name="photo_editor_label">Modifica</string>
   <string name="photo_editor_saving">Salvataggio</string>
   <string name="photo_page_save_uri_image_fail">"Impossibile salvare la foto."</string>
   <string name="photo_page_save_uri_image_ok">La foto è stata salvata nella cartella Fotocamera.</string>
@@ -498,8 +488,6 @@
   <string name="scan_barcode_to_join">Scansiona il Codice QR per entrare in un album</string>
   <string name="scan_qr_code_buttom_text">Scansiona il Codice QR per vedere questo album.</string>
   <string name="secret_album_display_name">Album privato</string>
-  <string name="secret_album_password_update_dialog_cancel">Annulla</string>
-  <string name="secret_album_set_pc_password_dialog_title">Imposta password</string>
   <string name="secret_reason_space_full">Album cloud pieno</string>
   <string name="secret_reason_too_large">File troppo grande</string>
   <string name="secret_reason_type_not_support">"Tipo di file non supportato"</string>
@@ -510,7 +498,6 @@
   <string name="send_public_url">Invia link album</string>
   <string name="send_too_many_files_error">Impossibile inviare tutti gli elementi (massimo %d elementi).</string>
   <string name="set_as_baby_lock_wallpaper">Imposta come sfondo Blocco schermo</string>
-  <string name="set_as_wallpaper_title">Imposta come sfondo</string>
   <string name="set_face_group_toast_msg_new_user">Tieni premuto sul volto di copertina, i volti possono essere .</string>
   <string name="set_face_group_toast_msg_old_user">"Tieni premuto sul volto di copertina, i volti possono essere suddivisi in famiglia, amici, compagni di classe, etc."</string>
   <string name="set_face_group_toast_title_new_user">Suggerimenti</string>
