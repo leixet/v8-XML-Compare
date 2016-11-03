@@ -116,8 +116,6 @@ Battery saver turns off automatically when your device is charging."</string>
   <string name="capability_title_canRequestFilterKeyEvents">Osservare il testo digitato</string>
   <string name="capability_title_canRequestTouchExploration">Attivare Esplora al tocco</string>
   <string name="capability_title_canRetrieveWindowContent">Recuperare contenuti finestra</string>
-  <string name="capital_off">DISATIVATO</string>
-  <string name="capital_on">ATTIVATO</string>
   <string name="car_mode_disable_notification_message">Seleziona per uscire dalla modalità automobile.</string>
   <string name="car_mode_disable_notification_title">Modalità automobile attivata</string>
   <string name="cfTemplateForwardedTime">{0}{1} dopo {2} secondi</string>
@@ -166,7 +164,6 @@ utilizzando %s"</string>
   <string name="date_picker_increment_day_button">Aumenta giorno</string>
   <string name="date_picker_increment_month_button">Aumenta mese</string>
   <string name="date_picker_increment_year_button">Aumenta anno</string>
-  <string name="date_picker_next_month_button">Mese prossimo</string>
   <string name="date_time">E, dd MMMM</string>
   <string name="date_time_done">OK</string>
   <string name="date_time_set">Imposta</string>
@@ -230,16 +227,10 @@ utilizzando %s"</string>
   <string name="expires_on">Scade il:</string>
   <string name="ext_media_badremoval_notification_message">Smonta scheda SD prima della rimozione per evitare la perdita di dati.</string>
   <string name="ext_media_badremoval_notification_title">Rimozione imprevista della scheda SD</string>
-  <string name="ext_media_browse_action">Esplora</string>
   <string name="ext_media_checking_notification_message">Ricerca errori.</string>
   <string name="ext_media_checking_notification_title">Preparazione scheda SD</string>
-  <string name="ext_media_init_action">Configurazione</string>
   <string name="ext_media_nomedia_notification_message">Scheda SD rimossa. Inseriscine un\'altra.</string>
   <string name="ext_media_nomedia_notification_title">Scheda SD rimossa</string>
-  <string name="ext_media_status_checking">Verifica</string>
-  <string name="ext_media_status_mounted">Pronto</string>
-  <string name="ext_media_status_unmountable">Corrotta</string>
-  <string name="ext_media_unmount_action">Espelli</string>
   <string name="ext_media_unmountable_notification_message">Scheda SD danneggiata. Prova a riformattarla.</string>
   <string name="ext_media_unmountable_notification_title">Scheda SD danneggiata</string>
   <string name="faceunlock_multiple_failures">Raggiunto numero massimo di tentativi Sblocco con Sorriso</string>
@@ -254,7 +245,6 @@ utilizzando %s"</string>
   <string name="find_on_page">Trova nella pagina</string>
   <string name="find_previous">Precedente</string>
   <string name="fingerprints">Fingerprint:</string>
-  <string name="floating_toolbar_open_overflow_description">Altre opzioni</string>
   <string name="forward_intent_to_owner">"Stai utilizzando l'app al di fuori del tuo profilo di lavoro"</string>
   <string name="forward_intent_to_work">"Stai utilizzando l'app nel tuo profilo di lavoro"</string>
   <string name="gadget_host_error_inflating">"Errore durante l'ampliamento del widget"</string>
@@ -319,7 +309,6 @@ utilizzando %s"</string>
   <string name="ime_action_previous">Prec.</string>
   <string name="ime_action_search">Cerca</string>
   <string name="ime_action_send">Invia</string>
-  <string name="immersive_cling_positive">Ho capito</string>
   <string name="inputMethod">Metodo inserimento</string>
   <string name="input_method_binding_label">Metodo inserimento</string>
   <string name="invalidPin">Il PIN deve essere di 4-8 numeri.</string>
@@ -435,7 +424,6 @@ To unpin, touch and hold Overview."</string>
   <string name="lock_to_app_unlock_password">Richiedi password prima di sbloccare</string>
   <string name="lock_to_app_unlock_pattern">Richiedi sequenza di sblocco prima di sbloccare</string>
   <string name="lock_to_app_unlock_pin">Richiedi il PIN prima di sbloccare</string>
-  <string name="lockscreen_access_pattern_area">Area sequenza.</string>
   <string name="lockscreen_access_pattern_cell_added">Cella aggiunta</string>
   <string name="lockscreen_access_pattern_cleared">Sequenza cancellata</string>
   <string name="lockscreen_access_pattern_detected">Sequenza completata</string>
@@ -552,7 +540,6 @@ Riprova tra %d secondi."</string>
   <string name="noon">mezzogiorno</string>
   <string name="notification_listener_binding_label">Rilevamento noifiche</string>
   <string name="notification_title">Errore di accesso per %1$s</string>
-  <string name="notification_work_profile_content_description">Profilo di lavoro</string>
   <string name="number_picker_decrement_button">Diminuisci</string>
   <string name="number_picker_increment_button">Aumenta</string>
   <string name="number_picker_increment_scroll_action">Scorri verso l\'alto per aumentare il valore e verso il basso per diminuirlo.</string>
@@ -676,7 +663,6 @@ Riprova tra %d secondi."</string>
   <string name="permgrouplab_microphone">Microfono</string>
   <string name="permgrouplab_phone">Telefono</string>
   <string name="permgrouplab_sensors">Sensori</string>
-  <string name="permgrouplab_sms">Messaggi</string>
   <string name="permgrouplab_storage">Archiviazione</string>
   <string name="permission">Permessi</string>
   <string name="permission_request_notification_title">Autorizzazione richiesta</string>
@@ -828,7 +814,6 @@ per l\'account %s"</string>
   <string name="reboot_safemode_confirm">Vuoi riavviare in safe mode? Questo disabiliterà tutte le applicazioni di terze parti installate. Verranno abilitate di nuovo al riavvio successivo.</string>
   <string name="reboot_safemode_title">Riavvia in safe mode</string>
   <string name="reboot_title">Riavvio</string>
-  <string name="reboot_to_reset_title">Ripristino dati di fabbrica</string>
   <string name="recent_tasks_title">Recenti</string>
   <string name="relationTypeAssistant">Assistente</string>
   <string name="relationTypeBrother">Fratello</string>
@@ -915,7 +900,6 @@ Utilizzare un volume molto alto per lunghi periodi può danneggiare l\'udito."</
   <string name="serviceClassDataSync">Sinc</string>
   <string name="serviceClassFAX">Fax</string>
   <string name="serviceClassPacket">Pacchetto</string>
-  <string name="serviceClassSMS">Messaggi</string>
   <string name="serviceClassVoice">Voce</string>
   <string name="serviceDisabled">Il servizio è stato disattivato.</string>
   <string name="serviceEnabled">Il servizio è stato attivato.</string>
@@ -1000,7 +984,6 @@ Utilizzare un volume molto alto per lunghi periodi può danneggiare l\'udito."</
   <string name="time_picker_increment_hour_button">Aumenta ora</string>
   <string name="time_picker_increment_minute_button">Aumenta minuto</string>
   <string name="time_picker_increment_set_pm_button">Imposta PM</string>
-  <string name="toolbar_collapse_description">Chiudi</string>
   <string name="turn_off_radio">Disattiva wireless</string>
   <string name="turn_on_radio">Attiva wireless</string>
   <string name="tutorial_double_tap_to_zoom_message_short">Tocca due volte per il comando dello zoom</string>
@@ -1035,7 +1018,6 @@ Utilizzare un volume molto alto per lunghi periodi può danneggiare l\'udito."</
   <string name="volume_bluetooth_call">Volume chiamate Bluetooth</string>
   <string name="volume_call">Volume chiamate</string>
   <string name="volume_icon_description_incall">Chiamate</string>
-  <string name="volume_icon_description_media">MEDIA</string>
   <string name="volume_icon_description_notification">Notifiche</string>
   <string name="volume_icon_description_ringer">Suoneria</string>
   <string name="volume_music">Volume app. multimediali</string>
@@ -1059,9 +1041,6 @@ Vuoi chiuderla?"</string>
   <string name="websearch">Ricerca Web</string>
   <string name="week">settimana</string>
   <string name="weeks">settimane</string>
-  <string name="wfc_mode_cellular_preferred_summary">Rete mobile preferita</string>
-  <string name="wfc_mode_wifi_only_summary">Solo Wi-Fi</string>
-  <string name="wfc_mode_wifi_preferred_summary">Wi-Fi preferita</string>
   <string name="whichApplication">Completa l\'azione con</string>
   <string name="whichApplicationNamed">Completa l\'azione con %1$s</string>
   <string name="whichEditApplication">Modifica con</string>
@@ -1073,7 +1052,6 @@ Vuoi chiuderla?"</string>
   <string name="whichViewApplication">Apri con</string>
   <string name="whichViewApplicationNamed">Apri con %1$s</string>
   <string name="wifi_available_sign_in">Accedi a rete Wi-Fi</string>
-  <string name="wifi_calling_off_summary">Disattiva</string>
   <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
   <string name="wifi_p2p_enabled_notification_message">Tocca per le impostazioni</string>
   <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct è attivo</string>
@@ -1092,7 +1070,5 @@ Vuoi chiuderla?"</string>
   <string name="write_fail_reason_cannot_write">Errore nella scrittura dei contenuti</string>
   <string name="year">anno</string>
   <string name="years">anni</string>
-  <string name="zen_mode_default_events_name">Evento</string>
-  <string name="zen_mode_feature_name">Non disturbare</string>
   <string name="zen_mode_forever">Indefinitely</string>
 </resources>
