@@ -16,7 +16,6 @@
   <string name="camera_disabled">L\'appareil photo a été désactivé en raison des règles de sécurité.</string>
   <string name="camera_error_title">Erreur de l\'appareil photo.</string>
   <string name="camera_label">Appareil photo</string>
-  <string name="camera_setting">Appareil photo</string>
   <string name="camera_settings_label">Appareil photo</string>
   <string name="camera_snap_mode_title">Mode de prise rapide</string>
   <string name="camera_snap_mode_title_detail">Touchez pour afficher les détails</string>
@@ -47,7 +46,6 @@
   <string name="face_beauty_age_alias_male_45_60">Homme 45-60</string>
   <string name="face_beauty_age_alias_male_60_m">Homme 60+</string>
   <string name="face_beauty_age_alias_male_8_17">Homme 8-17</string>
-  <string name="face_beauty_close">Désactivé</string>
   <string name="face_beauty_intelligent_level_0">Non</string>
   <string name="face_beauty_intelligent_level_1">Bas</string>
   <string name="face_beauty_intelligent_level_2">Moyen</string>
@@ -61,7 +59,6 @@
   <string name="pano_how_to_use_prompt_to_move">Déplacez l\'appareil horizontalement et en douceur</string>
   <string name="pref_advance_settings">Paramètres avancés</string>
   <string name="pref_audio_focus_entry_front">Avant</string>
-  <string name="pref_audio_focus_entry_general">Standard</string>
   <string name="pref_audio_focus_entry_rear">Arrière</string>
   <string name="pref_audio_focus_title">Focus audio</string>
   <string name="pref_burst_shoot_title">Rafale</string>
@@ -79,10 +76,6 @@
   <string name="pref_camera_autoexposure_entry_frameaverage">Trame moyenne</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Mesure de spot</string>
   <string name="pref_camera_autoexposure_title">Mode d\'exposition automatique</string>
-  <string name="pref_camera_beautify_entry_auto">Désactivé</string>
-  <string name="pref_camera_beautify_entry_high">Haut</string>
-  <string name="pref_camera_beautify_entry_low">Bas</string>
-  <string name="pref_camera_beautify_entry_normal">Moyen</string>
   <string name="pref_camera_coloreffect_entry_mirror">Miroir</string>
   <string name="pref_camera_coloreffect_entry_mosaic">Mosaïque</string>
   <string name="pref_camera_coloreffect_entry_none">Aucun</string>
@@ -102,7 +95,6 @@
   <string name="pref_camera_focusmode_title">Mise au point</string>
   <string name="pref_camera_gradienter_title">Recadrage</string>
   <string name="pref_camera_hand_night_title">Nuit (HHT)</string>
-  <string name="pref_camera_hdr_entry_live">Animés\"</string>
   <string name="pref_camera_hdr_entry_off">Inactif</string>
   <string name="pref_camera_hfr_entry_off">Désactivé</string>
   <string name="pref_camera_histogram_entry_disable">Désactiver</string>
@@ -129,7 +121,6 @@
   <string name="pref_camera_multilevel_entry_lower">Faible</string>
   <string name="pref_camera_multilevel_entry_lowest">Le plus faible</string>
   <string name="pref_camera_multilevel_entry_middle">Moyen (par défaut)</string>
-  <string name="pref_camera_multilevel_entry_normal">Standard</string>
   <string name="pref_camera_peak_entry_off">Désactivé</string>
   <string name="pref_camera_peak_entry_on">Activé</string>
   <string name="pref_camera_peak_title">Intensification du focus</string>
@@ -165,9 +156,6 @@
   <string name="pref_camera_snap_entry_off">Désactivé</string>
   <string name="pref_camera_snap_entry_take_movie">Lorsque l\'écran est éteint, appuyez &amp; maintenez le bouton Volume Bas pour démarrer un enregistrement vidéo. Relâchez-le pour l\'interrompre.</string>
   <string name="pref_camera_snap_entry_take_picture">Lorsque l\'écran est éteint, appuyez &amp; maintenez le bouton Volume Bas pour démarrer la prise de photos en rafale. Relâchez-le pour arrêter.</string>
-  <string name="pref_camera_snap_value_off">Désactivé</string>
-  <string name="pref_camera_snap_value_take_movie">Film</string>
-  <string name="pref_camera_snap_value_take_picture">Image</string>
   <string name="pref_camera_sound_title">Son de déclenchement</string>
   <string name="pref_camera_touchafaec_entry_off">Désactivé</string>
   <string name="pref_camera_touchafaec_entry_on">Activé</string>
@@ -188,8 +176,6 @@
   <string name="pref_capture_settings">Paramètres photo</string>
   <string name="pref_face_beauty_title">Teint de peau</string>
   <string name="pref_front_mirror_entry_auto">Auto(Miroir seulement lorsque le visage est détecté)</string>
-  <string name="pref_front_mirror_entry_off">Désactivé</string>
-  <string name="pref_front_mirror_entry_on">Activé</string>
   <string name="pref_front_mirror_title">Caméra frontale inversée</string>
   <string name="pref_manual_exposure_title">Exposition</string>
   <string name="pref_priority_storage_title">Sauvegarder sur la carte SD</string>
@@ -243,7 +229,6 @@
   <string name="simple_mode_button_text_slow_video">Quitter le mode time-lapse</string>
   <string name="simple_mode_button_text_tilt_shift">Quitter le mode Tilt-shift</string>
   <string name="simple_mode_button_text_ubifocus">Quitter le mode refocus</string>
-  <string name="snap_cancel">Annuler</string>
   <string name="tap_to_exposure">Appuyez pour ajuster l\'exposition manuellement</string>
   <string name="tap_to_focus">Appuyez pour faire le focus</string>
   <string name="time_lapse_error">"Taille de vidéo non valide pour l'enregistrement accéléré."</string>
