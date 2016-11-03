@@ -108,7 +108,6 @@
   <string name="callFailed_dsac_restricted_normal">As chamadas normais estão restritas pelo controlo de acesso</string>
   <string name="callFailed_fdn_only">As chamadas efectuadas estão restritas por FDN</string>
   <string name="callFailed_incoming_cb_enabled">As chamadas recebidas estão a ser barradas</string>
-  <string name="callFailed_invalid_credentials">Utilizador ou palavra-passe incorrecto</string>
   <string name="callFailed_limitExceeded">Limite ACM excedido</string>
   <string name="callFailed_low_battery">Bateria fraca</string>
   <string name="callFailed_noSignal">Sem sinal</string>
@@ -124,8 +123,6 @@
   <string name="callFailed_userBusy">Linha ocupada</string>
   <string name="callUnanswered_forwarded">Chamada não atendida e reencaminhada</string>
   <string name="call_advanced_setting_title">Definições avançadas</string>
-  <string name="call_background_default">Predefinido</string>
-  <string name="call_background_lock_wallpaper">Papel de parede do ecrã de bloqueio</string>
   <string name="call_barring">Barramento de chamadas</string>
   <string name="call_barring_incoming">Barramento de chamadas recebidas</string>
   <string name="call_barring_outgoing">Barramento de chamadas efectuadas</string>
@@ -417,7 +414,6 @@
   <string name="fdn_list_with_label">Lista FDN (%s)</string>
   <string name="fdn_summary">Restringir chamadas para lista FDN ou para números com determinados prefixos</string>
   <string name="fdn_with_label">Números de marcação fixa (%s)</string>
-  <string name="feedback">Comentários</string>
   <string name="flash_when_ring_summary">Acender luz de flash para chamadas recebidas</string>
   <string name="flash_when_ring_title">Acender flash quando tocar</string>
   <string name="fw_change_failed">"Não foi possível alterar o número de reencaminhamento.
@@ -469,7 +465,6 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="incall_error_supp_service_unknown">Serviço não suportado</string>
   <string name="incall_error_wfc_only_no_wireless_network">Ligue-se a uma rede sem fios para fazer uma chamada</string>
   <string name="incall_status_dialed_mmi">Iniciar a sequência MMI&#8230;</string>
-  <string name="input_password">Introduzir palavra-passe</string>
   <string name="international_calls">Apenas internacionais</string>
   <string name="international_dial_complete_intention">Fazer chamadas internacionais de baixo custo</string>
   <string name="international_dial_complete_no">Agora não</string>
@@ -501,7 +496,6 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="labelCW">Chamada em espera</string>
   <string name="labelCallerId">ID do autor da chamada</string>
   <string name="labelCbCancelAll">Desligar o barramento de chamadas</string>
-  <string name="labelCbChangePassword">Alterar palavra-passe</string>
   <string name="labelCdmaMore_with_label">Definições de chamada CDMA (%s)</string>
   <string name="labelGSMMore">Definições de chamadas GSM</string>
   <string name="labelGsmMore_with_label">Definições de chamadas GSM (%s)</string>
@@ -569,7 +563,6 @@ Faça um carregamento e comece a falar</string>
   <string name="livetalk_provision_title">Provisão</string>
   <string name="livetalk_remain_minutes_title">Tempo de chamada restante</string>
   <string name="livetalk_setting">Pacotes de carregamento</string>
-  <string name="livetalk_shortcut_title">Pacote de carregamento</string>
   <string name="livetalk_terms_conditions">Termos e Condições</string>
   <string name="livetalk_unavaiable_info">Este serviço está temporariamente indisponível</string>
   <string name="livetalk_user_config_title">Verificação do SIM</string>
@@ -788,9 +781,6 @@ Tente novamente ou ligue para o serviço de apoio ao cliente para mais opções.
   <string name="other_settings">Outras definições de chamada</string>
   <string name="other_settings_category">Outros</string>
   <string name="overseas_roaming_setting">Dados em roaming</string>
-  <string name="password">Palavra-passe</string>
-  <string name="password_changed">Palavra-passe alterada</string>
-  <string name="password_title">Palavra-passe</string>
   <string name="path_answer_state_setting_title">Aplicações de sistema/Telefone/Definições das chamadas recebidas</string>
   <string name="path_antispam_setting">Aplicações de sistema/Telefone/Lista de bloqueio</string>
   <string name="path_app_name">Aplicações de sistema/Telefone</string>
@@ -868,8 +858,6 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="pin_progress_set_icc_lock">A definir o estado de bloqueio ICC&#8230;</string>
   <string name="pin_progress_unlock_icc">A desbloquear cartão SIM&#8230;</string>
   <string name="please_enter_phone_number">Introduzir número de telefone</string>
-  <string name="port">Porta</string>
-  <string name="port_title">Número da porta</string>
   <string name="preference_auto_ip_summary_disable">Desactivado</string>
   <string name="preference_category_ringtone">Toque e vibração</string>
   <string name="preference_data_usage_summary">Definir o seu plano de dados para controlar a utilização de dados móveis</string>
@@ -1214,7 +1202,6 @@ Utilizá-la para pacotes de carregamento?"</string>
   <string name="use_current_account_creat_livetalk_button">Utilizar</string>
   <string name="use_history">Actividade</string>
   <string name="use_range">Intervalo</string>
-  <string name="username_title">Nome de utilizador</string>
   <string name="ussdRunning">Código USSD a decorrer&#8230;</string>
   <string name="verified">Verificado</string>
   <string name="verify_fialed">"Não foi possível verificar"</string>
@@ -1250,6 +1237,5 @@ Contacte a sua operadora se este problema persistir"</string>
   <string name="whole_calls">Todas as chamadas</string>
   <string name="wifi_calling">Chamadas Wi-Fi</string>
   <string name="wild_prompt_str">Substituir o caracter universal por</string>
-  <string name="wrong_password">A palavra-passe que introduziu está incorrecta</string>
   <string name="xdivert_summary">Definições CFNRc</string>
 </resources>
