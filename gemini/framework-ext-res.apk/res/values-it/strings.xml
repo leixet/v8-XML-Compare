@@ -17,10 +17,6 @@
   <string name="auto_start_warning_allow">Consenti</string>
   <string name="auto_start_warning_deny">Nega</string>
   <string name="auto_start_warning_title">Consentire l\'avvio automatico di \"%s\" in futuro?</string>
-  <string name="button_text_cancel">Annulla</string>
-  <string name="button_text_delete">Elimina</string>
-  <string name="button_text_delete_timer">Elimina (%d)</string>
-  <string name="button_text_next_step">Avanti</string>
   <string name="call_record_or">" o "</string>
   <string name="call_record_sample_prefix_miui">Chiama</string>
   <string name="caller_info_name_delimiter">" o "</string>
@@ -70,7 +66,6 @@ Attiva questa funzione da Impostazioni &gt; Sistema &gt; Tasti\"</string>
   <string name="memory_clear_nothing_result">RAM già ottimizzata.</string>
   <string name="memory_clear_result">%1$sB liberati | %2$sB disponibili</string>
   <string name="miui">MIUI</string>
-  <string name="package_delete_confirm_step_1">Eliminare %s?</string>
   <string name="paste">Incolla</string>
   <string name="perm_send_push_dspt">Consenti messaggi Mi push</string>
   <string name="perm_send_push_lab">Invia messaggio push</string>
@@ -109,9 +104,7 @@ Attiva questa funzione da Impostazioni &gt; Sistema &gt; Tasti\"</string>
   <string name="status_bar_toggle_auto_brightness">Luminosità</string>
   <string name="status_bar_toggle_cast">Trasmetti</string>
   <string name="status_bar_toggle_data">Dati</string>
-  <string name="status_bar_toggle_edit">Altro</string>
   <string name="status_bar_toggle_flight_mode">Aereo</string>
-  <string name="status_bar_toggle_gps">Test GPS</string>
   <string name="status_bar_toggle_lock">Blocca</string>
   <string name="status_bar_toggle_mute">Silenzioso</string>
   <string name="status_bar_toggle_paper_mode">Modalità lettura</string>
