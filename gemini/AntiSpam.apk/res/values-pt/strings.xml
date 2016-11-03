@@ -78,7 +78,6 @@
   <string name="close_callwait">Desligado</string>
   <string name="customizer_mode_user_define_name">As minhas regras</string>
   <string name="dlg_add_blacklist">Bloquear este número?</string>
-  <string name="dlg_add_blacklist_title">Adicionar à lista de bloqueio</string>
   <string name="dlg_add_blacklist_warn_conflict_content">%1$s e %2$s outros contactos já estão na sua lista de excepções</string>
   <string name="dlg_add_blacklist_warn_conflict_title">Conflito nas excepções</string>
   <string name="dlg_add_keyword">Adicionar palavras-chave</string>
@@ -148,7 +147,6 @@
   <string name="mark_harass_block_large">Incómodos</string>
   <string name="mark_harass_time_setting">Bloquear números reportados como incómodos um número específico de vezes</string>
   <string name="mark_number_agent">Agências</string>
-  <string name="mark_number_courier">Serviço de expedição</string>
   <string name="mark_number_fraud">Fraudes</string>
   <string name="mark_number_harass">Assédio</string>
   <string name="mark_number_info">"Por vezes estas chamadas podem ser úteis (ex: Quando está à procura de um apartamento). Bloqueie apenas os números dos quais não quer receber chamadas"</string>
