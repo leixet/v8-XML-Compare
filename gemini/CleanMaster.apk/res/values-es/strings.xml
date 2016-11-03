@@ -25,7 +25,6 @@
   <string name="activity_title_uninstall_apps">Aplicaciones</string>
   <string name="activity_title_video">Borrar vídeos</string>
   <string name="activity_title_white_list">Excepciones</string>
-  <string name="ad_install_success_dialog_lunch">Abrir</string>
   <string name="apk_status_damage">Corrupto</string>
   <string name="apk_status_duplicate">Duplicado</string>
   <string name="apk_status_install">Instalado</string>
@@ -107,7 +106,6 @@
   <string name="deepclean_cache_content">Limpiar datos generados por aplicaciones</string>
   <string name="deepclean_cache_header_left">Ficheros de datos: %d</string>
   <string name="deepclean_cache_summary_empty">Todo pinta bien, no hay datos a borrar</string>
-  <string name="deepclean_empty">Todo pinta bien</string>
   <string name="deepclean_large_content">Eliminar ficheros mayores a 10MB</string>
   <string name="deepclean_large_summary_empty">Todo pinta bien, no hay ficheros a borrar</string>
   <string name="deepclean_list_item_from_dcim_thumbnails">Miniaturas</string>
@@ -124,7 +122,6 @@
   <string name="deepclean_size_summary_less">El dispositivo se está quedando sin espacio libre</string>
   <string name="deepclean_size_summary_more">Hay suficiente espacio disponible</string>
   <string name="deepclean_size_summary_normal">Almacenamiento disponible</string>
-  <string name="deepclean_size_summary_not_enough">No hay suficiente espacio</string>
   <string name="deepclean_title_large_file">Eliminar ficheros grandes</string>
   <string name="deepclean_title_uninstall_apps">Aplicaciones poco usadas</string>
   <string name="deepclean_video_content">Borrar los vídeos ya vistos o innecesarios</string>
@@ -246,7 +243,6 @@
   <string name="low_memory_clean_dialog_msg">Borrar al menos %1$s archivos primero</string>
   <string name="low_memory_clean_dialog_ok_button">De acuerdo</string>
   <string name="low_memory_clean_dialog_title">No hay suficiente espacio libre</string>
-  <string name="low_memory_warning_dialog_cancel_button">Cancelar</string>
   <string name="low_memory_warning_dialog_msg">Liberar espacio en el dispositivo para continuar</string>
   <string name="low_memory_warning_dialog_ok_button">Borrar</string>
   <string name="low_memory_warning_dialog_title">No hay suficiente espacio libre</string>
@@ -301,7 +297,6 @@
   <string name="pref_title_auto_clean_content_choose">Seleccione elementos a limpiar</string>
   <string name="pref_title_auto_update_cleanup_db">Actualización automática</string>
   <string name="pref_title_choose_engine">Definiciones</string>
-  <string name="pref_title_clean_alert">Limpiar automáticamente</string>
   <string name="pref_title_cleanup_white_list">Excepciones</string>
   <string name="pref_title_expand_cache_group">Mostrar elementos caché</string>
   <string name="pref_title_garbage_cleanup_check_size">Límite de tamaño de papelera</string>
@@ -331,7 +326,6 @@
   <string name="safety_rank">Por delante de %d%% usuarios de MIUI en términos de seguridad</string>
   <string name="sc_allow_network_dialog_button">Permitir</string>
   <string name="sc_allow_network_dialog_message">¿Permitir que esta aplicación se conecte a internet para recibir actualizaciones?</string>
-  <string name="scanning">Escaneando&#8230;</string>
   <string name="search_history">Historial de la búsqueda</string>
   <string name="see_more">Más</string>
   <string name="set_immediately">Establecer</string>
@@ -402,7 +396,6 @@
   <string name="total_clean">Total limpiado: %s</string>
   <string name="total_clean_text">Limpiado</string>
   <string name="traffic_top">Las 5 aplicaciones que más datos consumen</string>
-  <string name="update_date_format">dd/MM/aaaa</string>
   <string name="virus_scan">Escaneo de virus</string>
   <string name="white_list_ad_header">Archivos de publicidad: %d</string>
   <string name="white_list_apk_header">Instalar paquetes: %d</string>
