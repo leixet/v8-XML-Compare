@@ -28,7 +28,6 @@
   <string name="com_taobao_tae_sdk_trade_confirm_progress_message">Confirmação da transacção</string>
   <string name="com_taobao_tae_sdk_trade_title">Confirmar pedido</string>
   <string name="common_retake_picture">Tirar novamente</string>
-  <string name="common_retry">Repetir</string>
   <string name="common_save">Guardar</string>
   <string name="company">Empresa:</string>
   <string name="connect_wifi">Ligar a esta rede</string>
@@ -40,7 +39,6 @@
   <string name="copy_text_success">Texto copiado</string>
   <string name="crop_cancel_description">Cancelar</string>
   <string name="crop_done_description">Concluído</string>
-  <string name="dialog_dismiss">Rejeitar</string>
   <string name="dialog_report">Reportar</string>
   <string name="document_color_picture">Cor</string>
   <string name="document_color_picture_tip">A converter para a cor&#8230;</string>
@@ -119,9 +117,6 @@
   <string name="preparing_sd">A preparar armazenamento interno&#8230;</string>
   <string name="previous">Voltar</string>
   <string name="qr_code_details">Detalhes do código QR:</string>
-  <string name="recognition_error_download_cancel">Mais tarde</string>
-  <string name="recognition_error_download_ok">Transferir</string>
-  <string name="recognition_error_download_success">Transferência concluída</string>
   <string name="recognize">Digitalizar</string>
   <string name="recognize_fail">"Não foi possível ler código"</string>
   <string name="scan_fail">"Não foi possível digitalizar código"</string>
