@@ -278,7 +278,6 @@
   <string name="create_action">Nuevo</string>
   <string name="custom_from_account_label">Enviar correo como:</string>
   <string name="date_heading">"Fecha: "</string>
-  <string name="date_message_received">%1$s %2$s</string>
   <string name="date_message_received_today">Hoy, %1$s</string>
   <string name="default_">POR DEFECTO</string>
   <string name="default_setup">AJUSTES POR DEFECTO</string>
@@ -325,7 +324,6 @@
   <string name="download_message_failed_for_too_large">El mensaje es demasiado grande para descargar.</string>
   <string name="download_whole_email">Ver el resto del mensaje</string>
   <string name="drawer_close">Cerrar el panel de navegación</string>
-  <string name="drawer_contacts">Contactos</string>
   <string name="drawer_open">Abrir el panel de navegación</string>
   <string name="edit_quick_response_dialog">Respuesta rápida</string>
   <string name="email_netease">Correo NetEase</string>
@@ -367,7 +365,6 @@
   <string name="folder_removed">Eliminado de %1$s</string>
   <string name="folder_shortcut_widget_label">Carpeta de correo electrónico</string>
   <string name="folder_synchronization_mail_settings">Ajustes de sincronización de carpetas</string>
-  <string name="formatted_subject">%1$s %2$s</string>
   <string name="forward">Reenviar</string>
   <string name="forward_attachment">Reenviar</string>
   <string name="forward_attribution">---------- Mensaje reenviado ----------&lt;br&gt;De: %1$s&lt;br&gt;Fecha: %2$s&lt;br&gt;Asunto: %3$s&lt;br&gt;Para: %4$s&lt;br&gt;</string>
@@ -437,10 +434,6 @@
   <string name="mailbox_name_display_starred">Destacados</string>
   <string name="mailbox_name_display_trash">Papelera</string>
   <string name="mailbox_name_display_unread">No leídos</string>
-  <string name="mailbox_name_server_all_unread">No leído</string>
-  <string name="mailbox_name_server_inbox">Lista de conversaciones</string>
-  <string name="mailbox_name_server_outbox">Bandeja de salida</string>
-  <string name="mailbox_name_server_starred">Favoritos</string>
   <string name="mailbox_settings_activity_title">Ajustes de sincronización</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Ajustes de sincronización (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Sincronizar email de</string>
@@ -513,12 +506,10 @@ Declinado:
   <string name="message_discarded">Borrador descartado</string>
   <string name="message_invite_accept">Sí</string>
   <string name="message_invite_calendar_view">Ver en Calendario</string>
-  <string name="message_invite_decline">No</string>
   <string name="message_invite_tentative">Quizás</string>
   <string name="message_invite_title">Invitación a evento de calendario</string>
   <string name="message_saved">Mensaje guardado como borrador.</string>
   <string name="message_view_attachment_background_load">Los archivos adjuntos en el mensaje reenviado se descargarán antes de enviar.</string>
-  <string name="mibill_privacy_policy_button1">Más tarde</string>
   <string name="mibill_privacy_policy_button2">De acuerdo</string>
   <string name="mibill_privacy_policy_description">Permitir que Mi Wallet analice y gestione sus facturas automáticamente. Esta función está desactivada por defecto para las direcciones de correo relacionadas con el trabajo.</string>
   <string name="mibill_privacy_policy_link">Al usar esta función, usted acepta nuestros &lt;a href=\"https://www.mipay.com/res/doc/eula/email.html\"&gt;T&amp;#233;rminos del Servicio&lt;/a&gt;</string>
@@ -536,7 +527,6 @@ Declinado:
   <string name="new_incoming_messages_one">Nuevo mensaje de %s. Mostrar.</string>
   <string name="new_messages">%1$d mensajes nuevos</string>
   <string name="next_action">Siguiente</string>
-  <string name="no">No</string>
   <string name="no_application_found">No se encontró ninguna aplicación para abrir este adjunto.</string>
   <string name="no_application_found_title">Abrir este adjunto.</string>
   <string name="no_contacts">Sin contactos.</string>
@@ -644,7 +634,6 @@ Declinado:
   <string name="preference_sender_image_description">"Mostrar fotos de perfil junto al nombre del remitente en su bandeja de entrada"</string>
   <string name="preference_sender_image_title">Mostrar imagenes del perfil en la bandeja de entrada</string>
   <string name="preferences_signature_dialog_title">Firma</string>
-  <string name="preferences_signature_summary_not_set">No establecido</string>
   <string name="preferences_signature_title">Firma</string>
   <string name="preview_attachment">Previsualizar</string>
   <string name="previous_action">Atrás</string>
@@ -764,7 +753,6 @@ Declinado:
   <string name="show_elided">▶ Mostrar texto citado</string>
   <string name="show_images">Descargar y mostrar imágenes</string>
   <string name="silent_ringtone">Silencio</string>
-  <string name="single_new_message_notification_big_text">"%1$s %2$s"</string>
   <string name="smtp_password_error">La contraseña del servidor de correo saliente es incorrecta</string>
   <string name="sort_attachment">Ordenar por</string>
   <string name="special_text_1">Escribió:</string>
@@ -776,7 +764,6 @@ Declinado:
   <string name="special_text_sender_zh">Remitente</string>
   <string name="storage">Almacenamiento</string>
   <string name="str_select_all">Seleccionar todo</string>
-  <string name="str_select_none">Deseleccionar</string>
   <string name="subject_hint">Asunto</string>
   <string name="sync_error">"No es posible sincronizar."</string>
   <string name="sync_error_message">"Su dispositivo no tiene espacio de almacenamiento suficiente para sincronizar."</string>
@@ -800,8 +787,6 @@ Declinado:
   <string name="too_large_to_attach_additional">"El tamaño de archivo no puede exceder %1$s."</string>
   <string name="too_large_to_attach_multiple">"No se adjuntaron uno a varios archivos. El tamaño no puede exceder %1$s."</string>
   <string name="too_large_to_attach_single">"No es posible adjuntar un archivo con un tamaño superior a %1$s ."</string>
-  <string name="translation_loading">Cargando&#8230;</string>
-  <string name="translation_pronunciation_cn">PinYin</string>
   <string name="trash_folder_selection_title">Seleccione la Papelera del servidor para %s</string>
   <string name="try_exchange_login">Inicie sesión con EXCHANGE</string>
   <string name="turn_auto_sync_on_dialog_body">Los cambios que realice en todas las aplicaciones y cuentas, no sólo Gmail, se sincronizarán en  la web, otros dispositivos y en su %1$s .</string>
