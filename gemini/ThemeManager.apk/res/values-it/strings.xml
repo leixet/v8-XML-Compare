@@ -94,8 +94,6 @@
   <string name="lockscreen_wallpaper">Schermata di blocco</string>
   <string name="lockstyle_personal_settings">Personalizza</string>
   <string name="mi_wallpaper">Sfondo MIUI</string>
-  <string name="multi_sim_ringtone_settings_dialog_ok">Ho capito</string>
-  <string name="multi_sim_ringtone_settings_dialog_title">Problemi di compatibilità</string>
   <string name="my_gifts">Regali</string>
   <string name="my_gifts_purchased">Acquistati</string>
   <string name="my_gifts_received">Ricevuti</string>
@@ -232,7 +230,6 @@
   <string name="resource_present">Regala</string>
   <string name="resource_price_free">Gratis</string>
   <string name="resource_price_unit">&#160;Mi Credit</string>
-  <string name="resource_purchase_common_error">Qualcosa è andato storto, prova di nuovo</string>
   <string name="resource_purchase_getting_order">Recupero informazioni ordine&#8230;</string>
   <string name="resource_purchase_verifying_payment">Verifica informazioni di pagamento&#8230;</string>
   <string name="resource_purchase_waiting_payment">In attesa delle informazioni di pagamento&#8230;</string>
@@ -290,7 +287,6 @@
   <string name="resource_unknow_error">Errore sconosciuto.</string>
   <string name="resource_update">Aggiorna</string>
   <string name="resource_waiting_download">In attesa del download…</string>
-  <string name="resource_waiting_pause">Pausa</string>
   <string name="sdcard_not_mounted_dialog_message">Inserisci una scheda SD ora</string>
   <string name="sdcard_not_mounted_dialog_title">Scheda SD non trovata</string>
   <string name="selected_resource_file_invalid">"Impossibile utilizzare il file di risorsa selezionato"</string>
