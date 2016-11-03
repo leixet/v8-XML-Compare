@@ -4,7 +4,6 @@
   <string name="about_device_info">Mostra dettagli dispositivo</string>
   <string name="access_token_expired_warning">L\'account Weibo è scaduto</string>
   <string name="access_token_invalid_warning">L\'account Weibo non è valido</string>
-  <string name="account">Account calendario</string>
   <string name="account_bind_devices">Dispositivi associati</string>
   <string name="account_bind_new_phone">Aggiungi nuovo telefono</string>
   <string name="account_bind_phone_notice">Usa questo numero di telefono per accedere al tuo account, reimpostare la tua password o modificare le impostazioni di sicurezza.</string>
@@ -25,7 +24,6 @@
   <string name="account_none_binded_info">Nessuno</string>
   <string name="account_none_user_name">Nessuno</string>
   <string name="account_security_question">Domanda di sicurezza</string>
-  <string name="account_settings">Account calendario</string>
   <string name="account_user_avatar">Immagine profilo</string>
   <string name="account_user_avatar_from_album">Scegli immagine</string>
   <string name="account_user_avatar_from_camera">Scatta foto</string>
@@ -69,7 +67,6 @@
   <string name="change_password">Cambia password</string>
   <string name="change_phone_number">Cambia numero di telefono</string>
   <string name="checking_phone_num_availible">Verifico tramite telefono&#8230;</string>
-  <string name="cloud_service">Online</string>
   <string name="completed">Completato</string>
   <string name="confirm_activate_email">Verificato</string>
   <string name="confirm_phone_number_dialog_message">Il codice di verifica verrà inviato a: %s.</string>
@@ -88,12 +85,10 @@
   <string name="delete_device_btn">Rimuovi</string>
   <string name="delete_device_failed">"Impossibile rimuovere il dispositivo"</string>
   <string name="delete_device_notice">"Dopo la rimozione del dispositivo verrà automaticamente effettuata l'uscita dal Mi Account. Non potrai più utilizzare questo dispositivo per accedere alle foto, ai messaggi e agli altri contenuti memorizzati sul Mi Account."</string>
-  <string name="delete_lock_device_success">Eliminato correttamente</string>
   <string name="device_delete_success_message">"Se non hai eseguito l'accesso su questo dispositivo, cambia subito la tua password."</string>
   <string name="device_delete_success_title">Uscito</string>
   <string name="device_list__header">I miei dispositivi</string>
   <string name="device_list_title">Lista dispositivi</string>
-  <string name="device_name">Nome dispositivo</string>
   <string name="device_trust_info">Dispositivi sicuri</string>
   <string name="empty_device_list_notice">Nessun dispositivo</string>
   <string name="error_dup_binded_email">Questo indirizzo email è già associato ad un altro Mi Account.</string>
@@ -140,7 +135,6 @@
   <string name="no_network_title">"Impossibile collegarsi alla rete"</string>
   <string name="no_response_retry">Nessuna risposta, riprova.</string>
   <string name="nobind">Non collegato</string>
-  <string name="other_devices_title">Altri dispositivi</string>
   <string name="passport_access_denied">Accesso negato</string>
   <string name="passport_account_hint_text">Email o numero di telefono</string>
   <string name="passport_account_identity_title">Verifica la tua identità</string>
@@ -281,7 +275,6 @@ Per attivare il tuo account, segui il
   <string name="passport_user_agreement_p4">Informativa sulla Privacy</string>
   <string name="passport_vcode_notification_title">La tua verifica di accesso è incompleta</string>
   <string name="passport_vcode_prompt_long">Inserisci il codice di sicurezza generato da Mi Security</string>
-  <string name="passport_vcode_sms_send_prompt">Invia il codice di verifica a %s</string>
   <string name="passport_verification_failed">Autenticazione fallita</string>
   <string name="passport_verify">Verifica</string>
   <string name="passport_wait_for_sms_prompt">"Iniziare daccapo adesso? Il messaggio di verifica potrebbe impiegare fino a 10 minuti per essere consegnato."</string>
@@ -317,7 +310,6 @@ Assicurati di ricordare le risposte.\"</string>
   <string name="send_email_activate_message">Email di verifica inviata</string>
   <string name="service_error">Errore di servizio</string>
   <string name="set_security_question_title">Imposta domande di sicurezza</string>
-  <string name="sms_send_success">Inviato</string>
   <string name="sns_access_token_expired_warning">La sessione è scaduta. Accedi di nuovo per aggiungere questo account.</string>
   <string name="submit_answers">Invia</string>
   <string name="success">Fatto</string>
