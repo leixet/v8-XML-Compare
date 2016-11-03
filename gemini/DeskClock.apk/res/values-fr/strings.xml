@@ -49,7 +49,6 @@
   <string name="edit_systemtime">Modifier l\'heure système</string>
   <string name="elapsed_time_format">(+%s)</string>
   <string name="every_day">Tous les jours</string>
-  <string name="force_touch_add_alarm">Ajouter une alarme </string>
   <string name="full_wday_month_day_no_year">EEE d MMMM</string>
   <string name="hour">1 heure</string>
   <string name="hour_unit">h</string>
