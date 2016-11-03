@@ -6,7 +6,7 @@
     <item>Colori</item>
   </string-array>
   <string-array name="duplex_mode_labels">
-    <item>Nessuno</item>
+    <item>None</item>
     <item>Bordo lungo</item>
     <item>Bordo corto</item>
   </string-array>
