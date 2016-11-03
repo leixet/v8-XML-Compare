@@ -25,7 +25,6 @@
   <string name="sim_type_usim_name">Strumenti USIM</string>
   <string name="stk_app_state">Stato applicazione</string>
   <string name="stk_dialog_accept">SI</string>
-  <string name="stk_dialog_reject">No</string>
   <string name="stk_dialog_title">Strumenti SIM</string>
   <string name="stk_intent_permission">Consenti Strumenti SIM</string>
   <string name="stk_no_service">Nessun servizio disponibile</string>
