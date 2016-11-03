@@ -13,13 +13,4 @@
     <item>Grand-père maternel</item>
     <item>Grand-mère maternelle</item>
   </string-array>
-  <string-array name="relation_with_me">
-    <item>Me</item>
-    <item>Child</item>
-    <item>Family</item>
-    <item>Collegues</item>
-    <item>Classmates</item>
-    <item>Friends</item>
-    <item>Inconnu</item>
-  </string-array>
 </resources>
