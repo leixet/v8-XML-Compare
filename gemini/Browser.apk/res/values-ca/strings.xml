@@ -202,7 +202,7 @@ Les pàgines que visiteu no es veuran reflectides en l\'historial"</string>
   <string name="data_traffic_prompt_change">"Si s'utilitza la connexió de dades mòbils per veure vídeos s'incrementarà l'ús de dades. Si excediu el límit del pla de dades, el vostre operador podria carregar-vos despeses addicionals."</string>
   <string name="data_traffic_prompt_message">"Si s'utilitza la connexió de dades mòbils per veure vídeos s'incrementarà l'ús de dades. Si excediu el límit del pla de dades, el vostre operador podria carregar-vos despeses addicionals."</string>
   <string name="data_traffic_prompt_message_short">"Si s'utilitza la connexió de dades mòbils per a transmetre vídeo es podria superar el vostre límit de dades."</string>
-  <string name="data_traffic_prompt_title">Advertiment d\'ús de dades</string>
+  <string name="data_traffic_prompt_title">Alerta d\'ús de dades</string>
   <string name="date_picker_dialog_clear">Neteja</string>
   <string name="date_picker_dialog_other_button_label">Altres</string>
   <string name="date_picker_dialog_set">Estableix</string>
@@ -249,7 +249,6 @@ Les pàgines que visiteu no es veuran reflectides en l\'historial"</string>
   <string name="download_dialog_file_length_nolength_error_txt">"No s'ha pogut baixar"</string>
   <string name="download_dialog_file_length_nolength_txt">Un moment&#8230;</string>
   <string name="download_failed">"No s'ha pogut completar la baixada"</string>
-  <string name="download_filter_all">Tot</string>
   <string name="download_filter_apk">Apk</string>
   <string name="download_filter_application">Aplicacions</string>
   <string name="download_filter_audio">Música</string>
