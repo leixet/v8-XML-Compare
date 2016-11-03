@@ -71,7 +71,6 @@
   <string name="can_not_modify_allday_event">"Não é possível alterar evento de dia inteiro"</string>
   <string name="can_not_modify_event">"Não é possível alterar"</string>
   <string name="can_not_modify_repeating_acrossing_days_event">"Não é possível alterar eventos de vários dias"</string>
-  <string name="card_detail_title">Detalhes da subscrição</string>
   <string name="card_manager">Gestão de cartões</string>
   <string name="card_title_change">Alterar título do cartão</string>
   <string name="change_response_title">Alterar resposta</string>
@@ -254,8 +253,6 @@
   <string name="online_reminder_header_text">Memorizar</string>
   <string name="path_calendar">Calendário/Definições</string>
   <string name="pengzu">PANG</string>
-  <string name="prefDefault_alerts_vibrateWhen">Nunca</string>
-  <string name="prefDefault_alerts_vibrate_false">Nunca</string>
   <string name="prefDialogTitle_vibrateWhen">Vibrar</string>
   <string name="pref_error_no_ringtone_select">Nada seleccionado</string>
   <string name="pref_title_alarm_remind">Lembretes de alarmes</string>
@@ -298,7 +295,6 @@
   <string name="quick_response_settings_edit_title">Resposta rápida</string>
   <string name="quick_response_settings_summary">Editar respostas predefinidas ao enviar emails a convidados</string>
   <string name="quick_response_settings_title">Editar respostas rápidas</string>
-  <string name="recommend_card_adding">Subscrições</string>
   <string name="refresh">Actualizar</string>
   <string name="repeat_activity_label">Repetir</string>
   <string name="repeat_custom_activity_label">Personalizar</string>
@@ -328,10 +324,8 @@
   <string name="select_date">Ir para a data</string>
   <string name="select_synced_calendars_title">Calendários a sincronizar</string>
   <string name="set_as_wallpaper">Definir como papel de parede</string>
-  <string name="setting_holiday_display_title">Mostrar feriados</string>
   <string name="setting_others">Adicional</string>
   <string name="setting_sms_import">Importar eventos de SMS</string>
-  <string name="setting_title_about">Acerca de</string>
   <string name="settings_calendar">Calendário</string>
   <string name="show_day_view">Mostrar dia</string>
   <string name="show_newer_events">Toque para ver os eventos depois de %1$s</string>
@@ -345,15 +339,10 @@
   <string name="str_from_mon_to_fri">Segunda a Sexta</string>
   <string name="str_hour_of_everyday">Todos os dias %s</string>
   <string name="str_hour_of_next">Próxima vez %s</string>
-  <string name="subscribe_channel_footer_button">Gestão de cartões</string>
-  <string name="subscribe_channel_footer_title">Subscrito</string>
-  <string name="subscribe_channel_subscribe">Subscrição</string>
-  <string name="subscribe_channel_subscribing">Subscrições</string>
   <string name="subscribe_description_card_more_cut">Erro</string>
   <string name="subscribe_description_card_more_launch">Expandir</string>
   <string name="subscribe_detail_title">Detalhes da subscrição</string>
   <string name="subscribe_ed">Subscrito</string>
-  <string name="subscribing_card">Subscrições</string>
   <string name="swipe_up_guide_hint_text">Descer para ver mais</string>
   <string name="sync_notice_cancel_toast_message">"Calendário local não será sincronizado com a Nuvem Mi"</string>
   <string name="sync_notice_message">Sincronizar o seu calendário com Conta Mi?</string>
@@ -407,8 +396,6 @@
   <string name="travel_seat_number_text">Banco</string>
   <string name="travel_train_number_text">Comboio</string>
   <string name="travel_train_station">Estação de comboio</string>
-  <string name="unsubscribe_card">Subscrição</string>
-  <string name="unsubscribing_card">Cancelar inscrição</string>
   <string name="user_notice_button_exit">Sair</string>
   <string name="user_notice_declaration_ignore">"Não mostrar novamente"</string>
   <string name="user_notice_message">"Ao utilizar este produto está a concordar com %1$s e %2$s da Xiaomi. Algumas funcionalidades necessitam de uma ligação à Internet, acesso à localização, contactos e SMS para funcionar normalmente"</string>
@@ -422,7 +409,6 @@
   <string name="weekly">Semanalmente (cada %s)</string>
   <string name="when_label">Quando</string>
   <string name="widget_events">Próximo evento</string>
-  <string name="widget_get_weather_info">Obter informação do tempo &gt;</string>
   <string name="widget_no_events">Sem eventos</string>
   <string name="widget_select_style">Escolher um estilo</string>
   <string name="work_day_indication">:-(</string>
