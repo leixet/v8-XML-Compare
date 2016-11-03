@@ -16,17 +16,12 @@
   <string name="cloud_state_finished">Sincronizzato con Mi Cloud</string>
   <string name="cloud_state_syncing">Sincronizzato con Mi Cloud</string>
   <string name="cold_dews">Giornata della rugiada fredda</string>
-  <string name="cta_button_quit">Esci</string>
-  <string name="cta_permission_and">&#160;e&#160;</string>
-  <string name="cta_title">Condizioni di Utilizzo</string>
   <string name="delete_frequent_phrases">Elimina frasi comuni</string>
   <string name="delete_frequent_phrases_confirm">Eliminare le frasi comuni selezionate?</string>
-  <string name="device_xiaomi">Dispositivo Xiaomi</string>
   <string name="edit_frequent_phrases">Modifica le frasi comuni</string>
   <string name="fools_day">Pesce d\'aprile</string>
   <string name="frequent_phrases_des">Inserisci le frasi comune in pochi passaggi modificando il testo</string>
   <string name="frequent_phrases_size_exceeded">Puoi aggiungere massimo 10 frasi. Elimina quelle meno utilizzate per aggiungerne di nuove</string>
-  <string name="lunar_calendar">Lunare</string>
   <string name="menu_add_frequent_phrases">Aggiungi</string>
   <string name="menu_delete">Elimina</string>
   <string name="menu_edit">Modifica</string>
@@ -38,7 +33,6 @@
   <string name="presentation_payphone">Telefono a gettoni</string>
   <string name="presentation_private">Numero privato</string>
   <string name="presentation_unknown">Numero sconosciuto</string>
-  <string name="solar_calendar">Solare</string>
   <string name="spring_begins">Inizio primavera</string>
   <string name="summer_begins">Inizio estate</string>
   <string name="summer_solstice">Solstizio d\'estate</string>
