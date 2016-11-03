@@ -178,29 +178,29 @@
   <string name="contextmenu_download_image">Desa la imatge</string>
   <string name="contextmenu_download_image_as">Desa la imatge</string>
   <string name="contextmenu_map">Mapa</string>
-  <string name="contextmenu_openlink">Obrir</string>
+  <string name="contextmenu_openlink">Obre</string>
   <string name="contextmenu_openlink_newwindow">Obre en una pestanya nova</string>
-  <string name="contextmenu_openlink_newwindow_background">Obre en una pestanya de fons</string>
+  <string name="contextmenu_openlink_newwindow_background">Obre en una pestanya al darrera</string>
   <string name="contextmenu_savelink">Desa enllaç</string>
   <string name="contextmenu_send_mail">Enviar email</string>
-  <string name="contextmenu_set_wallpaper">Establir com a fons</string>
-  <string name="contextmenu_sharelink">Compartir enllaç</string>
-  <string name="contextmenu_view_image">Veure imatge</string>
+  <string name="contextmenu_set_wallpaper">Estableix com a fons de pantalla</string>
+  <string name="contextmenu_sharelink">Comparteix l\'enllaç</string>
+  <string name="contextmenu_view_image">Mostra la imatge</string>
   <string name="contextmenu_webpage_capture">Desa com a captura de pantalla</string>
   <string name="contextmenu_webpage_html">Desa com a fitxer HTML</string>
   <string name="contextmenu_webpage_snapshot">Desa la pàgina</string>
   <string name="copy_to_clipboard_failure_message">No s\'ha pogut copiar al porta-retalls</string>
-  <string name="copy_url">Copia l\'URL</string>
+  <string name="copy_url">Copia la URL</string>
   <string name="create_qr_code">Codi QR</string>
   <string name="current_version_pad">Tauleta</string>
   <string name="current_version_pc">Escriptori</string>
   <string name="current_version_phone">Telèfon</string>
   <string name="custom_head_card_text">"Sempre creu que una cosa meravellosa
 està a punt de succeir"</string>
-  <string name="custom_head_card_text_incognito">"Ara es troba en mode d\'incògnit
-Les pàgines que visites no es veuran reflectides en l\'historial"</string>
-  <string name="data_traffic_prompt_change">"Utilitzar la seva connexió de dades per veure vídeos incrementarà l'ús de dades. Si excedeix el límit del seu pla de dades, el seu operador pot carregar despeses addicionals."</string>
-  <string name="data_traffic_prompt_message">"Utilitzar la connexió de dades per navegar incrementarà l'ús de dades. Si excedeix el límit del seu pla de dades, el seu operador pot carregar despeses addicionals."</string>
+  <string name="custom_head_card_text_incognito">"Ara sou en mode d\'incògnit
+Les pàgines que visiteu no es veuran reflectides en l\'historial"</string>
+  <string name="data_traffic_prompt_change">"Utilitzant la vostra connexió de dades per veure vídeos incrementarà l'ús de dades. Si excediu el límit del vostre pla de dades, el vostre operador podria carregar despeses addicionals."</string>
+  <string name="data_traffic_prompt_message">"Utilitzant la vostra connexió de dades per veure vídeos incrementarà l'ús de dades. Si excediu el límit del vostre pla de dades, el vostre operador podria carregar despeses addicionals."</string>
   <string name="data_traffic_prompt_message_short">"\"L'ús de dades mòbils per a transmetre vídeo pot fer que es passi del seu límit de dades"</string>
   <string name="data_traffic_prompt_title">Avís d\'ús de dades</string>
   <string name="date_picker_dialog_clear">Netejar</string>
