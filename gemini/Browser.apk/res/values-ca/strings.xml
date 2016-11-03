@@ -199,8 +199,8 @@
 està a punt de succeir"</string>
   <string name="custom_head_card_text_incognito">"Ara sou en mode d\'incògnit
 Les pàgines que visiteu no es veuran reflectides en l\'historial"</string>
-  <string name="data_traffic_prompt_change">"Utilitzant la vostra connexió de dades per veure vídeos incrementarà l'ús de dades. Si excediu el límit del vostre pla de dades, el vostre operador podria carregar despeses addicionals."</string>
-  <string name="data_traffic_prompt_message">"Utilitzant la vostra connexió de dades per veure vídeos incrementarà l'ús de dades. Si excediu el límit del vostre pla de dades, el vostre operador podria carregar despeses addicionals."</string>
+  <string name="data_traffic_prompt_change">"Utilitzar la connexió de dades mòbils per veure vídeos incrementarà l'ús de dades. Si excediu el límit del pla de dades, el vostre operador podria carregar-vos despeses addicionals."</string>
+  <string name="data_traffic_prompt_message">"Utilitzar la connexió de dades mòbils per veure vídeos incrementarà l'ús de dades. Si excediu el límit del pla de dades, el vostre operador podria carregar-vos despeses addicionals."</string>
   <string name="data_traffic_prompt_message_short">"\"L'ús de dades mòbils per a transmetre vídeo pot fer que es passi del seu límit de dades"</string>
   <string name="data_traffic_prompt_title">Avís d\'ús de dades</string>
   <string name="date_picker_dialog_clear">Netejar</string>
