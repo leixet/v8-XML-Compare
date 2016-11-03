@@ -306,7 +306,6 @@
   <string name="date_heading">"Data: "</string>
   <string name="date_message_received">%1$s, %2$s</string>
   <string name="date_message_received_today">Avui, %1$s</string>
-  <string name="default_">PER DEFECTE</string>
   <string name="default_setup">CONFIGURACIÓ PER DEFECTE</string>
   <string name="default_signature">Enviat des del meu Xiaomi</string>
   <string name="del_account_questionnair_hint">"Ens pots dir per què estàs eliminant aquest compte?"</string>
