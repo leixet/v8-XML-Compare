@@ -31,14 +31,12 @@
   <string name="call">Chiama</string>
   <string name="callNoAnswerTimeFormat">%s squillo/i</string>
   <string name="callrecordview_item_newcontact">Nuovo contatto</string>
-  <string name="callrecordview_item_op_time_minutes_seconds">%1$d Min %2$d Sec</string>
   <string name="callrecordview_item_op_time_missed">Non connesso</string>
   <string name="callrecordview_item_op_time_rejected">Rifiutata</string>
   <string name="callrecordview_item_op_time_short_incoming">"In entrata: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"In uscita: "</string>
   <string name="check_network">Mostra impostazioni di rete</string>
   <string name="choose_upload">Scegli il file da caricare</string>
-  <string name="colon">":"</string>
   <string name="confirm_delete_all_call_log_title">Confermare l\'eliminazione di tutti gli elementi del registro chiamate?</string>
   <string name="confirm_delete_call_log_title">Eliminare l\'elemento selezionato?</string>
   <string name="confirm_to_add_blacklist">Aggiungere il numero selezionato alla blacklist?</string>
@@ -226,7 +224,6 @@ Si prega di verificare il numero di spedizione."</string>
   <string name="mark_number_check_dialog_title">Componi numero</string>
   <string name="mark_number_check_most_choice">(Altre Scelte Utente)</string>
   <string name="mark_number_custom_mark_deleted">Etichetta rimossa.</string>
-  <string name="mark_number_delete_confirm_title">Rimuovi etichetta</string>
   <string name="mark_number_dialog_maintitle">Segna come spam e carica</string>
   <string name="mark_number_dialog_subtitle">%1$s (segnalato da %2$d persone)</string>
   <string name="mark_number_feedback">Segnala</string>
@@ -280,7 +277,6 @@ Si prega di verificare il numero di spedizione."</string>
   <string name="nearby_average_price">Media %d RMB</string>
   <string name="nearby_no_yellow_page">Nessun risultato vicino</string>
   <string name="nearby_yellow_page_title">Vicino</string>
-  <string name="nearby_yellow_page_title_format">Dalle %1$s alle %2$s</string>
   <string name="network_access_denied">Accesso di rete negato</string>
   <string name="network_unavaliable">"Rete non disponibile, verifica impostazioni di rete"</string>
   <string name="no_brief">Nessuna introduzione</string>
@@ -296,7 +292,6 @@ Si prega di verificare il numero di spedizione."</string>
   <string name="order_id_label">ID ordine：%s</string>
   <string name="order_info">Informazioni ordine</string>
   <string name="order_merchant_title">I miei ordini</string>
-  <string name="order_merchant_title_format">Dalle %1$s alle %2$s</string>
   <string name="order_not_found">Nessun ordine relativo</string>
   <string name="order_price_label">Prezzo ordine：%s</string>
   <string name="order_product_name_label">Nome prodotto： %1$s</string>
