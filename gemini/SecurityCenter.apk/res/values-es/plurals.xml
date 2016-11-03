@@ -53,10 +53,6 @@
     <item quantity="other">%d problemas pueden ser optimizados</item>
     <item quantity="one">%d problema puede ser optimizado</item>
   </plurals>
-  <plurals name="view_num">
-    <item quantity="other">%1$d vistas</item>
-    <item quantity="one">%1$d vista</item>
-  </plurals>
   <plurals name="hints_auto_start_enable_title">
     <item quantity="other">%d aplicaciones pueden iniciarse automáticamente</item>
     <item quantity="one">%d aplicación puede iniciarse automáticamente</item>
