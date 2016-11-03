@@ -83,6 +83,7 @@
   <string name="account_setup_failed_certificate_required">Es requereix un certificat de client. Vols connectar amb el servidor amb un certificat de client?</string>
   <string name="account_setup_failed_check_credentials_message">El servidor ha contestat amb un error. Comproveu el nom d\'usuari i la contrasenya i torneu a provar-ho.</string>
   <string name="account_setup_failed_dlg_auth_message">Nom d\'usuari o contrasenya són incorrectes.</string>
+  <string name="account_setup_failed_dlg_bar_title">Formes d\'iniciar sessió a %s</string>
   <string name="account_setup_failed_dlg_certificate_message">"No es pot connectar segurament amb el servidor."</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"No es pot connectar segurament amb el servidor.
 (%s)"</string>
@@ -129,6 +130,7 @@
   <string name="account_setup_options_mail_check_frequency_push">Automàticament (Descarregar)</string>
   <string name="account_setup_options_mail_window_1day">Últim dia</string>
   <string name="account_setup_options_mail_window_1month">Mes passat</string>
+  <string name="account_setup_options_mail_window_1quarter">Darrer quart</string>
   <string name="account_setup_options_mail_window_1week">La setmana passada</string>
   <string name="account_setup_options_mail_window_2weeks">les dues últimes setmanes</string>
   <string name="account_setup_options_mail_window_3days">Els últims 3 dies</string>
