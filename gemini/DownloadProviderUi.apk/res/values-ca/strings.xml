@@ -386,6 +386,8 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="turn_off_xunlei_title">Desactivar motor de descàrrega Xunlei</string>
   <string name="unbind_xunlei_2_success">Compte Xunlei afegida</string>
   <string name="unbind_xunlei_success">Sessió acabada en compte Xunlei</string>
+  <string name="unit_cn_hundredmillions">00M</string>
+  <string name="unit_cn_tenthousands">0K</string>
   <string name="unit_en_billion">B</string>
   <string name="unit_en_million">M</string>
   <string name="unit_en_thounsand">K</string>
@@ -419,8 +421,17 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="xl_privilege_support">Múltiples dispositius</string>
   <string name="xl_privilege_title">Subscripció Xunlei</string>
   <string name="xl_validate_title">Vàlid fins a:</string>
+  <string name="xl_vip_annual">Any: %1$s Crèdits Mi × 12</string>
+  <string name="xl_vip_combo">Tarifes</string>
+  <string name="xl_vip_month">Mes: %1$s Crèdits Mi × 1</string>
+  <string name="xl_vip_open">Compra</string>
+  <string name="xl_vip_overdue">Ha vençut</string>
+  <string name="xl_vip_pay">Amplia</string>
+  <string name="xl_vip_quarter">Quadrimestre: %1$s Crèdits Mi × 3</string>
+  <string name="xl_vip_semiannual">Semestral: %1$s Crèdits Mi × 6</string>
   <string name="xunlei_account_has_unbind_message">Compte Xunlei treta</string>
   <string name="xunlei_brand">Desenvolupat per Xunlei</string>
+  <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
   <string name="xunlei_close_tips_button">Activar</string>
   <string name="xunlei_close_tips_content">Accelerador de descàrregues Xunlei.</string>
   <string name="xunlei_close_tips_title">Accelera les teves descàrregues</string>
