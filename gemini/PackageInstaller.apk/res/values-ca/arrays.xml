@@ -148,6 +148,16 @@
     <item>Molt ràpid</item>
     <item>Ràpida</item>
     <item>Molt ràpid</item>
-    <item>Fastest</item>
+    <item>El més ràpid</item>
+  </string-array>
+  <string-array name="color_mode_names">
+    <item>Vibrant (default)</item>
+    <item>Natural</item>
+    <item>Estàndard</item>
+  </string-array>
+  <string-array name="color_mode_descriptions">
+    <item>Colors millorats</item>
+    <item>Colors naturals tal com els veu l\'ull humà</item>
+    <item>Colors optimitzats per al contingut digital</item>
   </string-array>
 </resources>
