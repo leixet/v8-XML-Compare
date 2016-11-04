@@ -195,17 +195,25 @@
   <string name="no_file_hint">La tasca de descàrrega d\'aquest fitxer ja existeix</string>
   <string name="no_result_for_keyword">"No s'han pogut trobar «%1$s»"</string>
   <string name="no_share_file">"No s'ha pogut compartir aquest fitxer"</string>
+  <string name="no_share_file_content">El fitxer que heu seleccionat ja s\'ha eliminat</string>
+  <string name="no_share_files">"No es poden compartir fitxers que ja s'han suprimit"</string>
+  <string name="no_share_files_content">"Alguns dels fitxers que està tractant de compartir ja han estat eliminats. D'altres arxius s'han compartit amb èxit."</string>
   <string name="no_vip_info">Registreu-vos a Xunlei per accelerar les baixades</string>
   <string name="no_vip_show_info">"Accelera les baixades
 en tots els dispositius a través de Xunlei"</string>
+  <string name="notify_disabled_net_by_app">Accés restringit a Internet</string>
+  <string name="notify_not_support">"Aquestes notificacions no són compatibles, actualitzeu ara"</string>
   <string name="notify_only_wifi_download">S\'està esperant una Wi-Fi</string>
   <string name="one_month">1 mes</string>
   <string name="only_support_torrent">Només estan suportats els fitxers torrent</string>
   <string name="open">Oberta</string>
   <string name="open_download">Obre</string>
+  <string name="open_folder">Obre la carpeta</string>
   <string name="open_vip_hint">Tocar per fer-te membre de Xunlei</string>
+  <string name="open_vip_speedup">Feu-vos membre per augmentar la velocitat &gt;</string>
   <string name="open_xunlei_speed_service">Inicia accelerador de descàrregues Xunlei</string>
   <string name="original_price">Preu</string>
+  <string name="other">Altre</string>
   <string name="other_filter">ALTRES</string>
   <string name="package_filter">PAQUETS</string>
   <string name="pause_download">Pausar</string>
@@ -235,6 +243,8 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="rank">Classificacions</string>
   <string name="rank_data_empty">Sense classificacions</string>
   <string name="rank_guide_confirm">Feu-hi un cop d\'ull</string>
+  <string name="rank_guide_content">Les classificacions s\'actualitzen diàriament per mostrar les aplicacions més populars</string>
+  <string name="rank_guide_title">Aplicacions que altres persones instal·len</string>
   <string name="rebind_btn">Afegir de nou</string>
   <string name="recommend_downloading">Descarregant</string>
   <string name="recommend_failed">Ha fallat</string>
@@ -255,7 +265,10 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="revert_download_path">Utilitza ubicació de descàrregues per defecte?</string>
   <string name="save_path">"Desar descàrregues a: "</string>
   <string name="save_text">Estalvieu %1$s €</string>
+  <string name="search_clear_history_btn">Esborra l\'historial de cerca</string>
   <string name="search_clear_history_toast">S\'ha esborrat l\'historial</string>
+  <string name="search_favorite_empty">Afegeix algunes fonts als favorits</string>
+  <string name="search_favorite_title">Favorits</string>
   <string name="search_home_download_popup">Torna a les baixades</string>
   <string name="search_hot_anime">Dibuixos animats</string>
   <string name="search_hot_movie">Pel·lícules</string>
