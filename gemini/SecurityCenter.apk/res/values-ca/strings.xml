@@ -186,6 +186,9 @@ o introdueixi la seva contrasenya"</string>
   <string name="auto_task_operation_mute">Mode silenci</string>
   <string name="auto_task_operation_no_op">"No seleccioneu aquesta acció"</string>
   <string name="auto_task_operation_open_string">Activa %s</string>
+  <string name="auto_task_operation_string_comma">,</string>
+  <string name="auto_task_operation_string_etc">, etc.</string>
+  <string name="auto_task_operation_wifi">Wi-Fi</string>
   <string name="back">Enrere</string>
   <string name="background_traffic">Fons %s</string>
   <string name="battery_capacity_title">Capacitat de la bateria</string>
