@@ -43,6 +43,7 @@
   <string name="securespaces_device_admin_label">Administrador del dispositiu d\'Espais segurs</string>
   <string name="space_status_authorizing">S\'està autoritzant&#8230;</string>
   <string name="space_status_pending_auth">A l\'espera de l\'autorització.</string>
+  <string name="space_status_registering">S\'està registrant&#8230;</string>
   <string name="space_status_registration_error">Error en registrar l\'Espai.</string>
   <string name="space_status_registration_error_qr_code_reused">La invitació ja no és vàlida</string>
   <string name="space_status_unregistering">S\'està anul·lant el registre&#8230;</string>
