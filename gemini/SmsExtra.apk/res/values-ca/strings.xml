@@ -24,4 +24,6 @@
   <string name="sent_label">"Enviat: "</string>
   <string name="sms_card_partner_label">"Soci de targetes SMS: "</string>
   <string name="sms_card_teddy_mobile">Teddy Mobile</string>
+  <string name="text_message">Missatge de text</string>
+  <string name="view_message_details">Mostra els detalls</string>
 </resources>
