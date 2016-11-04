@@ -328,29 +328,29 @@ Les pàgines que visiteu no es veuran reflectides en l\'historial"</string>
   <string name="history_saved_webpage">Desa la pàgina</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Esborra</string>
-  <string name="homepage_get_location">Obtenir localització</string>
-  <string name="homepage_get_location_failed">"No s'ha pogut recuperar la informació, triar una ciutat"</string>
+  <string name="homepage_get_location">Obtén localització</string>
+  <string name="homepage_get_location_failed">"No s'ha pogut aconseguir informació, escolliu una ciutat"</string>
   <string name="homepage_more_cards">Més serveis</string>
   <string name="homepage_more_sites">Més llocs web</string>
   <string name="homepage_search_hint">Cerca</string>
   <string name="homepage_top_card_menu">Destacat</string>
-  <string name="in_incognito">"Estàs d'incògnit! Les pàgines web que veus en aquesta pestanya no apareixen en l'historial del navegador."</string>
+  <string name="in_incognito">"Esteu d'incògnit! Les pàgines web que veieu en aquesta pestanya no apareixeran en el vostre historial de navegació."</string>
   <string name="in_secureaccess">Canvia el navegador a mode segur</string>
   <string name="isReplacePage">El fitxer ja existeix, el voleu sobreescriure?</string>
   <string name="is_first_history_item">Aquest és el primer element de l\'historial</string>
   <string name="is_first_tab">Aquesta és la primera pestanya</string>
-  <string name="is_last_history_item">Aquest és l\'últim element de l\'historial</string>
-  <string name="is_last_tab">Aquesta és l\'última pestanya</string>
-  <string name="is_page_bottom">"Has arribat a la part inferior de la pàgina"</string>
-  <string name="is_page_top">"Estàs a l'inici de la pàgina"</string>
+  <string name="is_last_history_item">Aquesta és la darrera pàgina de l\'historial de navegació</string>
+  <string name="is_last_tab">Aquesta és la darrera pestanya</string>
+  <string name="is_page_bottom">"Heu arribat al final de la pàgina"</string>
+  <string name="is_page_top">"Sou a l'inici de la pàgina"</string>
   <string name="js_dialog_before_unload">"%s
 
-Esteu segur de voler sortir d\'aquesta pàgina?"</string>
-  <string name="js_dialog_before_unload_negative_button">Romandre en aquesta Pàgina</string>
-  <string name="js_dialog_before_unload_positive_button">Abandonar aquesta Pàgina</string>
-  <string name="js_dialog_before_unload_title">Confirmar Navegació</string>
+Voleu sortir d\'aquesta pàgina?"</string>
+  <string name="js_dialog_before_unload_negative_button">Roman</string>
+  <string name="js_dialog_before_unload_positive_button">Surt</string>
+  <string name="js_dialog_before_unload_title">Confirma la navegació</string>
   <string name="js_dialog_title">La pàgina a \"%s\" diu:</string>
-  <string name="js_disable_confirm_message">Desactivar JavaScript pot causar que alguns llocs web es visualitzin incorrectament.</string>
+  <string name="js_disable_confirm_message">Si es desactiva JavaScript es pot causar que es visualitzin incorrectament alguns llocs web.</string>
   <string name="js_disable_confirm_title">Desactivar JavaScript?</string>
   <string name="keep_queued_download">Mantenir</string>
   <string name="last_month">Mes passat</string>
