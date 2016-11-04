@@ -106,6 +106,8 @@
   <string name="petabyteShort">PB</string>
   <string name="pick_from_fileexplor_failed">Actualitzeu l\'Explorador primer.</string>
   <string name="quota_info">Mi Drive: %1$s disponible, %2$s total</string>
+  <string name="rename_alert">"Si canvieu l'extensió d'aquest fitxer, pot ser que no ho aconseguiu obrir-lo."</string>
+  <string name="rename_failed">Ja existeix un fitxer amb el mateix nom.</string>
   <string name="sd_full">La targeta SD està plena.</string>
   <string name="sd_invalid">La targeta SD està malmesa.</string>
   <string name="send_to_midrive_failed">"Aquest tipus de fitxer no està suportat."</string>
