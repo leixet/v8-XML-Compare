@@ -249,6 +249,7 @@ Les pàgines que visiteu no es veuran reflectides en l\'historial"</string>
   <string name="download_dialog_file_length_nolength_error_txt">"No s'ha pogut baixar"</string>
   <string name="download_dialog_file_length_nolength_txt">Un moment&#8230;</string>
   <string name="download_failed">"No s'ha pogut completar la baixada"</string>
+  <string name="download_filter_all">Tot</string>
   <string name="download_filter_apk">Apk</string>
   <string name="download_filter_application">Aplicacions</string>
   <string name="download_filter_audio">Música</string>
@@ -286,11 +287,11 @@ Les pàgines que visiteu no es veuran reflectides en l\'historial"</string>
   <string name="error_console_eval_button_text">Avalua</string>
   <string name="error_console_eval_text_hint">Avalua JavaScript</string>
   <string name="error_console_header_text_maximized">Consola de JavaScript</string>
-  <string name="error_console_header_text_minimized">Mostrar consola JavaScript</string>
+  <string name="error_console_header_text_minimized">Mostra la consola JavaScript</string>
   <string name="error_forbidden">S\'ha desactivat la sincronització a causa de problemes amb el vostre compte Mi.</string>
   <string name="error_not_acceptable">S\'ha desactivat la sincronització.</string>
   <string name="error_title">"No s'ha pogut sincronitzar"</string>
-  <string name="error_unauthorized">La sincronització amb el seu compte Mi s\'ha desactivat donats els intents excessius d\'iniciar sessió.</string>
+  <string name="error_unauthorized">La sincronització amb el vostre compte Mi s\'ha desactivat en excedir el límit d\'intents d\'inici de sessió.</string>
   <string name="exit_browser_warning">Voleu sortir ara mateix del navegador?</string>
   <string name="file_dir">Canvia de carpeta</string>
   <string name="file_name">"Nom: "</string>
@@ -308,9 +309,9 @@ Les pàgines que visiteu no es veuran reflectides en l\'historial"</string>
   <string name="force_touch_bookmark_history_title">Marcadors &amp; historial</string>
   <string name="force_touch_infoflow_title">Notícies</string>
   <string name="geolocation_permissions_prompt_dont_share">Rebutja</string>
-  <string name="geolocation_permissions_prompt_message">%s vol saber la seva ubicació</string>
-  <string name="geolocation_permissions_prompt_remember">Recordar preferència</string>
-  <string name="geolocation_permissions_prompt_share">Compartir ubicació</string>
+  <string name="geolocation_permissions_prompt_message">%s vol saber la vostre ubicació</string>
+  <string name="geolocation_permissions_prompt_remember">Recorda la preferència</string>
+  <string name="geolocation_permissions_prompt_share">Comparteix la ubicació</string>
   <string name="geolocation_permissions_prompt_toast_allowed">Aquest lloc pot accedir a la seva ubicació. Canvia això en les configuracions &gt; Avançat &gt; pantalla de de dades del lloc.</string>
   <string name="geolocation_permissions_prompt_toast_disallowed">Aquest lloc no pot accedir a la seva ubicació</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Cancel·lar</string>
