@@ -100,6 +100,10 @@
   <string name="operation_resume_all">Reprèn-ho tot</string>
   <string name="operation_save">Envia</string>
   <string name="operation_send">Desa</string>
+  <string name="operation_task_manage">Mostra les transferències</string>
+  <string name="operation_upload">Puja</string>
+  <string name="paused">Pausat</string>
+  <string name="petabyteShort">PB</string>
   <string name="pick_from_fileexplor_failed">Actualitzeu l\'Explorador primer.</string>
   <string name="quota_info">Mi Drive: %1$s disponible, %2$s total</string>
   <string name="sd_full">La targeta SD està plena.</string>
