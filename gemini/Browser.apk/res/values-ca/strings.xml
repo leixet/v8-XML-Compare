@@ -417,7 +417,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="miuichromium_error_page_diagnose_proxy_server">Error del servidor intermediari</string>
   <string name="miuichromium_error_page_diagnose_success">Senyal de xarxa deficient</string>
   <string name="miuichromium_error_page_diagnose_timeout">Temps de connexió esgotat</string>
-  <string name="miuichromium_error_page_diagnose_website">Aquest lloc web està caigut</string>
+  <string name="miuichromium_error_page_diagnose_website">La pàgina web no respon</string>
   <string name="miuichromium_error_page_diagnosing">Comprovant la xarxa</string>
   <string name="miuichromium_error_page_homepage">Pàgina d\'inici</string>
   <string name="miuichromium_error_page_mobile">Dades mòbils</string>
@@ -457,11 +457,11 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Cancel·la</string>
   <string name="navigationbar_rightbutton_actiontext_go">Vés</string>
   <string name="navigationbar_rightbutton_actiontext_search">Cerca</string>
-  <string name="network_show_wifi_setting_tip_dialog_description">Connectar-se a aquesta xarxa</string>
-  <string name="network_show_wifi_setting_tip_dialog_title">Obre xarxa Wi-Fi disponible</string>
+  <string name="network_show_wifi_setting_tip_dialog_description">Connecta a aquesta xarxa</string>
+  <string name="network_show_wifi_setting_tip_dialog_title">Xarxa Wi-Fi oberta disponible</string>
   <string name="new_folder_name_lable">Nom del grup</string>
   <string name="next_button_label">Següent</string>
-  <string name="no_app_open_document">No s\'ha trobat cap aplicació per processar aquesta acció</string>
+  <string name="no_app_open_document">No s\'ha trobat cap aplicació per gestionar aquesta acció</string>
   <string name="no_matches">No hi ha coincidències</string>
   <string name="no_space_alert_cancel">Més tard</string>
   <string name="no_space_alert_clean">Alliberar espai</string>
