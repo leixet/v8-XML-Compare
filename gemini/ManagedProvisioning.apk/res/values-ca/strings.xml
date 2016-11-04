@@ -69,8 +69,12 @@
   <string name="setup_profile_encryption">Configureu el perfil. Xifratge</string>
   <string name="setup_profile_progress">Configureu el perfil. S\'està mostrant el progrés</string>
   <string name="setup_profile_start_setup">Configureu el perfil. Inicieu la configuració</string>
+  <string name="setup_work_device">Configura el dispositiu</string>
   <string name="setup_work_profile">Configureu el perfil</string>
   <string name="sure_you_want_to_delete_profile">Si continueu, totes les aplicacions i dades d\'aquest perfil s\'esborraran.</string>
+  <string name="suw_back_button_label">Enrere</string>
+  <string name="suw_more_button_label">Més</string>
+  <string name="suw_next_button_label">Següent</string>
   <string name="the_following_is_your_mdm">La següent aplicació haurà d\'accedir a aquest perfil:</string>
   <string name="the_following_is_your_mdm_for_device">La següent aplicació administrarà el dispositiu:</string>
   <string name="theft_protection_disabled_warning">Si continueu, no s\'habilitaran les funcions contra robatori. Per activar la protecció contra robatori, cancel·leu ara i instal·leu això com un dispositiu personal.</string>
