@@ -115,6 +115,7 @@
   <string name="callFailed_dsac_restricted_normal">El control d\'accés restringeix les trucades normals.</string>
   <string name="callFailed_fdn_only">Les trucades sortints estan limitades als NMP.</string>
   <string name="callFailed_incoming_cb_enabled">La multi-conferència ha bloquejat totes les trucades entrants.</string>
+  <string name="callFailed_invalid_credentials">Nom d\'usuari o contrasenya incorrecta</string>
   <string name="callFailed_limitExceeded">S\'ha excedit el límit ACM</string>
   <string name="callFailed_low_battery">Bateria Baixa</string>
   <string name="callFailed_noSignal">Sense senyal</string>
