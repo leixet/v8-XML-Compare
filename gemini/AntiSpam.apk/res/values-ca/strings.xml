@@ -306,8 +306,8 @@
   <string name="st_summary_special_numbers">Bloqueja els números de telèfon marcats</string>
   <string name="st_summary_whitelist_numbers">Permet les trucades i els missatges de números i prefixos específics</string>
   <string name="st_summary_whitelist_numbers_international">Permet les trucades i els missatges de números específics</string>
-  <string name="st_title_adblock_group">Bloqueig de publicitat</string>
-  <string name="st_title_adblock_setting">Configuració del bloqueig de publicitat</string>
+  <string name="st_title_adblock_group">Bloquejador d\'anuncis</string>
+  <string name="st_title_adblock_setting">Configuració del bloquejador d\'anuncis</string>
   <string name="st_title_addblacklist">Afegeix a la llista de bloqueig</string>
   <string name="st_title_addwhitelist">Afegeix a les excepcions</string>
   <string name="st_title_adress">Afegeix ubicacions</string>
