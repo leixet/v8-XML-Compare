@@ -120,7 +120,7 @@
   </string-array>
   <string-array name="debug_hw_overdraw_entries">
     <item>Desactivat</item>
-    <item>Show overdraw areas</item>
+    <item>Mostra les àrees sobreposades</item>
     <item>Show areas for Deuteranomaly</item>
   </string-array>
   <string-array name="app_process_limit_entries">
@@ -136,7 +136,7 @@
     <item>MTP (Media Transfer Protocol)</item>
     <item>PTP (Picture Transfer Protocol)</item>
     <item>RNDIS (USB Ethernet)</item>
-    <item>Audio Source</item>
+    <item>Font d\'àudio</item>
     <item>MIDI</item>
   </string-array>
   <string-array name="tts_rate_entries">
@@ -151,7 +151,7 @@
     <item>El més ràpid</item>
   </string-array>
   <string-array name="color_mode_names">
-    <item>Vibrant (default)</item>
+    <item>Vibrant (per defecte)</item>
     <item>Natural</item>
     <item>Estàndard</item>
   </string-array>
