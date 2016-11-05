@@ -331,6 +331,7 @@
   <string name="dialpad_7_letters">PQRS</string>
   <string name="dialpad_8_letters">TUV</string>
   <string name="dialpad_9_letters">WXYZ</string>
+  <string name="dialpad_abc">ABC</string>
   <string name="dialpad_def">DEF</string>
   <string name="dialpad_ghi">GHI</string>
   <string name="dialpad_jkl">JKL</string>
@@ -553,6 +554,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="labelCW">Trucada en espera</string>
   <string name="labelCallerId">Identificador de trucades</string>
   <string name="labelCbCancelAll">Desactiva limitació de trucades</string>
+  <string name="labelCbChangePassword">Canvieu la contrasenya</string>
   <string name="labelCdmaMore_with_label">Configuració de trucada CDMA (%s)</string>
   <string name="labelGSMMore">Configuració de trucades GSM</string>
   <string name="labelGsmMore_with_label">Configuració de trucada GSM (%s)</string>
@@ -623,6 +625,7 @@ per començar a utilitzar el paquet de recàrrega"</string>
   <string name="livetalk_provision_title">Prestació</string>
   <string name="livetalk_remain_minutes_title">Temps de trucada disponible</string>
   <string name="livetalk_setting">Paquet de recàrrega</string>
+  <string name="livetalk_shortcut_title">Paquet de recàrrega</string>
   <string name="livetalk_terms_conditions">Termes i condicions</string>
   <string name="livetalk_unavaiable_info">Aquest servei no està disponible temporalment</string>
   <string name="livetalk_user_config_title">Verificació de la SIM</string>
@@ -696,6 +699,7 @@ per començar a utilitzar el paquet de recàrrega"</string>
   <string name="msim_not_set_summary">No establert</string>
   <string name="msim_pref_title_data">Internet</string>
   <string name="msim_pref_title_voice">Marcatge</string>
+  <string name="msim_select_default_time_left">(%d s)</string>
   <string name="msim_set_icc_card_error">Error de targeta ICC</string>
   <string name="msim_set_sub_not_supported_phone_in_call">"Mentre es truca no es pot establir"</string>
   <string name="msim_set_sub_not_supported_slot_id_error">Error de targeta SIM</string>
@@ -856,6 +860,9 @@ Torneu a provar-ho o truqueu al servei d\'atenció al client per a més opcions.
   <string name="other_settings">Altres ajustaments de trucada</string>
   <string name="other_settings_category">Altres</string>
   <string name="overseas_roaming_setting">Itinerància de dades</string>
+  <string name="password">Contrasenya</string>
+  <string name="password_changed">La contrasenya s\'ha canviat</string>
+  <string name="password_title">Contrasenya</string>
   <string name="path_answer_state_setting_title">Aplicacions de sistema/Telèfon/Paràmetres de trucades entrants</string>
   <string name="path_antispam_setting">Aplicacions de sistema/Telèfon/Llista de bloquejos</string>
   <string name="path_app_name">Aplicacions del sistema/Telèfon</string>
@@ -932,6 +939,8 @@ Queden %d intents."</string>
   <string name="pin_progress_set_icc_lock">S\'està establint el bloqueig ICC&#8230;</string>
   <string name="pin_progress_unlock_icc">S\'està desbloquejant la targeta SIM&#8230;</string>
   <string name="please_enter_phone_number">Introduïu el número de telèfon</string>
+  <string name="port">Port</string>
+  <string name="port_title">Número de port</string>
   <string name="preference_auto_ip_summary_disable">Desactivat</string>
   <string name="preference_category_ringtone">So de trucada &amp; vibració</string>
   <string name="preference_data_usage_summary">Definiu el vostre pla de dades per controlar l\'ús de les dades mòbils</string>
@@ -1021,6 +1030,7 @@ Queden %d intents."</string>
   <string name="proxy_address_title">Adreça externa del servidor intermediari</string>
   <string name="pstn_connection_service_label">Targetes SIM integrades</string>
   <string name="pstn_phone">Trucada de telèfon mòbil</string>
+  <string name="psw_enter_new">Nova contrasenya</string>
   <string name="psw_enter_old">Contrasenya antiga</string>
   <string name="psw_reenter_new">Introduïu la contrasenya de nou</string>
   <string name="puk2_blocked">PUK2 està bloquejat permanentment.</string>
