@@ -185,9 +185,11 @@ o introdueixi la seva contrasenya"</string>
   <string name="auto_task_operation_modify_string">Edita %s</string>
   <string name="auto_task_operation_mute">Mode silenci</string>
   <string name="auto_task_operation_no_op">"No seleccioneu aquesta acció"</string>
+  <string name="auto_task_operation_open">Activat</string>
   <string name="auto_task_operation_open_string">Activa %s</string>
   <string name="auto_task_operation_string_comma">,</string>
   <string name="auto_task_operation_string_etc">, etc.</string>
+  <string name="auto_task_operation_string_modify">Edita</string>
   <string name="auto_task_operation_sync">Sincronitza</string>
   <string name="auto_task_operation_vibration">Vibració</string>
   <string name="auto_task_operation_wifi">Wi-Fi</string>
@@ -265,6 +267,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="btn_text_optimize_now">Optimitzar</string>
   <string name="btn_text_power_cleanup">Neteja intensiva</string>
   <string name="btn_text_power_consume_suggest_optimize">Optimitzar</string>
+  <string name="btn_text_quick_antivirus">Arregla</string>
   <string name="btn_text_quick_cleanup">Netejar</string>
   <string name="btn_text_quick_optimize">Optimitzar</string>
   <string name="btn_text_quick_save_power">Refredar</string>
@@ -288,6 +291,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="button_text_ignore">Ignora</string>
   <string name="button_text_ignore_alert_title">Ignorar aquesta alerta?</string>
   <string name="button_text_known">D\'acord</string>
+  <string name="button_text_let_me_select">D\'acord</string>
   <string name="button_text_next_step">Següent</string>
   <string name="button_text_next_step_timer">Següent pas (%d)</string>
   <string name="button_text_open_now">Obrir</string>
@@ -300,6 +304,8 @@ o introdueixi la seva contrasenya"</string>
   <string name="button_text_update_now">Actualitzar</string>
   <string name="button_text_view">Optimitzar</string>
   <string name="button_text_view_power">Veure</string>
+  <string name="buy_immediately">Compra</string>
+  <string name="buy_traffic_pack">Compra més dades</string>
   <string name="byteShort">B</string>
   <string name="cache_header_title">Elimina %1$d fitxers escorcollats per alliberar %2$s d\'espai</string>
   <string name="call_and_contact">Trucades i contactes</string>
@@ -347,6 +353,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="cleaned">Netejat</string>
   <string name="clear_bigfiles">Esborra els fitxers grans, fotos duplicades i altres elements inútils</string>
   <string name="clear_garbage">Neteja la brossa per alliberar espai</string>
+  <string name="clear_immediately">Neteja-ho ara</string>
   <string name="close">Tanca</string>
   <string name="cmcc_app_check_dialog_message">Reinicieu el dispositiu per completar la reparació.</string>
   <string name="cmcc_app_check_dialog_negative">Més tard</string>
@@ -566,6 +573,8 @@ o introdueixi la seva contrasenya"</string>
   <string name="hints_virus_name_title">Virus:</string>
   <string name="hints_virus_scan_result_descx">"Aquesta és una aplicació d'alt risc per a la seguretat del seu telèfon."</string>
   <string name="history_details_title">Detalls historial</string>
+  <string name="hot">Popular</string>
+  <string name="hot_today">Popular avui</string>
   <string name="info_and_call">Trucades i missatges</string>
   <string name="information_setting">Configuració del canal de notícies</string>
   <string name="input_aviable_traffic">Establir límit d\'ús de dades</string>
@@ -623,6 +632,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="lock_screen_warning_category">Notificacions en pantalla de bloqueig</string>
   <string name="lock_screen_warning_switch_summary">Mostra advertència en pantalla de bloqueig quan l\'ús de dades excedeixi d\'una determinada quantitat</string>
   <string name="lock_screen_warning_switch_title">Mostra advertències en pantalla de bloqueig</string>
+  <string name="lock_screen_warning_value">Advertiment d\'ús de dades</string>
   <string name="lock_settings_title">Pantalla de bloqueig i contrasenya</string>
   <string name="lockpassword_confirm_your_password_header">Confirmeu la contrasenya</string>
   <string name="lockpassword_confirm_your_pattern_header">Confirmeu el patró</string>
@@ -650,6 +660,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="lockscreen_glogin_password_hint">Contrasenya</string>
   <string name="lockscreen_glogin_submit_button">Inicia sessió</string>
   <string name="long_click_dialog_summary">Mantingueu els resultats a la llista per afegir-los a les excepcions</string>
+  <string name="long_click_dialog_title">Atenció</string>
   <string name="main_activity_content_summary_root">Accés de superusuari</string>
   <string name="main_activity_content_summary_update">Actualitzar sistema</string>
   <string name="main_activity_content_title_scanning">Escannejant...</string>
@@ -664,6 +675,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="main_button_usage_adjusting">Canviant&#8230;</string>
   <string name="main_button_usage_package_setting">Establir límit d\'ús de dades</string>
   <string name="main_message_no_package_by_dual">Establir límit de dades per %s</string>
+  <string name="main_open_traffic_ctrl_button">Restricció d\'ús de dades</string>
   <string name="main_primary_message_traffic_cur_leisure">Ús de dades en hora vall</string>
   <string name="main_primary_message_traffic_cur_normal">Per sota del límit de dades</string>
   <string name="main_primary_message_traffic_cur_normal_overlimit">Límit de dades excedit</string>
@@ -758,6 +770,7 @@ Consum en hores punta: %1$s%2$s queda | %3$s usat"</string>
  2. Si vostè acaba de aumentar el saldo del seu dispositiu, reinicialitzeu el dispositiu i torneu a provar.
 
  3. La senyal de la xarxa del seu operador pot ser feble en la seva localització actual."</string>
+  <string name="network_not_available">"No s'ha pogut connectar a la xarxa"</string>
   <string name="network_operator_exception_summary">"No podia activa la targeta SIM. Assegureu-vos que la targeta SIM està inserida correctament i que s'ha activat el seu pla mòbil per la vostra companyia."</string>
   <string name="network_permission_exception_tips">"No podeu utilitzar dades mòbils per connectar a la xarxa"</string>
   <string name="network_roaming_exception_tips">"No podeu utilitzar dades mòbils mentre estigui connectat en itinerància a la xarxa."</string>
@@ -793,7 +806,9 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="networkchanged_exception_summary">Ha canviat la connexió de xarxa. Si us plau provi una altra vegada.</string>
   <string name="networkchanged_exception_title">Connexió canviada</string>
   <string name="never">1 cop</string>
+  <string name="news_change">Canvia</string>
   <string name="next_step_button">Següent</string>
+  <string name="no_network">"No s'ha pogut connectar a la xarxa, torneu-ho a provar més tard"</string>
   <string name="none_mi_service_app_detail">Buit</string>
   <string name="notification_battery_consume_abnormal_summary">Drenat %2$s de la bateria durant els últims %1$d minuts</string>
   <string name="notification_battery_consume_abnormal_title">La bateria està sent drenada massa ràpid</string>
