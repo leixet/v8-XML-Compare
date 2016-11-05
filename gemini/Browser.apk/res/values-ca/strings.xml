@@ -49,7 +49,7 @@
   <string name="action_menu_useful_page_added">Afegit a la pàgina d\'inici</string>
   <string name="actionbar_share">Comparteix</string>
   <string name="actionbar_web_search">Cerca al web</string>
-  <string name="adblock_force_updating_rules_toast">S\'està actualitzant el bloquejador de publicitat</string>
+  <string name="adblock_force_updating_rules_toast">S\'està actualitzant el bloquejador d\'anuncis</string>
   <string name="adblock_notification">%d anuncis bloquejats</string>
   <string name="adblock_rules_not_updated_toast">"No s'ha pogut actualitzar"</string>
   <string name="adblock_rules_restore">Desbloqueja</string>
@@ -514,7 +514,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="pref_content_night_read_mode">Mode nocturn</string>
   <string name="pref_content_search_engine">Estableix el motor de cerca a la barra d\'adreces</string>
   <string name="pref_content_search_engine_summary">Seleccioneu un motor de cerca</string>
-  <string name="pref_enable_adblock_notification">Mostra les notificacions del filtre de publicitat</string>
+  <string name="pref_enable_adblock_notification">Mostra les notificacions del bloquejador d\'anuncis</string>
   <string name="pref_enable_news">Notícies</string>
   <string name="pref_enable_novels">Llibres</string>
   <string name="pref_enable_videos">Vídeos</string>
