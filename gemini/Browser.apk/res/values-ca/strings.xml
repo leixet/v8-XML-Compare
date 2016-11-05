@@ -6,7 +6,7 @@
   <string name="abc_action_menu_overflow_description">Més</string>
   <string name="abc_action_mode_done">Fet</string>
   <string name="abc_action_mode_select_all">Selecciona-ho tot</string>
-  <string name="accept_cookies_confirm_message">Si apagueu aquesta característica podríeu fer que algunes webs funcionessin malament.</string>
+  <string name="accept_cookies_confirm_message">Si desactiveu aquesta característica podeu ser que alguns llocs web funcionin malament.</string>
   <string name="accessibility_button_clear">Neteja l\'entrada</string>
   <string name="accessibility_date_picker_month">Mes</string>
   <string name="accessibility_date_picker_week">Setmana</string>
@@ -24,14 +24,14 @@
   <string name="action_menu_account_not_login_hint">Inicieu la sessió per sincronitzar amb Mi Cloud</string>
   <string name="action_menu_bookshelf">Prestatgeria</string>
   <string name="action_menu_current_version">Versió actual</string>
-  <string name="action_menu_text_add_bookmark">Afegir marcador</string>
+  <string name="action_menu_text_add_bookmark">Afegeix un marcador</string>
   <string name="action_menu_text_bandwidth">Estalvi de dades</string>
   <string name="action_menu_text_bandwidth_off">Estalvi de dades</string>
   <string name="action_menu_text_bandwidth_on">Estalvi de dades</string>
   <string name="action_menu_text_bookmark_added">S\'ha afegit un marcador</string>
   <string name="action_menu_text_copy_url">Copia l\'URL</string>
   <string name="action_menu_text_create_qr_code">Codi QR</string>
-  <string name="action_menu_text_download">Gestiona baixades</string>
+  <string name="action_menu_text_download">Gestiona les baixades</string>
   <string name="action_menu_text_exit">Surt</string>
   <string name="action_menu_text_find_in_page">Troba a la pàgina</string>
   <string name="action_menu_text_fullscreen">Pantalla completa</string>
