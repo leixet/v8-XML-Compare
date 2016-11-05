@@ -1325,6 +1325,7 @@ Voleu utilitzar-lo en un paquet de recàrrega?"</string>
   <string name="use_history_duration_min">%1$smin</string>
   <string name="use_range">Gamma</string>
   <string name="username">UserName</string>
+  <string name="username_title">Nom d\'usuari</string>
   <string name="ussdRunning">El codi USSD està funcionant&#8230;</string>
   <string name="ussd_dialog_sep">----------</string>
   <string name="verified">Verificat</string>
@@ -1366,6 +1367,7 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="wifi_calling">Trucada Wi-Fi</string>
   <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
   <string name="wild_prompt_str">Substitueix el caràcter comodí amb</string>
+  <string name="wrong_password">La contrasenya introduïda és incorrecta</string>
   <string name="xdivert_summary">Configuració CFNRc</string>
   <string name="xdivert_title">Desviament de trucades</string>
 </resources>
