@@ -7,10 +7,6 @@
   <string name="account_cache_provider">Proveïdor de memòria cau de comptes</string>
   <string name="account_duplicate_dlg_message_fmt">"Ja esteu utilitzant aquest nom d'usuari pel compte \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Compte duplicada</string>
-  <string name="account_manager_type_exchange">com.android.exchange</string>
-  <string name="account_manager_type_imap">com.android.email</string>
-  <string name="account_manager_type_legacy_imap">com.android.email</string>
-  <string name="account_manager_type_pop3">com.android.email</string>
   <string name="account_name_toast">No s\'ha pogut crear el compte. Ja existeix un compte amb el mateix nom.\"</string>
   <string name="account_options_sync_title">Configuració de sincronització</string>
   <string name="account_password_spaces_error">"Aquesta contrasenya comença o acaba amb un o més
