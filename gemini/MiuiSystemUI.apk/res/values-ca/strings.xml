@@ -201,7 +201,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="nav_guide_title">Amaga els botons de la pantalla</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">Sense notificacions.</string>
-  <string name="no_weather_description">Obtenir informació meteorològica &gt;</string>
+  <string name="no_weather_description">Obtén la informació meteorològica &gt;</string>
   <string name="notification_header_title">Notificacions</string>
   <string name="notification_hidden_text">Contingut ocult</string>
   <string name="notification_manager">Administrar notificacions</string>
