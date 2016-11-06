@@ -268,7 +268,7 @@ Les pàgines que visiteu no es veuran reflectides en l\'historial"</string>
   <string name="download_pending">S\'està iniciant la baixada&#8230;</string>
   <string name="download_phone_tip">Telèfon</string>
   <string name="download_router_tip">Baixa a Mi Router</string>
-  <string name="download_sdcard_busy_dlg_msg">La memòria SD està ocupada. Per permetre baixades, desactiveu l\'emmagatzematge USB a l\'avís.</string>
+  <string name="download_sdcard_busy_dlg_msg">La memòria SD està ocupada. Per permetre baixades, desactiveu l\'emmagatzematge USB en l\'àrea de notificacions.</string>
   <string name="download_sdcard_busy_dlg_title">La memòria SD no està disponible</string>
   <string name="download_status_failed">"No s'ha pogut baixar"</string>
   <string name="download_status_pending">En espera</string>
