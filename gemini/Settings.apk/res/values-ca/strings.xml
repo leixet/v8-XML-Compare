@@ -50,7 +50,7 @@ Si més d\'un usuari fa servir el dispositiu, podeu habilitar-lo temporalment de
   <string name="accessibility_global_gesture_preference_summary_on">Engega</string>
   <string name="accessibility_global_gesture_preference_title">Drecera de Facilitat d\'accés</string>
   <string name="accessibility_lock_screen_progress">S\'han fet servir %1$d de %2$d caràcters</string>
-  <string name="accessibility_long_press_timeout_preference_title">Mantingueu premut &amp;</string>
+  <string name="accessibility_long_press_timeout_preference_title">Retard en tocar i mantenir premut</string>
   <string name="accessibility_menu_item_settings">Configuració</string>
   <string name="accessibility_no_services_installed">No s\'ha instal·lat cap servei</string>
   <string name="accessibility_no_wifi">S\'ha desconnectat el Wi-Fi.</string>
@@ -284,7 +284,7 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="assist_access_context_title">Utilitza el text de la pantalla</string>
   <string name="assist_access_screenshot_summary">Permet que l\'auxiliar de l\'aplicació accedeixi a la imatge de la pantalla</string>
   <string name="assist_access_screenshot_title">Utilitza la captura de pantalla</string>
-  <string name="assist_and_voice_input_title">Auxiliar &amp; entrada de veu</string>
+  <string name="assist_and_voice_input_title">Assistent i entrada de veu</string>
   <string name="assist_footer">L\'auxiliar de les aplicacions us pot ajudar segons la pantalla on sigueu. Hi ha aplicacions que també permeten ordres de veu.</string>
   <string name="assistant_security_warning">L\'auxiliar podrà llegir informació sobre les aplicacions en ús, de la pantalla i de la part accessible des de les aplicacions.</string>
   <string name="assistant_security_warning_agree">D\'acord</string>
@@ -771,7 +771,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="change_password">Canvia el bloqueig de pantalla</string>
   <string name="change_security_lock">Prova altres formes de desbloqueig</string>
   <string name="change_storage">Canvia l\'emmagatzematge</string>
-  <string name="charging_sounds_title">S\'estan carregant els sons</string>
+  <string name="charging_sounds_title">Sons de càrrega de la bateria</string>
   <string name="check_find_device_status_failure_confirm">D\'acord</string>
   <string name="check_update">Comprova les actualitzacions</string>
   <string name="checkbox_notification_same_as_incoming_call">Utilitza el volum de les trucades entrants per a les notificacions</string>
