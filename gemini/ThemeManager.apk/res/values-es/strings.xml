@@ -11,14 +11,12 @@
   <string name="apply_font_btn_reboot">Reiniciar</string>
   <string name="apply_font_tip">"Reiniciar para aplicar la fuente de este tema."</string>
   <string name="apply_theme_with_ringtones">Usar los tonos del tema</string>
-  <string name="audio_duration_seconds_format">%1$d segundo(s)</string>
   <string name="backup_theme_dialog_message">¿Hacer una copia de seguridad del tema actual?</string>
   <string name="backup_theme_dialog_ok">Aceptar</string>
   <string name="backup_theme_fail_trial_rights_message">"No se puede hacer copia de seguridad de los recursos de prueba"</string>
   <string name="backup_theme_name">Copia de seguridad del tema</string>
   <string name="backup_theme_progress_message">Haciendo copia de seguridad&#8230;</string>
   <string name="backup_theme_success_message">Copia de seguridad del tema realizada.</string>
-  <string name="browser_local_resource">Recursos locales</string>
   <string name="change_wallpaper">Fondo de pantalla</string>
   <string name="close">Cerrar</string>
   <string name="component_backup_preference_title">Copia de seguridad de los temas</string>
@@ -37,7 +35,6 @@
   <string name="description_version">Versión</string>
   <string name="description_version_szie">Versión: %1$s Tamaño: %2$s</string>
   <string name="desktop_wallpaper">Pantalla de inicio</string>
-  <string name="dev_options">Opciones de desarrollador</string>
   <string name="download_failed">Descarga fallida</string>
   <string name="download_preview_failed">"No se puede cargar la vista previa"</string>
   <string name="download_success">Descarga finalizada</string>
@@ -92,12 +89,9 @@
   <string name="lockscreen_wallpaper">Pant. de bloqueo</string>
   <string name="lockstyle_personal_settings">Personalizar</string>
   <string name="mi_wallpaper">Fondo de pantalla de MIUI</string>
-  <string name="multi_sim_ringtone_settings_dialog_ok">Lo tengo</string>
-  <string name="multi_sim_ringtone_settings_dialog_title">Problemas de compatibilidad</string>
   <string name="my_gifts">Regalos</string>
   <string name="my_gifts_purchased">Comprados</string>
   <string name="my_gifts_received">Recibidos</string>
-  <string name="no_data">"No se pudo conectar a la red"</string>
   <string name="online_no_network">"No se puede conectar a la red"</string>
   <string name="online_search_hint">Buscar recursos en línea</string>
   <string name="present_local_themes">Descargados</string>
@@ -107,7 +101,6 @@
   <string name="provision_second_title">Seleccione uno de los cinco temas por defecto</string>
   <string name="provision_title">Elija un tema</string>
   <string name="purchased_list">Comprados</string>
-  <string name="reload">Vuelve a intentarlo</string>
   <string name="resource_account_abnormal_state">Error en la cuenta. Espere uno o dos minutos y vuelva a intentarlo.</string>
   <string name="resource_account_fail_to_add">"No se puede añadir la cuenta"</string>
   <string name="resource_account_login">Iniciar sesión</string>
@@ -176,7 +169,6 @@
   <string name="resource_detail_recommend_desiner_other_themes">Otros temas diseñados por %1$s</string>
   <string name="resource_detail_recommend_other_themes">A los usuarios también les gustó</string>
   <string name="resource_detail_update_log_title">Actualizaciones</string>
-  <string name="resource_detail_vertical_divider">|</string>
   <string name="resource_detail_window_title">Detalles de %1$s</string>
   <string name="resource_download">Descargar</string>
   <string name="resource_download_notification_title_many">%1$s temas descargados</string>
@@ -234,7 +226,6 @@
   <string name="resource_present">Regalo</string>
   <string name="resource_price_free">Gratis</string>
   <string name="resource_price_unit">Créditos Mi</string>
-  <string name="resource_purchase_common_error">Tiempo de espera de análisis terminado, por favor intenta de nuevo</string>
   <string name="resource_purchase_getting_order">Recuperando información del pedido&#8230;</string>
   <string name="resource_purchase_verifying_payment">Verificando la información del pago&#8230;</string>
   <string name="resource_purchase_waiting_payment">Esperando la información del pago&#8230;</string>
@@ -243,12 +234,6 @@
   <string name="resource_ringtone_default">Tonos de llamada</string>
   <string name="resource_ringtone_volume_mute">El timbre está silenciado</string>
   <string name="resource_save_to_note">Guardar en Notas</string>
-  <string name="resource_search_color_hint_blue">Azul</string>
-  <string name="resource_search_color_hint_green">Verde</string>
-  <string name="resource_search_color_hint_orange">Naranja</string>
-  <string name="resource_search_color_hint_purple">Púrpura</string>
-  <string name="resource_search_color_hint_red">Rojo</string>
-  <string name="resource_search_color_hint_yellow">Amarillo</string>
   <string name="resource_search_list_empty">"No se ha encontrado nada"</string>
   <string name="resource_see_more">Ver más</string>
   <string name="resource_select">Seleccionar</string>
@@ -292,16 +277,12 @@
   <string name="resource_update">Actualizar</string>
   <string name="resource_user_know">Aceptar</string>
   <string name="resource_waiting_download">Esperando</string>
-  <string name="resource_waiting_pause">Pausa</string>
   <string name="sdcard_not_mounted_dialog_message">"Inserte la tarjeta SD ahora.
 "</string>
   <string name="sdcard_not_mounted_dialog_title">Tarjeta SD no detectada</string>
   <string name="search_hint_header_text">Lo más buscado</string>
   <string name="selected_resource_file_invalid">"No se puede utilizar el archivo de recurso seleccionado"</string>
   <string name="settings">Ajustes</string>
-  <string name="theme_apply_audio_dialog_item_alarm">Alarma</string>
-  <string name="theme_apply_audio_dialog_item_notification">Notificación</string>
-  <string name="theme_apply_audio_dialog_item_ringtone">Tono de llamada de grupo</string>
   <string name="theme_apply_failured">"No se puede aplicar el fondo de la pantalla de bloqueo"</string>
   <string name="theme_apply_success">Pantalla de bloqueo aplicada</string>
   <string name="theme_applying">Aplicando&#8230;</string>
@@ -310,7 +291,6 @@
   <string name="theme_batch_update_dlg_content_single">¿Actualizar %1$s ahora?</string>
   <string name="theme_batch_update_dlg_title">Actualizar tema</string>
   <string name="theme_batch_updating_text">Actualizando (%1$d)</string>
-  <string name="theme_bug_report">Reportar error</string>
   <string name="theme_changed_failed_message">"No se puede aplicar el tema"</string>
   <string name="theme_changed_message">Tema aplicado</string>
   <string name="theme_changing_dialog_title">"Aplicando "</string>
@@ -353,8 +333,6 @@
   <string name="theme_is_external_priority_storage">Guardar a tarjeta SD</string>
   <string name="theme_is_external_priority_storage_summary">La aplicación Temas se reiniciará inmediatamente para aplicar los cambios</string>
   <string name="theme_multiple_button_title_customize">Personalizar</string>
-  <string name="theme_name">%1$s</string>
-  <string name="theme_no">No</string>
   <string name="theme_precast_create_notification_content">Toca para ver nuevos temas.</string>
   <string name="theme_precast_create_notification_title">Actualizados a MIUI 7</string>
   <string name="theme_precast_update_notification_content">Toca para explorar las actualizaciones.</string>
