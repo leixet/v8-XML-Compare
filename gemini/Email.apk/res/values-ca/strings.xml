@@ -232,7 +232,7 @@
   <string name="clear_display_images_whitelist_dialog_message">Parar de mostrar les imatges en línia dels remitents anteriorment permesos.</string>
   <string name="clear_display_images_whitelist_dialog_title">Esborrar les aprovacions d\'imatge?</string>
   <string name="clear_display_images_whitelist_title">Esborra les aprovacions d\'imatge</string>
-  <string name="click_download_all_content">[ Toqui per descarregar  ]</string>
+  <string name="click_download_all_content">[ Toqueu per baixar el contingut ]</string>
   <string name="click_to_reload">Toqueu la pantalla per tornar a carregar</string>
   <string name="collapse_recipient_details">Col·lapsar detalls del destinatari</string>
   <string name="colon">:</string>
