@@ -397,7 +397,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="vip_expire_show_info">La subscripció Xunlei ha expirat.</string>
   <string name="vip_expire_today_show_info">La subscripció Xunlei ha expirat.</string>
   <string name="vip_show_info">"5 milions de membres.
- Accelera les descàrregues a tots els teus dispositius."</string>
+ Accelera les baixades a tots els vostres dispositius."</string>
   <string name="vip_speedup">Augment de velocitat:</string>
   <string name="web_dialog_cancel">Cancel·lar</string>
   <string name="web_dialog_confirm">D\'acord</string>
@@ -433,12 +433,12 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="xunlei_brand">Desenvolupat per Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
   <string name="xunlei_close_tips_button">Activar</string>
-  <string name="xunlei_close_tips_content">Accelerador de descàrregues Xunlei.</string>
-  <string name="xunlei_close_tips_title">Accelera les teves descàrregues</string>
-  <string name="xunlei_gaosu">Accelerador de descàrrega Xunlei</string>
+  <string name="xunlei_close_tips_content">Accelerador de baixades Xunlei.</string>
+  <string name="xunlei_close_tips_title">Accelera les baixades</string>
+  <string name="xunlei_gaosu">Accelerador de baixades Xunlei</string>
   <string name="xunlei_member_annual_fee">1 any</string>
   <string name="xunlei_member_one_month">1 mes</string>
   <string name="xunlei_open_info">Utilitzar motor Xunlei per obrir aquests enllaços?</string>
-  <string name="xunlei_speed_service">Accelerador de descàrregues Xunlei</string>
-  <string name="xunlei_switch">Motor de descàrrega Xunlei</string>
+  <string name="xunlei_speed_service">Accelerador de baixades Xunlei</string>
+  <string name="xunlei_switch">Motor de baixada Xunlei</string>
 </resources>
