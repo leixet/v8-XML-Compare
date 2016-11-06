@@ -251,10 +251,10 @@
   <string name="nowifi_alert_dialog_message">"Utilitza la teva connexió de dades mòbils per descarregar vídeos en streaming pot incrementar el consum de dades. Excedir el límit del teu pla de dades pot comportar despeses extra."</string>
   <string name="nowifi_alert_dialog_title">Alerta d\'ús de dades</string>
   <string name="offline">Descarregar</string>
-  <string name="offline_add_queue_fail">"Error al descarregar \"%1$s\", si us plau provar més tard"</string>
+  <string name="offline_add_queue_fail">"«%1$s» no s'han pogut baixar"</string>
   <string name="offline_alert_title">Ús de dades</string>
-  <string name="offline_alert_wifi">Estas usant la xarxa de dades mòbils, per estalviar s\'han pausat les operacions d\'emmagatzematge i continuaran quan es tingui accés a la xarxa Wi-Fi.</string>
-  <string name="offline_already_in">\"%1$s\" ja està en espera per descarregar</string>
+  <string name="offline_alert_wifi">Les baixades començaran quan el dispositiu es connecti a una xarxa Wi-Fi.</string>
+  <string name="offline_already_in">«%1$s» ja està en espera per baixar-se</string>
   <string name="offline_created_order">Afegit \"%1$s\", ja està en espera per descarregar</string>
   <string name="offline_loaded">Vídeo local</string>
   <string name="offline_loading">Local</string>
