@@ -183,7 +183,7 @@
   <string name="attachment_audio">Àudio</string>
   <string name="attachment_canceling">Cancel·lant&#8230;</string>
   <string name="attachment_decoding">Extraient adjunts&#8230;</string>
-  <string name="attachment_download_all">Descarregar tot</string>
+  <string name="attachment_download_all">Baixa-ho tot</string>
   <string name="attachment_image">Imatge</string>
   <string name="attachment_list_search_hint">Cercar adjunts</string>
   <string name="attachment_mgr_name">Fitxers adjunts</string>
