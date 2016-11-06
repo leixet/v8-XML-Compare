@@ -630,8 +630,8 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="reply_comment_title">Res: %s</string>
   <string name="resume_download">Comença</string>
   <string name="retry_after_network_available">"No es pot connectar a la xarxa"</string>
-  <string name="retry_download">Reintentar</string>
-  <string name="return_to_homepage">Tornar a la pàgina d\'inici </string>
+  <string name="retry_download">Reintenta</string>
+  <string name="return_to_homepage">Torna a la pàgina d\'inici</string>
   <string name="rlz_access_point">Y1</string>
   <string name="root_folder_lable">Cap</string>
   <string name="router_download_exist">Aquest fitxer de descàrrega ja existeix</string>
