@@ -123,7 +123,7 @@
   <string name="callrecordview_menu_delete_sim">Esborrar %s registres de trucades</string>
   <string name="callrecordview_menu_delete_stranger">Esborrar números desconeguts</string>
   <string name="callrecordview_menu_edit_call_note">Edita nota de trucada</string>
-  <string name="callrecordview_menu_ip">IP de marcació automàtica</string>
+  <string name="callrecordview_menu_ip">Auto marcació d\'IP</string>
   <string name="callrecordview_menu_livetalk">Paquet de recàrrega</string>
   <string name="callrecordview_menu_mobiledata">Dades de compra</string>
   <string name="callrecordview_menu_paste">Enganxar</string>
