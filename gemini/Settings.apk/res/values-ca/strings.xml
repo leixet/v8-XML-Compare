@@ -13,7 +13,6 @@ Si trieu que no voleu rebre anuncis personalitzats, no es reduirà la quantitat 
   <string name="ac_enable_title">Bloqueig de l\'aplicació</string>
   <string name="ac_privacy_mode_sum">Demana contrasenya per a desactivar el mode Convidat</string>
   <string name="ac_privacy_mode_title">Contrasenya</string>
-  <string name="ac_set_apps_title">Aplicacions bloquejades</string>
   <string name="accelerometer_summary_off">Canvia automàticament l\'orientació al girar el telèfon</string>
   <string name="accelerometer_summary_on">Canvia automàticament l\'orientació en girar el telèfon</string>
   <string name="accelerometer_title">Gira la pantalla automàticament</string>
