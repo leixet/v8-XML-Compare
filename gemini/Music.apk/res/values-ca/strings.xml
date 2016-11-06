@@ -139,14 +139,14 @@
   <string name="dialog_confirm_delete_checkbox_message">Suprimeix també els arxius locals</string>
   <string name="dialog_confirm_delete_downloads_message">Voleu suprimir %d elements?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Voleu suprimir aquests elements?</string>
-  <string name="dialog_failed_body">Proveu-ho a baixar més tard o elimina el fitxer de la cua?</string>
+  <string name="dialog_failed_body">Proveu-ho a baixar-lo més tard o elimina el fitxer de la cua?</string>
   <string name="dialog_file_already_exists">"No es pot baixar. Aquest fitxer ja existeix."</string>
   <string name="dialog_file_missing_body">"No s'ha pogut trobar el fitxer descarregat."</string>
   <string name="dialog_file_missing_title">"No es pot obrir el fitxer"</string>
   <string name="dialog_hint_music_error">No s\'han trobat cançons.</string>
   <string name="dialog_insufficient_space_on_cache">"No es pot completar la baixada. No hi ha prou espai en l'emmagatzematge intern."</string>
   <string name="dialog_insufficient_space_on_external">"No es pot completar la baixada. No hi ha prou espai en la targeta SD."</string>
-  <string name="dialog_media_not_found">"No es pot descarregar. La targeta SD no està disponible."</string>
+  <string name="dialog_media_not_found">"No es pot baixar. La targeta SD no està disponible."</string>
   <string name="dialog_not_show_again">"No tornis a mostrar-ho"</string>
   <string name="dialog_queued_body">Aquest fitxer està en cua per a futures baixades.</string>
   <string name="dialog_title_add_playlist">Afegeix llista de reproducció</string>
