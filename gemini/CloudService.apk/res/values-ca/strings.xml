@@ -437,7 +437,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="sms">SMS</string>
   <string name="some_sync_item_close">%d està desactivat</string>
   <string name="soundrecorder_sync_only_in_wifi">Només utilitzar Wi-Fi per sincronitzar</string>
-  <string name="soundrecorder_sync_only_in_wifi_summary">La gravadara no utilitzarà dades mòbils per descarregar o carregar les gravacions</string>
+  <string name="soundrecorder_sync_only_in_wifi_summary">La gravadora no utilitzarà dades mòbils per baixar o pujar les gravacions</string>
   <string name="soundrecorder_sync_records">Sincronitzar amb Mi Cloud</string>
   <string name="start_micloud">Començar</string>
   <string name="storage">Emmagatzematge</string>
