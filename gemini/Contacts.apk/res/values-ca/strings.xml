@@ -1253,7 +1253,7 @@ Trieu una de les següents opcions: "</string>
   <string name="yellowpage_navigation_search_result_service_error">Servei no disponible</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Error desconegut</string>
   <string name="yellowpage_navigation_search_select_city">Seleccioneu una ciutat</string>
-  <string name="yellowpage_navigation_send_to_desktop_downloading">S\'està baixant icona&#8230;</string>
+  <string name="yellowpage_navigation_send_to_desktop_downloading">S\'està baixant&#8230;</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">"No es pot connectar a la xarxa. Comprova la teva connexió de dades i intenta de nou."</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Afegit a la pantalla d\'inici</string>
   <string name="yellowpage_search_the_yellowpage">Buscar en les pàgines grogues</string>
