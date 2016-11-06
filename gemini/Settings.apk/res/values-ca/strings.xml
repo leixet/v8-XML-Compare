@@ -342,7 +342,7 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="backup_inactive_title">S\'ha deshabilitat el servei de còpies de seguretat.</string>
   <string name="backup_pw_cancel_button_text">Cancel·la</string>
   <string name="backup_pw_set_button_text">Establiu la contrasenya de la còpia de seguretat</string>
-  <string name="backup_section_title">Còpia de seguretat &amp; i restauració</string>
+  <string name="backup_section_title">Còpia de seguretat i restauració</string>
   <string name="band_mode_failed">No s\'ha pogut realitzar</string>
   <string name="band_mode_loading">S\'està carregant la llista de les freqüències&#8230;</string>
   <string name="band_mode_set">Defineix</string>
@@ -614,7 +614,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="bluetooth_search_for_devices">Cerca dispositius</string>
   <string name="bluetooth_searching_for_devices">S\'està cercant&#8230;</string>
   <string name="bluetooth_settings">Bluetooth</string>
-  <string name="bluetooth_settings_summary">Organitza les connexions, estableix el nom del dispositiu &amp; i la visibilitat</string>
+  <string name="bluetooth_settings_summary">Organitza les connexions, estableix el nom del dispositiu i la visibilitat</string>
   <string name="bluetooth_settings_title">Bluetooth</string>
   <string name="bluetooth_show_received_files">Mostra els fitxers rebuts</string>
   <string name="bluetooth_tether_checkbox_text">Comparteix internet per Bluetooth</string>
@@ -2267,7 +2267,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="open_wifi_connect_title">Connecta amb %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">L\'administrador d\'aquest perfil professional és:</string>
   <string name="optimization_cancel">Cancel·la</string>
-  <string name="optimization_close">Desactiva &amp; i reinicia</string>
+  <string name="optimization_close">Desactiva i reinicia</string>
   <string name="optimization_open">Engega</string>
   <string name="other_advanced_settings">Configuració addicional</string>
   <string name="other_device_info">Altres</string>
@@ -2344,7 +2344,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="path_accessibility_captioning_title">Configuració/Configuració addicional/Accessibilitat/Subtítols</string>
   <string name="path_accessibility_display_daltonizer_preference_title">Configuració/Configuració addicional/Accessibilitat/Correcció de color</string>
   <string name="path_accessibility_global_gesture_preference_title">Configuració/Configuració addicional/Accessibilitat/Drecera d\'accessibilitat</string>
-  <string name="path_accessibility_long_press_timeout_preference_title">Configuració/Configuració addicional/Accessibilitat//Toca &amp; manté pitjat</string>
+  <string name="path_accessibility_long_press_timeout_preference_title">Configuració/Configuració addicional/Accessibilitat//Toca i manté pitjat</string>
   <string name="path_accessibility_screen_magnification_title">Configuració/Configuració addicional/Accessibilitat/Gestos del zoom</string>
   <string name="path_accessibility_settings">Configuració/Configuració addicional/Accessibilitat</string>
   <string name="path_account_list">Configuració/Altres comptes</string>
