@@ -10,6 +10,7 @@ Si trieu que no voleu rebre anuncis personalitzats, no es reduirà la quantitat 
   <string name="about_settings">Quant al telèfon</string>
   <string name="about_settings_summary">Informació legal, estat i versió de programari</string>
   <string name="ac_enable_summary">Cal una contrasenya</string>
+  <string name="ac_enable_title">Bloquejador d\'aplicacions</string>
   <string name="ac_privacy_mode_sum">Demana contrasenya per a desactivar el mode Convidat</string>
   <string name="ac_privacy_mode_title">Contrasenya</string>
   <string name="ac_set_apps_title">Trieu les aplicacions a bloqueja</string>
