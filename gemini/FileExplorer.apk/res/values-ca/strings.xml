@@ -474,7 +474,7 @@
   <string name="rlv_refreshing">Escanejant fitxers&#8230;</string>
   <string name="rlv_release_to_close">Deixeu anar per tancar</string>
   <string name="rlv_release_to_refresh">Deixar anar per recarregar</string>
-  <string name="save_to_local">Descarregar</string>
+  <string name="save_to_local">Baixa</string>
   <string name="search_app">Font</string>
   <string name="search_app_more">Més</string>
   <string name="search_description">Cerca tots els fitxers al dispositiu</string>
