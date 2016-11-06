@@ -343,7 +343,7 @@
   <string name="input_dialogue_guide2">Introduïu el codi mostrat a la TV</string>
   <string name="input_dialogue_ok_button">Continua la instal·lació</string>
   <string name="input_source">Font d\'entrada</string>
-  <string name="input_speech_button">Premeu &amp; i aguanteu-ho, llavors digueu el vostre comandament</string>
+  <string name="input_speech_button">Premeu i aguanteu-ho, llavors digueu el vostre comandament</string>
   <string name="input_tip">Els codis expiren en 15 minuts</string>
   <string name="install_failed">"No s'ha pogut instal·lar %s"</string>
   <string name="install_succed">S\'ha instal·lat correctament %s</string>
@@ -406,7 +406,7 @@
   <string name="logout_done">S\'ha tancat la sessió correctament</string>
   <string name="management_app_management">Aplicacions</string>
   <string name="management_settings">Configuració</string>
-  <string name="management_video_favor">Historial &amp; preferits</string>
+  <string name="management_video_favor">Historial i preferits</string>
   <string name="management_video_recent_watch">Vist recentment</string>
   <string name="match_ac_intro_mode">Allibereu quan l\'AC es posi en mode refredament</string>
   <string name="match_ac_intro_power">Allibereu quan l\'AC s\'aturi</string>
