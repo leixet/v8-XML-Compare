@@ -818,7 +818,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="notification_charging_title">S\'està carregant </string>
   <string name="notification_exit_power_save_mode">Apagar estalvi de bateria</string>
   <string name="notification_exit_power_save_mode_subtitle">Bateria %s carregada.</string>
-  <string name="notification_item">Protegir aplicacions seleccionades amb el bloqueig de l\'aplicació</string>
+  <string name="notification_item">Protegir aplicacions seleccionades amb el bloquejador d\'aplicacions</string>
   <string name="notification_subtitle">Tocar per activar</string>
   <string name="notification_summary_cmcc_app_check">Toqui per veure els detalls.</string>
   <string name="notification_sysapp_cracked_text">S\'ha modificat la versió actual de MIUI</string>
