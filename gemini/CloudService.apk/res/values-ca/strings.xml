@@ -335,7 +335,7 @@ Toca el botó de configuració de sincronització per veure més opcions\"</stri
   <string name="micloud_single_dspt">Utilitzeu Mi Cloud per sincronitzar dades, buscar el dispositiu i compartir coses amb amics.</string>
   <string name="micloud_space_applist_detail">Gestiona les aplicacions a la pantalla d\'inici</string>
   <string name="micloud_space_applist_title">Gestiona les aplicacions</string>
-  <string name="micloud_space_duokan_detail">Administra el teu contingut Duokan usant l\'aplicació Duokan.</string>
+  <string name="micloud_space_duokan_detail">Baixeu i gestioneu llibres electrònics amb l\'aplicació Duokan.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
   <string name="micloud_space_full_influence">&lt;u&gt;&amp;#191;Que passa quan em quedo sense espai?&lt;/u&gt;</string>
   <string name="micloud_space_soundrecorder_detail">Gestiona gravacions emmagatzemades al dispositiu</string>
