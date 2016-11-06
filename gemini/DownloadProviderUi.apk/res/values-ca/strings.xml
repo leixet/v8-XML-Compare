@@ -179,7 +179,7 @@
   <string name="menu_all_task_pause">Pausar tot</string>
   <string name="menu_all_task_start">Començar tot</string>
   <string name="menu_enter_edit_mode">Editor</string>
-  <string name="menu_preferences">Configuració de descàrregues</string>
+  <string name="menu_preferences">Configuració de les baixades</string>
   <string name="menu_title_fileexplore">Explorador</string>
   <string name="menu_title_pause_all">Pausar tot</string>
   <string name="menu_title_resume_all">Començar tot</string>
@@ -189,10 +189,10 @@
   <string name="missing_title">&lt;Desconegut&gt;</string>
   <string name="net_error">"No s'ha pogut connectar a la xarxa, torneu-ho a provar"</string>
   <string name="network_error">"No es pot connectar a la xarxa"</string>
-  <string name="new_add">Nova descàrrega</string>
+  <string name="new_add">Nova baixada</string>
   <string name="new_add_bt">Afegeix torrent</string>
-  <string name="no_downloads">Sense descàrregues</string>
-  <string name="no_file_hint">La tasca de descàrrega d\'aquest fitxer ja existeix</string>
+  <string name="no_downloads">Sense baixades</string>
+  <string name="no_file_hint">La tasca de baixada d\'aquest fitxer ja existeix</string>
   <string name="no_result_for_keyword">"No s'han pogut trobar «%1$s»"</string>
   <string name="no_share_file">"No s'ha pogut compartir aquest fitxer"</string>
   <string name="no_share_file_content">El fitxer que heu seleccionat ja s\'ha eliminat</string>
@@ -211,7 +211,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="open_folder">Obre la carpeta</string>
   <string name="open_vip_hint">Tocar per fer-te membre de Xunlei</string>
   <string name="open_vip_speedup">Feu-vos membre per augmentar la velocitat &gt;</string>
-  <string name="open_xunlei_speed_service">Inicia accelerador de descàrregues Xunlei</string>
+  <string name="open_xunlei_speed_service">Inicia l\'accelerador de baixades Xunlei</string>
   <string name="original_price">Preu</string>
   <string name="other">Altre</string>
   <string name="other_filter">ALTRES</string>
