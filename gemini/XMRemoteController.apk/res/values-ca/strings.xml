@@ -264,7 +264,6 @@
   <string name="epg_program_share_drama">Quedem per veure %3$s pel canal %1$s, que s\'emet a:.%2$s parlem dels protagonistes preferits, endevinem l\'argument, tot amb el comandament remot universal extern</string>
   <string name="epg_program_share_game">Mira amb mi: %3$s canal: %1$s, a les:%2$s.</string>
   <string name="epg_program_updated_to">播放至第%1$d集</string>
-  <string name="epg_reply_comment_prefix">\@</string>
   <string name="epg_search_box_hint">Programa de TV o canal que voleu cercar</string>
   <string name="epg_search_history">Historial de cerca</string>
   <string name="epg_search_hot_channel">Canals més cercats</string>
@@ -1009,7 +1008,6 @@ Per canviar, premeu contínuament el botó d\'encesa del TV"</string>
   <string name="video_comment_latest_list_title">最新评论</string>
   <string name="video_comment_no_reply">暂无评论, 点击发表</string>
   <string name="video_comment_refresh_failed">刷新评论失败</string>
-  <string name="video_comment_reply">\@%s:</string>
   <string name="video_comment_reply_empty">评论不能为空</string>
   <string name="video_comment_reply_failed">评论失败</string>
   <string name="video_count_info">共%d部视频</string>
