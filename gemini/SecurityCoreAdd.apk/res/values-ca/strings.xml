@@ -87,7 +87,7 @@ Els missatges només apareixeran en el Segon espai."</string>
   <string name="hidden_app">Segon espai</string>
   <string name="imageData">Fotos</string>
   <string name="import_application">Importar aplicacions</string>
-  <string name="import_application_desc">"Importar aplicacions al Segon espai. També les podeu descarregar separadament."</string>
+  <string name="import_application_desc">"Importa les aplicacions al Segon espai. També podeu baixar-les per separat."</string>
   <string name="import_contacts">Importar contactes</string>
   <string name="import_contacts_desc">Fer privats els contactes importats</string>
   <string name="import_contacts_suc">Contactes privats importats</string>
