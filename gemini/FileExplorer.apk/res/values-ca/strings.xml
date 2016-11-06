@@ -316,7 +316,7 @@
   <string name="no_apk">Toqui per obtenir aplicacions.</string>
   <string name="no_app_tags">Buit</string>
   <string name="no_comment">Cap comentari</string>
-  <string name="no_downloaded_sticker_tip">"No s'ha trobat adhesius descarregats. Descobreix els adhesius compartits per fans de Mi."</string>
+  <string name="no_downloaded_sticker_tip">"No s'ha trobat adhesius baixats. Descobriu els adhesius compartits per fans de Mi."</string>
   <string name="no_enough_storage_indication">"L'espai d'emmagatzematge del dispositiu és ple."</string>
   <string name="no_enough_storage_title">No hi ha espai suficient</string>
   <string name="no_file">Buit</string>
