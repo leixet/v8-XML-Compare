@@ -344,7 +344,7 @@
   <string name="download_complete_not_cancel">Baixada finalitzada</string>
   <string name="download_confirm_message">Voleu baixar %1$s adjunts?</string>
   <string name="download_confirm_title">Baixa els adjunts</string>
-  <string name="download_message_failed_for_too_large">El missatge és massa gran per descarregar.</string>
+  <string name="download_message_failed_for_too_large">El missatge és massa gran per baixar-lo.</string>
   <string name="download_whole_email">Descarregar la resta de contingut</string>
   <string name="drawer_close">Tancar el calaix de navegació</string>
   <string name="drawer_contacts">Contactes</string>
