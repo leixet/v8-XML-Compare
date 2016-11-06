@@ -983,7 +983,7 @@ directament des de la vostra pantalla de bloqueig"</string>
   <string name="updated_just_now">Tot just actualitzat</string>
   <string name="upgrade_already_latest">No hi ha actualitzacions disponibles</string>
   <string name="upgrade_current_version">Versió actual %1s</string>
-  <string name="upgrade_download">Baixa aplicació</string>
+  <string name="upgrade_download">Baixa l\'aplicació</string>
   <string name="upgrade_found_new_version">Actualització disponible (%1s)</string>
   <string name="upgrade_later">Ara no</string>
   <string name="upgrade_loading">S\'està baixant&#8230;</string>
@@ -1034,7 +1034,7 @@ Per canviar, premeu contínuament el botó d\'encesa del TV"</string>
   <string name="virtual_keyhboard">Utilitza el teclat del dispositiu</string>
   <string name="virtual_keyhboard_intro">"Utilitzeu el teclat del vostre dispositiu per escriure a la pantalla"</string>
   <string name="voice">Àudio</string>
-  <string name="voice_download_tips">Premeu \"D\'acord\" per baixar el motor de veu</string>
+  <string name="voice_download_tips">Premeu «D\'acord» per baixar el motor de veu</string>
   <string name="voice_download_title">Atenció</string>
   <string name="voice_engine_ifly_fail">"No s'ha pogut reconèixer la veu"</string>
   <string name="voice_record_start">Enregistra veu</string>
