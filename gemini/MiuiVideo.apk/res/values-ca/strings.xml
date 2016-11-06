@@ -266,7 +266,7 @@
   <string name="offline_setting">Mitjans locals</string>
   <string name="offline_status_failed">Fallada</string>
   <string name="offline_status_finished">Completat</string>
-  <string name="offline_status_loading">Descarregant</string>
+  <string name="offline_status_loading">S\'està baixant&#8230;</string>
   <string name="offline_status_paused">Pausat</string>
   <string name="offline_status_waiting">Esperant</string>
   <string name="offline_with">Fora de línia (%d)</string>
