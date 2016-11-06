@@ -262,8 +262,8 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="retry_after_network_available">"No es pot connectar a la xarxa. Comproveu la seva connexió de dades i reinténta-ho"</string>
   <string name="retry_download">Reintentar</string>
   <string name="revert_default">Restablir</string>
-  <string name="revert_download_path">Utilitza ubicació de descàrregues per defecte?</string>
-  <string name="save_path">"Desar descàrregues a: "</string>
+  <string name="revert_download_path">Voleu utilitzar la ubicació de baixades per defecte?</string>
+  <string name="save_path">"Desar les baixades a: "</string>
   <string name="save_text">Estalvieu %1$s €</string>
   <string name="search_clear_history_btn">Esborra l\'historial de cerca</string>
   <string name="search_clear_history_toast">S\'ha esborrat l\'historial</string>
@@ -297,7 +297,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="search_website_more">Més</string>
   <string name="select_all">Selecciona-ho tot</string>
   <string name="select_operation_items">Escollir elements</string>
-  <string name="select_sub_file_download">Triar un fitxer per descarregar</string>
+  <string name="select_sub_file_download">Trieu un fitxer per baixar</string>
   <string name="select_subfile_all">Selecciona-ho tot</string>
   <string name="selected_count">Seleccionats %1$d de %2$d</string>
   <string name="setting_close_debug">Mode debug apagat</string>
