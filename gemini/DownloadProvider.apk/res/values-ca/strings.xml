@@ -58,8 +58,8 @@
   <string name="privacy_tip_content">"Voleu utilitzar l'accelerador Xunlei per augmentar la velocitat de les baixades? La URL de l'amfitrió de baixades es pujarà al servidor de Xunlei. Els detalls del vostre Compte Mi també es pujaran per comprovar si teniu alguna subscripció activa a aquest servei."</string>
   <string name="privacy_tip_ok">D\'acord</string>
   <string name="privacy_tip_title">Voleu utilitzar l\'accelerador Xunlei?</string>
-  <string name="recommended_file_size_download_in_mobile">Voleu utilitzar %s de dades mòbils per descarregar aquest fitxer?</string>
-  <string name="recommended_no_file_size_download_in_mobile">Voleu utilitzar la connexió de dades mòbils per descarregar aquest fitxer?</string>
+  <string name="recommended_file_size_download_in_mobile">Voleu utilitzar %s de dades mòbils per baixar aquest fitxer?</string>
+  <string name="recommended_no_file_size_download_in_mobile">Voleu utilitzar la connexió de dades mòbils per baixar aquest fitxer?</string>
   <string name="root_downloads">Baixades</string>
   <string name="task_already_exist">La tasca ja existeix</string>
   <string name="warning_tip_cancel">Baixa</string>
@@ -68,11 +68,11 @@
   <string name="warning_tip_title">Alerta d\'ús de dades</string>
   <string name="wifi_recommended_body" formatted="false">«En iniciar aquesta %s baixada podria donar lloc a un ús excessiu de la connexió de dades mòbil, que podria portar a càrrecs pel seu operador de telefonia mòbil en funció del seu pla de dades.
 
- Toqueu %s per iniciar la descàrrega la propera vegada que estigueu connectat a una xarxa Wi-Fi.»</string>
+ Toqueu %s per iniciar la baixada la propera vegada que estigueu connectat a una xarxa Wi-Fi.»</string>
   <string name="wifi_recommended_title">Voleu posar-lo en cua per baixar-lo més tard?</string>
-  <string name="wifi_required_body" formatted="false">«Heu d\'utilitzar la Wi-Fi per completar aquesta %s baixada. 
+  <string name="wifi_required_body" formatted="false">"Heu d\'utilitzar la Wi-Fi per completar aquesta %s baixada. 
 
-Toqueu %s per iniciar la baixada la propera vegada que estigueu connectat a una xarxa Wi-Fi.»</string>
+Toqueu %s per iniciar la baixada la propera vegada que estigueu connectat a una xarxa Wi-Fi."</string>
   <string name="wifi_required_title">Baixada massa gran per a la xarxa de l\'operador</string>
   <string name="xl_speedup_experience_notify_context">"La velocitat augmentarà a cada baixada quan sigueu un membre de Xunlei"</string>
   <string name="xl_speedup_experience_notify_title">Subscripció Xunlei</string>
