@@ -347,7 +347,7 @@
   <string name="oauth_failed_tip">"No es va poder completar l'autorització"</string>
   <string name="one_account_bind_needed">Afegiu com a mínim un compte</string>
   <string name="online_not_support">"No es pot veure aquest fitxer en línia de moment."</string>
-  <string name="only_wifi">Només amb connexió Wi-Fi</string>
+  <string name="only_wifi">Baixa només amb connexió Wi-Fi</string>
   <string name="open_app">Obrir</string>
   <string name="open_private_folder">Creant una carpeta oculta…</string>
   <string name="operation_add_fav">Afegint a favorits&#8230;</string>
