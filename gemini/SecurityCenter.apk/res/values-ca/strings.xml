@@ -9,7 +9,7 @@
   <string name="Settings_title_network_assistants">Configuració d\'ús de dades</string>
   <string name="Settings_title_power_center">Configuració de bateria</string>
   <string name="ac_enable_title">Activa el bloqueig de l\'aplicació</string>
-  <string name="ac_enter_applock">Entrar a bloqueig d\'aplicacions</string>
+  <string name="ac_enter_applock">Entrar al bloquejador d\'aplicacions</string>
   <string name="ac_firstUseApplock_subTitle">Utilitzeu el bloqueig d\'aplicacions per protegir la seva privacitat</string>
   <string name="ac_firstUseApplock_title">Sol·licitar contrasenya per obrir les aplicacions seleccionades</string>
   <string name="ac_summaryOff">Desactivat, no es requereix cap contrasenya per obrir aplicacions</string>
