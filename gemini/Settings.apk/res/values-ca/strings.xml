@@ -1364,7 +1364,7 @@ Algunes aplicacions poden ser incompatibles fins que siguin actualitzades pels s
   <string name="filter_apps_disabled">S\'ha desactivat</string>
   <string name="filter_apps_onsdcard">Emmagatzematge USB</string>
   <string name="filter_apps_running">S\'està executant</string>
-  <string name="filter_apps_third_party">S\'ha descarregat</string>
+  <string name="filter_apps_third_party">Baixats</string>
   <string name="filter_dlg_title">Selecció d\'opcions de filtre</string>
   <string name="filter_enabled_apps">Habilitat</string>
   <string name="filter_notif_blocked_apps">Bloquejat</string>
@@ -2065,16 +2065,16 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="move_app_to_sdcard">Desplaça-ho a l\'emmagatzematge USB</string>
   <string name="moving">S\'està desplaçant</string>
   <string name="mqsas_settings_category">MQSAS</string>
-  <string name="msd_driver_download">Descarrega el controlador</string>
-  <string name="msd_driver_download_mac">OSX: Descarregueu el controlador i instal·leu AndroidFileTransfer.dmg.</string>
+  <string name="msd_driver_download">Baixa el controlador</string>
+  <string name="msd_driver_download_mac">OSX: Baixeu el controlador i instal·leu AndroidFileTransfer.dmg.</string>
   <string name="msd_driver_download_mac_url">Baixeu els controladors des d\'http://www.android.com/filetransfer/</string>
-  <string name="msd_driver_download_xp">Windows: descarregeu Mi Phone Manager per utilitzar el telèfon com un dispositiu d\'emmagatzematge USB.</string>
+  <string name="msd_driver_download_xp">Windows: baixeu Mi Phone Manager per utilitzar el telèfon com un dispositiu d\'emmagatzematge USB.</string>
   <string name="msd_driver_download_xp_url">Baixeu els controladors des d\'http://zhushou.mi.com/</string>
   <string name="msd_help_summary">"No podeu accedir al dispositiu?
 Seleccioneu el sistema operatiu:"</string>
   <string name="msd_help_title">Ajuda</string>
   <string name="msd_install">Voleu reinstal·lar el controlador?</string>
-  <string name="msd_install_download_zhushou">"He descarregat Mi Phone Manager"</string>
+  <string name="msd_install_download_zhushou">"He baixat Mi Phone Manager"</string>
   <string name="msd_install_finish">D\'acord</string>
   <string name="msd_install_next">Següent</string>
   <string name="msd_install_retry">"Si l'ordinador encara no detecta el dispositiu, proveu:"</string>
@@ -3209,7 +3209,7 @@ Per fer-ho:
   <string name="security_encryption_attention_2">"Per desxifrar el dispositiu després de cada reinici, cal la contrasenya de bloqueig de pantalla. La reinicialització trigarà una mica més."</string>
   <string name="security_encryption_attention_3">"Cal una nova contrasenya pel bloqueig de pantalla."</string>
   <string name="security_encryption_attention_4">"Assegureu-vos de recordar la contrasenya de bloqueig de pantalla, sinó haureu de realitzar una reinicialització de fàbrica i es suprimiran totes les dades del dispositiu."</string>
-  <string name="security_encryption_attention_info">Podeu xifrar els comptes, la configuració, les aplicacions descarregades, les dades, els fitxers multimèdia i tots els altres fitxers.</string>
+  <string name="security_encryption_attention_info">Podeu xifrar els comptes, la configuració, les aplicacions baixades, les dades, els fitxers multimèdia i tots els altres fitxers.</string>
   <string name="security_encryption_attention_symbol">•</string>
   <string name="security_encryption_attention_title">Important</string>
   <string name="security_encryption_close_dialog_info">Si no xifreu el dispositiu amb la contrasenya de bloqueig de pantalla pot ser que alguns serveis de Google no estiguin disponibles.</string>
@@ -3549,9 +3549,9 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="storage_detail_apps">Aplicacions</string>
   <string name="storage_detail_audio">Àudio</string>
   <string name="storage_detail_cached">Dades desades a la memòria cau</string>
-  <string name="storage_detail_dialog_other">«A l\'apartat Altres s\'inclouen fitxers compartits desats per les aplicacions, fitxers baixats d\'Internet o per Bluetooth i fitxers d\'Android, entre d\'altres. 
+  <string name="storage_detail_dialog_other">"A l\'apartat Altres s\'inclouen fitxers compartits desats per les aplicacions, fitxers baixats d\'Internet o per Bluetooth i fitxers d\'Android, entre d\'altres. 
 
-Per veure tot el contingut de ^1, toqueu Explora.»</string>
+Per veure tot el contingut de ^1, toqueu Explora."</string>
   <string name="storage_detail_dialog_user">"^1 pot tenir desades les fotos, música, pel·lícules, aplicacions o altres dades que s\'estan movent a l\'emmagatzematge ^2
 
 Per veure els detalls, canvieu a ^1."</string>
