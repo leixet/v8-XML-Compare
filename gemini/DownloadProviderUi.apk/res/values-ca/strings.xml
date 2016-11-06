@@ -13,9 +13,9 @@
   <string name="ad_title">La gent també va baixar aquests amb %1$s</string>
   <string name="ad_title_other">Les persones que van baixar aquesta imatge també van baixar</string>
   <string name="add_flow_fail_haveget_msg">El període de prova ha acabat.</string>
-  <string name="add_flow_fail_vip_msg">L\'accelerador de descàrregues Xunlei està activat</string>
+  <string name="add_flow_fail_vip_msg">L\'accelerador de baixades Xunlei està activat</string>
   <string name="add_flow_success_msg">%s afegits aquest mes</string>
-  <string name="all_downloads">Totes les descàrregues</string>
+  <string name="all_downloads">Totes les baixades</string>
   <string name="all_fileter">Tots</string>
   <string name="all_share_files_content">Els arxius seleccionats ja s\'han eliminat.</string>
   <string name="all_the_internet">Totes les xarxes</string>
