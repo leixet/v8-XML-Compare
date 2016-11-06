@@ -21,7 +21,7 @@
   <string name="account_setting">Comptes</string>
   <string name="account_setting_keywords">Comptes; comptes de correu</string>
   <string name="account_settings_action">Configuració del compte</string>
-  <string name="account_settings_background_attachments_label">Descarregar dades adjuntes</string>
+  <string name="account_settings_background_attachments_label">Baixa els fitxers adjunts</string>
   <string name="account_settings_background_attachments_summary">Baixa els arxius adjunts amb Wi-Fi</string>
   <string name="account_settings_data_usage">Ús de dades</string>
   <string name="account_settings_description_label">Nom del compte</string>
