@@ -57,7 +57,7 @@
   <string name="auto_download_in_wifi">Baixa cançons preferides utilitzant Wi-Fi</string>
   <string name="auto_payment">Renovació automàtica</string>
   <string name="auto_payment_date">Proper pagament: %s</string>
-  <string name="auto_restart_under_wifi">Quan hi hagi connexió Wi-Fi es descarregarà automàticament aquest fitxer</string>
+  <string name="auto_restart_under_wifi">Quan hi hagi connexió Wi-Fi es baixarà automàticament aquest fitxer</string>
   <string name="avail_services">Disponible</string>
   <string name="available_playlist_name_format">Nova llista de reproducció %d</string>
   <string name="avoid_to_use_traffic_summary">"No utilitzar dades mòbils per escoltar música per transmissió"</string>
