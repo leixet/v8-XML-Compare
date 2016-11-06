@@ -46,7 +46,7 @@
   <string name="account_user_phone">Número de telèfon</string>
   <string name="account_user_recovery_phone">Telèfon de recuperació</string>
   <string name="account_user_region">Regió</string>
-  <string name="account_user_secure_info">Telèfon &amp; email</string>
+  <string name="account_user_secure_info">Telèfon i email</string>
   <string name="account_user_using_facebook_avatar">Utilitza la foto de perfil de Facebook</string>
   <string name="account_user_using_qq_avatar">Utilitza la foto de perfil de QQ</string>
   <string name="account_user_using_weibo_avatar">Utilitza la foto de perfil de Sina Weibo</string>
