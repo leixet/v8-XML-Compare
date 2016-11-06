@@ -388,8 +388,8 @@
   <string name="updatedalready">Actualitzat</string>
   <string name="upgrade">Actualització</string>
   <string name="use_cellular_network">Configuració de connexió amb dades mòbils</string>
-  <string name="use_cellular_network_summary">Utilitzar connexió de dades mòbils. Pot incrementar l\'ús de dades.</string>
-  <string name="use_cellular_offlinedownload_summary">Mostrar notificació a l\'usar dades mòbils per descarregar vídeo</string>
+  <string name="use_cellular_network_summary">Utilitza la connexió de dades mòbils per baixar vídeos. Pot incrementar l\'ús de dades.</string>
+  <string name="use_cellular_offlinedownload_summary">Mostra una notificació en utilitzar dades mòbils per baixar vídeos</string>
   <string name="use_cellular_offlinedownload_title">Notificació de descàrrega</string>
   <string name="use_cellular_play_summary">Tancar per estalviar dades.</string>
   <string name="use_cellular_play_title">Utilitzar dades mòbils per veure vídeo</string>
