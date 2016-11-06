@@ -237,9 +237,9 @@
   <string name="unsticked_conversation">La conversa ja no està fixada</string>
   <string name="unsupported_media_format">Format %1$s no suportat.</string>
   <string name="view">Mostra</string>
-  <string name="view_hms_attachment_fail">"No s'ha pogut descarregar la imatge"</string>
+  <string name="view_hms_attachment_fail">"No s'ha pogut baixar la imatge"</string>
   <string name="view_hms_details">Detalls</string>
-  <string name="view_hms_details_download">Descàrrega</string>
+  <string name="view_hms_details_download">Baixa</string>
   <string name="view_message_details">Veure els detalls</string>
   <string name="xiaomi_service_number">Número de servei</string>
   <string name="yes">D’acord</string>
