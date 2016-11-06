@@ -110,7 +110,7 @@
   <string name="callrecordview_item_op_video">Vídeo</string>
   <string name="callrecordview_menu_add_call_note">Afegir nota de trucada</string>
   <string name="callrecordview_menu_batch_delete">Eliminar lot</string>
-  <string name="callrecordview_menu_blocklist">Llista de bloquejos</string>
+  <string name="callrecordview_menu_blocklist">Llista de bloqueig</string>
   <string name="callrecordview_menu_conference">Trucada de conferència</string>
   <string name="callrecordview_menu_delete">Netejar registre de trucades </string>
   <string name="callrecordview_menu_delete_accepted">Netejar trucades respostes</string>
