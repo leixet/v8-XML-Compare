@@ -368,7 +368,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="dialer_empty_text_no_call_log">No hi ha contactes recents</string>
   <string name="dialer_empty_text_no_search_result">No s\'han trobat els contactes</string>
   <string name="dialer_menu_description">Mostra marcador</string>
-  <string name="dialer_menu_title">Opcions de menú</string>
+  <string name="dialer_menu_title">Menú d\'opcions</string>
   <string name="dialer_returnToInCallScreen">Retornar a la trucada en progrés</string>
   <string name="dialer_useDtmfDialpad">Utilitza el teclat per tons</string>
   <string name="dialog_import">Importa contactes</string>
