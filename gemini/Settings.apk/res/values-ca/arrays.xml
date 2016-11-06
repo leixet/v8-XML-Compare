@@ -942,7 +942,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Fotos</item>
     <item>Fitxers</item>
     <item>Notes</item>
-    <item>Bloqueig de l\'aplicació</item>
+    <item>Mode infantil</item>
   </string-array>
   <string-array name="standard_configuration_version_device_display_description_text_1">
     <item>GB</item>
