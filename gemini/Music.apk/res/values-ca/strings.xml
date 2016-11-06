@@ -102,7 +102,6 @@
   <string name="confirm_to_renew">Renova</string>
   <string name="cp_info_first">«El servei de retransmissió de música
 és principalment proveït per Ultimate Inc.»</string>
-  <string name="cp_info_second">service1@ultimobi.com</string>
   <string name="create_order_fail">"No s'ha pogut crear l'ordre, torneu-ho a provar."</string>
   <string name="create_playlist">Crea una llista de reproducció</string>
   <string name="create_playlist_failure">"No s'ha pogut crear la llista de reproducció "</string>
