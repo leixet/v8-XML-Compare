@@ -528,7 +528,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="pref_file_downlaod_save_is_reset_default_settings">"Desa els arxius a la localització predeterminada del navegador"</string>
   <string name="pref_file_downlaod_save_reset_default_settings">Restaura la ubicació predeterminada</string>
   <string name="pref_file_download_default_path_prefix">Ubicació per defecte: %s</string>
-  <string name="pref_file_download_save_modify_default_path">Localització de les baixades</string>
+  <string name="pref_file_download_save_modify_default_path">Ubicació de les baixades</string>
   <string name="pref_file_download_save_title">Baixades</string>
   <string name="pref_fling_on_border_enabled">Feu lliscar des de la vora</string>
   <string name="pref_fling_on_border_enabled_title_summary">Feu lliscar des de la vora dreta o esquerra de la pantalla per canviar entre les pestanyes</string>
