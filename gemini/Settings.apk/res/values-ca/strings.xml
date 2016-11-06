@@ -3160,7 +3160,7 @@ Per fer-ho:
   <string name="search_tether_settings_title_usb">USB tethering</string>
   <string name="search_theme_settings">Temes</string>
   <string name="search_toggle_position">Posicions dels commutadors</string>
-  <string name="search_touch_assistant">Assistent tàctil</string>
+  <string name="search_touch_assistant">Menú de dreceres;Assistent tàctil</string>
   <string name="search_touch_sensitive_title">Mode guants</string>
   <string name="search_trusted_credentials">Certificats de confiança</string>
   <string name="search_tts_settings_title">Sortida de cerca per veu</string>
