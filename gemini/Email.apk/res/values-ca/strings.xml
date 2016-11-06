@@ -726,7 +726,7 @@
   <string name="push_wps_better_confirm_noshow_hint">"No mostrar de nou"</string>
   <string name="push_wps_better_confirm_title">Provar WPS Office</string>
   <string name="push_wps_confirm_cancel">Ara no</string>
-  <string name="push_wps_confirm_download">Descarregar</string>
+  <string name="push_wps_confirm_download">Baixa</string>
   <string name="push_wps_confirm_message">Prova a utilitzar WPS Office per obrir aquest fitxer adjunt.</string>
   <string name="push_wps_confirm_title">Provar WPS Office</string>
   <string name="push_wps_no_response_app">No s\'ha trobat l\'aplicació per gestionar aquesta acció</string>
@@ -768,8 +768,8 @@
   <string name="quote_divider_qq_zh">------------------ Missatge original ------------------</string>
   <string name="quoted_text">Incloure text citat</string>
   <string name="quoted_text_label">Citar text</string>
-  <string name="re_download_message_button">Premi per descarregar de nou</string>
-  <string name="re_download_message_info">"No s'ha pogut descarregar el correu electrònic"</string>
+  <string name="re_download_message_button">Premeu per baixar-lo de nou</string>
+  <string name="re_download_message_info">"No s'ha pogut baixar el correu"</string>
   <string name="read_string">conversa llegir</string>
   <string name="recipient_needed">Afegeix a almenys un destinatari.</string>
   <string name="recipient_needed_title">Advertir</string>
@@ -852,7 +852,7 @@
   <string name="sharing">Compartir</string>
   <string name="shortcut_name_title">Nom per drecera de carpeta</string>
   <string name="show_elided">▶ Mostra text citat</string>
-  <string name="show_images">Descarregar i veure fotos</string>
+  <string name="show_images">Baixa i mostra les imatges</string>
   <string name="signature">" %s"</string>
   <string name="silent_ringtone">Silenciós</string>
   <string name="single_new_message_notification_big_text">"%1$s 
