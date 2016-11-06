@@ -8,9 +8,9 @@
   <string name="Settings_title_garbage_cleanup">Configuració de netejador</string>
   <string name="Settings_title_network_assistants">Configuració d\'ús de dades</string>
   <string name="Settings_title_power_center">Configuració de bateria</string>
-  <string name="ac_enable_title">Activa el bloqueig de l\'aplicació</string>
+  <string name="ac_enable_title">Activa el bloquejador d\'aplicacions</string>
   <string name="ac_enter_applock">Entrar al bloquejador d\'aplicacions</string>
-  <string name="ac_firstUseApplock_subTitle">Utilitzeu el bloqueig d\'aplicacions per protegir la seva privacitat</string>
+  <string name="ac_firstUseApplock_subTitle">Utilitzeu el bloquejador d\'aplicacions per protegir la seva privacitat</string>
   <string name="ac_firstUseApplock_title">Sol·licitar contrasenya per obrir les aplicacions seleccionades</string>
   <string name="ac_summaryOff">Desactivat, no es requereix cap contrasenya per obrir aplicacions</string>
   <string name="ac_summaryOn">Activat, es requereix una clau per obrir aplicacions</string>
@@ -20,7 +20,7 @@
 o introdueixi la seva contrasenya"</string>
   <string name="access_control_need_to_unlock_nofingerprint">Introduïu la contrasenya de desbloqueig</string>
   <string name="access_control_recording_intro_header">Dibuixeu el patró per bloquejar una aplicació</string>
-  <string name="access_control_reset_by_account">Inicieu la sessió al seu compte Mi per resetejar el bloqueig d\'aplicacions</string>
+  <string name="access_control_reset_by_account">Inicieu la sessió al seu compte Mi per resetejar el bloquejador d\'aplicacions</string>
   <string name="action_button_text_100">Optimitza</string>
   <string name="action_button_text_60">Arregla</string>
   <string name="action_button_text_60_80">Arregla</string>
@@ -73,7 +73,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="adjust_traffic_carrier_summary_two_day_before">Actualitzat fa 2 dies</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Actualitzat ahir a la(s) %s</string>
   <string name="adjust_traffic_data">Establir ús de dades</string>
-  <string name="after_the_lock_screen">"L'aplicació sera bloquejada juntament amb la pantalla, pot canviar això en la configuració de bloqueig d'aplicacions."</string>
+  <string name="after_the_lock_screen">"L'aplicació serà bloquejada juntament amb la pantalla, pot canviar això a la configuració del bloquejador d'aplicacions."</string>
   <string name="antivirus_choose_engine">%s</string>
   <string name="antivirus_choose_engine_dialog_title">Triar definicions</string>
   <string name="antivirus_choose_engine_disable_toast">"No es poden canviar les definicions durant l'escaneig"</string>
@@ -111,6 +111,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="app_install_tips_go_to">Obre\'l</string>
   <string name="app_install_tips_install_success">%1$s s\'ha instal·lat amb èxit</string>
   <string name="app_mobile">Mòbil</string>
+  <string name="app_name">Bloquejador d\'aplicacions</string>
   <string name="app_name_na">Ús de dades</string>
   <string name="app_name_securitycenter">Seguretat</string>
   <string name="app_not_installed_toast">"L'aplicació no està instal·lada al dispositiu."</string>
@@ -312,8 +313,8 @@ o introdueixi la seva contrasenya"</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_button">Cancel·lar</string>
   <string name="card_main_applock_action">Activa</string>
-  <string name="card_main_applock_summary">Protegir els elements privats amb el bloqueig d\'aplicacions</string>
-  <string name="card_main_applock_title">Bloqueig d\'aplicacions</string>
+  <string name="card_main_applock_summary">Protegir els elements privats amb el bloquejador d\'aplicacions</string>
+  <string name="card_main_applock_title">Bloquejador d\'aplicacions</string>
   <string name="card_main_datasave_action">Activa</string>
   <string name="card_main_datasave_summary">Comprimeix les dades per estalviar fins a un 20%</string>
   <string name="card_main_datasave_title">Estalvi de dades</string>
@@ -886,8 +887,8 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="packages_subtitle">Paquets inclosos</string>
   <string name="passwordIncorrect">Usuari o contrasenya incorrecta</string>
   <string name="password_promotion_button_text">D\'acord</string>
-  <string name="password_promotion_message">Bloqueig d\'aplicacions està actualitzant la contrasenya de protecció de privacitat. Pot utilitzar el seu compte Mi per restablir-la.</string>
-  <string name="password_promotion_not_login_xiaomi_account_message">Bloqueig d\'aplicacions està actualitzant la contrasenya de protecció de privacitat. Pot utilitzar el seu compte Mi per restablir-la. Afegeix el seu compte Mi per a poder fer-ho.</string>
+  <string name="password_promotion_message">El bloquejador d\'aplicacions està actualitzant la contrasenya de protecció de privacitat. Pot utilitzar el seu compte Mi per restablir-la.</string>
+  <string name="password_promotion_not_login_xiaomi_account_message">El bloquejador d\'aplicacions està actualitzant la contrasenya de protecció de privacitat. Pot utilitzar el seu compte Mi per restablir-la. Afegeix el seu compte Mi per a poder fer-ho.</string>
   <string name="password_promotion_postbutton_text">Vés a la Configuració</string>
   <string name="password_promotion_title">Contrasenya de protecció de la privacitat</string>
   <string name="path_antispam">Aplicacions del sistema/Seguretat/Llista de bloqueig</string>
@@ -1235,12 +1236,12 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="score_pts">%</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="section_clear_acc_item_title">"Alliberats %s. Si encara no hi ha suficient emmagatzematge, intenta utilitzar el netejador."</string>
-  <string name="section_security_defend_item_title">Protegeixi les seves dades amb el bloqueig d\'aplicacions</string>
+  <string name="section_security_defend_item_title">Protegeixi les seves dades amb el bloquejador d\'aplicacions</string>
   <string name="section_system_item_fixed">Fix</string>
   <string name="section_title_clear_acc">Esborra la memòria cau</string>
   <string name="section_title_security_defend">Seguretat</string>
   <string name="section_title_system">Seguretat del sistema</string>
-  <string name="security_app_lock">Bloqueig d\'aplicacions</string>
+  <string name="security_app_lock">Bloquejador d\'aplicacions</string>
   <string name="security_scan_card_clean_now">Escaneja</string>
   <string name="security_scan_optimizing">S\'està optimitzant&#8230;</string>
   <string name="see_detail">Detalls</string>
