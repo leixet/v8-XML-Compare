@@ -706,7 +706,7 @@ per començar a utilitzar el paquet de recàrrega"</string>
   <string name="msim_setting_categery_title">Configuració de targeta SIM</string>
   <string name="msim_setting_no_sim_indicator">No hi ha targeta SIM</string>
   <string name="msim_setting_operator_network_title">Xarxa mòbil</string>
-  <string name="msim_setting_screen_title">Targetes SIM &amp; xarxes mòbils</string>
+  <string name="msim_setting_screen_title">Targetes SIM i xarxes mòbils</string>
   <string name="msim_setting_sim_info_editor_title">Ediat informació de targeta</string>
   <string name="msim_sim_lock">Bloquejada</string>
   <string name="msim_sim_radio_off">Desactivat</string>
@@ -942,7 +942,7 @@ Queden %d intents."</string>
   <string name="port">Port</string>
   <string name="port_title">Número de port</string>
   <string name="preference_auto_ip_summary_disable">Desactivat</string>
-  <string name="preference_category_ringtone">So de trucada &amp; vibració</string>
+  <string name="preference_category_ringtone">So i vibració</string>
   <string name="preference_data_usage_summary">Definiu el vostre pla de dades per controlar l\'ús de les dades mòbils</string>
   <string name="preference_data_usage_title">Establiu el pla de dades</string>
   <string name="preference_dial_pad_touch_tone_default">Per defecte</string>
@@ -1175,7 +1175,7 @@ Queden %d intents."</string>
   <string name="sim_no_activated">"No s'ha pogut verificar la targeta SIM"</string>
   <string name="sim_roaming_settings_summary">Connecta a xarxes de dades mòbils en itinerància</string>
   <string name="sim_roaming_settings_title">Itinerància Mi</string>
-  <string name="sim_service_setting">SIM Mi &amp; Itinerància Mi</string>
+  <string name="sim_service_setting">SIM Mi i itinerància Mi</string>
   <string name="sim_unlock_failed">La petició de desbloqueig de la targeta SIM no s\'ha atès.</string>
   <string name="sim_unlock_success">La targeta SIM s\'ha desbloquejat.</string>
   <string name="sim_useless">La SIM no està disponible</string>
