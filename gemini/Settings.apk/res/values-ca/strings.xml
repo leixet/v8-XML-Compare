@@ -831,7 +831,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="configure_input_method">Configura els mètodes d\'entrada</string>
   <string name="confirm_action">D\'acord</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Afegeix</string>
-  <string name="confirm_download_cancelation_dialog_message">Voleu cancel·la la descàrrega?</string>
+  <string name="confirm_download_cancelation_dialog_message">Voleu cancel·la la baixada?</string>
   <string name="confirm_enable_multi_window_text">ADVERTIMENT: Aquesta és una característica experimental que permet múltiples activitats al mateix temps a la pantalla mitjançant la interfície d\'usuari d\'aplicacions recents. Algunes aplicacions es poden bloquejar o no funcionar quan s\'utilitza aquesta característica.</string>
   <string name="confirm_enable_multi_window_title">Voleu activar el mode multi-finestra?</string>
   <string name="confirm_enable_oem_unlock_text">ADVERTIMENT: Mentre aquesta configuració estigui activa, les funcions de protecció del dispositiu no funcionaran.</string>
@@ -880,7 +880,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="crypt_keeper_conditions">Xifrar el telèfon triga una hora o més. S\'ha de fer amb la bateria carregada i mantenir-lo endollat mentre es realitza el procés. Si s\'interromp, es poden perdre totes o part de les dades.</string>
   <string name="crypt_keeper_conditions_title">Quant al xifratge del dispositiu</string>
   <string name="crypt_keeper_confirm_title">Voleu xifrar-ho?</string>
-  <string name="crypt_keeper_content">Podeu xifrar els comptes, la configuració, les aplicacions descarregades, les dades, els fitxers multimèdia i tots els altres fitxers.</string>
+  <string name="crypt_keeper_content">Podeu xifrar els comptes, la configuració, les aplicacions baixades, les dades, els fitxers multimèdia i tots els altres fitxers.</string>
   <string name="crypt_keeper_content_title">Xifra el dispositiu</string>
   <string name="crypt_keeper_data_corrupt_summary">"La contrasenya introduïda és correcta, però malauradament les dades estan corruptes. 
 
@@ -889,9 +889,9 @@ Per tornar a utilitzar el telèfon cal restaurar-lo a valors de fàbrica. Quan j
   <string name="crypt_keeper_decrypt_methods">Si heu configurat un bloqueig de pantalla (és a dir, un patró, un PIN o una contrasenya), després de xifrar el telèfon haureu de desbloquejar la pantalla cada cop que l\'engegeu. L\'única altra forma de desxifrar-lo és realitzant una reinicialització de fàbrica, suprimint totes les dades.</string>
   <string name="crypt_keeper_decrypt_methods_cannot_decrypt">"Si heu xifrat el telèfon, cada cop que el reinicieu haureu d'introduir la contrasenya, PIN o patró per a poder-lo desxifrar."</string>
   <string name="crypt_keeper_decrypt_methods_title">S\'està desxifrant el dispositiu</string>
-  <string name="crypt_keeper_desc">«Podeu xifrar els comptes, les configuracions, les aplicacions descarregades, els fitxers multimèdia i d\'altres tipus. Si heu configurat un bloqueig de pantalla (és a dir, un patró, un PIN o una contrasenya), després de xifrar el telèfon haureu de desbloquejar la pantalla cada cop que l\'engegueu. L\'única altra forma de desxifrar-lo és realitzant una reinicialització de fàbrica, suprimint totes les dades.
+  <string name="crypt_keeper_desc">"Podeu xifrar els comptes, les configuracions, les aplicacions baixades, els fitxers multimèdia i d\'altres tipus. Si heu configurat un bloqueig de pantalla (és a dir, un patró, un PIN o una contrasenya), després de xifrar el telèfon haureu de desbloquejar la pantalla cada cop que l\'engegueu. L\'única altra forma de desxifrar-lo és realitzant una reinicialització de fàbrica, suprimint totes les dades.
 
-Xifrar el telèfon triga una hora o més. S\'ha de fer amb la bateria carregada i mantenir-lo endollat mentre es realitza el procés. Si s\'interromp, es poden perdre totes o part de les dades»</string>
+Xifrar el telèfon triga una hora o més. S\'ha de fer amb la bateria carregada i mantenir-lo endollat mentre es realitza el procés. Si s\'interromp, es poden perdre totes o part de les dades"</string>
   <string name="crypt_keeper_dialog_need_password_message">Per a poder xifrar el dispositiu cal definir un PIN o contrasenya de bloqueig de pantalla.</string>
   <string name="crypt_keeper_dialog_need_password_title">No hi ha cap PIN ni contrasenya de bloqueig de la pantalla</string>
   <string name="crypt_keeper_encrypt_title">Xifra el telèfon</string>
@@ -1327,7 +1327,7 @@ Algunes aplicacions poden ser incompatibles fins que siguin actualitzades pels s
   <string name="enter_pattern">Dibuixeu el patró per a desxifrar el dispositiu un cop reiniciat</string>
   <string name="enter_pin">Introduïu el Pin per a desxifrar el dispositiu un cop reiniciat</string>
   <string name="erase_application">Suprimeix les aplicacions</string>
-  <string name="erase_application_description">Suprimeix les aplicacions descarregades</string>
+  <string name="erase_application_description">Suprimeix les aplicacions baixades</string>
   <string name="erase_data">Esborra</string>
   <string name="erase_external_storage">Esborra l\'emmagatzematge USB</string>
   <string name="erase_external_storage_description">Esborra totes les dades de l\'emmagatzematge d\'USB intern, com ara música o fotos</string>
@@ -1592,7 +1592,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="install_text">Instal·la</string>
   <string name="install_unknown_applications">Permet la instal·lació d\'aplicacions d\'origen desconegut</string>
   <string name="install_unknown_applications_title">Permet instal·lar aplicacions d\'orígens desconeguts</string>
-  <string name="install_whole_rom">Descarrega ROM</string>
+  <string name="install_whole_rom">Baixa la ROM</string>
   <string name="instruction_privacy_password">Aquesta contrasenya protegeix els següents elements</string>
   <string name="instruction_title">Instruccions</string>
   <string name="insufficient_storage">No hi ha prou espai d\'emmagatzematge.</string>
@@ -1937,7 +1937,7 @@ Heu iniciat la sessió als següents comptes:
 
 \"&lt;li&gt;El compte de Google&lt;/li&gt;\"
 \"&lt;li&gt;Dades i aplicacions de Sistema i Configuració&lt;/li&gt;\"
-\"&lt;li&gt;Aplicacions descarregades&lt;/li&gt;\";</string>
+\"&lt;li&gt;Aplicacions baixades&lt;/li&gt;\";</string>
   <string name="master_clear_desc_also_erases_external">&lt;li&gt;Música&lt;/li&gt;\"
 \"&lt;li&gt;Fotos&lt;/li&gt;\"
 \"&lt;li&gt;Altres dades d\'usuari&lt;/li&gt;</string>
