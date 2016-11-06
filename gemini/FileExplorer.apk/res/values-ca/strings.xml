@@ -160,9 +160,9 @@
   <string name="dislike_toast">"Aquests vídeos no són recomanables per a vostè."</string>
   <string name="dislike_video">"No m’interessa"</string>
   <string name="dlg_error_unmount_text">"No s'ha pogut desmuntar l'emmagatzematge USB."</string>
-  <string name="download">Descarregar</string>
-  <string name="download_fail">"No s'ha pogut descarregar"</string>
-  <string name="downloaded_sticker_str">Descarregat</string>
+  <string name="download">Baixa</string>
+  <string name="download_fail">"No s'ha pogut baixar"</string>
+  <string name="downloaded_sticker_str">Baixat</string>
   <string name="downloading">S\'està baixant</string>
   <string name="editor_commend">Editar</string>
   <string name="empty_comment">"No es pot deixar el comentari en blanc"</string>
