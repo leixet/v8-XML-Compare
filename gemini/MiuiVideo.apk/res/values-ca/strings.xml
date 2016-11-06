@@ -203,7 +203,7 @@
   <string name="loading_video_netplay_label">Carregant&#8230;</string>
   <string name="loading_video_netplay_label_v5">Carregant&#8230;</string>
   <string name="local_favorite_empty_title">Buit</string>
-  <string name="local_media_empty_sub_title">Descarregar i veure vídeos fora de línia</string>
+  <string name="local_media_empty_sub_title">Baixeu i vegeu vídeos fora de línia</string>
   <string name="local_media_empty_title">No hi ha vídeos</string>
   <string name="local_video">Local</string>
   <string name="login_tip_content">Inicia sessió amb el teu compte Mi per sincronitzar i actualitzar les sèries que estiguis seguint.</string>
@@ -217,7 +217,7 @@
   <string name="mine_info_account_title">Informació del compte</string>
   <string name="minute">&#160;Minut</string>
   <string name="mipush_setting">Missatges automàtics de Mi</string>
-  <string name="miwifi_app_download_content">Baixant&#8230;</string>
+  <string name="miwifi_app_download_content">S\'està baixant&#8230;</string>
   <string name="miwifi_app_download_title">Mi Router</string>
   <string name="miwifi_app_update_button">Actualitzar</string>
   <string name="miwifi_app_update_content">Actualitzar aplicació Mi Router per utilitzar aquesta funcionalitat.</string>
