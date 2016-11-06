@@ -124,7 +124,7 @@
   <string name="browserFrameFormResubmitMessage">"La pagina que esteu tractant de veure conté dades que ja s'han enviat abans. Si torneu a enviar les dades, qualsevol acció feta a la pagina (per exemple cerques o compres) es tornarà a fer."</string>
   <string name="browserFrameNetworkErrorLabel">Problema de connexió</string>
   <string name="cancel">Cancel·la</string>
-  <string name="cannot_download">Només podeu baixar URLs \"http\" o \"https\"</string>
+  <string name="cannot_download">Només podeu baixar URLs «http» o «https»</string>
   <string name="choosertitle_sharevia">Comparteix mitjançant</string>
   <string name="clear_history">Neteja l\'historial</string>
   <string name="clear_most_visited">Historial recent</string>
