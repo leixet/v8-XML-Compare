@@ -335,7 +335,6 @@
   <string name="notification_dialog_confirm">D\'acord</string>
   <string name="notification_dialog_content">Notificar automàticament i organitzar quan s\'afegeixin o canviïn fitxers a %1$s.</string>
   <string name="notification_dialog_title">Notificacions</string>
-  <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
   <string name="notification_setting">Notificacions</string>
   <string name="notification_title">Quan %1$s crea un fitxer</string>
   <string name="notification_wechat_auto_backup_hint">Premi per saber-ne més</string>
