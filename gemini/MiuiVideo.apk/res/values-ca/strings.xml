@@ -409,7 +409,7 @@
   <string name="video_info_resolution_label">Resolució de vídeo:</string>
   <string name="video_info_video_coding_label">Format codificació de vídeo:</string>
   <string name="video_plugin">Plugin de vídeo</string>
-  <string name="video_plugin_downloading">Descarregant (%1$s)</string>
+  <string name="video_plugin_downloading">S\'està baixant (%1$s)</string>
   <string name="video_plugin_prepare">Un moment&#8230;</string>
   <string name="video_vip">vip</string>
   <string name="vip_package">paquet vip</string>
@@ -478,7 +478,7 @@
   <string name="vp_notify_apk_installed">L\'aplicació s\'ha instal·lat amb èxit</string>
   <string name="vp_offline">Fora de línia</string>
   <string name="vp_offline_status_done">Finalitzat</string>
-  <string name="vp_offline_status_dowloading">Descarregant</string>
+  <string name="vp_offline_status_dowloading">S\'està baixant</string>
   <string name="vp_offline_status_fail">Fallada</string>
   <string name="vp_offline_status_none">A punt</string>
   <string name="vp_offline_status_pause">Pausat</string>
@@ -505,7 +505,7 @@
   <string name="vp_standard_definition">SD</string>
   <string name="vp_super_definition">Súper</string>
   <string name="vp_time_separator">/</string>
-  <string name="vp_toast_downloadapk">Baixant&#8230;</string>
+  <string name="vp_toast_downloadapk">S\'està baixant&#8230;</string>
   <string name="vp_unknown_source">Font desconeguda</string>
   <string name="vp_using_16_9">Forçar 16:9</string>
   <string name="vp_using_4_3">Forçar 4:3</string>
