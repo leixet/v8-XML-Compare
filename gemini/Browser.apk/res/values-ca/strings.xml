@@ -217,8 +217,8 @@ Les pàgines que visiteu no es veuran reflectides en l\'historial"</string>
   <string name="dialog_confirm_delete_checkbox_message">Voleu eliminar el fitxer de la memòria interna</string>
   <string name="dialog_confirm_delete_downloads_message">Voleu eliminar %s tasques?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Voleu eliminar aquesta tasca?</string>
-  <string name="dialog_failed_body">Ho voleu provar més tard o eliminem aquest fitxer de la cua de baixades?</string>
-  <string name="dialog_file_already_exists">"Ja heu descarregat abans aquest fitxer"</string>
+  <string name="dialog_failed_body">Voleu provar-ho més tard o eliminem aquest fitxer de la cua de baixades?</string>
+  <string name="dialog_file_already_exists">"Ja heu baixat abans aquest fitxer"</string>
   <string name="dialog_file_missing_body">"No s'ha trobat el fitxer. El vareu moure o eliminar?"</string>
   <string name="dialog_file_missing_title">"No s'ha pogut obrir el fitxer"</string>
   <string name="dialog_insufficient_space_on_cache">"No s'ha pogut baixar"</string>
