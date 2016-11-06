@@ -187,7 +187,7 @@
   <string name="download_complete_start_install">S\'està instal·lant&#8230;</string>
   <string name="download_completed">Baixat</string>
   <string name="download_confirm_button_text">Instal·la</string>
-  <string name="download_confirm_text">Es baixarà i s\'instal. larà Mi Music %s</string>
+  <string name="download_confirm_text">Música Mi baixarà i instal·larà %s</string>
   <string name="download_done_btn">Baixat</string>
   <string name="download_error">Error</string>
   <string name="download_error_insufficient_space">No hi ha prou espai</string>
@@ -210,8 +210,8 @@
   <string name="download_pending">Baixada pendent</string>
   <string name="download_percent">%d%%</string>
   <string name="download_processing">S\'està baixant&#8230;</string>
-  <string name="download_quality">Qualitat de baixada</string>
-  <string name="download_quality_summary">Configuració addicional per a la baixada de cançons</string>
+  <string name="download_quality">Qualitat de la baixada</string>
+  <string name="download_quality_summary">Configuració addicional per la baixada de cançons</string>
   <string name="download_queued">En cua</string>
   <string name="download_running">En progrés</string>
   <string name="download_running_percent">En progrés, %d%%</string>
