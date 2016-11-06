@@ -423,7 +423,6 @@
   <string name="today_train_event">Tren</string>
   <string name="tomorrow">Demà</string>
   <string name="tomorrow_at_time_fmt">Demà a les %s</string>
-  <string name="topic_dialog_title">Subscripció o baixa</string>
   <string name="topic_list_header_label">Llista de subscripció</string>
   <string name="travel_airport">Aeroport</string>
   <string name="travel_carriage_number_text">Cotxe</string>
