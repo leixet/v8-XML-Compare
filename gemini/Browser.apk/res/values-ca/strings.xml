@@ -768,7 +768,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="version_check_button_install">Instal·lar</string>
   <string name="version_check_button_newest">No hi ha actualitzacions</string>
   <string name="version_check_button_no_network">"No es pot connectar a la xarxa"</string>
-  <string name="version_check_button_resume_download">Continua la baixada</string>
+  <string name="version_check_button_resume_download">Reprèn la baixada</string>
   <string name="version_check_button_update">Actualitza</string>
   <string name="version_check_failed">No s\'han pogut comprovar les actualitzacions</string>
   <string name="version_dialog_buttion_ok">D\'acord</string>
