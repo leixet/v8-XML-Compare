@@ -651,8 +651,8 @@
   <string name="settings_search_path_main">Aplicacions del sistema/Música</string>
   <string name="settings_search_path_normal">Aplicacions del sistema/Música/Servei i configuració</string>
   <string name="settings_search_title_desktop_lyric">Lletres a la pàgina principal</string>
-  <string name="settings_search_title_download_quality">Qualitat de baixada</string>
-  <string name="settings_search_title_download_when_favorite">Baixa preferits</string>
+  <string name="settings_search_title_download_quality">Qualitat de la baixada</string>
+  <string name="settings_search_title_download_when_favorite">Baixa els preferits</string>
   <string name="settings_search_title_main">Música</string>
   <string name="settings_search_title_notification">Notificacions de música</string>
   <string name="settings_search_title_vip_service">Cançons prèmium</string>
