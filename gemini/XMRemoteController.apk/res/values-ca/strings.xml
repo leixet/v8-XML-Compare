@@ -553,7 +553,7 @@ ap arxiu d\'instal·lació</string>
   <string name="notification_found_shared_remote_text">Premeu per controlar-lo</string>
   <string name="notification_found_shared_remote_title">S\'ha trobat un %1$s pels voltants</string>
   <string name="notification_str1">\"</string>
-  <string name="notification_str2">\" començarà d\'aquí 30 minuts</string>
+  <string name="notification_str2">està a punt de començar</string>
   <string name="notification_title">Notificació del temporitzador</string>
   <string name="num_keys">Botons numèrics</string>
   <string name="off">Desactiva</string>
@@ -708,7 +708,7 @@ To activate your account, follow the
   <string name="passport_vcode_prompt_long">Introduïu el codi de verificació</string>
   <string name="passport_verification_failed">L\'autenticació ha fallat</string>
   <string name="passport_verify">Verifica</string>
-  <string name="passport_wait_for_sms_prompt">"Voleu tornar a començar? Els missatges de verificació poden trigar uns 10 minuts en arribar al vostre telèfon si és que teniu cobertura."</string>
+  <string name="passport_wait_for_sms_prompt">"Voleu tornar a començar? Els missatges de verificació poden trigar uns 10 minuts en arribar si és que teniu cobertura."</string>
   <string name="passport_wrong_captcha">El codi que heu introduït és incorrecte</string>
   <string name="passport_wrong_password">La contrasenya és incorrecta</string>
   <string name="passport_wrong_phone_number_format">El format de número de telèfon que heu introduït no és vàlid</string>
