@@ -512,7 +512,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="incall_error_supp_service_transfer">"No es pot transferir."</string>
   <string name="incall_error_supp_service_unknown">Servei no admès</string>
   <string name="incall_error_wfc_only_no_wireless_network">Connecteu a una xarxa sense fil per fer una trucada.</string>
-  <string name="incall_status_dialed_mmi">Començant seqüència MMI</string>
+  <string name="incall_status_dialed_mmi">S\'està començant seqüència MMI&#8230;</string>
   <string name="input_password">Introduïu la contrasenya</string>
   <string name="international_calls">Només internacional</string>
   <string name="international_dial_complete_intention">Feu trucades internacionals a preus més baixos</string>
