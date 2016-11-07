@@ -1249,7 +1249,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="edge_mode_back">Enrere</string>
   <string name="edge_mode_back_summary">Toca dues vegades la vora del telèfon per anar enrere</string>
   <string name="edge_mode_clean">Esborra la memòria cau del sistema</string>
-  <string name="edge_mode_clean_summary">Llisca per les dues vores alhora per esborrar la memòria cau del sistema</string>
+  <string name="edge_mode_clean_summary">Passeu els dits per ambdues vores alhora per esborrar la memòria cau del sistema</string>
   <string name="edge_mode_guide_title">Toca l\'àrea il·luminada per a utilitzar els controls de la vora</string>
   <string name="edge_mode_notification_summary">Premeu per a més informació.</string>
   <string name="edge_mode_notification_title">Utilitza els controls de vora</string>
