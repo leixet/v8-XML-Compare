@@ -126,10 +126,10 @@
   <string name="cancel">Cancel·la</string>
   <string name="cannot_download">Només podeu baixar URLs «http» o «https»</string>
   <string name="choosertitle_sharevia">Comparteix mitjançant</string>
-  <string name="clear_history">Neteja l\'historial</string>
+  <string name="clear_history">Esborra l\'historial</string>
   <string name="clear_most_visited">Historial recent</string>
-  <string name="clear_search_history">Neteja l\'historial</string>
-  <string name="clear_video_download">Neteja vídeos</string>
+  <string name="clear_search_history">Esborra l\'historial</string>
+  <string name="clear_video_download">Esborra els vídeos</string>
   <string name="clip_dialog_title">Voleu obrir la URL copiada?</string>
   <string name="close_ads_choice_no">Permet</string>
   <string name="close_ads_choice_yes">Bloqueja</string>
@@ -203,7 +203,7 @@ Les pàgines que visiteu no es veuran reflectides en l\'historial"</string>
   <string name="data_traffic_prompt_message">"Si s'utilitza la connexió de dades mòbils per veure vídeos s'incrementarà l'ús de dades. Si excediu el límit del pla de dades, el vostre operador podria carregar-vos despeses addicionals."</string>
   <string name="data_traffic_prompt_message_short">"Si s'utilitza la connexió de dades mòbils per a transmetre vídeo es podria superar el vostre límit de dades."</string>
   <string name="data_traffic_prompt_title">Alerta d\'ús de dades</string>
-  <string name="date_picker_dialog_clear">Neteja</string>
+  <string name="date_picker_dialog_clear">Esborra</string>
   <string name="date_picker_dialog_other_button_label">Altres</string>
   <string name="date_picker_dialog_set">Estableix</string>
   <string name="date_picker_dialog_title">Estableix data</string>
