@@ -1507,7 +1507,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="haptic_feedback_level">Vibració</string>
   <string name="hardkeyboard_category">Configuració de teclat físic</string>
   <string name="hardware_version">Versió del maquinari</string>
-  <string name="has_screenshot_sound">So de la captura de pantalla</string>
+  <string name="has_screenshot_sound">So de la captura</string>
   <string name="hdcp_checking_dialog_title">Estableix el comportament de la comprovació d\'HDCP</string>
   <string name="hdcp_checking_title">S\'està comprovant HDCP</string>
   <string name="hdmi_3d_display_enable_summary">Activa el suport per a jocs 3D</string>
@@ -2982,7 +2982,7 @@ Per fer-ho:
   <string name="screensaver_settings_title">Daydream</string>
   <string name="screensaver_settings_when_to_dream">Quan s\'ha d\'activar el Daydream</string>
   <string name="screenshot">Captura de pantalla</string>
-  <string name="screenshot_three_gesture">Passa tres dits per fer una captura de pantalla</string>
+  <string name="screenshot_three_gesture">Passeu tres dits per fer una captura</string>
   <string name="screenshot_three_gesture_summary">Es desactivaran els altres gestos amb tres dits</string>
   <string name="sd_card_settings_label">Emmagatzematge USB</string>
   <string name="sd_card_storage">Emmagatzematge USB</string>
