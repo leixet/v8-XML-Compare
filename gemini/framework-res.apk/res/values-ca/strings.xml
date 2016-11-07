@@ -370,7 +370,7 @@ amb %s»</string>
   <string name="find_next">Cerca el següent</string>
   <string name="find_on_page">Cerca a la pàgina</string>
   <string name="find_previous">Cerca l\'anterior</string>
-  <string name="fingerprint_acquired_imager_dirty">El sensor d\'empremtes està brut. Si us plau, netegeu-lo i torneu a provar-ho.</string>
+  <string name="fingerprint_acquired_imager_dirty">El sensor d\'empremtes està brut. Netegeu-lo i torneu a provar-ho.</string>
   <string name="fingerprint_acquired_insufficient">"No s'ha pogut processar l'empremta. Torneu-ho a provar."</string>
   <string name="fingerprint_acquired_partial">S\'ha detectat una empremta digital parcial. Torneu-ho a provar.</string>
   <string name="fingerprint_acquired_too_fast">El dit s\'ha mogut massa ràpid. Torneu-ho a provar.</string>
