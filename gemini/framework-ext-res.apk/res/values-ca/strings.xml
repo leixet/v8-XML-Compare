@@ -70,7 +70,7 @@
   <string name="lockscreen_access_pattern_detected">S\'ha completat el patró</string>
   <string name="lockscreen_access_pattern_start">S\'ha iniciat el patró</string>
   <string name="maml_component_customization_title">Configuració</string>
-  <string name="memory_clear_nothing_result">Res a netejar en memòria cau</string>
+  <string name="memory_clear_nothing_result">No hi ha res per esborrar a la memòria cau</string>
   <string name="memory_clear_result">%1$sB netejats | %2$sB disponibles</string>
   <string name="miui">miui</string>
   <string name="package_delete_confirm_step_1">Voleu eliminar %s?</string>
