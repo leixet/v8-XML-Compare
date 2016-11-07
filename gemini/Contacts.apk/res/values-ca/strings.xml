@@ -112,12 +112,12 @@
   <string name="callrecordview_menu_batch_delete">Eliminar lot</string>
   <string name="callrecordview_menu_blocklist">Llista de bloqueig</string>
   <string name="callrecordview_menu_conference">Trucada de conferència</string>
-  <string name="callrecordview_menu_delete">Neteja el registre de trucades</string>
-  <string name="callrecordview_menu_delete_accepted">Neteja les trucades contestades</string>
-  <string name="callrecordview_menu_delete_all">Netejar registre de trucades</string>
-  <string name="callrecordview_menu_delete_called">Netejar trucades sortints</string>
+  <string name="callrecordview_menu_delete">Esborra el registre de trucades</string>
+  <string name="callrecordview_menu_delete_accepted">Esborra les trucades contestades</string>
+  <string name="callrecordview_menu_delete_all">Esborra el registre de trucades</string>
+  <string name="callrecordview_menu_delete_called">Esborra les trucades sortints</string>
   <string name="callrecordview_menu_delete_confirm">%s?</string>
-  <string name="callrecordview_menu_delete_missed">Esborrar trucades perdudes</string>
+  <string name="callrecordview_menu_delete_missed">Esborra les trucades perdudes</string>
   <string name="callrecordview_menu_delete_new">Esborrar registres de trucades a nous contactes</string>
   <string name="callrecordview_menu_delete_one">Eliminar del registre de trucades</string>
   <string name="callrecordview_menu_delete_sim">Esborrar %s registres de trucades</string>
