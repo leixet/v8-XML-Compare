@@ -628,7 +628,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="removed_from_bookmarks">S\'ha eliminat dels marcadors</string>
   <string name="replace">Substitueix</string>
   <string name="reply_comment_title">Res: %s</string>
-  <string name="resume_download">Comença</string>
+  <string name="resume_download">Inicia</string>
   <string name="retry_after_network_available">"No es pot connectar a la xarxa"</string>
   <string name="retry_download">Reintenta</string>
   <string name="return_to_homepage">Torna a la pàgina d\'inici</string>
