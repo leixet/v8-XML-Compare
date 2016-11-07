@@ -128,7 +128,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="apps_item_summary_system_update">Alguns errors van ser corregits en la versió nova de fer pagaments més segura.</string>
   <string name="apps_item_title_system">Actualització del sistema</string>
   <string name="apps_item_virus_cleanup_success">Netejat correctament!</string>
-  <string name="apps_item_virus_cleanup_text">Netejar</string>
+  <string name="apps_item_virus_cleanup_text">Esborra</string>
   <string name="apps_item_virus_summary_installed">Aplicació instal·lada</string>
   <string name="apps_item_virus_summary_uninstalled">Apk</string>
   <string name="apps_list_header_title_sms">Comprovi aplicació de missatgeria</string>
