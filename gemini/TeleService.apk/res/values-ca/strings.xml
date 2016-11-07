@@ -621,7 +621,7 @@ per començar a utilitzar el paquet de recàrrega"</string>
   <string name="livetalk_package_name">Recàrrega saldo</string>
   <string name="livetalk_provider">Operat per %1$s</string>
   <string name="livetalk_provision">Condicions del servei</string>
-  <string name="livetalk_provision_content">Us cal acceptar %1$s per començar a utilitzar el paquet de recàrrega. Per utilitzar aquest servei, heu d\'estar connectat a internet. Pot ser que s\'enviï un SMS des del vostre telèfon per activar el servei. Accepteu?</string>
+  <string name="livetalk_provision_content">Cal que accepteu %1$s per començar a utilitzar el paquet de recàrrega. Per aquest servei, heu d\'estar connectat a internet. Pot ser que s\'enviï un SMS des del vostre telèfon per activar-lo. Hi esteu d\'acord?</string>
   <string name="livetalk_provision_title">Prestació</string>
   <string name="livetalk_remain_minutes_title">Temps de trucada disponible</string>
   <string name="livetalk_setting">Paquet de recàrrega</string>
