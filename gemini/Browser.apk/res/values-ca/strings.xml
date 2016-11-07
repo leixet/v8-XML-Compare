@@ -385,7 +385,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="menu_title_clear_all">Esborra-ho tot</string>
   <string name="menu_title_open_file_management">Obre l\'Explorador de fitxers</string>
   <string name="menu_title_pause_all">Atura-ho tot</string>
-  <string name="menu_title_resume_all">Comença-ho tot</string>
+  <string name="menu_title_resume_all">Inicia-ho tot</string>
   <string name="miui_autologin_bar_error">"No es pot iniciar sessió"</string>
   <string name="miui_autologin_bar_title">Inicia la sessió amb el compte Mi</string>
   <string name="miui_bookmark_action_bar_add_group_title">Afegeix grup</string>
