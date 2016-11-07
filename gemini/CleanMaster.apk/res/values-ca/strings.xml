@@ -115,7 +115,7 @@
   <string name="deepclean_apk_version_error">Desconegut</string>
   <string name="deepclean_app_content">Desinstal·la les aplicacions que fa 30 dies que no s\'utilitzen</string>
   <string name="deepclean_app_summary_empty">Tot pinta bé, no hi ha aplicacions a eliminar</string>
-  <string name="deepclean_cache_content">Neteja dades generades per aplicacions</string>
+  <string name="deepclean_cache_content">Esborra les dades generades per les aplicacions</string>
   <string name="deepclean_cache_header_left">Fitxers de dades: %d</string>
   <string name="deepclean_cache_summary_empty">Tot pinta bé, no hi ha dades a eliminar</string>
   <string name="deepclean_empty">Tot sembla correcte</string>
@@ -130,7 +130,7 @@
   <string name="deepclean_list_item_from_music">Música</string>
   <string name="deepclean_list_item_from_sdcard">Targeta SD</string>
   <string name="deepclean_normal_item_desc1">Neteja general</string>
-  <string name="deepclean_normal_item_desc2">"És segur netejar"</string>
+  <string name="deepclean_normal_item_desc2">"L'activitat del Netejador no afectarà el rendiment del sistema"</string>
   <string name="deepclean_normal_item_summary_empty">Tot pinta bé, no hi ha res a eliminar</string>
   <string name="deepclean_normal_title">Neteja automàtica</string>
   <string name="deepclean_similar_ignore">Ignora</string>
@@ -170,7 +170,7 @@
   <string name="empty_content_no_similar_image">No hi ha fotos</string>
   <string name="empty_title_ad">No s\'han trobat fitxers de publicitat</string>
   <string name="empty_title_apk">No s\'han trobat paquets d\'instal·lació</string>
-  <string name="empty_title_garbage_cache">Res a netejar</string>
+  <string name="empty_title_garbage_cache">No hi ha res per esborrar</string>
   <string name="empty_title_garbage_white_list">Premeu elements per afegir-los a les excepcions.</string>
   <string name="empty_title_installed_apps">Buit</string>
   <string name="empty_title_large_files">Buit</string>
@@ -191,7 +191,7 @@
   <string name="hints_ad_header_left">Fitxers de publicitat</string>
   <string name="hints_apk_header_left">Paquets</string>
   <string name="hints_apk_version">Versió %s</string>
-  <string name="hints_app_uninstall_residual">Voleu netejar fitxers residuals de desinstal·lació?</string>
+  <string name="hints_app_uninstall_residual">Voleu netejar els fitxers residuals de desinstal·lació?</string>
   <string name="hints_cache_header_left">Fitxers de memòria cau</string>
   <string name="hints_cache_msd_desc">"L'eliminació d'actualitzacions delta no influirà en l'ús de les aplicacions"</string>
   <string name="hints_cache_msd_title">Actualització delta</string>
@@ -201,8 +201,8 @@
   <string name="hints_finish_quick_cleanup">Fet</string>
   <string name="hints_finish_quick_cleanup_title">Acabada neteja %s residuals</string>
   <string name="hints_finish_quick_scan">Escaneig finalitzat</string>
-  <string name="hints_garbage_cleanup_result_danger">Netejar emmagatzematge intern</string>
-  <string name="hints_garbage_cleanup_result_risk">Netejar emmagatzematge intern</string>
+  <string name="hints_garbage_cleanup_result_danger">Neteja l\'emmagatzematge intern</string>
+  <string name="hints_garbage_cleanup_result_risk">Neteja l\'emmagatzematge intern</string>
   <string name="hints_garbage_cleanup_result_safe">Tot sembla correcte</string>
   <string name="hints_garbage_handle_item_content">%1$d elements, %2$s</string>
   <string name="hints_garbage_handle_item_empty_content">Buit</string>
