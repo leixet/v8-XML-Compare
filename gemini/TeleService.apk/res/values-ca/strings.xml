@@ -235,7 +235,7 @@
   <string name="cfb_title">Desviament si ocupat</string>
   <string name="cfnrc_title">Desviament si fora de cobertura</string>
   <string name="cfnrc_title_cta">Desviament si fora de cobertura</string>
-  <string name="cfnry_title">Desviament si no es respon</string>
+  <string name="cfnry_title">Desviament si no contesta</string>
   <string name="cfu_title">Desviament incondicional</string>
   <string name="change_data_preference_4g_only_prompt">Sembla que teniu una targeta SIM que només suporta 4G. Voleu establir-la per defecte per a les dades mòbils?</string>
   <string name="change_default_data_card">SIM de dades mòbils per defecte</string>
@@ -265,7 +265,7 @@
   <string name="connect_disconnect_vibrate_none">Cap</string>
   <string name="connect_disconnect_vibrate_normal">Normal</string>
   <string name="connect_disconnect_vibrate_summary">"Vibra quan la persona que esteu trucant contesti la trucada"</string>
-  <string name="connect_disconnect_vibrate_title">Vibra quan us responguin</string>
+  <string name="connect_disconnect_vibrate_title">Vibra quan despengin</string>
   <string name="connect_disconnect_vibrate_weak">Llum</string>
   <string name="connect_later">"Ara no us podeu connectar a aquesta xarxa. Intenteu-ho més tard."</string>
   <string name="connection_service_default_label">Servei de connexió incorporat</string>
@@ -549,7 +549,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="labelCF">Desviament de trucades</string>
   <string name="labelCFB">Ocupat</string>
   <string name="labelCFNRc">Fora de cobertura</string>
-  <string name="labelCFNRy">Sense resposta</string>
+  <string name="labelCFNRy">Sense contestar</string>
   <string name="labelCFU">Desviament incondicional</string>
   <string name="labelCW">Trucada en espera</string>
   <string name="labelCallerId">Identificador de trucades</string>
@@ -657,7 +657,7 @@ per començar a utilitzar el paquet de recàrrega"</string>
   <string name="menu_edit">Edita contacte</string>
   <string name="messageCFB">Número quan estigui ocupat</string>
   <string name="messageCFNRc">Número quan estigui fora de cobertura</string>
-  <string name="messageCFNRy">Número quan no respongui</string>
+  <string name="messageCFNRy">Número quan no contestin</string>
   <string name="messageCFU">Utilitza sempre aquest número</string>
   <string name="message_decode_error">Hi ha hagut un error en descodificar el missatge.</string>
   <string name="mhh_disable">Medicina, Hospitals i Salut desactivat</string>
@@ -877,7 +877,7 @@ Torneu a provar-ho o truqueu al servei d\'atenció al client per a més opcions.
   <string name="path_call_waiting_tone_title">Aplicacions de sistema/Telèfon/Configuració avançada/Notificació de trucada en espera</string>
   <string name="path_caller_id_title">Aplicacions de sistema/Telèfon/Configuració avançada/Identificació trucada entrant</string>
   <string name="path_cloud_antispam_title">Aplicacions de sistema/Telèfon/Identifica números desconeguts</string>
-  <string name="path_connect_disconnect_vibrate_title">Aplicacions de sistema/Telèfon/Configuració avançada/Vibració en respondre la vostre trucada</string>
+  <string name="path_connect_disconnect_vibrate_title">Aplicacions de sistema/Telèfon/Configuració avançada/Vibra quan despengin</string>
   <string name="path_dtmf_tones_title">Aplicacions de sistema/Telèfon/Configuració avançada/Marcació per tons</string>
   <string name="path_enable_antispam_strange_title">Telèfon/Paràmetres de trucades entrants/Silencia després del primer ring</string>
   <string name="path_enable_proximity_title">Aplicacions de sistema/Telèfon/Paràmetres de trucades entrants/Sensor de proximitat</string>
