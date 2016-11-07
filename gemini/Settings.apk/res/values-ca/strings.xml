@@ -2973,7 +2973,7 @@ Per fer-ho:
   <string name="screen_timeout_title">Mode en repòs</string>
   <string name="screensaver_settings_button">Configuració</string>
   <string name="screensaver_settings_disabled_prompt">Per a controlar què passa quan el telèfon està acoblat i/o en repòs, activeu el Daydream.</string>
-  <string name="screensaver_settings_dream_start">Comença ara mateix</string>
+  <string name="screensaver_settings_dream_start">Inicia</string>
   <string name="screensaver_settings_summary_dock">Mentre està acoblat</string>
   <string name="screensaver_settings_summary_either_long">Quan és en el dock o en repòs i s\'està carregant</string>
   <string name="screensaver_settings_summary_either_short">Ambdós</string>
