@@ -792,7 +792,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="clear_activities">Suprimeix les configuracions predeterminades</string>
   <string name="clear_activities_summary">Utilitza aquesta aplicació per a algunes operacions predeterminades</string>
   <string name="clear_adb_keys">Revoca les autoritzacions de depuració USB</string>
-  <string name="clear_cache_btn_text">Suprimeix la memòria cau</string>
+  <string name="clear_cache_btn_text">Esborra la memòria cau</string>
   <string name="clear_data_dlg_text">Totes aquestes aplicacions es suprimiran permanentment. Inclou tots els fitxers, configuracions, comptes, bases de dades, etc.</string>
   <string name="clear_data_dlg_title">Vols suprimir les dades de l\'aplicació?</string>
   <string name="clear_data_failed">No s\'han pogut suprimir les dades de l\'aplicació.</string>
@@ -867,7 +867,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="credentials_not_erased">No s\'ha pogut esborrar l\'emmagatzematge de credencials.</string>
   <string name="credentials_old_password">Contrasenya actual:</string>
   <string name="credentials_password_too_short">La contrasenya ha de ser de com a mínim de 8 caràcters</string>
-  <string name="credentials_reset">Esborra els certificats</string>
+  <string name="credentials_reset">Esborra les credencials</string>
   <string name="credentials_reset_hint">Voleu suprimir tots els continguts?</string>
   <string name="credentials_reset_summary">Suprimeix tots els certificats</string>
   <string name="credentials_reset_warning">Contrasenya incorrecta. Teniu un intent més abans que l\'emmagatzematge de credencials s\'esborri.</string>
