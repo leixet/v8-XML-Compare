@@ -761,8 +761,8 @@
   <string name="quote_divider_apple">" &gt;"</string>
   <string name="quote_divider_huawei_zh">De Huawei</string>
   <string name="quote_divider_iphone_en">Enviat des del meu iPhone</string>
-  <string name="quote_divider_iphone_fwd_en">Començar amb el missatge enviat:</string>
-  <string name="quote_divider_iphone_fwd_zh">Començar amb el missatge enviat:</string>
+  <string name="quote_divider_iphone_fwd_en">Comença el missatge reenviat:</string>
+  <string name="quote_divider_iphone_fwd_zh">Comença amb el missatge enviat:</string>
   <string name="quote_divider_ks_web">________________________________________</string>
   <string name="quote_divider_qq_en">------------------ Missatge original ------------------</string>
   <string name="quote_divider_qq_zh">------------------ Missatge original ------------------</string>
