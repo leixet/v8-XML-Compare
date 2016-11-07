@@ -546,7 +546,7 @@
   <string name="please_download_first">Cal baixar la cançó abans de poder-la establir com a to de trucada</string>
   <string name="please_search_or_select">Cerqueu o seleccioneu un camp</string>
   <string name="please_select_song">Seleccioneu una cançó primer</string>
-  <string name="power_save_mode_dialog_msg">S\'ha iniciat l\'estalvi de bateria. Voleu començar a baixar ara?</string>
+  <string name="power_save_mode_dialog_msg">S\'ha activat l\'estalvi de bateria. Voleu iniciar la baixada?</string>
   <string name="pref_download_settings_title">Mida màxima de la baixada</string>
   <string name="pref_summary_any_bytes_popup">Espera sempre la connexió Wi-Fi per baixar fitxers</string>
   <string name="pref_summary_enable_max_bytes_popup">Mostra una notificació emergent quan s\'utilitzin dades mòbils per baixar fitxers</string>
