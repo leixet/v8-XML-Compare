@@ -229,17 +229,17 @@ o eliminar el dispositiu."</string>
   <string name="micloud_find_device_opened_content">Troba el teu dispositiu a %s</string>
   <string name="micloud_find_device_opened_content_url">i.mi.com</string>
   <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
-  <string name="micloud_full_influence_dspt">"Totes les seves fotos, vídeos, notes i aplicacions romandran recolzades en el núvol.
+  <string name="micloud_full_influence_dspt">"Totes les fotos, vídeos, notes i aplicacions tindran la seva còpia de seguretat al núvol.
 
-D\'aquesta manera, si perd o fa malbé el seu dispositiu, les seves dades romandran segures
+D\'aquesta manera, si perdeu el dispositiu o es fa malbé, les vostres dades restaran segures.
 
-Quan el seu núvol estigui ple, les seves dades antigues no aniran enlloc. No obstant això, qualsevol contingut que afegeixi (ex. Fotos, vídeos, notes i aplicacions) ja no serà recolzat.
+Quan el vostre núvol estigui ple, les dades antigues es mantindran. No obstant, qualsevol contingut nou que afegiu (p. ex. fotos, vídeos, notes i aplicacions) ja no es copiarà.
 
-Per solucionar això, pot netejar alguns fitxers antics per deixar espai a nous o adquirir espai d\'emmagatzematge addicional."</string>
+Per solucionar això, podeu netejar alguns fitxers antics per deixar espai als nous, o podeu comprar espai d\'emmagatzematge addicional."</string>
   <string name="micloud_full_influence_title">Quan el seu Mi Cloud está ple&#8230;</string>
   <string name="micloud_main_battery_low">Sense bateria suficient per sincronitzar</string>
   <string name="micloud_main_battery_message">Connecta el dispositiu a una font d\'energia per a sincronitzar</string>
-  <string name="micloud_main_clear_now">Netejar</string>
+  <string name="micloud_main_clear_now">Esborra</string>
   <string name="micloud_main_data_unsynced">%d elements a sincronitzar</string>
   <string name="micloud_main_detail">Mostra els detalls</string>
   <string name="micloud_main_last_sync_time">L\'última sincronització va ser a %s</string>
