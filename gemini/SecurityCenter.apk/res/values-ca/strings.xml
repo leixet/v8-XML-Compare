@@ -257,7 +257,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="btn_start_diagnostic">Prova la xarxa</string>
   <string name="btn_stop_diagnostic">Aturar</string>
   <string name="btn_text_already_opened">Encès</string>
-  <string name="btn_text_cleanup_all">Netejar</string>
+  <string name="btn_text_cleanup_all">Neteja</string>
   <string name="btn_text_done">Fet</string>
   <string name="btn_text_goto_power_rank">Veure la classificació de la bateria</string>
   <string name="btn_text_goto_setup">Anar a configuració</string>
@@ -268,7 +268,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="btn_text_power_cleanup">Neteja intensiva</string>
   <string name="btn_text_power_consume_suggest_optimize">Optimitzar</string>
   <string name="btn_text_quick_antivirus">Arregla</string>
-  <string name="btn_text_quick_cleanup">Netejar</string>
+  <string name="btn_text_quick_cleanup">Neteja</string>
   <string name="btn_text_quick_optimize">Optimitzar</string>
   <string name="btn_text_quick_save_power">Refredar</string>
   <string name="btn_text_quick_scan">Escanejar</string>
@@ -280,8 +280,8 @@ o introdueixi la seva contrasenya"</string>
   <string name="button_text_cancel">Cancel·la</string>
   <string name="button_text_cancel_clean">Cancel·la</string>
   <string name="button_text_cancel_optimize">Cancel·la</string>
-  <string name="button_text_cleanup">Netejar</string>
-  <string name="button_text_clear">Netejar</string>
+  <string name="button_text_cleanup">Neteja</string>
+  <string name="button_text_clear">Neteja</string>
   <string name="button_text_create_shortcut">Crea una drecera a la pantalla inicial</string>
   <string name="button_text_delete_from_virus_white_list">elimina</string>
   <string name="button_text_deny">Denega</string>
@@ -1009,7 +1009,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_auto_adjust_traffic">Estadístiques d\'ús de dades per Auto sincronitzar</string>
   <string name="pref_automatic_adjust">Configuració</string>
   <string name="pref_avaible_traffic">Pla de dades</string>
-  <string name="pref_category_title_lock_screen_memory_clean">Netejar amb pantalla bloquejada</string>
+  <string name="pref_category_title_lock_screen_memory_clean">Neteja quan la pantalla estigui bloquejada</string>
   <string name="pref_category_title_module_settings">Configuració de regles</string>
   <string name="pref_category_title_other">Configuració addicional</string>
   <string name="pref_category_title_reference_settings">Configuració addicional</string>
@@ -1056,11 +1056,11 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_special_traffic_limit_warn">Establir avís d\'ús de dades</string>
   <string name="pref_specified_adjust">Establir límit de dades personal</string>
   <string name="pref_specified_traffic_settings">Configuració de límit de dades</string>
-  <string name="pref_summary_lock_screen_memory_clean">Netejar automàticament quan el dispositiu està bloquejat</string>
+  <string name="pref_summary_lock_screen_memory_clean">Neteja automàtica amb el dispositiu bloquejat</string>
   <string name="pref_summary_virus_white_list">Evita que les aplicacions seleccionades siguin netejades</string>
   <string name="pref_title_declaration">Clàusula important</string>
   <string name="pref_title_diagnostics_show_float_notification">Notificacions flotants</string>
-  <string name="pref_title_lock_screen_memory_clean">Netejar amb pantalla bloquejada</string>
+  <string name="pref_title_lock_screen_memory_clean">Neteja quan la pantalla estigui bloquejada</string>
   <string name="pref_title_mobile_traffic">Mostra l\'ús de dades mentre estava bloquejat</string>
   <string name="pref_title_network_diagnostics">Diagnosticar la xarxa</string>
   <string name="pref_title_over_traffic_limit_warning">Quan se superi</string>
