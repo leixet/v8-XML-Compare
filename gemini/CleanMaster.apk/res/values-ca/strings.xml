@@ -47,7 +47,7 @@
   <string name="browser_scan_history_desc">Historial de navegació</string>
   <string name="browser_search_history_desc">Elements cercats</string>
   <string name="btn_text_done">Fet</string>
-  <string name="btn_text_quick_cleanup">Netejar</string>
+  <string name="btn_text_quick_cleanup">Neteja</string>
   <string name="btn_text_quick_cleanup_apk">Esborra els %1$s APK seleccionats</string>
   <string name="btn_text_quick_cleanup_appdata">Esborra les %1$s dades seleccionades</string>
   <string name="btn_text_quick_cleanup_large_file">Esborra els %1$s fitxers seleccionats</string>
@@ -97,7 +97,7 @@
   <string name="clean_content_two">2 elements</string>
   <string name="clean_content_zero">Cap</string>
   <string name="clear_bigfiles">Esborra els fitxers grans, fotos duplicades i altres elements inútils</string>
-  <string name="clear_immediately">Neteja ara</string>
+  <string name="clear_immediately">Neteja-ho ara</string>
   <string name="clear_safe_notify">Barra de notificacions de seguretat</string>
   <string name="clip_board_history_desc">Continguts copiats/tallats</string>
   <string name="clipboard">Porta-retalls</string>
