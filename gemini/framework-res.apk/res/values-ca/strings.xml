@@ -19,7 +19,7 @@
   <string name="ColpMmi">ID de línia connectada</string>
   <string name="ColrMmi">Restricció d\'ID de línia connectada</string>
   <string name="CwMmi">Trucada en espera</string>
-  <string name="DndMmi">No m\'empipeu</string>
+  <string name="DndMmi">No molesteu</string>
   <string name="Midnight">Mitjanit</string>
   <string name="Noon">Migdia</string>
   <string name="PinMmi">Canvi de PIN</string>
@@ -1434,9 +1434,9 @@ Voleu tancar-la?»</string>
   <string name="zen_mode_default_weekends_name">Cap de setmana</string>
   <string name="zen_mode_default_weeknights_name">Nit entre setmana</string>
   <string name="zen_mode_downtime_feature_name">Temps d\'inactivitat</string>
-  <string name="zen_mode_feature_name">No m\'empipeu</string>
+  <string name="zen_mode_feature_name">No molesteu</string>
   <string name="zen_mode_forever">Fins que no ho desactiveu</string>
-  <string name="zen_mode_forever_dnd">Fins que desactiveu el mode No m\'empipeu</string>
+  <string name="zen_mode_forever_dnd">Fins que desactiveu el mode No molesteu</string>
   <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
   <string name="zen_mode_until">Fins %1$s</string>
 </resources>
