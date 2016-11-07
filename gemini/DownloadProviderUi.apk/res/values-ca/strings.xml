@@ -36,7 +36,7 @@
   <string name="cancel">Cancel·lar</string>
   <string name="cancel_running_download">Cancel·lar</string>
   <string name="cancle">Cancel·lar</string>
-  <string name="choose_open_time">"Seleccioneu quan vol començar"</string>
+  <string name="choose_open_time">"Seleccioneu quan voleu començar"</string>
   <string name="clear_data">Netejar</string>
   <string name="complete_time">Completat:</string>
   <string name="confirm">D\'acord</string>
@@ -177,12 +177,12 @@
   <string name="media_filter">MITJA</string>
   <string name="member_cost">Anual</string>
   <string name="menu_all_task_pause">Pausar tot</string>
-  <string name="menu_all_task_start">Començar tot</string>
+  <string name="menu_all_task_start">Inicia-ho tot</string>
   <string name="menu_enter_edit_mode">Editor</string>
   <string name="menu_preferences">Configuració de les baixades</string>
   <string name="menu_title_fileexplore">Explorador</string>
   <string name="menu_title_pause_all">Pausar tot</string>
-  <string name="menu_title_resume_all">Començar tot</string>
+  <string name="menu_title_resume_all">Inicia-ho tot</string>
   <string name="menu_title_settings">Configuració</string>
   <string name="mi_money">Crèdit Mi</string>
   <string name="mi_money_">Crèdit Mi</string>
@@ -340,7 +340,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="sniff_terms_agree">Acceptar</string>
   <string name="sniff_terms_agree_new">Estic d\'acord</string>
   <string name="sniff_terms_check_text">Acceptar termes del servei</string>
-  <string name="sniff_terms_msg">Vostè ha d\'acceptar \"Condicions d\'ús\" per començar a utilitzar un motor de cerca de tercers.</string>
+  <string name="sniff_terms_msg">Heu d\'acceptar les \"Condicions d\'ús\" per començar a utilitzar un motor de cerca de tercers.</string>
   <string name="sniff_terms_msg_a">Aquesta funció de cerca està proporcionada per un desenvolupador de tercers. Cal arribar a un acord amb els Termes d\'ús abans de poder utilitzar-la.</string>
   <string name="sniff_terms_msg_b">Aquesta funció de cerca està proporcionada per un desenvolupador de tercers. Cal arribar a un acord amb els Termes d\'ús abans de poder utilitzar-la. Si esteu d\'acord, marqueu la casella a continuació.</string>
   <string name="sniff_terms_msg_bold">Condicions d\'ús</string>
