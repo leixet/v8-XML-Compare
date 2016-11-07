@@ -983,7 +983,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="power_save_mode_enable">Estalvi de bateria</string>
   <string name="power_save_mode_end_time">Final</string>
   <string name="power_save_mode_ontime_enabled">Programar temps per canviar entre modes</string>
-  <string name="power_save_mode_start_time">Començar</string>
+  <string name="power_save_mode_start_time">Inici</string>
   <string name="power_save_mode_summary" formatted="false">Supervisar els processos de fons, desactivar la sincronització i amagar les animacions del sistema. L\'estalvi de bateria s\'apaga automàticament quan la càrrega de la bateria és del 60% o 100%.</string>
   <string name="power_save_on_time_end_time_summary_na">Fins</string>
   <string name="power_save_on_time_start_time_summary_na">Des de</string>
