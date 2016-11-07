@@ -1621,7 +1621,7 @@ Dades extres en ús"</string>
   <string name="usage_type_video">Vídeo</string>
   <string name="usage_type_wake_lock">Actiu</string>
   <string name="usage_type_wifi_running">Wi-Fi funcionant</string>
-  <string name="usb_adb_input_apply_step_1">L\'ordinador serà capaç de canviar la configuració i concedir permisos sense coneixement de l\'usuari quan el dispositiu està connectat a través d\'USB</string>
+  <string name="usb_adb_input_apply_step_1">"L'ordinador serà capaç de canviar la configuració i concedir permisos sense coneixement de l'usuari quan el dispositiu està connectat a través d'USB"</string>
   <string name="usb_adb_input_apply_step_2">Això pot donar lloc a fuites d\'informació privada, com ara comptes o missatges</string>
   <string name="usb_adb_input_apply_step_3">Assegureu-vos que comprèn els riscos relacionats abans de permetre. Permetre ara?</string>
   <string name="usb_install_desc">Instal·lar aquesta aplicació a través d\'USB?</string>
