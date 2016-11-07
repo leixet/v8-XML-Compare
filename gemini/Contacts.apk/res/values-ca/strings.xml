@@ -985,7 +985,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="recentCallsIconLabel">Registre de trucades</string>
   <string name="recentCalls_addToContact">Afegeix a contactes</string>
   <string name="recentCalls_callNumber">Trucar a %s</string>
-  <string name="recentCalls_deleteAll">Netejar registre de trucades</string>
+  <string name="recentCalls_deleteAll">Neteja el registre de trucades</string>
   <string name="recentCalls_editNumberBeforeCall">Edita el número abans de trucar</string>
   <string name="recentCalls_empty">El registre de trucades està buit</string>
   <string name="recentCalls_removeFromRecentList">Elimina del registre de trucades</string>
