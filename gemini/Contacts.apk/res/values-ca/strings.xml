@@ -432,7 +432,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="exporting_vcard_canceled_title">Exportació de %s cancel·lat.</string>
   <string name="exporting_vcard_finished_title">Exportació %s acabada.</string>
   <string name="external_profile_title">El meu perfil de %1$s</string>
-  <string name="fail_reason_could_not_initialize_exporter">"No es pot començar l'exportador: \"%s\"."</string>
+  <string name="fail_reason_could_not_initialize_exporter">"No es pot iniciar l'exportador: \"%s\"."</string>
   <string name="fail_reason_could_not_open_file" formatted="false">"No va poder obrir \"%s\": %s."</string>
   <string name="fail_reason_error_occurred_during_export">S\'ha produït un error durant l\'exportació: \"%s\".</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">"No va poder recollir informació meta dels fitxers vCard."</string>
