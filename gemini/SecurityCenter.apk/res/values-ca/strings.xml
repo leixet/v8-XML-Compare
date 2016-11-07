@@ -171,7 +171,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="auto_task_notify_task_canceled_summary">Podreu fer i rebre trucades</string>
   <string name="auto_task_notify_task_canceled_title">Acció cancel·lada</string>
   <string name="auto_task_notify_task_continue_do">Inicia l\'acció</string>
-  <string name="auto_task_notify_task_count_down">L\'acció automatitzada començarà en 5 segons</string>
+  <string name="auto_task_notify_task_count_down">L\'acció automatitzada s\'iniciarà en 5 segons</string>
   <string name="auto_task_operation_airplane_mode">Mode avió</string>
   <string name="auto_task_operation_auto_brightness">Lluentor automàtica</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
@@ -476,7 +476,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="fingerprint_remind_dialog_title">Desbloqueig per empremta</string>
   <string name="fingerprint_to_lock">Desbloqueja amb empremta</string>
   <string name="fingerprint_verification">Verificació d\'empremtes</string>
-  <string name="fingerprint_verification_message">Escanegeu l\'empremta per començar a utilitzar aquesta funció.</string>
+  <string name="fingerprint_verification_message">Escanegeu l\'empremta per utilitzar aquesta funció.</string>
   <string name="fingerprint_verify_failed">"No s'ha pogut comprovar"</string>
   <string name="fingerprint_verify_succeed">Comprovació correcta</string>
   <string name="fingerprint_verify_try_agin">"No s'ha pogut escanejar,tornar a provar"</string>
