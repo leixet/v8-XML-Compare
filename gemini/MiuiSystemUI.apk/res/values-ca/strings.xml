@@ -190,7 +190,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="mdb_restore_label">Restaura MDB</string>
   <string name="mdb_restore_mode">Mode restauració</string>
   <string name="mdb_usb_disconnection_exit">USB desconnectat</string>
-  <string name="media_projection_action_text">Comença</string>
+  <string name="media_projection_action_text">Inicia</string>
   <string name="media_projection_dialog_text">"%s començarà a capturar tot el que es visualitzi a la pantalla."</string>
   <string name="media_projection_remember_text">"No mostrar de nou"</string>
   <string name="megabyte_per_second">MB/s</string>
