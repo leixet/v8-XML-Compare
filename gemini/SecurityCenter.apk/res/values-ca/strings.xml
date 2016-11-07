@@ -426,7 +426,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="descx_start_cleanup_system">Començant optimització de protecció de sistema</string>
   <string name="descx_start_scan_cache">Començant escaneig de memòria cau</string>
   <string name="descx_start_scan_memory">Començant escaneig de memòria</string>
-  <string name="descx_start_scan_system">Començant escaneig de protecció de sistema</string>
+  <string name="descx_start_scan_system">S\'està començant l\'escaneig de protecció de sistema</string>
   <string name="detail_app_button">Info de l\'aplicació</string>
   <string name="details_subtitle">Utilitza detalls</string>
   <string name="diagnostic_attention_dialog_message">"El diagnòstic per %1$s està en curs. Espereu que acabi i torneu a provar."</string>
