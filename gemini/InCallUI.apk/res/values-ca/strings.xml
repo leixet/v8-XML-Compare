@@ -32,7 +32,7 @@
   <string name="callFailed_timedOut">No hi ha resposta del servidor</string>
   <string name="callFailed_unobtainable_number">Número invàlid</string>
   <string name="callFailed_userBusy">Línia ocupada</string>
-  <string name="callUnanswered_forwarded">Trucada no resposta desviada</string>
+  <string name="callUnanswered_forwarded">Trucada sense contestar desviada</string>
   <string name="call_button_dialer_text">Teclat</string>
   <string name="call_button_tools_text">Característiques</string>
   <string name="call_contacts_deny_permission_msg">"Vau negar el permís de lectura de contactes, no es pot mostrar informació de contactes."</string>
