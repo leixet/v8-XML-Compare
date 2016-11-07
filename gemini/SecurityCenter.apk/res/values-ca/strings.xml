@@ -597,7 +597,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="item_virus_lib">Actualitza definició de virus automàticament</string>
   <string name="keywords_antispam">Blocklist;Bloquejar;Llista negre;Blocklist intel·ligent;Frau;Vendes;Agents</string>
   <string name="keywords_antivirus">Virus;Risc;Antivirus;Escanejar</string>
-  <string name="keywords_cleanmaster">Paperera;Netejar;Velocitat;Emmagatzematge;Memòria cau</string>
+  <string name="keywords_cleanmaster">Paperera;Neteja;Velocitat;Emmagatzematge;Memòria cau</string>
   <string name="keywords_monthreport">Informe;Informe mensual;Informe anual;Informe de seguretat</string>
   <string name="keywords_networkassistant_1">Dades;Trànsit</string>
   <string name="keywords_networkassistant_2">Dades;Calibrar</string>
