@@ -691,12 +691,12 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="sendstartpage">Pàgina d\'inici</string>
   <string name="share_page_text">"Estic gaudint 【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">"La URL d'aquesta web s'enviarà als servidors de Xiaomi per verificar la seva seguretat. Podeu desactivar aquesta funció en Ajustos en qualsevol moment."</string>
-  <string name="show_security_tip_dialog_title">Termes de Servei</string>
-  <string name="show_weather_location_getter_tip_dialog_description">Els serveis de temps necessiten la teva localització per donar-te informació actualitzada del temps al teu navegador. Pots desactivar aquesta característica a Paràmetres.</string>
+  <string name="show_security_tip_dialog_title">Condicions del servei</string>
+  <string name="show_weather_location_getter_tip_dialog_description">Els serveis meteorològics necessiten la vostra localització per donar-vos informació actualitzada del temps al vostre navegador. Podeu desactivar aquesta característica a Paràmetres.</string>
   <string name="sign_in_to" formatted="false">Inicia una sessió al %s1 \"%s2\"</string>
-  <string name="skip_button_label">Saltar</string>
+  <string name="skip_button_label">Omet</string>
   <string name="skip_current_version">Omet aquesta versió</string>
-  <string name="snapshot_failed">"No s'ha pogut guardar per lectura offline"</string>
+  <string name="snapshot_failed">"No s'ha pogut desar per llegir-la fora de línia"</string>
   <string name="snapshot_successed">Desar per a lectura offline completat</string>
   <string name="ssl_certificate">Certificat de Seguretat</string>
   <string name="ssl_certificate_is_valid">Aquest certificat és vàlid.</string>
