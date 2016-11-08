@@ -281,7 +281,7 @@ Les pàgines que visiteu no es veuran reflectides en l\'historial"</string>
   <string name="empty_bookmark">Buit</string>
   <string name="empty_history_hint">L\'historial és buit</string>
   <string name="empty_snapshot_hint">Buit</string>
-  <string name="enable_geolocation_confirm_message">Si apagueu aquesta característica podríeu fer que algunes webs funcionessin malament.</string>
+  <string name="enable_geolocation_confirm_message">Apagant aquesta característica es podria provocar que alguns llocs web funcionin malament.</string>
   <string name="enter_developer_mode">Entra al mode programador</string>
   <string name="enter_incongnito_mode">Entra al mode incògnit</string>
   <string name="error_console_eval_button_text">Avalua</string>
@@ -828,12 +828,12 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="voice_title_distinguish">En procés&#8230;</string>
   <string name="voice_title_listening">Escoltant&#8230;</string>
   <string name="voice_title_please">Comenceu a parlar&#8230;</string>
-  <string name="voice_title_speech_again">"No t'entenc"</string>
-  <string name="weather_location_confirm_message">Apagar aquesta característica pot afectar l\'ús.</string>
+  <string name="voice_title_speech_again">"No se us pogut entendre"</string>
+  <string name="weather_location_confirm_message">Apagant aquesta característica es podria afectar l\'ús.</string>
   <string name="webpage_bookmark_title">Marcadors</string>
   <string name="webpage_history_title">Historial</string>
   <string name="webpage_title">Marcadors i historial</string>
   <string name="webview_find_on_page">Cerca a la pàgina</string>
-  <string name="webviewchromium_private_browsing_warning">La funció no està implementada en aquesta versió d\'Android.</string>
+  <string name="webviewchromium_private_browsing_warning">Aquesta funció no està implementada en aquesta versió d\'Android.</string>
   <string name="week_picker_dialog_title">Establir setmana</string>
 </resources>
