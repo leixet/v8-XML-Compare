@@ -6,7 +6,7 @@
   <string name="abc_action_menu_overflow_description">Més</string>
   <string name="abc_action_mode_done">Fet</string>
   <string name="abc_action_mode_select_all">Selecciona-ho tot</string>
-  <string name="accept_cookies_confirm_message">Si desactiveu aquesta característica podeu ser que alguns llocs web funcionin malament.</string>
+  <string name="accept_cookies_confirm_message">Si desactiveu aquesta característica pot ser que alguns llocs web funcionin malament.</string>
   <string name="accessibility_button_clear">Neteja l\'entrada</string>
   <string name="accessibility_date_picker_month">Mes</string>
   <string name="accessibility_date_picker_week">Setmana</string>
