@@ -17,6 +17,7 @@
   <string name="activity_main_clickable">&gt;</string>
   <string name="activity_main_time_format">E</string>
   <string name="activity_main_update_time">Actualitzat %1$s</string>
+  <string name="activity_main_update_time_expire">Les dades han caducat</string>
   <string name="activity_main_update_time_right_now">ara mateix</string>
   <string name="activity_weathermain_locationg">S\'està ubicant&#8230;</string>
   <string name="activity_weathermain_locationg_error">"No s'ha pogut ubicar"</string>
