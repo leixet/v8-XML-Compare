@@ -604,6 +604,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="keywords_networkassistant_4">Connexió;Internet;Prova</string>
   <string name="keywords_permcenter">Automàtic;Permisos;ROOT;Ubicació;Accés a contactes</string>
   <string name="keywords_powercenter">Estalvi de bateria;Escalfament;Engegar;Apagar;Bateria;Drenatge</string>
+  <string name="keywords_powercenter_powerrank">Ús de bateria</string>
   <string name="keywords_securitycenter">Seguretat;Comprovar;Escannejar</string>
   <string name="keywords_securitycenter_settings">Estalvi de bateria;Permisos;Blocklist;Ús de dades;Calibrar pla de dades;Prova de xarxa;Bloqueig d\'app;Estalviar bateria;Escalfament;Engegar;Apagar;Bateria;Drenatge;Automàtic;ROOT;Ubicació;Accés a contactes;Bloquejar;Llista negre;Blocklist intel·ligent;Frau;Vendes;Agents;Dades;Trànsit;Calibrar;Connexió;Internet;Prova;Contrasenya;Privacitat;Accés;Protecció</string>
   <string name="kilobyteShort">KB</string>
@@ -837,6 +838,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="notify_weekly_traffic_title_for_slotnum">%1$s usats %2$s aquesta setmana</string>
   <string name="ok">D\'acord</string>
   <string name="ok_button">Aceptar</string>
+  <string name="old_sdk_deny_warning">"L'aplicació no és compatible amb els últims requisits de permisos d'Android. Els permisos denegats poden afectar la forma en què funciona aquesta aplicació."</string>
   <string name="open">Obre</string>
   <string name="open_app">Obre</string>
   <string name="open_browser">Obre al navegador</string>
@@ -900,6 +902,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="path_networkassistant_4">Aplicacions del sistema/Seguretat/Ús de dades/Prova de xarxa</string>
   <string name="path_permcenter">Aplicacions del sistema/Seguretat/Permisos</string>
   <string name="path_powercenter">Aplicacions del sistema/Seguretat/Ús de bateria</string>
+  <string name="path_powercenter_powerrank">Bateria i rendiment/Ús de bateria</string>
   <string name="path_securitycenter">Aplicacions del sistema/Seguretat</string>
   <string name="path_securitycenter_settings">Aplicacions del sistema/Seguretat</string>
   <string name="pay_charge">Comprar dades addicionals</string>
@@ -1169,6 +1172,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="resource_networkassistant_4">Prova de xarxa</string>
   <string name="resource_permcenter">Permisos</string>
   <string name="resource_powercenter">Estalvi de bateria</string>
+  <string name="resource_powercenter_powerrank">Bateria i rendiment</string>
   <string name="resource_securitycenter">Seguretat</string>
   <string name="resource_securitycenter_settings">Seguretat</string>
   <string name="result_autoscan_header">Monitorització del Pagament</string>
