@@ -97,7 +97,7 @@
   <string name="app_update">Actualiza</string>
   <string name="app_version">Versió %1$s</string>
   <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
-  <string name="append_ok_key_after_num">Premeu Ok quan canvieu el canal</string>
+  <string name="append_ok_key_after_num">Premeu el botó de confirmació després d\'un número</string>
   <string name="application">Aplicacions</string>
   <string name="auto_tune">Sintonia automàtica</string>
   <string name="auto_tune_hint_text">Canvia automàticament el canal després de començar, el telèfon enviarà un cert interval de codis&lt;canal+&gt;botó</string>
@@ -117,7 +117,7 @@
   <string name="brand_search_box_hint">Selecciona fabricant</string>
   <string name="brand_title_all">Totes</string>
   <string name="brand_title_hot">Popular</string>
-  <string name="brand_title_other">Altra</string>
+  <string name="brand_title_other">Una altra</string>
   <string name="broadcast">Ràdio</string>
   <string name="btn_connected_stb">Descodificador</string>
   <string name="bullet_hint">Mostra aquest missatge a la pantalla</string>
@@ -126,13 +126,13 @@
   <string name="by_position">Per ubicació</string>
   <string name="camera_shoot">Obturador</string>
   <string name="cancel">Cancel·la</string>
-  <string name="cancel_select_all">Deselecciona</string>
+  <string name="cancel_select_all">Desselecciona</string>
   <string name="cancel_share">Deixa de compartir</string>
   <string name="cancel_share_done">S\'ha deixat de compartir</string>
   <string name="cancel_timer">Cancel·la temporitzador</string>
   <string name="cannot_be_used_in_current_mode">"No es pot utilitzar &lt;%1$s &gt; en el mode actual"</string>
   <string name="carrier_data">Informació del proveïdor</string>
-  <string name="change_to_channel">Canviant [%1$s] %2$s</string>
+  <string name="change_to_channel">S\'està canviant [%1$s] %2$s</string>
   <string name="channel">Canal</string>
   <string name="channel_added_to_fav">%1$s afegit a preferits</string>
   <string name="channel_catogory_name">Canals</string>
@@ -141,7 +141,7 @@
   <string name="channel_removed_from_fav">%1$s tret de preferits</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="check_upgrade">Cerca actualitzacions</string>
-  <string name="choose_ac">Seleccioneu control remot</string>
+  <string name="choose_ac">Seleccioneu un control remot</string>
   <string name="choose_address_title">Selecciona ubicació</string>
   <string name="choose_key_to_fix">Seleccioneu la clau per reparar</string>
   <string name="circlepad_slide_tips">Utilitza la roda tàctil per ajustar el volum</string>
