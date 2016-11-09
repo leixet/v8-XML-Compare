@@ -362,7 +362,7 @@
   <string name="ir_device_fan">Ventilador</string>
   <string name="ir_device_iptv">TV per IP</string>
   <string name="ir_device_ir">Comandament IR</string>
-  <string name="ir_device_lamp">Light bulb</string>
+  <string name="ir_device_lamp">Bombeta</string>
   <string name="ir_device_mibox">Sintonitzador Mi</string>
   <string name="ir_device_milink">Dispositiu Wi-Fi</string>
   <string name="ir_device_mitv">TV Mi</string>
