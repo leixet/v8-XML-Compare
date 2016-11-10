@@ -276,6 +276,7 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="apply_now_button_text">Actualitza</string>
   <string name="apply_password_to_category_title">Cal una contrasenya</string>
   <string name="apply_update_fail">"No s'ha pogut actualitzar"</string>
+  <string name="approve_title">Verificació</string>
   <string name="apps_storage">Magatzem d\'aplicacions</string>
   <string name="apps_with_restrictions_header">Aplicacions amb restriccions</string>
   <string name="apps_with_restrictions_settings_button">Amplia la configuració de les aplicacions</string>
