@@ -3,6 +3,7 @@
 <resources>
   <string name="Result_title">Resultat</string>
   <string name="accessibility_settings_activity_title">Accessibilitat</string>
+  <string name="account_changed_title">Compte canviat</string>
   <string name="active_phone_sim_absent">Inseriu ara la targeta SIM</string>
   <string name="add">Afegeix</string>
   <string name="addSimEntries">Afegeix contacte SIM</string>
@@ -85,6 +86,7 @@
   <string name="autoip_prefix_summary">"El prefix IP de l'operador és %s"</string>
   <string name="autoip_setting">Configuració d\'IP automàtica</string>
   <string name="autoip_summary">Afegeix un prefix IP als números internacionals</string>
+  <string name="autoip_summary_more">, %d en total</string>
   <string name="autoip_support_local_numbers">Utilitza sempre prefix IP</string>
   <string name="back">Torna</string>
   <string name="badPin">"El PIN antic que heu escrit és incorrecte. Torneu a provar-ho."</string>
@@ -133,6 +135,7 @@
   <string name="call_forwarding_number_hint">Desvia les trucades a</string>
   <string name="call_forwarding_settings">Configuració del desviament de trucades</string>
   <string name="call_forwarding_settings_with_label">Configuració del desviament de trucades (%s)</string>
+  <string name="call_log">Registre de trucades</string>
   <string name="call_record_add_numbers">Afegeix números</string>
   <string name="call_record_auto_always">Tots els números</string>
   <string name="call_record_auto_scenario_title">Enregistra trucades des de</string>
@@ -244,6 +247,7 @@
   <string name="command_error_fdn_failure">Us cal apagar primer els NMP</string>
   <string name="common_setting">Configuració general</string>
   <string name="config_default_data_sim">Configuració</string>
+  <string name="confirm">Confirma</string>
   <string name="confirmPin2Label">Confirmar nou PIN2</string>
   <string name="confirmPinLabel">Confirmeu el PIN nou</string>
   <string name="confirm_password_label">Confirmeu la nova contrasenya</string>
@@ -366,6 +370,7 @@
   <string name="enable">Activa</string>
   <string name="enable_antispam_strange_summary">Silencia la primera trucada d\'un número desconegut</string>
   <string name="enable_antispam_strange_title">Silencia la primera trucada</string>
+  <string name="enable_button_text">Següent</string>
   <string name="enable_disable_administrative">Administrativa</string>
   <string name="enable_disable_advertisements">Anuncis</string>
   <string name="enable_disable_atr">Informes del trànsit de la zona</string>
@@ -446,6 +451,7 @@ Contacteu amb el vostre operador si el problema persisteix."</string>
   <string name="fw_get_in_vm_failed">"No s\'ha pogut recuperar i desar la configuració de l\'actual configuració del número de desviament.
 Voleu canviar al nou proveïdor igualment?"</string>
   <string name="general_news_settings">Notícies generals</string>
+  <string name="general_remove">Elimina</string>
   <string name="general_setting">Configuració</string>
   <string name="get_pin2">Introduïu el PIN2</string>
   <string name="get_product_list_failed">"No es pot carregar la llista"</string>
@@ -524,6 +530,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="ivr_type_cu_3">China Unicom 2G</string>
   <string name="ivr_type_settings">Configuració del pla de dades</string>
   <string name="ivr_type_settings_hint">Introduïu el codi del vostre pla de dades</string>
+  <string name="keep_wait_call_back">Segueix esperant</string>
   <string name="labelCDMAMore">Configuració de trucades CDMA</string>
   <string name="labelCF">Desviament de trucades</string>
   <string name="labelCFB">Ocupat</string>
@@ -570,6 +577,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="livetalk_add_white_list_info">Afegeix el número de telèfon a marcar directament.</string>
   <string name="livetalk_common_problem">PMF</string>
   <string name="livetalk_enable_switch">Utilitza paquet de recàrrega</string>
+  <string name="livetalk_manual">Operació manual</string>
   <string name="livetalk_name">Paquet de recàrrega</string>
   <string name="livetalk_package_introduction_text">\"Trucades econòmiques a qualsevol telèfon
  Recarregueu i comenceu a parlar\"</string>
@@ -598,6 +606,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="managed_roaming_title">Gestió d\'itinerància</string>
   <string name="managed_roaming_title_sub">Gestió d\'itinerància (SUB%d)</string>
   <string name="menu_add">Afegeix un contacte</string>
+  <string name="menu_add_numbers">Afegeix número</string>
   <string name="menu_delete">Esborra contacte</string>
   <string name="menu_edit">Edita contacte</string>
   <string name="messageCFB">Número quan estigui ocupat</string>
@@ -754,6 +763,8 @@ S\'utilitza en el seu lloc la xarxa preferida."</string>
   <string name="operator_remain_mins">Minuts del paquet de l\'operador</string>
   <string name="operator_remain_mins_value">%1$s minuts</string>
   <string name="optional_summary">&lt;Opcional&gt;</string>
+  <string name="order_error_retry">Reintenta</string>
+  <string name="order_error_unknown">La càrrega ha fallat, error desconegut.</string>
   <string name="order_id">ID de comanda: %1$s</string>
   <string name="order_price">%1$s €</string>
   <string name="order_time">%1$s min</string>
@@ -865,7 +876,10 @@ Queden %d intents."</string>
   <string name="pin_progress_set_fdn_lock">Establint el bloqueig a NMP&#8230;</string>
   <string name="pin_progress_set_icc_lock">S\'està establint el bloqueig ICC&#8230;</string>
   <string name="pin_progress_unlock_icc">S\'està desbloquejant la targeta SIM&#8230;</string>
+  <string name="please_connect_network_message">Connecteu-vos a una xarxa</string>
+  <string name="please_connect_network_title">Sense xarxa</string>
   <string name="please_enter_phone_number">Introduïu el número de telèfon</string>
+  <string name="please_login_mi_accout">Inicia sessió</string>
   <string name="port">Port</string>
   <string name="port_title">Número de port</string>
   <string name="preference_auto_ip_summary_disable">Desactivat</string>
@@ -952,6 +966,7 @@ Queden %d intents."</string>
   <string name="preferred_network_type_title">Tipus de xarxa preferit</string>
   <string name="private_num">Número privat</string>
   <string name="progress_dialog_exiting_ecm">Sortint del mode de devolució de trucada d\'emergència</string>
+  <string name="propmpt_dialog_do_not_ask">No mostrar de nou</string>
   <string name="proxy_address">ProxyAddress</string>
   <string name="proxy_address_title">Adreça externa del servidor intermediari</string>
   <string name="pstn_connection_service_label">Targetes SIM integrades</string>
@@ -970,6 +985,7 @@ Queden %d intents."</string>
   <string name="puk_unlocked">La vostra targeta SIM s\'ha desbloquejat. El vostre telèfon s\'està desbloquejant&#8230;</string>
   <string name="purchase_limit">Heu assolit la capacitat de la recàrrega</string>
   <string name="purchase_summary">Estalvieu fins a un 70% en les trucades</string>
+  <string name="purchase_title">Compra</string>
   <string name="quickly_verify">Verifica</string>
   <string name="radio_off_error">Per veure aquesta configuració, heu d\'activar el radio.</string>
   <string name="rc_unlock_failed">El desbloqueig de RUIM Corporatiu no s\'ha realitzat.</string>
@@ -995,6 +1011,7 @@ Queden %d intents."</string>
   <string name="reject_via_sms_summary">Edita missatges predefinits</string>
   <string name="reject_via_sms_title">Respostes ràpides</string>
   <string name="remain_mins_unit">Min</string>
+  <string name="remain_mins_unit_plural">minuts</string>
   <string name="remove">Treu</string>
   <string name="remove_sip_account">Elimina el compte</string>
   <string name="removing_account">S\'està esborrant el compte&#8230;</string>
@@ -1065,6 +1082,7 @@ Queden %d intents."</string>
   <string name="set_smsc_address_timeout">Temps de connexió excedit</string>
   <string name="set_smsc_address_title">Centre de servei de missatges curts (SMSC)</string>
   <string name="set_time_period">Definiu període de temps</string>
+  <string name="setting">Configuració</string>
   <string name="settings_label">Configuració de la xarxa</string>
   <string name="sim1_no_activated">"No s'ha pogut verificar la targeta SIM 1"</string>
   <string name="sim2_no_activated">"No s'ha pogut verificar la targeta SIM 2"</string>
@@ -1212,6 +1230,7 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="turnover_mute_summary">"Quan el telèfon s'hagi girat horitzontalment, poseu-lo cap per vall per silenciar les trucades. Aquesta opció no s'activa si ja teniu activada la vibració per les trucades entrants."</string>
   <string name="turnover_mute_title">Gira per silenciar la trucada</string>
   <string name="undefined">Cap</string>
+  <string name="undefined_setting">Cap</string>
   <string name="unknown">Desconegut</string>
   <string name="unlock_failed">La petició de desbloqueig de xarxa SIM no s\'ha atès.</string>
   <string name="unlock_success">S\'ha desbloquejat la xarxa SIM.</string>
@@ -1231,6 +1250,7 @@ Voleu utilitzar-lo en un paquet de recàrrega?\"</string>
   <string name="ussdRunning">El codi USSD està funcionant&#8230;</string>
   <string name="ussd_dialog_sep">----------</string>
   <string name="verified">Verificat</string>
+  <string name="verify_failed">Verifica l\'error</string>
   <string name="verifying">S\'està verificant&#8230;</string>
   <string name="vibrate_after_connected_summary">Vibra en respondre</string>
   <string name="vibrate_after_connected_title">Vibració un cop connectat</string>
