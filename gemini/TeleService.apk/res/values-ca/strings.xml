@@ -499,6 +499,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="incall_error_wfc_only_no_wireless_network">Connecteu a una xarxa sense fil per fer una trucada.</string>
   <string name="incall_status_dialed_mmi">S\'està començant seqüència MMI&#8230;</string>
   <string name="input_password">Introduïu la contrasenya</string>
+  <string name="internation_remain_minutes">(o %1$s %2$s temps de conversa internacional)</string>
   <string name="international_calls">Només internacional</string>
   <string name="international_dial_complete_intention">Feu trucades internacionals a preus més baixos</string>
   <string name="international_dial_complete_no">Ara no</string>
@@ -763,6 +764,7 @@ S\'utilitza en el seu lloc la xarxa preferida."</string>
   <string name="operator_remain_mins">Minuts del paquet de l\'operador</string>
   <string name="operator_remain_mins_value">%1$s minuts</string>
   <string name="optional_summary">&lt;Opcional&gt;</string>
+  <string name="order_error_network">La càrrega ha fallat, xarxa no disponible.</string>
   <string name="order_error_retry">Reintenta</string>
   <string name="order_error_unknown">La càrrega ha fallat, error desconegut.</string>
   <string name="order_id">ID de comanda: %1$s</string>
@@ -967,6 +969,10 @@ Queden %d intents."</string>
   <string name="private_num">Número privat</string>
   <string name="progress_dialog_exiting_ecm">Sortint del mode de devolució de trucada d\'emergència</string>
   <string name="propmpt_dialog_do_not_ask">No mostrar de nou</string>
+  <string name="propmpt_dialog_network_failed_title">S\'ha esgotat el temps d\'espera per aquesta trucada</string>
+  <string name="propmpt_dialog_no_call_back_content">La connexió està prenent massa temps. En canviar a una trucada normal el vostre operador podria cobrar-li.</string>
+  <string name="propmpt_dialog_not_activate_sim_content">Verifiqueu el número telefònic per començar a utilitzar el paquet de recàrrega. Encara podeu fer una trucada normal que us cobrarà el vostre operador.</string>
+  <string name="propmpt_dialog_not_activate_sim_title">Número de telèfon no verificat</string>
   <string name="proxy_address">ProxyAddress</string>
   <string name="proxy_address_title">Adreça externa del servidor intermediari</string>
   <string name="pstn_connection_service_label">Targetes SIM integrades</string>
@@ -1012,6 +1018,8 @@ Queden %d intents."</string>
   <string name="reject_via_sms_title">Respostes ràpides</string>
   <string name="remain_mins_unit">Min</string>
   <string name="remain_mins_unit_plural">minuts</string>
+  <string name="remain_minutes">Temps de parla</string>
+  <string name="remain_minutes_summary">Diferents països, diferents tarifes;Subjecte a la factura final de la gravació de trucades.</string>
   <string name="remove">Treu</string>
   <string name="remove_sip_account">Elimina el compte</string>
   <string name="removing_account">S\'està esborrant el compte&#8230;</string>
@@ -1242,6 +1250,7 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="uplmn_numeric_is_empty">Introduïu un ID de xarxa</string>
   <string name="use_current_account_creat_livetalk">\"Heu iniciat la sessió amb aquest compte Mi: %1$s.
 Voleu utilitzar-lo en un paquet de recàrrega?\"</string>
+  <string name="use_current_account_creat_livetalk_info">Podeu utilitzar un paquet de recàrrega accedint al Compte Mi: %1$s</string>
   <string name="use_history">Activitat</string>
   <string name="use_history_duration_min">%1$smin</string>
   <string name="use_range">Gamma</string>
