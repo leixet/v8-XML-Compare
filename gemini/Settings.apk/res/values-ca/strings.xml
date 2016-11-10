@@ -3044,6 +3044,7 @@ Per fer-ho:
   <string name="search_brightness">Lluminositat</string>
   <string name="search_button_light_timeout">Manté els llums dels botons encesos</string>
   <string name="search_calendar_sound_title">So del calendari</string>
+  <string name="search_camera_key_action_shortcut_screenshot">Captura de pantalla</string>
   <string name="search_children_mode_settings">Mode de mainada;Bloqueig de SMS</string>
   <string name="search_children_mode_title">Mode de mainada</string>
   <string name="search_choose_timezone">Tria fus horàri</string>
@@ -3068,6 +3069,7 @@ Per fer-ho:
   <string name="search_dtmf_tone_enable_title">Tons de marcatge del teclat</string>
   <string name="search_edge_handgrip">Controls de la vora</string>
   <string name="search_empty">Cap resultat de cerca</string>
+  <string name="search_enable_adb">Depuració USB</string>
   <string name="search_equalizer">Equalitzador</string>
   <string name="search_fluency_mode">Animacions del sistema</string>
   <string name="search_font">Font del sistema</string>
@@ -3109,6 +3111,7 @@ Per fer-ho:
   <string name="search_other_advanced_settings">Additional settings;More settings</string>
   <string name="search_owner_info_settings">Informació del propietari</string>
   <string name="search_page_layout_settings">Mida del text</string>
+  <string name="search_permission_settings_title">Permisos de l\'aplicació</string>
   <string name="search_pointer_speed">Velocitat del punter</string>
   <string name="search_power_checker">Comprovador d\'energia</string>
   <string name="search_power_hide_mode_title">Gestiona l\'ús de bateria de les aplicacions</string>
