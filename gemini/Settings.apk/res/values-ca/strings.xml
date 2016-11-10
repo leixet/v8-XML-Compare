@@ -2369,6 +2369,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="path_brightness_settings">Configuració/Pantalla/Lluminositat</string>
   <string name="path_button_light_timeout">Configuració/Configuració addicional/Botons/Durada de la llum dels botons</string>
   <string name="path_calendar_sound_title">Configuració/So i vibració/So del calendari</string>
+  <string name="path_camera_key_action_shortcut_screenshot">Configuració/Configuració addicional/Captura de pantalla</string>
   <string name="path_children_mode_settings">Configuració/Avançats/Mode de mainada</string>
   <string name="path_choose_timezone">Configuració/Configuració addicional/Data &amp; time/Tria el fus horari</string>
   <string name="path_cloud_backup_settings_section_title">Configuració/Configuració addicional/Còpia de seguretat i reinicialització/Còpia de seguretat de la configuració</string>
@@ -2391,6 +2392,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="path_do_not_disturb_settings">Configuració/No molesteu</string>
   <string name="path_dtmf_tone_enable_title">Configuració/So i vibració/Tons de les tecles</string>
   <string name="path_edge_handgrip">Configuració/Control de la vora</string>
+  <string name="path_enable_adb">Configuració/Configuració addicional/Opcions de desenvolupador/Depuració USB</string>
   <string name="path_equalizer">Configuració/So i vibració/Configuració d\'àudio/Equalitzador</string>
   <string name="path_fluency_mode">Configuració/Bateria &amp; rendiment/Animacions del sistema</string>
   <string name="path_font_settings">Configuració/Pantalla/Tipus de lletra</string>
@@ -2430,6 +2432,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="path_other_advanced_settings">Configuració/Configuració addicional</string>
   <string name="path_owner_info_settings">Configuració/Pantalla de bloqueig &amp; contrasenya/Informació de l\'usuari</string>
   <string name="path_page_layout_settings">Configuració/Pantalla/Mida de la lletra</string>
+  <string name="path_permission_settings_title">Configuració/Permisos/Permisos de les aplicacions</string>
   <string name="path_pointer_speed">Configuració/Configuració addicional/Idioma &amp; teclat/Velocitat del punter</string>
   <string name="path_power_checker">Configuració/Configuració addicional/Funcions en Beta/Control de l\'energia</string>
   <string name="path_power_hide_mode_title">Configuració/Bateria &amp; rendiment/Gestió de l\'ús de bateria de les aplicacions</string>
