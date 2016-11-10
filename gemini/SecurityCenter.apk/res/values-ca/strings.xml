@@ -1285,6 +1285,12 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="sorted_button">Ordenar per</string>
   <string name="sorted_dialog_title">Ordenar per</string>
   <string name="sp_back_title_text_zero">Segur</string>
+  <string name="sp_background_risk_dialog_summary">, feu un control detallat i corregiu els riscos de pagament</string>
+  <string name="sp_background_risk_dialog_title">Perillós</string>
+  <string name="sp_background_risk_type_messaging">L\'aplicació de missatgeria del sistema ha estat substituïda</string>
+  <string name="sp_background_risk_type_sign">S\'està executant una aplicació no oficial</string>
+  <string name="sp_background_risk_type_virus">S\'està executant una aplicació maliciosa</string>
+  <string name="sp_background_risk_type_wifi">La Wi-Fi a la que esteu connectats és perillosa</string>
   <string name="sp_button_text_ignore_alert_title">Voleu ignorar la comprovació d\'aquest element?</string>
   <string name="sp_empty_title_sign_exception">Un únic clic en l\'aplicació en la pàgina de resultats per afegir-la a excepcions</string>
   <string name="sp_monitored_apps_count_zero">No hi ha aplicacions de pagament protegit</string>
