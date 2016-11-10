@@ -816,7 +816,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="notification_battery_consume_abnormal_title">La bateria està sent drenada massa ràpid</string>
   <string name="notification_battery_over_heat_summary">\"Trobar què causa l\'escalfament i refredar el dispositiu.</string>
   <string name="notification_battery_over_heat_title">La temperatura actual és de %d℃</string>
-  <string name="notification_charging_title">S\'està carregant </string>
+  <string name="notification_charging_title">"S'està carregant "</string>
   <string name="notification_exit_power_save_mode">Apagar estalvi de bateria</string>
   <string name="notification_exit_power_save_mode_subtitle">Bateria %s carregada.</string>
   <string name="notification_item">Protegir aplicacions seleccionades amb el bloquejador d\'aplicacions</string>
