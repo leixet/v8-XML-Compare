@@ -58,7 +58,7 @@
   <string name="daily_forcast_no_stable_direction">Sense vent</string>
   <string name="daily_forcast_no_wind">&lt;12 km/h</string>
   <string name="daily_forcast_no_wind_miles">&lt;19.3 mph</string>
-  <string name="daily_forcast_temperature_transfer">%1$s ° / %2$s °</string>
+  <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s més tard.</string>
   <string name="daily_forcast_whirl_wind">Tornado</string>
   <string name="daily_forcast_wind_connect">%1$s %2$s</string>
@@ -76,7 +76,7 @@
   <string name="hourly_forecast_title">Previsió per hores</string>
   <string name="index_item_install_now">Instal·la-ho ara</string>
   <string name="indices_desc_Precip1hr">%1$s mm</string>
-  <string name="indices_desc_feel">Sensació tèrmica: %1$s °C</string>
+  <string name="indices_desc_feel">Sensació tèrmica: %1$s°C</string>
   <string name="indices_desc_feel_without_pic">%1$s °C</string>
   <string name="indices_desc_humidity">Humitat %1$s%%</string>
   <string name="indices_desc_humidity_without_pic">%1$s%%</string>
