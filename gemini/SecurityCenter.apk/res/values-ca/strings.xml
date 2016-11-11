@@ -1288,6 +1288,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="sp_background_risk_dialog_summary">, feu un control detallat i corregiu els riscos de pagament</string>
   <string name="sp_background_risk_dialog_title">Perillós</string>
   <string name="sp_background_risk_type_messaging">L\'aplicació de missatgeria del sistema ha estat substituïda</string>
+  <string name="sp_background_risk_type_root">El sistema ha estat rootejat</string>
   <string name="sp_background_risk_type_sign">S\'està executant una aplicació no oficial</string>
   <string name="sp_background_risk_type_virus">S\'està executant una aplicació maliciosa</string>
   <string name="sp_background_risk_type_wifi">La Wi-Fi a la que esteu connectats és perillosa</string>
