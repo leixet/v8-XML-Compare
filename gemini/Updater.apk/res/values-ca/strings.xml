@@ -103,7 +103,7 @@
   <string name="menu_title_current_version_log">"Novetats"</string>
   <string name="menu_title_download_current_rom">Baixa l\'actualització</string>
   <string name="menu_title_pick_rom_file">Seleccioneu el paquet d\'actualització</string>
-  <string name="menu_title_recovery">Reinici en mode de recuperació</string>
+  <string name="menu_title_recovery">Reinicia en mode de recuperació</string>
   <string name="miui_BBS">" \"&lt;a href=\"http://bbs.miui.com\"&gt;Vés al fòrum MIUI&lt;/a&gt;\" "</string>
   <string name="miui_summary_has_new_version">"  Hi ha disponible una actualització  "</string>
   <string name="miui_summary_no_new_version">No hi ha actualitzacions disponibles</string>
