@@ -1309,7 +1309,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="sp_settings_check_item_title_virus_exception">Excepcions de virus</string>
   <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
   <string name="sp_settings_exception_count_zero">Cap element</string>
-  <string name="sp_settings_group_title_check_item">Comprovar la configuració dels elements</string>
+  <string name="sp_settings_group_title_check_item">Comprova múltiples configuracions</string>
   <string name="sp_settings_group_title_ime">Configuració de l\'IME segura</string>
   <string name="sp_settings_group_title_omit">Elements omesos</string>
   <string name="sp_settings_info_input_method">Utilitzant el mètode d\'entrada del sistema en aplicacions de pagament</string>
