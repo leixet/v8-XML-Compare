@@ -632,6 +632,8 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="bluetooth_unlock_change_device_confirm_msg">El dispositiu anterior es substituirà pel dispositiu actual.</string>
   <string name="bluetooth_unlock_change_matched_device">Tria un altre dispositiu</string>
   <string name="bluetooth_unlock_confirm_device_text">Feu tocar els dispositius per desbloquejar-los.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Toqueu el botó del rellotge per desbloquejar.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_miband2">Toqueu el botó del dispositiu per desbloquejar.</string>
   <string name="bluetooth_unlock_delete_device">Suprimeix el dispositiu</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Voleu eliminar aquest dispositiu?</string>
   <string name="bluetooth_unlock_device_matched_text">Utilitza aquest dispositiu per desbloquejar-ho.</string>
@@ -787,6 +789,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="children_mode_title">Mode de mainada</string>
   <string name="choose_assist_title">Trieu l\'Assistent</string>
   <string name="choose_profile">Trieu el perfil</string>
+  <string name="choose_smartcover_type">Trieu el tipus de funda</string>
   <string name="choose_timezone">Trieu el fus horàri</string>
   <string name="choose_voice_input_title">Trieu l\'entrada de veu</string>
   <string name="cleaner">Netejador</string>
@@ -1466,6 +1469,7 @@ Algunes aplicacions poden ser incompatibles fins que siguin actualitzades pels s
   <string name="free_xiaomi_wifi_connect_summary">Toqueu-ho per a connectar amb %1$s.</string>
   <string name="frequently_fragment_delete">Suprimeix</string>
   <string name="frequently_fragment_tempty">Els elements freqüents es mostraran aquí</string>
+  <string name="full_transparent_smarrcover_title">Tapa frontal transparent</string>
   <string name="fullbackup_data_summary">«Creeu còpies de seguretat automàtiques de les dades del dispositiu (com ara les contrasenyes de la Wi-Fi o l\'historial de trucades) i de les aplicacions (com ara les configuracions i els fitxers que desin) de manera remota.
 
 Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius i de les aplicacions s\'emmagatzemaran periòdicament de manera remota. Les dades de les aplicacions poden ser qualsevol tipus de dades que hagi desat una aplicació (en funció de la configuració del desenvolupador), incloses les dades potencialment confidencials, com ara contactes, missatges i fotos.»</string>
@@ -1687,6 +1691,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="large_font">Grossa</string>
   <string name="last_synced">Darrera sincronització %1$s</string>
   <string name="last_time_used_label">Darrer cop que es va fer servir</string>
+  <string name="lattice_smartcover_title">Tapa frontal enreixada</string>
   <string name="launch_by_default">Obre de manera predeterminada</string>
   <string name="launch_defaults_none">No s\'ha definit cap valor predeterminat</string>
   <string name="launch_defaults_some">S\'han definit alguns valors predeterminats</string>
@@ -2216,6 +2221,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="no_updates_warning">El sistema ja està actualitzat</string>
   <string name="no_updates_warning2">"No us amoïneu, ja us avisarem si hi ha alguna actualització :)"</string>
   <string name="noise_suppression">Supressió de soroll ambiental</string>
+  <string name="normal_smartcover_title">Coberta opaca</string>
   <string name="not_installed">No s\'ha instal·lat per a aquest usuari</string>
   <string name="notes_privacy_password_role_instruction">Les notes privades es desaran aquí.</string>
   <string name="notification_app_settings_button">Configuració de les notificacions</string>
@@ -3431,6 +3437,7 @@ Per fer-ho:
   <string name="slot_number">(Slot%1$d)</string>
   <string name="slot_status_title">informació d\'IMEI</string>
   <string name="small_font">Petita</string>
+  <string name="smallwindow_smartcover_title">Tapa frontal transparent</string>
   <string name="smartcover_sensitive_title">Mode Smartcover</string>
   <string name="sms_application_title">Aplicació de SMS</string>
   <string name="sms_change_default_dialog_text">Voleu utilitzar %1$s en comptes de %2$s com aplicació SMS predeterminada?</string>
