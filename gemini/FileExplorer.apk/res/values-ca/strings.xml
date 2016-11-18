@@ -30,6 +30,7 @@
   <string name="auto_play">Reprodueix automàticament quan estigui connectat a una Wi-Fi</string>
   <string name="auto_play_later">Més tard</string>
   <string name="auto_play_now">Activa</string>
+  <string name="auto_play_recommend">Reprodueix automàticament</string>
   <string name="auto_play_toast">Els vídeos es reproduiran automàticament. Podeu canviar-ho a la configuració.</string>
   <string name="backup_cancel">"No copiar"</string>
   <string name="backup_checkbox_msg">Copiar sempre i mostrar notificacions</string>
