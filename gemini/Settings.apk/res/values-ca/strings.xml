@@ -3438,6 +3438,8 @@ Per fer-ho:
   <string name="slot_status_title">informació d\'IMEI</string>
   <string name="small_font">Petita</string>
   <string name="smallwindow_smartcover_title">Tapa frontal transparent</string>
+  <string name="smartcover_lock_or_unlock_screen_tittle">tapa intel·ligent de bloqueig o pantalla de desbloqueig</string>
+  <string name="smartcover_sensitive_summary">bloqueja o desbloqueja el telèfon fàcilment amb la tapa intel·ligent</string>
   <string name="smartcover_sensitive_title">Mode Smartcover</string>
   <string name="sms_application_title">Aplicació de SMS</string>
   <string name="sms_change_default_dialog_text">Voleu utilitzar %1$s en comptes de %2$s com aplicació SMS predeterminada?</string>
