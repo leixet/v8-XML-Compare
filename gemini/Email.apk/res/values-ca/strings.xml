@@ -564,6 +564,7 @@
   <string name="menu_search">Cercar</string>
   <string name="menu_settings">Configuració</string>
   <string name="merged_mailbox_compose_select_account">Seleccioneu un Compte</string>
+  <string name="message_body_load_set_description">Mida de la càrrega de nous correus en utilitzar dades mòbils</string>
   <string name="message_compose_insert_quick_response_list_title">Inseriu una resposta ràpida</string>
   <string name="message_decode_error">"No es pot desxifrar el missatge"</string>
   <string name="message_details_title">Detalls del missatge</string>
@@ -776,6 +777,7 @@
   <string name="refreshing">Sincronització de&#8230;</string>
   <string name="refreshing_done">Sincronització completa</string>
   <string name="release_to_refresh">Deixar anar per refrescar</string>
+  <string name="remind_attachment_size_limit">Els correus haurien de ser inferiors a %s MB</string>
   <string name="remote_search_result">%s correus trobats al servidor</string>
   <string name="remove_account">Elimina el compte</string>
   <string name="remove_folder">Esborrat de %1$s</string>
