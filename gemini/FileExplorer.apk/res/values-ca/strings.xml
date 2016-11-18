@@ -444,6 +444,7 @@
   <string name="pick_file">Seleccioneu fitxers</string>
   <string name="pick_folder">Triar carpeta</string>
   <string name="popup_msg_qq">Compartiu aquest vídeo amb els amics de QQ.</string>
+  <string name="popup_msg_wb">És un bon vídeo? Compartiu-lo amb els vostres amics de Weibo!</string>
   <string name="popup_msg_wx">Compartiu aquest vídeo amb els amics de WeChat.</string>
   <string name="port_range">El port ha d\'estar entre 1024 i 65535</string>
   <string name="private_files">Ocults</string>
@@ -530,6 +531,7 @@
   <string name="setting">Configuració</string>
   <string name="setting_account_bind">Afegir compte</string>
   <string name="setting_message_notify">Notificacions</string>
+  <string name="setting_shortcut">Afegeix drecera a la pantalla d\'inici</string>
   <string name="share_success">Compartit amb èxit</string>
   <string name="share_tip_1">Gràcies per compartir-ho, seguiu-me per veure més vídeos</string>
   <string name="share_tip_2">Gràcies per compartir-ho, seguiu-me per veure més vídeos</string>
