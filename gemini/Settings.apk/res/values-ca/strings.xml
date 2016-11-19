@@ -3156,7 +3156,6 @@ Per fer-ho:
   <string name="search_sound_settings">So;Volums;Mode silenci;Alarma;Música;Vibració;To del telèfon;So predeterminat de notificació;Missatge rebut;Missatge lliurat;Tàctil;So de bloqueig de pantalla;Configuració d\'àudio;Suprimeix la fressa</string>
   <string name="search_status_bar">Notificacions de aplicació;Posició de commutadors;Velocitat de connexió;Nom de l\'operador;Notificació de captura;Pantalla de bloqueig</string>
   <string name="search_status_bar_settings_custom_carrier">Edita el nom de l\'operador</string>
-  <string name="search_status_bar_settings_expandable_under_keyguard">Mostra a la pantalla de bloqueig</string>
   <string name="search_status_bar_settings_show_carrier">Mostra nom de l\'operador</string>
   <string name="search_status_bar_settings_show_network_speed">Mostra velocitat de connexió</string>
   <string name="search_status_bar_settings_show_notification_icon">Mostra icones de notificació</string>
@@ -3177,7 +3176,6 @@ Per fer-ho:
   <string name="search_touch_sensitive_title">Mode guants</string>
   <string name="search_trusted_credentials">Certificats de confiança</string>
   <string name="search_tts_settings_title">Sortida de cerca per veu</string>
-  <string name="search_turn_on_security_lock">Canvia el bloqueig de pantalla</string>
   <string name="search_unlock_set">Pantalla de bloqueig automàtic;Informació del propietari;Son;Activa la pantalla de bloqueig;Contrasenya;Prevenció de trucades accidentals;Desbloqueig amb dispositiu Bluetooth</string>
   <string name="search_user_agreement">Termes del servei</string>
   <string name="search_user_dict_settings_title">Diccionari personal</string>
