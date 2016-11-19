@@ -57,15 +57,15 @@ Si més d\'un usuari fa servir el dispositiu, podeu habilitar-lo temporalment de
   <string name="accessibility_personal_account_title">Compte personal - %s</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">El botó d\'engegar penja la trucada</string>
   <string name="accessibility_screen_magnification_enable">Gestos per fer zoom</string>
-  <string name="accessibility_screen_magnification_summary">«Amb aquesta funció activa podeu tocar la pantalla 3 cops per fer zoom endavant i endarrere.
+  <string name="accessibility_screen_magnification_summary">"Amb aquesta funció activa, podeu apropar i allunyar el zoom amb tocar la pantalla tres vegades.
 
-Amb el zoom+ podeu:
-«&lt;li&gt;&lt;ul&gt;»Moure: Arrossegueu 2 o més dits per la pantalla.
-«&lt;li&gt;Ajustar el nivell de zoom: Acosteu o separeu els 2 dits.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;»
+Amb la imatge ampliada, podeu:
+\"&lt;li&gt;&lt;ul&gt;\"Desplaçar la imatge: Arrossegueu dos o més dits per la pantalla.
+\"&lt;li&gt;Ajustar el nivell de zoom: Pessigueu amb dos o més dits i separa\'ls mentre els arrossegues.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;\"
 
-També es pot ampliar temporalment what&amp;#8217;s el que hi ha a sota el dit, fent el triple toc i mantinguent-lo premut. Quan es veu ampliat, arrossegueu el dit per altres llocs de la pantalla. Per acabar l\'ampliació treieu el dit.
+També podeu ampliar el contingut seleccionat de forma temporal amb només tocar la pantalla tres vegades i mantenir-la premuda. Amb el contingut ampliat, podeu arrossegar el dit per explorar diferents parts de la pantalla. Aixequeu el dit per tornar a l\'estat anterior.
 
-Nota: El triple toc per ampliar funciona en qualsevol lloc excepte el teclat i la barra de navegació.»</string>
+Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol part, excepte en el teclat i en la barra de navegació."</string>
   <string name="accessibility_screen_magnification_title">Gestos per fer zoom</string>
   <string name="accessibility_service_default_description">Sense descripció.</string>
   <string name="accessibility_services_title">Serveis</string>
