@@ -536,6 +536,8 @@
   <string name="share_tip_1">Gràcies per compartir-ho, seguiu-me per veure més vídeos</string>
   <string name="share_tip_2">Gràcies per compartir-ho, seguiu-me per veure més vídeos</string>
   <string name="share_title_01">"%1$s Aquí teniu un vídeo guai! %2$s"</string>
+  <string name="share_title_02">"%1$s Aquí teniu un vídeo guai!"</string>
+  <string name="share_title_03">"%1$s Aquí teniu un vídeo guai! %2$s"</string>
   <string name="share_title_04">%1$s He compartit un vídeo, feu una ullada! %2$s</string>
   <string name="share_title_05">%1$s He compartit un vídeo, feu una ullada! %2$s</string>
   <string name="share_title_06">%1$s He compartit un vídeo, feu una ullada! %2$s</string>
