@@ -535,6 +535,13 @@
   <string name="share_success">Compartit amb èxit</string>
   <string name="share_tip_1">Gràcies per compartir-ho, seguiu-me per veure més vídeos</string>
   <string name="share_tip_2">Gràcies per compartir-ho, seguiu-me per veure més vídeos</string>
+  <string name="share_title_01">"%1$s Aquí teniu un vídeo guai! %2$s"</string>
+  <string name="share_title_04">%1$s He compartit un vídeo, feu una ullada! %2$s</string>
+  <string name="share_title_05">%1$s He compartit un vídeo, feu una ullada! %2$s</string>
+  <string name="share_title_06">%1$s He compartit un vídeo, feu una ullada! %2$s</string>
+  <string name="share_title_07">%s He compartit un vídeo, feu una ullada!</string>
+  <string name="share_title_08">%s He compartit un vídeo, feu una ullada!</string>
+  <string name="share_title_09">%s He compartit un vídeo, feu una ullada!</string>
   <string name="share_title_1">Trobat nou paquet d\'adhesius!</string>
   <string name="share_to">Compartir per&#8230;</string>
   <string name="share_youliao1">Actualitzeu per veure més capítols.</string>
@@ -549,7 +556,9 @@
 (Els GIFs es poden afegir a Personalitzats en els adhesius de WeChat)."</string>
   <string name="shared_sticker_use_tip_title">Com utilitzar adhesius</string>
   <string name="shared_str">Compartit per %s</string>
+  <string name="shortcut_exists">La drecera ja existeix</string>
   <string name="shortcut_hotvideos">Vídeos populars</string>
+  <string name="shortcut_msg">Afegeix una drecera a la pantalla d\'inici per als vídeos populars</string>
   <string name="smb_loading">Un moment&#8230;</string>
   <string name="sort_size_asc">De petit a gran</string>
   <string name="sort_size_desc">De gran a petit</string>
@@ -643,6 +652,7 @@
   <string name="user_follow_me_title">Els meus seguidors</string>
   <string name="user_follow_title">Persones que segueixo</string>
   <string name="user_guide_continue_use">D\'acord</string>
+  <string name="user_guide_more_login">Altres maneres d\'iniciar sessió</string>
   <string name="user_icon">Foto del perfil</string>
   <string name="user_info_setting">Editar la informació</string>
   <string name="user_like_text">M\'agrada</string>
