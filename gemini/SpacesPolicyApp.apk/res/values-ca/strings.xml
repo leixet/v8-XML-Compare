@@ -18,9 +18,9 @@
   <string name="notification_title">Actualització de la política</string>
   <string name="or">o</string>
   <string name="policy_search_field_hint">Nom de la política</string>
-  <string name="policy_update_disclaimer">L\'actualització de la política d\'espai pot incórrer en càrrecs per ús de la xarxa. Els usuaris haurien de consultar als proveïdors locals de servei per les quantitats carregades. Si esteu d\'acord amb aquestes condicions, seleccioneu «Sí» per iniciar l\'actualització de la política.</string>
+  <string name="policy_update_disclaimer">L\'actualització de la política d\'espai pot incórrer en càrrecs per ús de la xarxa. Els usuaris haurien de consultar als seus proveïdors locals sobre aquests càrrecs. Si esteu d\'acord amb aquestes condicions, seleccioneu «Sí» per iniciar l\'actualització de la política.</string>
   <string name="policy_update_never_remind">No ho tornis a preguntar</string>
-  <string name="pref_cat_policy_data">Informació de Política</string>
+  <string name="pref_cat_policy_data">Informació de la política</string>
   <string name="pref_cat_sscm_data">Informació del SSCM</string>
   <string name="pref_cat_sss_data">Informació del SSMS</string>
   <string name="pref_desc_in_progress_policy">Detalls de la política que s\'està aplicant actualment.</string>
