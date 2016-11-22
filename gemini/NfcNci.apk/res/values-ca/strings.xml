@@ -46,9 +46,9 @@ Voleu activar-lo per al Servei NFC?"</string>
   <string name="prompt_connect_to_network">Voleu connectar a la xarxa %1$s?</string>
   <string name="status_unable_to_connect">No es pot connectar a la xarxa</string>
   <string name="status_wifi_connected">Connectat</string>
-  <string name="tap_again_to_complete">Toqueu un altre cop per completar amb %1$s</string>
-  <string name="tap_again_to_pay">Toqueu un altre cop per pagar amb %1$s</string>
-  <string name="title_connect_to_network">Connectat a la xarxa</string>
+  <string name="tap_again_to_complete">Toqueu un altre cop per a completar amb %1$s</string>
+  <string name="tap_again_to_pay">Toqueu un altre cop per a pagar amb %1$s</string>
+  <string name="title_connect_to_network">Connecta a la xarxa</string>
   <string name="touch">Toqueu per transferir</string>
   <string name="transaction_failure">"Aquesta transacció no s'ha pogut completar amb %1$s."</string>
   <string name="wifi_connect">Connecta</string>
