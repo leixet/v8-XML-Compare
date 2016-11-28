@@ -270,7 +270,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="btn_text_quick_antivirus">Arregla</string>
   <string name="btn_text_quick_cleanup">Neteja</string>
   <string name="btn_text_quick_optimize">Optimitzar</string>
-  <string name="btn_text_quick_save_power">Refredar</string>
+  <string name="btn_text_quick_save_power">Refreda</string>
   <string name="btn_text_quick_scan">Escanejar</string>
   <string name="btn_text_start_check">Escanejar</string>
   <string name="btn_text_stop">Aturar</string>
@@ -814,7 +814,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="none_mi_service_app_detail">Buit</string>
   <string name="notification_battery_consume_abnormal_summary">Drenat %2$s de la bateria durant els últims %1$d minuts</string>
   <string name="notification_battery_consume_abnormal_title">La bateria està sent drenada massa ràpid</string>
-  <string name="notification_battery_over_heat_summary">\"Trobar què causa l\'escalfament i refredar el dispositiu.</string>
+  <string name="notification_battery_over_heat_summary">Troba què causa escalfament i refreda el dispositiu.</string>
   <string name="notification_battery_over_heat_title">La temperatura actual és de %d℃</string>
   <string name="notification_charging_title">"S'està carregant "</string>
   <string name="notification_exit_power_save_mode">Apagar estalvi de bateria</string>
