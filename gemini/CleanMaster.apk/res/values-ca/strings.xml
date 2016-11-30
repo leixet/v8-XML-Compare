@@ -404,7 +404,7 @@
   <string name="tips_of_package_set">Establiu el vostre pla de dades i controleu la quantitat de trànsit que feu servir</string>
   <string name="tips_of_traffic_notification">Mostra les estadístiques de dades mòbils a l\'àrea de notificacions</string>
   <string name="tips_of_traffic_pack_threshold">"Compreu més dades quan estiguis a punt d'arribar al teu límit"</string>
-  <string name="tips_of_virus_scan">Escanegeu el dispositiu per mantenir lliure de virus i més segur</string>
+  <string name="tips_of_virus_scan">Escanegeu regularment el vostre dispositiu per detectar virus i mantenir-lo segur</string>
   <string name="title_auto_cleaner">Voleu netejar-lo automàticament?</string>
   <string name="title_delete_cache">Esborrar dades en memòria cau</string>
   <string name="title_delete_clipboard">Contingut del porta-retalls</string>
