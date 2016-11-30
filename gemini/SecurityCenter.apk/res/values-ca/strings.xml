@@ -1475,7 +1475,7 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="tips_of_operators_set">Ajusteu automàticament les estadístiques d\'ús de dades</string>
   <string name="tips_of_package_set">Establiu el vostre pla de dades i controleu la quantitat de trànsit que feu servir</string>
   <string name="tips_of_traffic_pack_threshold">"Compreu més dades quan estiguis a punt d'arribar al teu límit"</string>
-  <string name="tips_of_virus_scan">Escanegeu el dispositiu per mantenir lliure de virus i més segur</string>
+  <string name="tips_of_virus_scan">Escanegeu regularment el vostre dispositiu per detectar virus i mantenir-lo segur</string>
   <string name="title_app_lock_disable">Aplicacions bloquejades</string>
   <string name="title_app_update">Actualitzacions disponibles</string>
   <string name="title_auto_update">Actualització automàtica</string>
