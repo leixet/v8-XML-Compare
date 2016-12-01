@@ -199,9 +199,9 @@
 està a punt de succeir"</string>
   <string name="custom_head_card_text_incognito">"Ara sou en mode d\'incògnit!
 Les pàgines que visiteu no es veuran reflectides en l\'historial"</string>
-  <string name="data_traffic_prompt_change">"Si s'utilitza la connexió de dades mòbils per veure vídeos s'incrementarà l'ús de dades. Si excediu el límit del pla de dades, el vostre operador podria carregar-vos despeses addicionals."</string>
-  <string name="data_traffic_prompt_message">"Si s'utilitza la connexió de dades mòbils per veure vídeos s'incrementarà l'ús de dades. Si excediu el límit del pla de dades, el vostre operador podria carregar-vos despeses addicionals."</string>
-  <string name="data_traffic_prompt_message_short">"Si s'utilitza la connexió de dades mòbils per a transmetre vídeo es podria superar el vostre límit de dades."</string>
+  <string name="data_traffic_prompt_change">Si s\'utilitza la connexió de dades mòbils per veure vídeos s\'incrementarà l\'ús de dades. Si excediu el límit del pla de dades, el vostre operador podria carregar-vos despeses addicionals.</string>
+  <string name="data_traffic_prompt_message">Si s\'utilitza la connexió de dades mòbils per veure vídeos s\'incrementarà l\'ús de dades. Si excediu el límit del pla de dades, el vostre operador podria carregar-vos despeses addicionals.</string>
+  <string name="data_traffic_prompt_message_short">Si s\'utilitza la connexió de dades mòbils per a transmetre vídeo es podria superar el vostre límit de dades.</string>
   <string name="data_traffic_prompt_title">Alerta d\'ús de dades</string>
   <string name="date_picker_dialog_clear">Esborra</string>
   <string name="date_picker_dialog_other_button_label">Altres</string>
@@ -372,9 +372,9 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="media_error_timeout">S\'ha excedit el temps de connexió a la xarxa</string>
   <string name="media_error_video_not_exist">"El vídeo no existeix"</string>
   <string name="media_player_error_button">D\'acord</string>
-  <string name="media_player_error_text_invalid_progressive_playback">"No es pot transmetre aquest vídeo en aquest dispositiu."</string>
-  <string name="media_player_error_text_unknown">"No es pot reproduir el vídeo."</string>
-  <string name="media_player_error_title">"No es pot reproduir vídeo"</string>
+  <string name="media_player_error_text_invalid_progressive_playback">No es pot transmetre aquest vídeo en aquest dispositiu.</string>
+  <string name="media_player_error_text_unknown">No es pot reproduir el vídeo.</string>
+  <string name="media_player_error_title">No es pot reproduir vídeo</string>
   <string name="media_player_loading_video">Carregant el vídeo</string>
   <string name="menu_addtodesk">Afegeix a la pantalla d\'inici</string>
   <string name="menu_exit_nightmode">Surt</string>
