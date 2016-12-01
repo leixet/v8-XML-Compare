@@ -122,7 +122,7 @@ If you re-enable data, you may be charged by the operator."</string>
   <string name="gps_notification_found_text">Location set by GPS</string>
   <string name="gps_notification_searching_text">Searching for GPS</string>
   <string name="hour_minute_time_format">HH:mm</string>
-  <string name="invalid_charger">"USB charging not supported.
+  <string name="invalid_charger">"USB charging isn't supported.
 Use only the supplied charger."</string>
   <string name="kilobyte_per_second">K/s</string>
   <string name="label_view">View</string>
@@ -134,6 +134,7 @@ Use only the supplied charger."</string>
   <string name="long_screenshot_processing">Processing…</string>
   <string name="long_screenshot_stop">Done</string>
   <string name="long_screenshot_top_msg">Creating screenshot…</string>
+  <string name="long_screenshot_top_msg_manual">Crop the screenshot and tap the button to finish</string>
   <string name="managed_profile_foreground_toast">"You're using your work profile"</string>
   <string name="mdb_entering">Starting…</string>
   <string name="mdb_restore_cancel">Cancel</string>
@@ -196,8 +197,8 @@ Use only the supplied charger."</string>
   <string name="save_mode_btn_ok">OK</string>
   <string name="screen_button_notification_text">To turn them on, press the Home and Power buttons simultaneously.</string>
   <string name="screen_button_notification_title">Navigation buttons are turned off</string>
-  <string name="screen_pinning_description">This keeps it in view until you unpin. Touch and hold Home and the Power button at the same time to unpin.</string>
-  <string name="screen_pinning_description_accessible">This keeps it in view until you unpin. Touch and hold Home and the Power button at the same time to unpin.</string>
+  <string name="screen_pinning_description">This keeps it in view until you unpin. Press and hold Home and the Power button at the same time to unpin.</string>
+  <string name="screen_pinning_description_accessible">This keeps it in view until you unpin. Press and hold Home and the Power button at the same time to unpin.</string>
   <string name="screen_pinning_negative">No thanks</string>
   <string name="screen_pinning_positive">Got it</string>
   <string name="screen_pinning_title">Screen is pinned</string>
@@ -209,7 +210,7 @@ Use only the supplied charger."</string>
   <string name="screenshot_edit">Edit</string>
   <string name="screenshot_failed_text">"Can't take screenshot due to limited storage space, or it isn't allowed by the app or your organization."</string>
   <string name="screenshot_long_screenshot">Scroll</string>
-  <string name="screenshot_saved_text">Touch to view your screenshot.</string>
+  <string name="screenshot_saved_text">Tap to view your screenshot.</string>
   <string name="screenshot_saved_title">Screenshot captured</string>
   <string name="screenshot_saving_text">Screenshot is being saved</string>
   <string name="screenshot_saving_ticker">Saving screenshot…</string>
@@ -221,6 +222,7 @@ Use only the supplied charger."</string>
   <string name="settings_toggle_position_divider_page">%1$d toggles above this bar are active</string>
   <string name="settings_toggle_position_reset">Reset toggles</string>
   <string name="share">Share</string>
+  <string name="stat_sys_data_connected_1x_half">1X</string>
   <string name="status_bar_clock_date_format">EEEE, MMMM d</string>
   <string name="status_bar_date_format">"EEEE
 MMMM d"</string>
