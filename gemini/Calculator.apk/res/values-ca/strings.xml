@@ -125,6 +125,7 @@
   <string name="power">^</string>
   <string name="powerDesc">potència</string>
   <string name="preference_about_calculator">Quant a la Calculadora</string>
+  <string name="preference_alert_follow_wechat">Copia i enganxa al WeChat per seguir</string>
   <string name="preference_alert_follow_wechat_button">Copia</string>
   <string name="preference_check_update_title">Cerca actualitzacions</string>
   <string name="preference_feedback_title">PMF</string>
@@ -374,4 +375,5 @@
   <string name="xiaomi_bytes_unit">%1$s B</string>
   <string name="xiaomi_kilobytes_unit">%1$s KB</string>
   <string name="xiaomi_megabytes_unit">%1$s MB</string>
+  <string name="xiaomi_update_dialog_title">%1$s actualització!</string>
 </resources>
