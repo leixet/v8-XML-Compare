@@ -75,11 +75,14 @@
   <string name="confirm_delete_all_broadcasts">Voleu esborrar tots el missatges de difusió rebuts?</string>
   <string name="confirm_delete_broadcast">Voleu esborrar aquesta difusió?</string>
   <string name="delivery_time_heading">Rebut:</string>
+  <string name="disable">Desactiva</string>
   <string name="done_text">Fet</string>
   <string name="emergency_alert_settings_title">Configuració d\'alertes d\'emergència</string>
   <string name="enable">Activa</string>
   <string name="enable_alert_speech_summary">Utilitza la síntesi de veu per enunciar missatges d\'alerta d\'emergència</string>
   <string name="enable_alert_speech_title">Enuncia el missatge d\'alerta</string>
+  <string name="enable_alert_tone_summary">To d\'alerta activat</string>
+  <string name="enable_alert_tone_title">To d\'alerta</string>
   <string name="enable_alert_vibrate_summary">Vibra en rebre una alerta</string>
   <string name="enable_alert_vibrate_title">Vibra</string>
   <string name="enable_channel_50_alerts_summary">Al Brasil s\'utilitza el canal 50 per actualitzar la informació sobre una zona</string>
@@ -90,6 +93,8 @@
   <string name="enable_cmas_amber_alerts_title">Mostra les alertes AMBER</string>
   <string name="enable_cmas_extreme_threat_alerts_summary">Mostra les alertes d\'amenaces extremes per a la vida i per a la propietat</string>
   <string name="enable_cmas_extreme_threat_alerts_title">Mostra les amenaces extremes</string>
+  <string name="enable_cmas_presidential_alerts_summary">Mostrar sempre les alertes presidencials</string>
+  <string name="enable_cmas_presidential_alerts_title">Mostra les alertes presidencials</string>
   <string name="enable_cmas_severe_threat_alerts_summary">Mostra les alertes d\'amenaces importants per a la vida i per a la propietat</string>
   <string name="enable_cmas_severe_threat_alerts_title">Mostra les amenaces importants</string>
   <string name="enable_cmas_test_alerts_summary">Mostra les difusions de prova per al Sistema Comercial d\'Alertes Mòbils</string>
@@ -98,6 +103,8 @@
   <string name="enable_emergency_alerts_title">Activa les notificacions</string>
   <string name="enable_etws_test_alerts_summary">Mostra les difusions de prova del sistema d\'avisos de terratrèmols i tsunamis</string>
   <string name="enable_etws_test_alerts_title">Mostra les difusions de prova ETWS</string>
+  <string name="error_finish_dialog_title">Error de xarxa o de targeta SIM.</string>
+  <string name="error_updating_title">Error de configuració de les trucades</string>
   <string name="etws_earthquake_and_tsunami_warning">Avís de terratrèmol i tsunami</string>
   <string name="etws_earthquake_warning">Avís de terratrèmol</string>
   <string name="etws_other_emergency_type">Avís d\'emergència</string>
@@ -112,6 +119,7 @@
   <string name="notification_multiple">%s alertes no llegides.</string>
   <string name="notification_multiple_title">Alertes noves</string>
   <string name="pws_other_message_identifiers">Alerta d\'emergència</string>
+  <string name="reading_settings">Configuració de lectura</string>
   <string name="show_cmas_opt_out_summary">Mostra un diàleg d\'exclusió després de la primera alerta CMAS (que no sigui alerta presidencial).</string>
   <string name="show_cmas_opt_out_title">Mostra el diàleg d\'exclusió voluntària</string>
   <string name="sms_cb_settings">Configuració de difusió de cel·la</string>
