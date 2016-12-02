@@ -529,6 +529,7 @@
   <string name="setting_account_bind">Afegir compte</string>
   <string name="setting_message_notify">Notificacions</string>
   <string name="setting_shortcut">Afegeix drecera a la pantalla d\'inici</string>
+  <string name="share_rank_card_tip">Comparteix el rànquing</string>
   <string name="share_success">Compartit amb èxit</string>
   <string name="share_tip_1">Gràcies per compartir-ho, seguiu-me per veure més vídeos</string>
   <string name="share_tip_2">Gràcies per compartir-ho, seguiu-me per veure més vídeos</string>
@@ -578,6 +579,7 @@
   <string name="tab_claim">Reclama</string>
   <string name="tab_common_app">Aplicacions bàsiques</string>
   <string name="tab_discover">Descobreix</string>
+  <string name="tab_explore">Descobreix</string>
   <string name="tab_follow">Seguint</string>
   <string name="tab_homepage">Inici</string>
   <string name="tab_hottest_video">Popular</string>
@@ -598,6 +600,7 @@
   <string name="title_select_volume">Seleccionar volum</string>
   <string name="toast_file_not_can_read">No s\'ha trobat cap aplicació per realitzar aquesta acció.</string>
   <string name="tools">EINES</string>
+  <string name="top_videos">Comparteix el rànquing</string>
   <string name="topic_follow">Seguir</string>
   <string name="topic_followed">Seguint</string>
   <string name="topic_message">%1$s: %2$s</string>
@@ -745,6 +748,7 @@
   <string name="video_upload_wechat_hint">Pugeu vídeos a WeChat per aconseguir més admiradors.</string>
   <string name="video_uploaded">Pujat</string>
   <string name="view_more_sticker">Veure més adhesius</string>
+  <string name="view_top_rank">Mostra el rànquing</string>
   <string name="wb_btn_bind">Weibo</string>
   <string name="wechat_btn_bind">WeChat</string>
   <string name="wechat_btn_str">WeChat</string>
