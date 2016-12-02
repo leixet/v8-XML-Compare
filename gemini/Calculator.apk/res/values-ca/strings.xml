@@ -137,6 +137,7 @@
   <string name="preference_follow_weibo_summary">\@MIUI</string>
   <string name="preference_follow_weibo_title">Sina Weibo</string>
   <string name="preference_settings">Configuració</string>
+  <string name="preference_use_degress_summary">Substituir radiants per angles en funcions trigonomètriques</string>
   <string name="rate_data_provider">Els tipus d\'interès són proporcionats per hexun.com</string>
   <string name="rightParen">)</string>
   <string name="rightParenDesc">parèntesi dret</string>
