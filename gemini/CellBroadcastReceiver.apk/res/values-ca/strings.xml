@@ -120,6 +120,7 @@
   <string name="notification_multiple_title">Alertes noves</string>
   <string name="pws_other_message_identifiers">Alerta d\'emergència</string>
   <string name="reading_settings">Configuració de lectura</string>
+  <string name="receive_broad_cast">Rebre difusió mòbil SMS</string>
   <string name="show_cmas_opt_out_summary">Mostra un diàleg d\'exclusió després de la primera alerta CMAS (que no sigui alerta presidencial).</string>
   <string name="show_cmas_opt_out_title">Mostra el diàleg d\'exclusió voluntària</string>
   <string name="sms_cb_settings">Configuració de difusió de cel·la</string>
