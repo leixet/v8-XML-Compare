@@ -1389,6 +1389,11 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="usb_supplying_notification_title">L\'USB proporciona energia al dispositiu connectat</string>
   <string name="use_a_different_app">Utilitza una altra aplicació</string>
   <string name="user_creation_account_exists">Voleu permetre a %1$s crear un usuari nou amb %2$s?</string>
+  <string name="user_creation_adding">Voleu permetre a %1$s crear un usuari nou amb %2$s? (Un usuari amb aquest compte ja existeix)</string>
+  <string name="user_encrypted_detail">Dades d\'usuari bloquejades</string>
+  <string name="user_encrypted_message">Premeu per desbloquejar</string>
+  <string name="user_encrypted_title">Algunes funcions es limitaran</string>
+  <string name="user_logging_out_message">S\'està tancant la sessió %1$s&#8230;</string>
   <string name="user_owner_label">Personal</string>
   <string name="user_switched">Usuari actual %1$s.</string>
   <string name="user_switching_message">S\'està canviant a %1$s&#8230;</string>
