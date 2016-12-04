@@ -62,8 +62,17 @@
   <string name="add_account_button_label">Afegeix un compte</string>
   <string name="add_account_label">Afegeix un compte</string>
   <string name="aerr_application">L\'aplicació %1$s s\'ha aturat.</string>
+  <string name="aerr_application_repeated">%1$s continua aturat</string>
+  <string name="aerr_close">Tanca</string>
+  <string name="aerr_close_app">Tanca l\'aplicació</string>
+  <string name="aerr_mute">Silencia fins que es reiniciï el dispositiu</string>
   <string name="aerr_process">S\'ha aturat el procés %1$s.</string>
+  <string name="aerr_process_repeated">%1$s continua aturat</string>
+  <string name="aerr_report">Envia els suggeriments</string>
+  <string name="aerr_restart">Torna a obrir l\'aplicació</string>
+  <string name="aerr_wait">Espereu</string>
   <string name="allow">Permet</string>
+  <string name="allow_button">Permet</string>
   <string name="alternate_eri_file">/data/eri.xml</string>
   <string name="alwaysUse">Utilitza-ho sempre per aquesta acció.</string>
   <string name="android_preparing_apk">S\'està preparant %1$s.</string>
@@ -72,6 +81,8 @@
   <string name="android_upgrading_apk">S\'està optimitzant l\'aplicació %1$d de %2$d.</string>
   <string name="android_upgrading_complete">S\'està acabant l\'arrencada.</string>
   <string name="android_upgrading_fstrim">S\'està optimitzant l\'emmagatzematge.</string>
+  <string name="android_upgrading_notification_body">Pot ser que algunes aplicacions no funcionin correctament fins que no es completi l\'actualització</string>
+  <string name="android_upgrading_notification_title">S\'està actualitzant l\'Android</string>
   <string name="android_upgrading_starting_apps">S\'estan iniciant les aplicacions.</string>
   <string name="android_upgrading_title">S\'està actualitzant Android&#8230;</string>
   <string name="anr_activity_application">"«L'aplicació %2$s no respon.
@@ -84,6 +95,7 @@ Voleu tancar-la?»"</string>
   <string name="anr_process">"«El procés %1$s no respon.
 
 Voleu tancar-lo?»"</string>
+  <string name="app_info">Informació de l\'aplicació</string>
   <string name="app_not_found">No s\'ha trobat cap aplicació que pugui realitzar aquesta acció.</string>
   <string name="app_running_notification_text">Toqueu per obtenir més informació o per aturar l\'aplicació.</string>
   <string name="app_running_notification_title">%1$s s\'està executant</string>
