@@ -1420,6 +1420,7 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="vpn_text_long">Connectat a %s. Toqueu per administrar la xarxa.</string>
   <string name="vpn_title">VPN activada</string>
   <string name="vpn_title_long">VPN activada per %s</string>
+  <string name="vr_listener_binding_label">Oient VR</string>
   <string name="wait">Espereu</string>
   <string name="wallpaper_binding_label">Fons de pantalla</string>
   <string name="web_user_agent" formatted="false">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 %sSafari/534.30</string>
@@ -1435,14 +1436,25 @@ Voleu tancar-la?»</string>
   <string name="wfc_mode_wifi_only_summary">Només Wi-Fi</string>
   <string name="wfc_mode_wifi_preferred_summary">Wi-Fi preferentment</string>
   <string name="whichApplication">Completa l\'acció utilitzant</string>
+  <string name="whichApplicationLabel">Completa l\'acció</string>
   <string name="whichApplicationNamed">Completa l\'acció amb %1$s</string>
   <string name="whichEditApplication">Edita amb</string>
+  <string name="whichEditApplicationLabel">Edició</string>
   <string name="whichEditApplicationNamed">Edita amb %1$s</string>
   <string name="whichHomeApplication">Seleccionar una aplicació d\'Inici</string>
+  <string name="whichHomeApplicationLabel">Captura la imatge</string>
   <string name="whichHomeApplicationNamed">Utilitza %1$s com a Inici</string>
+  <string name="whichImageCaptureApplication">Captura la imatge amb</string>
+  <string name="whichImageCaptureApplicationLabel">Captura la imatge</string>
+  <string name="whichImageCaptureApplicationNamed">Captura la imatge amb %1$s</string>
   <string name="whichSendApplication">Comparteix amb</string>
+  <string name="whichSendApplicationLabel">Compartició</string>
   <string name="whichSendApplicationNamed">Comparteix amb %1$s</string>
+  <string name="whichSendToApplication">Envia usant</string>
+  <string name="whichSendToApplicationLabel">Envia</string>
+  <string name="whichSendToApplicationNamed">Envia usant %1$s</string>
   <string name="whichViewApplication">Obre amb</string>
+  <string name="whichViewApplicationLabel">Obre</string>
   <string name="whichViewApplicationNamed">Obre amb %1$s</string>
   <string name="wifi_available_sign_in">Inicia una sessió a la xarxa Wi-Fi</string>
   <string name="wifi_calling_off_summary">Desactivada</string>
@@ -1467,6 +1479,9 @@ Voleu tancar-la?»</string>
   <string name="wifi_watchdog_network_disabled">"No s'ha pogut establir connexió amb la xarxa Wi-Fi."</string>
   <string name="wifi_watchdog_network_disabled_detailed">" té una connexió inestable a internet."</string>
   <string name="wireless_display_route_description">Pantalla sense fils</string>
+  <string name="work_mode_off_message">Permet que el perfil professional funcioni, incloses les aplicacions, la sincronització en segon pla i les funcions relacionades.</string>
+  <string name="work_mode_off_title">Mode de feina DESACTIVAT</string>
+  <string name="work_mode_turn_on">Activa</string>
   <string name="work_profile_deleted">S\'ha suprimit el perfil professional</string>
   <string name="work_profile_deleted_description">S\'ha suprimit el perfil professional perquè no s\'ha detectat cap aplicació d\'administració.</string>
   <string name="work_profile_deleted_description_dpm_wipe">El perfil professional ja no està disponible en aquest dispositiu.</string>
