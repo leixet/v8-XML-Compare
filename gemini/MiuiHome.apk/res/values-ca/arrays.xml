@@ -55,7 +55,7 @@
   <string-array name="editing_mode_entries">
     <item>Temes</item>
     <item>Ginys</item>
-    <item>Fons de pantalla</item>
+    <item>Fons</item>
     <item>Efectes</item>
     <item>Screen cells</item>
   </string-array>
