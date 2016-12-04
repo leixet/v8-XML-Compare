@@ -99,6 +99,8 @@ Voleu tancar-lo?»"</string>
   <string name="app_not_found">No s\'ha trobat cap aplicació que pugui realitzar aquesta acció.</string>
   <string name="app_running_notification_text">Toqueu per obtenir més informació o per aturar l\'aplicació.</string>
   <string name="app_running_notification_title">%1$s s\'està executant</string>
+  <string name="audit_safemode_notification">Restableix les dades de fàbrica del dispositiu per utilitzar-lo sense restriccions</string>
+  <string name="audit_safemode_notification_details">Premeu per obtenir més informació.</string>
   <string name="autofill_address_line_1_label_re">address|adresse|indirizzo|住所|地址</string>
   <string name="autofill_address_line_1_re">address.?line|address1|addr1|street|strasse|straße|hausnummer|housenumber|house.?name|direccion|dirección|adresse|indirizzo|住所1|morada|endereço|Адрес|地址</string>
   <string name="autofill_address_line_2_re">address.?line2|address2|addr2|street|suite|unit|adresszusatz|ergänzende.?angaben|direccion2|colonia|adicional|addresssuppl|complementnom|appartement|indirizzo2|住所2</string>
@@ -165,15 +167,23 @@ Economitzador de bateria s\'apaga automàticament quan el dispositiu s\'està ca
   <string name="beforeOneMonthDurationPast">Fa més d\'un mes</string>
   <string name="bluetooth_a2dp_audio_route_name">Àudio Bluetooth</string>
   <string name="bugreport_message">Es recopilarà informació sobre l\'estat actual del vostre dispositiu i s\'enviarà per correu. Passaran uns minuts des que comenci a generar-se l\'informe d\'errors fins que s\'enviï, per la qual cosa et recomanem que tingueu paciència.</string>
+  <string name="bugreport_option_full_summary">Utilitzeu aquesta opció perquè la interferència en el sistema sigui mínima si el dispositiu no respon o va massa lent, o bé si necessiteu totes les seccions de l\'informe. No us permetera introduir més dades ni fer més captures de pantalla.</string>
+  <string name="bugreport_option_full_title">Informe complet</string>
+  <string name="bugreport_option_interactive_summary">Utilitzeu aquesta opció en la majoria de circumstàncies. Us permetera fer un seguiment del progrés de l\'informe, introduir més dades sobre el problema i fer captures de pantalla. És possible que ometi seccions poc utilitzades que requereixen molt de temps.</string>
+  <string name="bugreport_option_interactive_title">Informe interactiu</string>
   <string name="bugreport_status" formatted="false">%s (%s)</string>
   <string name="bugreport_title">Crea un informe d\'errors</string>
   <string name="byteShort">B</string>
   <string name="cancel">Cancel·la</string>
   <string name="candidates_style">&lt;u&gt;candidats&lt;/u&gt;</string>
+  <string name="capability_desc_canControlMagnification">"Controla el nivell i el posicionament del zoom de la pantalla."</string>
+  <string name="capability_desc_canPerformGestures">Podeu tocar, lliscar, pessigar i realitzar altres gestos.</string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">És possible que s\'instal·lin seqüències d\'ordres perquè el contingut de les aplicacions sigui més accessible.</string>
   <string name="capability_desc_canRequestFilterKeyEvents">Inclou dades personals com números de targetes de crèdit i contrasenyes.</string>
   <string name="capability_desc_canRequestTouchExploration">Els elements seleccionats es diran en veu alta i podreu explorar la pantalla mitjançant gestos.</string>
   <string name="capability_desc_canRetrieveWindowContent">"Inspecciona el contingut d'una finestra amb la que estiguis interactuant."</string>
+  <string name="capability_title_canControlMagnification">Controla el zoom de la pantalla</string>
+  <string name="capability_title_canPerformGestures">Realitza gestos</string>
   <string name="capability_title_canRequestEnhancedWebAccessibility">Activa l\'accessibilitat web millorada</string>
   <string name="capability_title_canRequestFilterKeyEvents">Observa el text que escriu</string>
   <string name="capability_title_canRequestTouchExploration">Activa l\'exploració tàctil</string>
@@ -182,6 +192,11 @@ Economitzador de bateria s\'apaga automàticament quan el dispositiu s\'està ca
   <string name="capital_on">SÍ</string>
   <string name="car_mode_disable_notification_message">Toqueu per sortir del mode cotxe.</string>
   <string name="car_mode_disable_notification_title">S\'ha activat el mode cotxe.</string>
+  <string name="carrier_app_dialog_button">OBTÉN L\'APLICACIÓ</string>
+  <string name="carrier_app_dialog_message">"Perquè la nova SIM funcioni, heu d'instal·lar i obrir una aplicació del vostre operador de telefonia mòbil."</string>
+  <string name="carrier_app_dialog_not_now">ARA NO</string>
+  <string name="carrier_app_notification_text">Toqueu per configurar-la</string>
+  <string name="carrier_app_notification_title">S\'ha inserit una SIM nova</string>
   <string name="cfTemplateForwarded">{0}: {1}</string>
   <string name="cfTemplateForwardedTime">{0}: {1} transcorreguts {2} segons</string>
   <string name="cfTemplateNotForwarded">{0}: No desviada</string>
@@ -192,6 +207,7 @@ Economitzador de bateria s\'apaga automàticament quan el dispositiu s\'està ca
   <string name="choose_account_label">Seleccioneu un compte</string>
   <string name="chooser_wallpaper">Canvia el fons de pantalla</string>
   <string name="clearDefaultHintMsg">Esborreu els paràmetres predeterminats a Configuració del sistema &gt; Aplicacions &gt; Baixades.</string>
+  <string name="close_button_text">Tanca</string>
   <string name="common_name">Nom comú:</string>
   <string name="condition_provider_service_binding_label">Proveïdor de condicions</string>
   <string name="config_appsAuthorizedForSharedAccounts">;com.android.settings;</string>
@@ -228,9 +244,12 @@ Economitzador de bateria s\'apaga automàticament quan el dispositiu s\'està ca
   <string name="continue_to_enable_accessibility">Mantingueu la pantalla polsada amb dos dits per activar les funcions d\'accessibilitat.</string>
   <string name="copy">Copia</string>
   <string name="copyUrl">Copia l\'URL</string>
+  <string name="country_selection_title">Preferència de regió</string>
   <string name="create_contact_using">«Crea un contacte
 a partir de %s»</string>
   <string name="cut">Talla</string>
+  <string name="data_saver_description">Per reduir l\'ús de dades, la funció Economitzador de dades evita que determinades aplicacions enviïn o rebin dades en segon pla. L\'aplicació que estiguis fent servir podrà accedir a dades, però potser ho farà menys sovint. Això vol dir, per exemple, que les imatges no es mostraran fins que no les toqueu.</string>
+  <string name="data_saver_enable_button">Activa</string>
   <string name="data_usage_3g_limit_snoozed_title">Límit de dades 2G-3G superat</string>
   <string name="data_usage_3g_limit_title">Dades 2G-3G desactivades</string>
   <string name="data_usage_4g_limit_snoozed_title">Límit de dades 4G superat</string>
