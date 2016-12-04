@@ -250,6 +250,7 @@ a partir de %s»</string>
   <string name="cut">Talla</string>
   <string name="data_saver_description">Per reduir l\'ús de dades, la funció Economitzador de dades evita que determinades aplicacions enviïn o rebin dades en segon pla. L\'aplicació que estiguis fent servir podrà accedir a dades, però potser ho farà menys sovint. Això vol dir, per exemple, que les imatges no es mostraran fins que no les toqueu.</string>
   <string name="data_saver_enable_button">Activa</string>
+  <string name="data_saver_enable_title">Voleu activar l\' Economitzador de dades?</string>
   <string name="data_usage_3g_limit_snoozed_title">Límit de dades 2G-3G superat</string>
   <string name="data_usage_3g_limit_title">Dades 2G-3G desactivades</string>
   <string name="data_usage_4g_limit_snoozed_title">Límit de dades 4G superat</string>
@@ -283,6 +284,7 @@ a partir de %s»</string>
   <string name="day">dia</string>
   <string name="days">dies</string>
   <string name="decline">Rebutja</string>
+  <string name="decline_remote_bugreport_action">REBUTJA</string>
   <string name="defaultMsisdnAlphaTag">MSISDN1</string>
   <string name="defaultVoiceMailAlphaTag">Bústia de veu</string>
   <string name="default_audio_route_category_name">Sistema</string>
@@ -293,6 +295,7 @@ a partir de %s»</string>
   <string name="deleteText">Elimina</string>
   <string name="deleted_key">%1$s eliminat</string>
   <string name="deny">Denega</string>
+  <string name="deny_button">Denega</string>
   <string name="description_target_unlock_tablet">Llisqueu per desbloquejar.</string>
   <string name="dial_number_using">«Marca número
 amb %s»</string>
@@ -342,6 +345,8 @@ amb %s»</string>
   <string name="eventTypeBirthday">Aniversari</string>
   <string name="eventTypeCustom">Personalitzat</string>
   <string name="eventTypeOther">Altre</string>
+  <string name="expand_action_accessibility">commuta l\'expansió</string>
+  <string name="expand_button_content_description">Botó expandeix</string>
   <string name="expires_on">Caduca el:</string>
   <string name="ext_media_badremoval_notification_message">Desmunteu %s abans d\'extreure\'l per evitar pèrdues de dades</string>
   <string name="ext_media_badremoval_notification_title">%s s\'ha extret inesperadament</string>
@@ -379,6 +384,7 @@ amb %s»</string>
   <string name="ext_media_unmounting_notification_title">Encara s\'està extraient %s&#8230;</string>
   <string name="ext_media_unsupported_notification_message">Aquest dispositiu no és compatible amb aquest %s. Toqueu per configurar-lo en un format compatible.</string>
   <string name="ext_media_unsupported_notification_title">%s incompatible</string>
+  <string name="extract_edit_menu_button">Edita</string>
   <string name="faceunlock_multiple_failures">S\'ha superat el nombre màxim d\'intents de desbloqueig facial.</string>
   <string name="factory_reset_message">"L'aplicació d'administració no es troba o està malmesa i no es pot utilitzar. Ara s'eliminarà el dispositiu. Contacteu amb l'administrador per obtenir ajuda."</string>
   <string name="factory_reset_warning">El dispositiu s\'eliminarà</string>
@@ -505,6 +511,8 @@ amb %s»</string>
   <string name="immersive_cling_description">Per sortir, llisqueu el dit cap avall des de la part superior.</string>
   <string name="immersive_cling_positive">D\'acord</string>
   <string name="immersive_cling_title">Veient a pantalla completa</string>
+  <string name="importance_from_person">Aquest missatge és important per les persones implicades.</string>
+  <string name="importance_from_user">Heu definit la importància d\'aquestes notificacions.</string>
   <string name="inputMethod">Mètode d\'entrada</string>
   <string name="input_method_binding_label">Mètode d\'entrada</string>
   <string name="invalidPin">Introduïu un PIN d\'entre 4 i 8 xifres.</string>
@@ -602,12 +610,16 @@ Torneu-ho a provar en %d segons.»</string>
   <string name="kg_wrong_pattern">El patró és incorrecte</string>
   <string name="kg_wrong_pin">El PIN no és correcte</string>
   <string name="kilobyteShort">KB</string>
+  <string name="language_picker_section_all">Tots els idiomes</string>
+  <string name="language_picker_section_suggested">Suggerit</string>
+  <string name="language_selection_title">Afegeix un idioma</string>
   <string name="last_month">El mes passat</string>
   <string name="launchBrowserDefault">Vols iniciar el navegador?</string>
   <string name="launch_warning_original">Inicialment, es va iniciar l\'aplicació %1$s.</string>
   <string name="launch_warning_replace">%1$s s\'està executant.</string>
   <string name="launch_warning_title">Aplicació redirigida</string>
   <string name="loading">S\'està carregant&#8230;</string>
+  <string name="locale_search_menu">Cerca</string>
   <string name="lock_pattern_view_aspect">quadrat</string>
   <string name="lock_to_app_description">«La fixació de pantalla bloqueja la pantalla en una vista.
 
@@ -693,6 +705,7 @@ Torneu-ho a provar en %d segons.»</string>
   <string name="low_memory">S\'ha esgotat l\'espai d\'emmagatzematge del telèfon. Elimineu alguns fitxers per alliberar espai.</string>
   <string name="managed_profile_label">Feina</string>
   <string name="managed_profile_label_badge">Feina %1$s</string>
+  <string name="maximize_button_text">Maximitza</string>
   <string name="me">Jo</string>
   <string name="media_route_button_content_description">Emet</string>
   <string name="media_route_chooser_extended_settings">Configuració</string>
@@ -806,10 +819,13 @@ Torneu-ho a provar en %d segons.»</string>
   <string name="muted_by">Silenciat per %1$s</string>
   <string name="needPuk">La targeta SIM està bloquejada pel PUK. Introduïu el codi PUK per desbloquejar-la.</string>
   <string name="needPuk2">Introduïu el PUK2 per desbloquejar la targeta SIM.</string>
+  <string name="negative_duration">−%1$s</string>
   <string name="network_available_sign_in">Inicia sessió a la xarxa</string>
   <string name="network_available_sign_in_detailed">%1$s</string>
   <string name="new_app_action">Inicia %1$s</string>
   <string name="new_app_description">Atura l\'aplicació anterior sense desar.</string>
+  <string name="new_sms_notification_content">Obre l\'aplicació SMS per veure\'ls</string>
+  <string name="new_sms_notification_title">Teniu missatges nous</string>
   <string name="next_button_label">Següent</string>
   <string name="no">Cancel·la</string>
   <string name="noApplications">Cap aplicació pot realitzar aquesta acció.</string>
@@ -818,10 +834,15 @@ Torneu-ho a provar en %d segons.»</string>
   <string name="no_permissions">No cal cap permís</string>
   <string name="no_recent_tasks">No hi ha aplicacions recents.</string>
   <string name="noon">migdia</string>
+  <string name="notification_hidden_by_policy_text">Contingut ocult per la política</string>
+  <string name="notification_hidden_text">Contingut ocult</string>
   <string name="notification_inbox_ellipsis">&#8230;</string>
   <string name="notification_listener_binding_label">Detector de notificacions</string>
+  <string name="notification_messaging_title_template">%1$s: %2$s</string>
+  <string name="notification_ranker_binding_label">Servei de classificació de notificacions</string>
   <string name="notification_title">Error d\'inici de sessió de %1$s</string>
   <string name="notification_work_profile_content_description">Perfil professional</string>
+  <string name="now_string_shortest">ara</string>
   <string name="number_picker_decrement_button">Redueix</string>
   <string name="number_picker_increment_button">Augmenta</string>
   <string name="number_picker_increment_scroll_action">Llisqueu cap amunt per augmentar i avall per reduir.</string>
@@ -837,6 +858,7 @@ Torneu-ho a provar en %d segons.»</string>
   <string name="orgTypeWork">Feina</string>
   <string name="org_name">Organització:</string>
   <string name="org_unit">Unitat organitzativa:</string>
+  <string name="other_permissions">altres permisos</string>
   <string name="owner_name">Propietari</string>
   <string name="package_deleted_device_owner">Esborrat per l\'administrador</string>
   <string name="package_installed_device_owner">Instal·lat per l\'administrador</string>
@@ -846,6 +868,7 @@ Torneu-ho a provar en %d segons.»</string>
   <string name="password_keyboard_label_alt_key">ALT</string>
   <string name="password_keyboard_label_symbol_key">\?123</string>
   <string name="paste">Enganxa</string>
+  <string name="paste_as_plain_text">Enganxa com a text sense format</string>
   <string name="peerTtyModeFull">L\'altre dispositiu ha sol·licitat el mode TTY COMPLET</string>
   <string name="peerTtyModeHco">L\'altre dispositiu ha sol·licitat el mode TTY HCO</string>
   <string name="peerTtyModeOff">L\'altre dispositiu ha sol·licitat el mode TTY DESACTIVAT</string>
@@ -969,9 +992,11 @@ Torneu-ho a provar en %d segons.»</string>
   <string name="permgrouplab_sms">SMS</string>
   <string name="permgrouplab_storage">Emmagatzematge</string>
   <string name="permission">Permisos</string>
+  <string name="permission_remember_choice">Recorda</string>
   <string name="permission_request_notification_title">Permís sol·licitat</string>
   <string name="permission_request_notification_with_subtitle">«Permís sol·licitat
 per al compte %s»</string>
+  <string name="permission_title">Permisos</string>
   <string name="permlab_accessCoarseLocation">ubicació aproximada (basada en xarxa)</string>
   <string name="permlab_accessDrmCertificates">accedir als certificats DRM</string>
   <string name="permlab_accessFineLocation">ubicació precisa (basada en GPS i xarxa)</string>
@@ -1095,6 +1120,7 @@ per al compte %s»</string>
   <string name="phoneTypeWork">Feina</string>
   <string name="phoneTypeWorkMobile">Mòbil de la feina</string>
   <string name="phoneTypeWorkPager">Cercapersones de la feina</string>
+  <string name="pin_target">Fixa</string>
   <string name="policydesc_disableCamera">Evita l\'ús de les càmeres del dispositiu.</string>
   <string name="policydesc_disableKeyguardFeatures">Impedeix l\'ús d\'algunes funcions durant el bloqueig de pantalla.</string>
   <string name="policydesc_encryptedStorage">Requereix que s\'encriptin les dades de l\'aplicació emmagatzemades.</string>
@@ -1123,6 +1149,7 @@ per al compte %s»</string>
   <string name="postalTypeOther">Altre</string>
   <string name="postalTypeWork">Feina</string>
   <string name="power_dialog">Opcions del telèfon</string>
+  <string name="power_key_emergency_number">112</string>
   <string name="power_off">Apaga</string>
   <string name="prepend_shortcut_label">Menú+</string>
   <string name="preposition_for_date">el %s</string>
@@ -1130,6 +1157,8 @@ per al compte %s»</string>
   <string name="preposition_for_year">el %s</string>
   <string name="print_service_installed_message">Toqueu per activar</string>
   <string name="print_service_installed_title">El servei %s s\'ha instal·lat</string>
+  <string name="profile_encrypted_detail">Perfil professional bloquejat</string>
+  <string name="profile_encrypted_message">Toqueu per desbloquejar el perfil</string>
   <string name="progress_erasing">S\'està esborrant l\'emmagatzematge USB&#8230;</string>
   <string name="prohibit_manual_network_selection_in_gobal_mode">fals</string>
   <string name="quick_contacts_not_available">No s\'ha trobat cap aplicació per veure aquest contacte.</string>
@@ -1147,6 +1176,7 @@ per al compte %s»</string>
   <string name="reboot_to_update_reboot">S\'està reiniciant&#8230;</string>
   <string name="reboot_to_update_title">Actualització del sistema Android</string>
   <string name="recent_tasks_title">Recent</string>
+  <string name="redo">Refés</string>
   <string name="relationTypeAssistant">Assistent</string>
   <string name="relationTypeBrother">Germà</string>
   <string name="relationTypeChild">Fill/a</string>
@@ -1211,6 +1241,7 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="screen_lock">Bloqueig de pantalla</string>
   <string name="search_go">Cerca</string>
   <string name="search_hint">S\'està cercant&#8230;</string>
+  <string name="search_language_hint">Tipus de nom d\'idioma</string>
   <string name="searchview_description_clear">Elimina la consulta</string>
   <string name="searchview_description_query">Cerca la consulta</string>
   <string name="searchview_description_search">Cerca</string>
