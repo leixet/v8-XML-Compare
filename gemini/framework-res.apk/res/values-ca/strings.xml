@@ -1281,8 +1281,11 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="sha256_fingerprint">Empremta SHA-256:</string>
   <string name="share">Comparteix</string>
   <string name="share_action_provider_share_with">Compateix amb</string>
+  <string name="share_remote_bugreport_notification_message_finished">L\'administrador de TI ha sol·licitat un informe d\'errors per resoldre els problemes d\'aquest dispositiu. És possible que es comparteixin aplicacions i dades.</string>
+  <string name="share_remote_bugreport_notification_title">Voleu compartir l\'informe d\'errors?</string>
   <string name="shareactionprovider_share_with">Compateix amb</string>
   <string name="shareactionprovider_share_with_application">Comparteix amb %s</string>
+  <string name="sharing_remote_bugreport_notification_title">S\'està compartint l\'informe d\'errors&#8230;</string>
   <string name="show_ime">Mostra el mètode d\'introducció</string>
   <string name="shutdown_confirm">El telèfon s\'apagarà.</string>
   <string name="shutdown_confirm_question">Segur que voleu apagar el telèfon?</string>
@@ -1336,6 +1339,7 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="storage_usb_drive">Unitat USB</string>
   <string name="storage_usb_drive_label">%s unitat USB</string>
   <string name="submit">Envia</string>
+  <string name="suspended_widget_accessibility">%1$s desactivat</string>
   <string name="sync_binding_label">Sincronització</string>
   <string name="sync_do_nothing">No fer res per ara</string>
   <string name="sync_really_delete">Elimina els elements</string>
