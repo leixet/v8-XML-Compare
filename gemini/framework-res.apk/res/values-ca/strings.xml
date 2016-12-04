@@ -1348,6 +1348,7 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="sync_undo_deletes">Desfer les eliminacions</string>
   <string name="system_error_manufacturer">"S'ha produït un error intern al dispositiu. Contacteu amb el fabricant del dispositiu per obtenir més informació."</string>
   <string name="system_error_wipe_data">"S'ha produït un error intern al dispositiu i és possible que funcioni de manera inestable fins que restableixis les dades de fàbrica."</string>
+  <string name="taking_remote_bugreport_notification_title">S\'està prenent l\'informe d\'errors&#8230;</string>
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Toca per configurar</string>
   <string name="tethered_notification_title">Ancoratge de xarxa o punt d\'accés actiu</string>
@@ -1366,7 +1367,11 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="turn_off_radio">Desactiva la connexió sense fils</string>
   <string name="turn_on_radio">Activa la connexió sense fils</string>
   <string name="tutorial_double_tap_to_zoom_message_short">Toqueu dues vegades per accedir al control del zoom</string>
+  <string name="undo">Desfés</string>
   <string name="unknownName">Desconegut</string>
+  <string name="unpin_target">Allibera</string>
+  <string name="unsupported_display_size_message">%1$s no admet la mida de pantalla actual i és possible que funcioni de manera inesperada.</string>
+  <string name="unsupported_display_size_show">Mostra-ho sempre</string>
   <string name="untitled">&lt;Sense títol&gt;</string>
   <string name="upload_file">Seleccioneu un fitxer</string>
   <string name="usb_accessory_notification_title">Connectat a un accessori USB</string>
@@ -1376,10 +1381,14 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="usb_midi_peripheral_manufacturer_name">Android</string>
   <string name="usb_midi_peripheral_name">Port perifèric USB d\'Android</string>
   <string name="usb_midi_peripheral_product_name">Port perifèric USB</string>
+  <string name="usb_mtp_launch_notification_description">Toqueu per mostrar els fitxers</string>
+  <string name="usb_mtp_launch_notification_title">S\'ha connectat a %1$s</string>
   <string name="usb_mtp_notification_title">USB per transferir fitxers</string>
   <string name="usb_notification_message">Toqueu per veure més opcions.</string>
   <string name="usb_ptp_notification_title">USB per transferir fotos</string>
+  <string name="usb_supplying_notification_title">L\'USB proporciona energia al dispositiu connectat</string>
   <string name="use_a_different_app">Utilitza una altra aplicació</string>
+  <string name="user_creation_account_exists">Voleu permetre a %1$s crear un usuari nou amb %2$s?</string>
   <string name="user_owner_label">Personal</string>
   <string name="user_switched">Usuari actual %1$s.</string>
   <string name="user_switching_message">S\'està canviant a %1$s&#8230;</string>
