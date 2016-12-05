@@ -78,6 +78,7 @@
   <string name="alert_secret_album_enter">Ho entenc</string>
   <string name="alert_secret_album_message">Arrossegueu cap avall des de dalt de tot dels àlbums per veure els ocults.</string>
   <string name="alert_secret_album_title">Com veure els àlbums ocults</string>
+  <string name="all_faces">Totes les fotos amb gent</string>
   <string name="all_items_synced">S\'han copiat tots els àlbums a Mi Cloud</string>
   <string name="all_video_album_display_name">Tots els vídeos</string>
   <string name="already_create_baby_album">L\'àlbum de nadó ja existeix a Mi Cloud.</string>
@@ -551,6 +552,8 @@
   <string name="confirm_download_video_message">Cal que acabeu de baixar aquest vídeo per començar-lo a veure. La baixada continuarà quan el Wi-Fi estigui disponible.</string>
   <string name="confirm_download_video_title">Baixa el vídeo</string>
   <string name="confirm_face">Troba coincidències</string>
+  <string name="confirm_hidden_recommend_group">D\'acord</string>
+  <string name="confirm_hidden_recommend_group_message">Quan les recomanacions es desactiven, podeu seguir utilitzant la opció \"Més persones que s\'assemblen\"</string>
   <string name="confirm_merge_face_albums">" \"&lt;Data&gt; Voleu combinar aquest àlbum amb %s? &lt;/Data&gt;\" "</string>
   <string name="confirm_merge_many_face_albums">" \"&lt;Data&gt; Voleu combinar aquests àlbums amb %s? &lt;/Data&gt;\" "</string>
   <string name="confirm_not_face">No coincideix</string>
