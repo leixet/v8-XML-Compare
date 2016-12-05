@@ -48,7 +48,7 @@
     <item>16M</item>
   </string-array>
   <string-array name="select_logd_size_summaries">
-    <item>Off</item>
+    <item>Desactivat</item>
     <item>64K per registre de memòria</item>
     <item>256K per registre de memòria</item>
     <item>1M per registre de memòria</item>
@@ -91,17 +91,54 @@
     <item>1080p</item>
     <item>1080p (segur)</item>
     <item>4K</item>
-    <item>4K (secure)</item>
-    <item>4K (upscaled)</item>
-    <item>4K (upscaled, secure)</item>
-    <item>720p, 1080p (dual screen)</item>
+    <item>4K (segur)</item>
+    <item>4K (ampliat)</item>
+    <item>4K (ampliat, segur)</item>
+    <item>720p, 1080p (pantalla dual)</item>
+  </string-array>
+  <string-array name="enable_opengl_traces_entries">
+    <item>Cap</item>
+    <item>Logcat</item>
+    <item>Systrace (gràfics)</item>
+    <item>Call stack on glGetError</item>
+  </string-array>
+  <string-array name="show_non_rect_clip_entries">
+    <item>Desactivat</item>
+    <item>Draw non-rectangular clip region in blue</item>
+    <item>Highlight tested drawing commands in green</item>
+  </string-array>
+  <string-array name="track_frame_time_entries">
+    <item>Desactivat</item>
+    <item>A la pantalla com barres</item>
+    <item>In adb shell dumpsys gfxinfo</item>
+  </string-array>
+  <string-array name="debug_hw_overdraw_entries">
+    <item>Desactivat</item>
+    <item>Show overdraw areas</item>
+    <item>Show areas for Deuteranomaly</item>
+  </string-array>
+  <string-array name="app_process_limit_entries">
+    <item>Límit estàndard</item>
+    <item>Sense processos de fons</item>
+    <item>Com a molt 1 procés</item>
+    <item>Com a molt 2 processos</item>
+    <item>Com a molt 3 processos</item>
+    <item>Com a molt 4 processos</item>
+  </string-array>
+  <string-array name="usb_configuration_titles">
+    <item>S\'està carregant</item>
+    <item>MTP (Media Transfer Protocol)</item>
+    <item>PTP (Picture Transfer Protocol)</item>
+    <item>RNDIS (USB Ethernet)</item>
+    <item>Audio Source</item>
+    <item>MIDI</item>
   </string-array>
   <string-array name="tts_rate_entries">
-    <item>Very slow</item>
-    <item>Slow</item>
+    <item>Molt lent</item>
+    <item>Lent</item>
     <item>Normal</item>
-    <item>Fast</item>
-    <item>Faster</item>
+    <item>Ràpid</item>
+    <item>Més ràpid</item>
     <item>Very fast</item>
     <item>Rapid</item>
     <item>Molt ràpid</item>
