@@ -3,9 +3,11 @@
 <resources>
   <string name="admin_has_ability_to_monitor_device">"L'administrador pot supervisar i gestionar la configuració, l'accés corporatiu, les aplicacions i les dades associades amb el dispositiu, inclosa l'activitat de xarxa i la informació d'ubicació del dispositiu."</string>
   <string name="admin_has_ability_to_monitor_profile">"L'administrador pot supervisar i gestionar la configuració, l'accés corporatiu, les aplicacions i les dades associades amb el perfil, inclosa l'activitat de xarxa i la informació d'ubicació del dispositiu."</string>
+  <string name="app_label">Configuració del perfil professional</string>
   <string name="cancel_delete_profile">CANCEL·LA</string>
   <string name="cancel_provisioning">CANCEL·LA</string>
   <string name="cancel_setup">CANCEL·LA</string>
+  <string name="cancel_setup_and_factory_reset_dialog_cancel">Cancel·la</string>
   <string name="company_controls_device">L\'empresa controla el dispositiu i el manté protegit.</string>
   <string name="company_controls_workspace">L\'empresa controla el perfil i el manté protegit. Vós controleu la resta.</string>
   <string name="contact_your_admin_for_more_info">"Contacteu amb l'administrador per obtenir més informació, incloses les polítiques de privadesa de l'empresa."</string>
