@@ -18,16 +18,26 @@
   <string-array name="wifi_status_with_ssid">
     <item/>
     <item>S\'està escanejant&#8230;</item>
-    <item>Connecting to %1$s…</item>
-    <item>Authenticating with %1$s…</item>
-    <item>Obtaining IP address from %1$s…</item>
-    <item>Connected to %1$s</item>
-    <item>Suspended</item>
-    <item>Disconnecting from %1$s…</item>
-    <item>Disconnected</item>
-    <item>Unsuccessful</item>
-    <item>Blocked</item>
-    <item>Temporarily avoiding poor connection</item>
+    <item>S\'està connectant a %1$s&#8230;</item>
+    <item>S\'està autenticant amb %1$s&#8230;</item>
+    <item>S\'està obtenint l\'adreça IP des de %1$s&#8230;</item>
+    <item>S\'ha connectat a %1$s</item>
+    <item>Suspès</item>
+    <item>S\'està desconnectant de %1$s&#8230;</item>
+    <item>Desconnectat</item>
+    <item>Incorrecte</item>
+    <item>Boquejat</item>
+    <item>S\'està evitant temporalment una mala connexió</item>
+  </string-array>
+  <string-array name="hdcp_checking_titles">
+    <item>No ho comprovis mai</item>
+    <item>Només comprova si el contingut té DRM</item>
+    <item>Comprova-ho sempre</item>
+  </string-array>
+  <string-array name="hdcp_checking_summaries">
+    <item>No utilitzis mai la comprovació HDCP</item>
+    <item>Use HDCP checking for DRM content only</item>
+    <item>Always use HDCP checking</item>
   </string-array>
   <string-array name="transport_types">
     <item>UDP</item>
