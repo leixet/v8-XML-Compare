@@ -664,7 +664,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="long_click_dialog_title">Atenció</string>
   <string name="main_activity_content_summary_root">Accés de superusuari</string>
   <string name="main_activity_content_summary_update">Actualitzar sistema</string>
-  <string name="main_activity_content_title_scanning">Escannejant...</string>
+  <string name="main_activity_content_title_scanning">S\'està escanejant&#8230;</string>
   <string name="main_alert_message_month_limit_error">El límit de dades que s\'ha establert és incorrecte</string>
   <string name="main_alert_message_no_imsi">SIM no detectada</string>
   <string name="main_alert_message_no_mobile_package">Establir límit de dades</string>
