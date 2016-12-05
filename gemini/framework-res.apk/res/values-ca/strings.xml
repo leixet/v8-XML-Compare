@@ -567,9 +567,6 @@ amb %s»</string>
   <string name="keyguard_password_entry_touch_hint">&lt;font size=\"17\"&gt;Toqueu per introduir la contrasenya&lt;/font&gt;</string>
   <string name="keyguard_password_wrong_pin_code">Codi PIN incorrecte.</string>
   <string name="kg_enter_confirm_pin_hint">Confirmeu el PIN que voleu</string>
-  <string name="kg_failed_attempts_almost_at_login">«Heu fallat %d vegades en dibuixar el patró de desbloqueig. Si falleu unes altres %d vegades, haureu de fer servir un compte de correu electrònic per desbloquejar el telèfon.
-
- Proveu-ho de nou en %d segons.»</string>
   <string name="kg_failed_attempts_almost_at_wipe">Heu intentat desbloquejar el telèfon %d vegades, però no ho heu aconseguit. Si falleu unes altres %d vegades, es restabliran les dades de fàbrica i es perdran totes les dades de l\'usuari.</string>
   <string name="kg_failed_attempts_now_wiping">Heu intentat desbloquejar el telèfon %d vegades, però no ho heu aconseguit. Es restabliran les dades de fàbrica del dispositiu.</string>
   <string name="kg_forgot_pattern_button_text">Heu oblidat el patró?</string>
