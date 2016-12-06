@@ -110,18 +110,18 @@
   </string-array>
   <string-array name="show_non_rect_clip_entries">
     <item>Desactivat</item>
-    <item>Dibuixar regió no rectangular de retallada en blau</item>
+    <item>Dibuixa l\'àrea de tall no rectangular en blau</item>
     <item>Ressaltar les ordres de dibuix provades en verd</item>
   </string-array>
   <string-array name="track_frame_time_entries">
     <item>Desactivat</item>
     <item>A la pantalla com barres</item>
-    <item>In adb shell dumpsys gfxinfo</item>
+    <item>Volcat de sistema gfxinfo a la consola del adb</item>
   </string-array>
   <string-array name="debug_hw_overdraw_entries">
     <item>Desactivat</item>
-    <item>Show overdraw areas</item>
-    <item>Show areas for Deuteranomaly</item>
+    <item>Mostra àrees sobregirar</item>
+    <item>Mostra àrees per Deuteranomaly</item>
   </string-array>
   <string-array name="app_process_limit_entries">
     <item>Límit estàndard</item>
@@ -133,7 +133,7 @@
   </string-array>
   <string-array name="usb_configuration_titles">
     <item>S\'està carregant</item>
-    <item>MTP (Media Transfer Protocol)</item>
+    <item>MTP (Protocol Mitja de Transferència)</item>
     <item>PTP (Picture Transfer Protocol)</item>
     <item>RNDIS (USB Ethernet)</item>
     <item>Audio Source</item>
