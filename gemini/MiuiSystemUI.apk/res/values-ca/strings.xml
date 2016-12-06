@@ -137,6 +137,8 @@
   <string name="bluetooth_sap_profile_summary_use_for">Utilitzar per a l\'accés SIM</string>
   <string name="bluetooth_tethered">Connexió compartida per Bluetooth</string>
   <string name="bugreport_in_power">Drecera de l\'informe d\'errors</string>
+  <string name="bugreport_in_power_summary">Mostra un botó en el menú d\'encesa per informar d\'un error</string>
+  <string name="button_convert_fbe">Esborra i converteix&#8230;</string>
   <string name="call_status_dialing">Marcant</string>
   <string name="call_status_ringing">Sonant</string>
   <string name="camera_key_action_app_title">Obrir aplicació</string>
@@ -150,7 +152,12 @@
   <string name="camera_key_action_shortcut_title">Accés directe</string>
   <string name="camera_key_action_shortcut_wake">Bloquejar/reactivar dispositiu</string>
   <string name="camera_key_action_toggle_title">Accionar commutador</string>
+  <string name="category_work">Feina</string>
+  <string name="charge_length_format">Fa %1$s</string>
   <string name="chooseUsbActivity">Seleccioneu una aplicació per al dispositiu USB</string>
+  <string name="choose_profile">Seleccioneu perfil</string>
+  <string name="clear_adb_keys">Revoca autoritzacions de depuració USB</string>
+  <string name="confirm_enable_oem_unlock_text">ADVERTIMENT: les funcions de protecció del dispositiu no funcionaran mentre aquesta opció estigui activada.</string>
   <string name="connected_via_passpoint">Connectat a través de %1$s</string>
   <string name="connected_via_wfa">Connectat a través de l\'assistent Wifi</string>
   <string name="data_usage_disabled_dialog">"Ha consumit el límit de dades especificat.
