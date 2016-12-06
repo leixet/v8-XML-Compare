@@ -149,7 +149,7 @@
   <string name="invalid_contact_shortcut">El contacte no és vàlid</string>
   <string name="is_setting_wallpaper_message">S\'està establint el fons de pantalla&#8230;</string>
   <string name="is_system_wallpaper_message">"No es poden eliminar els recursos del sistema"</string>
-  <string name="launcher_not_exist">Llar s\'ha aturat, torneu a la pantalla inicial i torneu a provar.</string>
+  <string name="launcher_not_exist">Inici s\'ha aturat, torneu a la pantalla inicial i proveu altre cop.</string>
   <string name="like">Preferit</string>
   <string name="liked">S\'ha agregat als favorits</string>
   <string name="loading_desktop">Un moment&#8230;</string>
