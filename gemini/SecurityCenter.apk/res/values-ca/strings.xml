@@ -1652,6 +1652,10 @@ Dades extres en ús"</string>
   <string name="virus_dp_update_title">Actualitzacions de les definicions</string>
   <string name="virus_scan">Cerca virus</string>
   <string name="virus_scan_process_pre">%</string>
+  <string name="virus_update_fail">"No s'ha pogut actualitzar"</string>
+  <string name="virus_update_success">S\'ha actualitzat correctament</string>
+  <string name="virus_update_tips_title">Connecteu-vos a la Wi-Fi</string>
+  <string name="virus_wait_network_dialog_message">Les actualitzacions són grans. Connecteu-vos a la Wi-Fi per baixar-les</string>
   <string name="voltage_symbol">V</string>
   <string name="wakepath_confirm_start_activity">Permetre a %1$s obrir %2$s?</string>
   <string name="warning_open_mi_sim">Activar Mi SIM</string>
