@@ -55,6 +55,9 @@ Per esborrar l\'historial del Navegador, feu servir la configuració del Navegad
   <string name="permission_prompt_started_info">"Heu permès la cerca global"</string>
   <string name="permission_prompt_title">Voleu més?</string>
   <string name="recent_apps">Aplicacions recents</string>
+  <string name="recent_apps_filter">"Amaga les aplicacions que no utilitzeu"</string>
+  <string name="recent_close_content">"Voleu desactivar aquesta funció ara? Podreu canviar això a Configuració &gt; Aplicacions instal·lades &gt; Cerca"</string>
+  <string name="recent_close_title">Desactiva la característica</string>
   <string name="recently_shortcut_label">Dreceres recents</string>
   <string name="remove_from_history">Voleu eliminar aquest element de l\'historial de cerca?</string>
   <string name="remove_from_history_failed">"No s'ha pogut eliminar l'element de l'historial."</string>
