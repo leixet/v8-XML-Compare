@@ -106,12 +106,12 @@
     <item>Cap</item>
     <item>Logcat</item>
     <item>Systrace (gràfics)</item>
-    <item>Munt de trucades a glGetError</item>
+    <item>Pila de crides a glGetError</item>
   </string-array>
   <string-array name="show_non_rect_clip_entries">
     <item>Desactivat</item>
     <item>Dibuixa l\'àrea de tall no rectangular en blau</item>
-    <item>Ressaltar les ordres de dibuix provades en verd</item>
+    <item>Ressalta en color verd les ordres de dibuix verificades</item>
   </string-array>
   <string-array name="track_frame_time_entries">
     <item>Desactivat</item>
@@ -134,9 +134,9 @@
   <string-array name="usb_configuration_titles">
     <item>S\'està carregant</item>
     <item>MTP (Protocol Mitja de Transferència)</item>
-    <item>PTP (Picture Transfer Protocol)</item>
+    <item>PTP (Protocol de Transferència d\'imatges)</item>
     <item>RNDIS (USB Ethernet)</item>
-    <item>Audio Source</item>
+    <item>Font d\'àudio</item>
     <item>MIDI</item>
   </string-array>
   <string-array name="tts_rate_entries">
@@ -146,7 +146,7 @@
     <item>Ràpid</item>
     <item>Més ràpid</item>
     <item>Molt ràpid</item>
-    <item>Rapid</item>
+    <item>Ràpid</item>
     <item>Molt ràpid</item>
     <item>El més ràpid</item>
   </string-array>
@@ -156,10 +156,18 @@
     <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
     <item>Questo è un esempio di sintesi vocale in italiano.</item>
     <item>Este es un ejemplo de síntesis de voz en español.</item>
-    <item>이것은 한국어 음성 합성의 예입니다.</item>
+    <item>Aquest és un exemple d\'una síntesi de veu del Coreà.</item>
+  </string-array>
+  <string-array name="tts_demo_string_langs">
+    <item>anglès</item>
+    <item>francès</item>
+    <item>alemany</item>
+    <item>italià</item>
+    <item>espanyol</item>
+    <item>coreà</item>
   </string-array>
   <string-array name="color_mode_names">
-    <item>Vibrant (default)</item>
+    <item>Vibrant (predeterminat)</item>
     <item>Natural</item>
     <item>Estàndard</item>
   </string-array>
@@ -167,6 +175,11 @@
     <item>Colors millorats</item>
     <item>Colors naturals tal com els veu l\'ull humà</item>
     <item>Colors optimitzats per contingut digital</item>
+  </string-array>
+  <string-array name="battery_labels">
+    <item>0%</item>
+    <item>50%</item>
+    <item>100%</item>
   </string-array>
   <string-array name="weather_type">
     <item>Serè</item>
