@@ -424,6 +424,7 @@
   <string name="pref_time_auto_group_disabled_summary">"No està suportat en la mida de font actual"</string>
   <string name="pref_time_auto_group_summary">Agrupa els missatges rebuts en menys d\'un minut dins el mateix fil</string>
   <string name="pref_time_auto_group_title">Agrupa per temps</string>
+  <string name="pref_title_about_smart_sms">Quant al soci per als missatges intel·ligents</string>
   <string name="pref_title_allow_si_sl_push">Permeteu missatges WAP (SI/SL)</string>
   <string name="pref_title_card_format">Format de targeta compartida</string>
   <string name="pref_title_delivery_reports">Estat de lliurament</string>
