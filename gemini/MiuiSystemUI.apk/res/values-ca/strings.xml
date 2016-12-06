@@ -71,7 +71,14 @@
   <string name="available_via_passpoint">Disponible a %1$s</string>
   <string name="battery_info_status_charging">S\'està carregant</string>
   <string name="battery_info_status_charging_ac_short">S\'està carregant</string>
+  <string name="battery_info_status_charging_usb">S\'està carregant via USB</string>
   <string name="battery_info_status_charging_usb_short">S\'està carregant</string>
+  <string name="battery_info_status_charging_wireless">S\'està carregant sense cable</string>
+  <string name="battery_info_status_charging_wireless_short">S\'està carregant</string>
+  <string name="battery_info_status_discharging">No s\'està carregant</string>
+  <string name="battery_info_status_full">Plena</string>
+  <string name="battery_info_status_not_charging">No s\'està carregant</string>
+  <string name="battery_info_status_unknown">Desconegut</string>
   <string name="battery_low_percent_format">%d%% restant</string>
   <string name="battery_low_title">Connecteu el carregador</string>
   <string name="battery_profiles">Perfils d\'ús de bateria</string>
@@ -88,6 +95,8 @@
   <string name="bluetooth_connected_no_headset_no_a2dp">Connectat (sense telèfon o multimèdia)</string>
   <string name="bluetooth_connected_no_map">Connectat (sense accés a missatges)</string>
   <string name="bluetooth_connecting">Connectant&#8230;</string>
+  <string name="bluetooth_disable_absolute_volume">Desactiva el volum general</string>
+  <string name="bluetooth_disable_absolute_volume_summary">Desactiva la funció de volum general Bluetooth cas que es produeixin problemes de volum amb dispositius remots, sigui un volum massa alt o una pérdua de control.</string>
   <string name="bluetooth_disconnected">Desconnectat</string>
   <string name="bluetooth_disconnecting">Disconnectant&#8230;</string>
   <string name="bluetooth_dun_profile_summary_connected">Connectat al servidor Dun</string>
@@ -127,6 +136,7 @@
   <string name="bluetooth_sap_profile_summary_connected">Connectat a SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Utilitzar per a l\'accés SIM</string>
   <string name="bluetooth_tethered">Connexió compartida per Bluetooth</string>
+  <string name="bugreport_in_power">Drecera de l\'informe d\'errors</string>
   <string name="call_status_dialing">Marcant</string>
   <string name="call_status_ringing">Sonant</string>
   <string name="camera_key_action_app_title">Obrir aplicació</string>
