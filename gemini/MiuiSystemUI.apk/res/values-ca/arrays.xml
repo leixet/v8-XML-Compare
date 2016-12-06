@@ -47,6 +47,12 @@
     <item>4M</item>
     <item>16M</item>
   </string-array>
+  <string-array name="select_logd_size_lowram_titles">
+    <item>Apagat</item>
+    <item>64K</item>
+    <item>256K</item>
+    <item>1M</item>
+  </string-array>
   <string-array name="select_logd_size_summaries">
     <item>Desactivat</item>
     <item>64K per registre de memòria</item>
