@@ -5,6 +5,7 @@
   <string name="bass_boost_strength">Accentuació de baixos</string>
   <string name="ci_extreme">FX booster</string>
   <string name="classical">Clàssica</string>
+  <string name="combo_device">Efectes disponibles només si l\'audició es fa amb auriculars.</string>
   <string name="dance">Dança</string>
   <string name="eq_custom">Per personalitzar, seleccioneu Personalitzat</string>
   <string name="eq_dialog_title">Equalitzador</string>
