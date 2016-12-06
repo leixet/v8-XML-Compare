@@ -160,6 +160,19 @@
   <string name="confirm_enable_oem_unlock_text">ADVERTIMENT: les funcions de protecció del dispositiu no funcionaran mentre aquesta opció estigui activada.</string>
   <string name="connected_via_passpoint">Connectat a través de %1$s</string>
   <string name="connected_via_wfa">Connectat a través de l\'assistent Wifi</string>
+  <string name="convert_to_fbe_warning">"Converteix la partició de dades en una criptografia basada en fitxers.
+Advertiment!! s\'esborraran totes les vostres dades.
+Aquesta funció és alfa i és possible que no funcioni correctament.
+Premeu \'Esborra i converteix&#8230;\' per continuar"</string>
+  <string name="convert_to_file_encryption">Converteix a criptografia de fitxers</string>
+  <string name="convert_to_file_encryption_done">El fitxer ja està encriptat</string>
+  <string name="convert_to_file_encryption_enabled">Converteix&#8230;</string>
+  <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (vermell-verd)</string>
+  <string name="daltonizer_mode_disabled">Desactivat</string>
+  <string name="daltonizer_mode_monochromacy">Monocromia</string>
+  <string name="daltonizer_mode_protanomaly">Protanomalia (vermell-verd)</string>
+  <string name="daltonizer_mode_tritanomaly">Tritanomalia (blau-groc)</string>
+  <string name="daltonizer_type_overridden">Substituit per %1$s</string>
   <string name="data_usage_disabled_dialog">"Ha consumit el límit de dades especificat.
 
 Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</string>
@@ -168,6 +181,9 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="data_usage_disabled_dialog_enable">Reactivar dades</string>
   <string name="data_usage_disabled_dialog_mobile_title">Dades mòbils desactivades</string>
   <string name="data_usage_disabled_dialog_title">Dades desactivades</string>
+  <string name="data_usage_uninstalled_apps">Aplicacions eliminades</string>
+  <string name="debug_applications_category">Aplicacions</string>
+  <string name="debug_input_category">Entrada</string>
   <string name="description_direction_left">Lliscar a l\'esquerra per %s.</string>
   <string name="description_direction_up">Lliscar amunt per %s.</string>
   <string name="description_target_search">Cercar</string>
