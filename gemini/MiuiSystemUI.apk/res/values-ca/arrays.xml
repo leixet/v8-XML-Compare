@@ -120,8 +120,8 @@
   </string-array>
   <string-array name="debug_hw_overdraw_entries">
     <item>Desactivat</item>
-    <item>Mostra àrees sobregirar</item>
-    <item>Mostra àrees per Deuteranomaly</item>
+    <item>Mostra les àrees sobreposades</item>
+    <item>Mostra les àrees per Deuteranomaly</item>
   </string-array>
   <string-array name="app_process_limit_entries">
     <item>Límit estàndard</item>
@@ -133,7 +133,7 @@
   </string-array>
   <string-array name="usb_configuration_titles">
     <item>S\'està carregant</item>
-    <item>MTP (Protocol Mitja de Transferència)</item>
+    <item>PTP (Protocol de Transferència de Multimèdia)</item>
     <item>PTP (Protocol de Transferència d\'imatges)</item>
     <item>RNDIS (USB Ethernet)</item>
     <item>Font d\'àudio</item>
