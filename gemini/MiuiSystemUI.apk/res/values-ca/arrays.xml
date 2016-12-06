@@ -106,12 +106,12 @@
     <item>Cap</item>
     <item>Logcat</item>
     <item>Systrace (gràfics)</item>
-    <item>Call stack on glGetError</item>
+    <item>Munt de trucades a glGetError</item>
   </string-array>
   <string-array name="show_non_rect_clip_entries">
     <item>Desactivat</item>
-    <item>Draw non-rectangular clip region in blue</item>
-    <item>Highlight tested drawing commands in green</item>
+    <item>Dibuixar regió no rectangular de retallada en blau</item>
+    <item>Ressaltar les ordres de dibuix provades en verd</item>
   </string-array>
   <string-array name="track_frame_time_entries">
     <item>Desactivat</item>
