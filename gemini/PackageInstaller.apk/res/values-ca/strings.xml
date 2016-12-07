@@ -32,6 +32,10 @@
   <string name="app_permissions">Permisos d\'aplicacions</string>
   <string name="app_permissions_breadcrumb">Aplicacions</string>
   <string name="app_permissions_group_summary">%1$d de %2$d aplicacions permeses</string>
+  <string name="app_process_limit_title">Límit de procés en segon pla</string>
+  <string name="battery_info_status_charging_ac_short">S\'està carregant</string>
+  <string name="battery_info_status_charging_usb_short">S\'està carregant</string>
+  <string name="battery_info_status_charging_wireless_short">S\'està carregant</string>
   <string name="cancel">Cancel·la</string>
   <string name="current_permission_template">%1$s de %2$s</string>
   <string name="default_permission_description">realitza una acció desconeguda</string>
