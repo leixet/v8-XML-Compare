@@ -166,6 +166,11 @@
     <item>spa</item>
     <item>kor</item>
   </string-array>
+  <string-array name="battery_labels">
+    <item>0%</item>
+    <item>50%</item>
+    <item>100%</item>
+  </string-array>
   <string-array name="status_bar_style_entries">
     <item>S\'han combinat</item>
     <item>Separat</item>
