@@ -4397,6 +4397,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_multiple_cert_added">(S\'han afegit diversos certificats)</string>
   <string name="wifi_network_prefix_length">Longitud del prefix</string>
   <string name="wifi_network_prefix_length_hint">24</string>
+  <string name="wifi_no_domain_warning">Cal especificar un domini.</string>
   <string name="wifi_no_internet">"No s'ha detectat accés a Internet, no s'hi tornarà a connectar automàticament."</string>
   <string name="wifi_not_in_range">Fora de l\'abast</string>
   <string name="wifi_notify_cmcc_connected_summary">Mostra una notificació quan es connecti a la xarxa CMCC</string>
@@ -4455,6 +4456,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
 Voleu permetre-ho per a totes les aplicacions que vulguin cercar xarxes?»</string>
   <string name="wifi_scan_notify_remember_choice">No tornis a mostrar-ho</string>
   <string name="wifi_scan_notify_text">Per millorar la precisió de la ubicació, les aplicacions i serveis encara poden cercar xarxes Wi-Fi. Es pot configurar des de LINK_BEGINscanning settingsLINK_END.</string>
+  <string name="wifi_scan_notify_text_location_off">"Les aplicacions poden escanejar xarxes, fins i tot quan hi ha el Wi-Fi desactivat. Podeu configurar-ho des de Configuració avançada &gt; Escanneig sempre disponible."</string>
   <string name="wifi_security">Tipus de seguretat</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
