@@ -59,7 +59,7 @@
     <item>1M per registre de memòria</item>
     <item>4M per registre de memòria</item>
     <item>16M per cada registre de memòria</item>
-    <item>16M per log buffer</item>
+    <item>16M per registre de memòria</item>
   </string-array>
   <string-array name="window_animation_scale_entries">
     <item>Sense animacions</item>
