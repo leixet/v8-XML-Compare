@@ -482,6 +482,7 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="bearer">Portadora</string>
   <string name="billing_cycle">Cicle de facturació</string>
   <string name="billing_cycle_fragment_summary">Mensualment, començant el %1$s</string>
+  <string name="billing_cycle_summary">El cicle de facturació mensual comença el %1$s</string>
   <string name="bind_xiaomi_account_cancel">Cancel·la</string>
   <string name="bind_xiaomi_account_confirm">Afegeix</string>
   <string name="bind_xiaomi_account_dialog_summery">"Esteu a punto d'afegir el Compte Mi %s. Si oblideu la contrasenya, podeu utilitzar aquesta compte per restablir-la."</string>
@@ -537,8 +538,11 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="bluetooth_device_name">Nom:</string>
   <string name="bluetooth_device_searchable">Visible</string>
   <string name="bluetooth_devices">Dispositius Bluetooth</string>
+  <string name="bluetooth_disable_absolute_volume">Desactiva el volum general</string>
+  <string name="bluetooth_disable_absolute_volume_summary">Desactiva la funció de volum general de Bluetooth en cas que es produeixin problemes de volum amb dispositius remots, com ara el volum massa fort o una pèrdua de control.</string>
   <string name="bluetooth_disable_profile_message">Es desactivarà:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Des de:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_disable_profile_title">Voleu desactivar el perfil?</string>
+  <string name="bluetooth_disabled">Desactivat</string>
   <string name="bluetooth_disconnect_a2dp_profile">El dispositiu d\'àudio %1$s es desconnectarà.</string>
   <string name="bluetooth_disconnect_all_profiles">La connexió amb:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt; finalitzarà;</string>
   <string name="bluetooth_disconnect_headset_profile">%1$s es desconnectarà del mans lliures.</string>
@@ -867,8 +871,10 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="config_mass_storage_function_name">mass_storage</string>
   <string name="configure_apps">Configura les aplicacions</string>
   <string name="configure_input_method">Configura els mètodes d\'entrada</string>
+  <string name="configure_notification_settings">Configura les notificacions</string>
   <string name="confirm_action">D\'acord</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Afegeix</string>
+  <string name="confirm_convert_to_fbe_warning">Voleu esborrar les dades d\'usuari i xifrar-les?</string>
   <string name="confirm_download_cancelation_dialog_message">Voleu cancel·la la baixada?</string>
   <string name="confirm_enable_oem_unlock_text">ADVERTIMENT: Mentre aquesta configuració estigui activa, les funcions de protecció del dispositiu no funcionaran.</string>
   <string name="confirm_enable_oem_unlock_title">Voleu permetre poder desbloquejar l\'OEM?</string>
@@ -880,6 +886,8 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="confirm_privacy_password_fingerprint">Escanegeu l\'empremta o introduïu la contrasenya de privacitat</string>
   <string name="confirm_privacy_password_instruction">Aquesta contrasenya protegeix aplicacions, missatges, fotos i contactes.</string>
   <string name="confirm_reset_aaid">D\'acord</string>
+  <string name="confirm_reset_shortcut_manager_throttling_message">Voleu restablir els comptadors de limitació de velocitat de ShortcutManager?</string>
+  <string name="confirm_reset_shortcut_manager_throttling_title">Voleu restablir la limitació de velocitat de ShortcutManager?</string>
   <string name="connect_to_internet">Connecta\'t a la xarxa</string>
   <string name="connected_via_passpoint">S\'ha connectat mitjançant %1$s</string>
   <string name="connected_via_wfa">S\'ha connectat mitjançant l\'assistent de Wi‑Fi</string>
@@ -889,6 +897,11 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="controls_label">Controls</string>
   <string name="controls_subtitle">Ajusta l\'ús d\'energia</string>
   <string name="convenience_key_category_title">Dreceres</string>
+  <string name="convert_to_fbe_warning">"Converteix la partició de dades en una criptografia basada en fitxers.
+Compte! S\'esborraran totes les dades.
+Aquesta funció és alfa i és possible que no funcioni correctament.
+Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
+  <string name="convert_to_file_encryption">Converteix a criptografia de fitxers</string>
   <string name="copyright_title">Copyright</string>
   <string name="country_name">%s (sistema)</string>
   <string name="create">Crea</string>
