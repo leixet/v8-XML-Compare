@@ -417,7 +417,7 @@
     <item>escriu l\'emmagatzematge</item>
     <item>engega la pantalla</item>
     <item>get accounts</item>
-    <item>run in background</item>
+    <item>obre en segon pla</item>
   </string-array>
   <string-array name="app_ops_labels">
     <item>Ubicació</item>
@@ -470,20 +470,20 @@
     <item>Fons de pantalla d\'escriptura</item>
     <item>Estructura d\'assistència</item>
     <item>Captura de pantalla assistida</item>
-    <item>Assist screenshot</item>
-    <item>Read phone state</item>
-    <item>Add voicemail</item>
-    <item>Use sip</item>
-    <item>Process outgoing call</item>
-    <item>Fingerprint</item>
-    <item>Body sensors</item>
-    <item>Read cell broadcasts</item>
-    <item>Mock location</item>
-    <item>Read storage</item>
-    <item>Write storage</item>
-    <item>Turn on screen</item>
-    <item>Get accounts</item>
-    <item>Run in background</item>
+    <item>Captura de pantalla assistida</item>
+    <item>Llegeix l\'estat del telèfon</item>
+    <item>Afegeix bústia de veu</item>
+    <item>Utilitza sip</item>
+    <item>Gestiona la trucada de sortida</item>
+    <item>Empremta dactilar</item>
+    <item>Sensors corporals</item>
+    <item>Llegeix missatges de difusió mòbil</item>
+    <item>Simula la ubicació</item>
+    <item>Llegeix l\'emmagatzematge</item>
+    <item>Escriu l\'emmagatzematge</item>
+    <item>Engega la pantalla</item>
+    <item>Aconsegueix comptes</item>
+    <item>Obre en segon pla</item>
   </string-array>
   <string-array name="long_press_timeout_selector_titles">
     <item>Curta</item>
