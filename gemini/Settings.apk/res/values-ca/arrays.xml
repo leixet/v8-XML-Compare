@@ -603,10 +603,15 @@
     <item>Rosa</item>
     <item>Vermell</item>
   </string-array>
+  <string-array name="cellcular2wifi_entries">
+    <item>Connecta automàticament</item>
+    <item>Connecta manualment</item>
+    <item>Pregunta-ho sempre</item>
+  </string-array>
   <string-array name="wifi_calling_mode_choices">
     <item>Preferentment amb Wi-Fi</item>
     <item>Preferentment amb dades mòbils</item>
-    <item>WLAN only</item>
+    <item>Només per Wi-Fi</item>
   </string-array>
   <string-array name="haptic_feedback_level_texts">
     <item>Apagat</item>
