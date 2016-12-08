@@ -902,6 +902,8 @@ Compte! S\'esborraran totes les dades.
 Aquesta funció és alfa i és possible que no funcioni correctament.
 Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="convert_to_file_encryption">Converteix a criptografia de fitxers</string>
+  <string name="convert_to_file_encryption_done">El fitxer ja està xifrat</string>
+  <string name="convert_to_file_encryption_enabled">Converteix&#8230;</string>
   <string name="copyright_title">Copyright</string>
   <string name="country_name">%s (sistema)</string>
   <string name="create">Crea</string>
@@ -980,6 +982,10 @@ Per seguir utilitzant el telèfon, cal una reinicialització de fàbrica. Quan e
   <string name="daltonizer_type">Mode de correcció</string>
   <string name="daltonizer_type_overridden">Substituit per %1$s</string>
   <string name="dashboard_title">Configuració</string>
+  <string name="data_limit">Límit de dades</string>
+  <string name="data_saver_off">Apagat</string>
+  <string name="data_saver_on">Engegat</string>
+  <string name="data_saver_title">Estalvi de dades</string>
   <string name="data_size_label">Dades</string>
   <string name="data_summary_format">%1$s utilitzada des de %2$s</string>
   <string name="data_switch_started">S\'està canviant la SIM de dades, un moment...</string>
@@ -1049,6 +1055,7 @@ Quan el consum de dades comptabilitzat pel telèfon i el subministrat per l\'ope
   <string name="data_usage_metered_title">Restriccions de la xarxa</string>
   <string name="data_usage_metered_wifi">Xarxes Wi-Fi</string>
   <string name="data_usage_metered_wifi_disabled">Per a seleccionar punts d\'accés mòbils, activeu el Wi-Fi.</string>
+  <string name="data_usage_other_apps">Altres aplicacions que utilitzen dades</string>
   <string name="data_usage_pick_cycle_day">Dia del mes per a restablir el cicle d\'ús de dades:</string>
   <string name="data_usage_received_sent">%1$s rebuts, %2$s enviats</string>
   <string name="data_usage_restrict_background">"Si restringiu les dades mòbils en segon pla, algunes aplicacions i serveis no funcionaran si no esteu connectat a una xarxa Wi-Fi."</string>
@@ -1057,6 +1064,7 @@ Quan el consum de dades comptabilitzat pel telèfon i el subministrat per l\'ope
 Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="data_usage_restrict_background_title">Voleu restringir l\'ús de dades en segon pla?</string>
   <string name="data_usage_restrict_denied_dialog">Només es pot restringir les dades en segon pla quan heu establert un límit de dades mòbils.</string>
+  <string name="data_usage_summary_format">%1$s de dades utilitzades</string>
   <string name="data_usage_summary_title">Ús de dades</string>
   <string name="data_usage_sweep_limit">\"&lt;font size=\"21\"&gt;^1&lt;/font&gt; &lt;font size=\"9\"&gt;^2&lt;/font&gt;\"
 \"&lt;font size=\"12\"&gt;límit&lt;/font&gt;\"</string>
@@ -1067,11 +1075,14 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="data_usage_tab_ethernet">Ethernet</string>
   <string name="data_usage_tab_mobile">Mòbil</string>
   <string name="data_usage_tab_wifi">Wi-Fi</string>
+  <string name="data_usage_template">%1$s utilitzades de %2$s</string>
   <string name="data_usage_total_during_range">%2$s: de %1$s utilitzats.</string>
   <string name="data_usage_total_during_range_mobile">%2$s: de %1$s utilitzats, comptabilitzat pel telèfon. L\'ús de dades mesurat per l\'operador pot ser diferent.</string>
   <string name="data_usage_uninstalled_apps">Aplicacions desinstal·lades</string>
   <string name="data_usage_uninstalled_apps_users">Aplicacions i usuaris desinstal·lats</string>
   <string name="data_usage_warning_editor_title">Defineix l\'advertiment d\'ús de dades</string>
+  <string name="data_used_template">%1$s utilitzades</string>
+  <string name="data_warning">Advertiment sobre ús de dades</string>
   <string name="date_and_time">Data i hora</string>
   <string name="date_and_time_settings_summary">Establir data, hora, zona horària i format</string>
   <string name="date_and_time_settings_title">Data i hora</string>
@@ -1104,6 +1115,9 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="debug_monitoring_category">S\'està fent un seguiment</string>
   <string name="debug_networking_category">Xarxes</string>
   <string name="debug_view_attributes">Habilita l\'inspecció d\'atributs de visualització</string>
+  <string name="decline_remote_bugreport_action">Rebutja-ho</string>
+  <string name="defalut_launcher_title">Llançador predeterminat</string>
+  <string name="default_admin_support_msg">"Aquesta acció s'ha desactivat. Per obtenir més informació, contacteu amb l'administrador de l'organització."</string>
   <string name="default_app">(Predeterminada)</string>
   <string name="default_apps_title">Aplicacions predeterminades</string>
   <string name="default_assist_none">Cap</string>
@@ -1111,9 +1125,12 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="default_browser_title">Aplicació del navegador</string>
   <string name="default_browser_title_none">No hi ha cap navegador predeterminat</string>
   <string name="default_emergency_app">Aplicació d\'emergència</string>
+  <string name="default_for_work">Predeterminada per a la feina</string>
   <string name="default_input_method">Trieu el teclat predeterminat</string>
+  <string name="default_keyboard_layout">Predeterminat</string>
   <string name="default_phone_title">Aplicació de telèfon</string>
   <string name="default_sound">So predeterminat</string>
+  <string name="default_spell_checker">Corrector ortogràfic predeterminat</string>
   <string name="default_usb_mode">Connexió USB</string>
   <string name="delete">Suprimeix</string>
   <string name="delete_fingerprint_confirm_msg">Voleu suprimir les empremtes?</string>
@@ -1121,6 +1138,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="delete_legacy_fingerprint">Suprimeix</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Voleu suprimir aquesta empremta?</string>
   <string name="delete_saved_network">Esborra les xarxes desades</string>
+  <string name="demo_mode">Mode de demostració</string>
   <string name="deny">Denega</string>
   <string name="deny_sms_message">"No permetre que les aplicacions instal·lades enviïn SMS"</string>
   <string name="deny_sms_title">Bloqueja SMS</string>
@@ -1129,7 +1147,10 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="dev_settings_warning_message">Aquesta configuració només està prevista per a usos de desenvolupament. Pot fer que el dispositiu i les aplicacions s\'interrompin o tinguin un comportament inadequat.</string>
   <string name="dev_settings_warning_title">Voleu permetre la configuració de desenvolupament?</string>
   <string name="developer_build">" | Beta"</string>
+  <string name="developer_density_summary">%d dp</string>
+  <string name="developer_smallest_width">Amplada més petita</string>
   <string name="development_enable">Opcions per a desenvolupadors</string>
+  <string name="development_settings_enable">Activa les opcions per a desenvolupadors</string>
   <string name="development_settings_not_available">Les opcions per a desenvolupadors no són disponibles per a aquest usuari</string>
   <string name="development_settings_summary">Defineix les opcions per al desenvolupament d\'aplicacions</string>
   <string name="development_settings_title">Opcions per a desenvolupadors</string>
@@ -1167,6 +1188,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="dial_pad_tones_title">Tons del teclat</string>
   <string name="dialog_content_login">Per a actualitzar, inicieu la sessió del compte Mi</string>
   <string name="dialog_no">No</string>
+  <string name="dialog_not_show_again">No ho mostris més</string>
   <string name="dialog_title_color_calibration">Mode de correcció de color</string>
   <string name="dialog_title_hdmi_color_calibration">Mode de correcció de color</string>
   <string name="dialog_title_login">Inicieu la sessió al compte Mi</string>
@@ -1180,7 +1202,12 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="disable_text">Desactiva</string>
   <string name="disabled">S\'ha desactivat</string>
   <string name="disabled_because_no_backup_security">Per utilitzar-lo, heu de configurar un bloqueig de pantalla</string>
+  <string name="disabled_by_admin">Desactivat per l\'administrador</string>
+  <string name="disabled_by_admin_summary_text">Controlat per l\'administrador</string>
+  <string name="disabled_by_administrator_summary">Desactivat per l\'administrador</string>
+  <string name="disabled_by_policy_title">Acció no permesa</string>
   <string name="disconnect">desconnecta</string>
+  <string name="disconnected">S\'ha desconnectat</string>
   <string name="display_auto_rotate_rotate">Activat</string>
   <string name="display_auto_rotate_stay_in_current">Desactivat</string>
   <string name="display_auto_rotate_stay_in_landscape">Bloqueja\'l en horitzontal</string>
@@ -1192,6 +1219,8 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="display_preview_label">Visualització prèvia:</string>
   <string name="display_settings">Pantalla</string>
   <string name="display_settings_title">Pantalla</string>
+  <string name="display_summary_off">S\'ha desactivat la lluminositat automàtica</string>
+  <string name="display_summary_on">S\'ha activat la lluminositat automàtica</string>
   <string name="dlg_cancel">Cancel·la</string>
   <string name="dlg_close">Tanca</string>
   <string name="dlg_confirm_unmount_text">Si desmunteu l\'emmagatzematge USB algunes aplicacions que s\'estan utilitzant s\'aturaran i és possible que no estiguin disponibles fins que torneu a muntar l\'emmagatzematge USB.</string>
