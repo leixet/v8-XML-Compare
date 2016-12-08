@@ -404,14 +404,14 @@
     <item>desa fons de pantalla</item>
     <item>estructura assistida</item>
     <item>captura de pantalla assistida</item>
-    <item>assist screenshot</item>
-    <item>read phone state</item>
-    <item>add voicemail</item>
-    <item>use sip</item>
-    <item>process outgoing call</item>
-    <item>fingerprint</item>
-    <item>body sensors</item>
-    <item>read cell broadcasts</item>
+    <item>captura de pantalla assistida</item>
+    <item>llegeix l\'estat del telèfon</item>
+    <item>afegeix bústia de veu</item>
+    <item>utilitza sip</item>
+    <item>gestiona la trucada de sortida</item>
+    <item>empremta dactilar</item>
+    <item>sensors corporals</item>
+    <item>llegeix missatges de difusió mòbil</item>
     <item>mock location</item>
     <item>read storage</item>
     <item>write storage</item>
