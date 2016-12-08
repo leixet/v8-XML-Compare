@@ -412,10 +412,10 @@
     <item>empremta dactilar</item>
     <item>sensors corporals</item>
     <item>llegeix missatges de difusió mòbil</item>
-    <item>mock location</item>
-    <item>read storage</item>
-    <item>write storage</item>
-    <item>turn on screen</item>
+    <item>simula la ubicació</item>
+    <item>llegeix l\'emmagatzematge</item>
+    <item>escriu l\'emmagatzematge</item>
+    <item>engega la pantalla</item>
     <item>get accounts</item>
     <item>run in background</item>
   </string-array>
