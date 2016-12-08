@@ -27,8 +27,18 @@ Si trieu que no voleu rebre anuncis personalitzats, no es reduirà la quantitat 
   <string name="abc_activitychooserview_choose_application">Trieu una aplicació</string>
   <string name="abc_capital_off">Desactivat</string>
   <string name="abc_capital_on">Activat</string>
+  <string name="abc_search_hint">Cerca&#8230;</string>
+  <string name="abc_searchview_description_clear">Esborra la consulta</string>
+  <string name="abc_searchview_description_query">Cerca consulta</string>
+  <string name="abc_searchview_description_search">Cerca</string>
+  <string name="abc_searchview_description_submit">Tramet la consulta</string>
+  <string name="abc_searchview_description_voice">Cerca de veu</string>
+  <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
+  <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
+  <string name="abc_toolbar_collapse_description">Replega</string>
   <string name="about_settings">Quant al telèfon</string>
   <string name="about_settings_summary">Informació legal, estat i versió de programari</string>
+  <string name="about_summary">Android %1$s</string>
   <string name="ac_enable_summary">Cal una contrasenya</string>
   <string name="ac_enable_title">Bloquejador d\'aplicacions</string>
   <string name="ac_privacy_mode_sum">Demana contrasenya per a desactivar el mode Convidat</string>
@@ -47,6 +57,8 @@ Si trieu que no voleu rebre anuncis personalitzats, no es reduirà la quantitat 
   <string name="access_control_recording_intro_header">Dibuixeu un patró de desbloqueig:</string>
   <string name="access_control_reset_by_account">Per restablir la contrasenya, inicieu la sessió del compte Mi</string>
   <string name="access_point_names">Noms dels punt d\'accés</string>
+  <string name="accessibility_autoclick_delay_preference_title">Retard abans del clic</string>
+  <string name="accessibility_autoclick_preference_title">Clic quan el punter deixi de moure\'s</string>
   <string name="accessibility_captioning_title">Subtítols</string>
   <string name="accessibility_category_personal">Comptes personals</string>
   <string name="accessibility_category_work">Comptes de la feina - %s</string>
