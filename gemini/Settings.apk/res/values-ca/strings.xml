@@ -4456,7 +4456,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
 Voleu permetre-ho per a totes les aplicacions que vulguin cercar xarxes?»</string>
   <string name="wifi_scan_notify_remember_choice">No tornis a mostrar-ho</string>
   <string name="wifi_scan_notify_text">Per millorar la precisió de la ubicació, les aplicacions i serveis encara poden cercar xarxes Wi-Fi. Es pot configurar des de LINK_BEGINscanning settingsLINK_END.</string>
-  <string name="wifi_scan_notify_text_location_off">"Les aplicacions poden escanejar xarxes, fins i tot quan hi ha el Wi-Fi desactivat. Podeu configurar-ho des de Configuració avançada &gt; Escanneig sempre disponible."</string>
+  <string name="wifi_scan_notify_text_location_off">"Les aplicacions poden escanejar xarxes, fins i tot quan hi ha el Wi-Fi desactivat. Podeu configurar-ho des de Configuració avançada &gt; Escaneig sempre disponible."</string>
   <string name="wifi_security">Tipus de seguretat</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
