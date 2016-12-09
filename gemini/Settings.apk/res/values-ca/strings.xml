@@ -1521,6 +1521,9 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="fingerprint_not_identified_msg">"No es pot llegir l'empremta. Introduïu la contrasenya"</string>
   <string name="fingerprint_not_recognized">No s\'ha reconegut</string>
   <string name="fingerprint_removal_failed">"No s'ha pogut suprimir l'empremta, torneu-hi"</string>
+  <string name="fingerprint_unlock_set_unlock_password">Empremta + Contrasenya</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Empremta + Patró</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Empremta + PIN</string>
   <string name="fingerprint_usage_category_title">Ús de les empremtes per</string>
   <string name="finish_application">Força el tancament</string>
   <string name="finish_button_label">Finalitza</string>
@@ -2035,6 +2038,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="man_add_application">Afegiu aplicacions d\'engegada automàtica</string>
   <string name="manage_device_admin">Administradors del dispositiu</string>
   <string name="manage_device_admin_summary">Mostra o desactiva els administradors del dispositiu</string>
+  <string name="manage_fingerprint_text">Gestió d\'empremtes</string>
   <string name="manage_mobile_plan_title">Pla mòbil</string>
   <string name="manage_notification_access_summary_zero">Les aplicacions no poden llegir les notificacions</string>
   <string name="manage_notification_access_title">Accés a les notificacions</string>
@@ -3323,10 +3327,10 @@ Per fer-ho:
   <string name="security_settings_fingerprint_enroll_disclaimer">A més de desbloquejar el telèfon, també podeu utilitzar l\'empremta per autoritzar compres i l\'accés a les aplicacions. &lt;annotation id=\"url\"&gt;Més informació&lt;/annotation&gt;</string>
   <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">S\'ha desactivat l\'opció de bloqueig de pantalla. Encara podeu fer servir l\'empremta per autoritzar compres i permetre l\'accés a determinades aplicacions. &lt;annotation id=\"url\"&gt;Més informació&lt;/annotation&gt;</string>
   <string name="security_settings_fingerprint_enroll_done">Fet</string>
-  <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Il·lustració amb la ubicació del sensor d\'empremtes digitals i de dispositiu</string>
-  <string name="security_settings_fingerprint_enroll_find_sensor_message">Cerca el sensor d\'empremtes digitals a la part posterior del telèfon.</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Il·lustració del dispositiu amb la ubicació del sensor d\'empremtes</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Cerca el sensor d\'empremtes a la part posterior del telèfon.</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_title">Cerca el sensor</string>
-  <string name="security_settings_fingerprint_enroll_finish_message">Quan vegeu aquesta icona, podeu fer servir l\'empremta digital per identificar-vos o per autoritzar una compra.</string>
+  <string name="security_settings_fingerprint_enroll_finish_message">Quan vegeu aquesta icona, podeu fer servir l\'empremta per identificar-vos o per autoritzar una compra.</string>
   <string name="security_settings_fingerprint_enroll_finish_title">S\'ha afegit l\'empremta!</string>
   <string name="security_settings_fingerprint_enroll_introduction_cancel">Cancel·la</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue">Continua</string>
