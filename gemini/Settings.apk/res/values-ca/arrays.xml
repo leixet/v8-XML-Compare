@@ -431,7 +431,7 @@
     <item>llegeix l\'emmagatzematge</item>
     <item>escriu l\'emmagatzematge</item>
     <item>engega la pantalla</item>
-    <item>get accounts</item>
+    <item>aconsegueix comptes</item>
     <item>obre en segon pla</item>
   </string-array>
   <string-array name="app_ops_labels">
@@ -627,6 +627,10 @@
     <item>Preferentment amb Wi-Fi</item>
     <item>Preferentment amb dades mòbils</item>
     <item>Només per Wi-Fi</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_choices_without_wifi_only">
+    <item>Wi-Fi preferentment</item>
+    <item>Xarxa cel·lular preferentment</item>
   </string-array>
   <string-array name="haptic_feedback_level_texts">
     <item>Apagat</item>
