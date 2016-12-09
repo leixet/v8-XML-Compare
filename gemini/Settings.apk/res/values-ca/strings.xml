@@ -693,6 +693,8 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="bluetooth_talkback_computer">Ordinador</string>
   <string name="bluetooth_talkback_headphone">Auriculars</string>
   <string name="bluetooth_talkback_headset">Auricular</string>
+  <string name="bluetooth_talkback_input_peripheral">Perifèric d\'entrada</string>
+  <string name="bluetooth_talkback_phone">Telèfon</string>
   <string name="bluetooth_tether_checkbox_text">Comparteix internet per Bluetooth</string>
   <string name="bluetooth_tethering_available_subtext">S\'està compartint la connexió a Internet del telèfon</string>
   <string name="bluetooth_tethering_device_connected_subtext">S\'està compartint la connexió a Internet del telèfon amb 1 dispositiu</string>
@@ -771,6 +773,8 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="build_number">Número de compilació</string>
   <string name="builtin_keyboard_settings_summary">Configuració del teclat físic </string>
   <string name="builtin_keyboard_settings_title">Teclat físic</string>
+  <string name="button_confirm_convert_fbe">Esborra i converteix</string>
+  <string name="button_convert_fbe">Esborra i converteix&#8230;</string>
   <string name="button_disconnect_network">Desconnecta de la xarxa</string>
   <string name="button_light_timeout">Durada de la llum dels botons</string>
   <string name="button_text_accept">D\'acord</string>
@@ -1483,8 +1487,10 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="filter_dlg_title">Selecció d\'opcions de filtre</string>
   <string name="filter_enabled_apps">Habilitat</string>
   <string name="filter_notif_blocked_apps">Bloquejat</string>
+  <string name="filter_notif_hide_notifications_apps">No les mostris mai a la pantalla de bloqueig</string>
   <string name="filter_notif_priority_apps">Prioritat</string>
   <string name="filter_notif_sensitive_apps">Contingut sensible amagat</string>
+  <string name="filter_notif_silent">Mostra-les de manera silenciosa</string>
   <string name="filter_overlay_apps">Aplicacions amb permís</string>
   <string name="filter_personal_apps">Personal</string>
   <string name="filter_with_domain_urls_apps">Amb URL del domini</string>
@@ -1493,19 +1499,24 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="fingerprint_add_max">Podeu afegir fins a %d empremtes</string>
   <string name="fingerprint_add_title">Afegeix una empremta</string>
   <string name="fingerprint_and_password_entrance_title">Pantalla de bloqueig i empremta</string>
+  <string name="fingerprint_apply_to_privacy_password">Contrasenya de protecció de privadesa</string>
+  <string name="fingerprint_apply_to_privacy_password_scenarios">La contrasenya de privadesa protegeix els missatges, fotos, fitxers, notes i aplicacions.</string>
   <string name="fingerprint_enable_keyguard_toggle_title">bloqueig de pantalla</string>
   <string name="fingerprint_enroll_button_add">Afegeix-ne un altre</string>
   <string name="fingerprint_enroll_button_next">Següent</string>
+  <string name="fingerprint_first_open_screen_password_tittle">Empremta tàctil (cal utilitzar contrasenya a la pantalla de bloqueig)</string>
   <string name="fingerprint_for_keyguard_disabled">La configuració de seguretat ha desactivat l\'empremta.</string>
   <string name="fingerprint_identify_input_password_msg">Introduïu la contrasenya</string>
   <string name="fingerprint_identify_msg">S\'està escanejant l\'empremta&#8230;</string>
   <string name="fingerprint_identify_try_again_msg">"No s'ha pogut llegir l'empremta, torneu-hi"</string>
   <string name="fingerprint_last_delete_confirm">Sí, suprimeix-la</string>
   <string name="fingerprint_last_delete_message">"No podreu fer servir les empremtes digitals per a desbloquejar el telèfon, autoritzar compres ni iniciar la sessió en aplicacions."</string>
+  <string name="fingerprint_last_delete_message_profile_challenge">"No podreu utilitzar les empremtes dactilars per desbloquejar el perfil professional, autoritzar compres ni iniciar la sessió en aplicacions de feina."</string>
   <string name="fingerprint_last_delete_title">Voleu suprimir totes les empremtes?</string>
   <string name="fingerprint_list_title">Empremta</string>
   <string name="fingerprint_lock_first">Desbloqueja el primer espai</string>
   <string name="fingerprint_lock_second">Desbloqueja el segon espai</string>
+  <string name="fingerprint_manage">Gestió d\'empremtes</string>
   <string name="fingerprint_manage_category_title">Gestió d\'empremtes</string>
   <string name="fingerprint_not_identified_msg">"No es pot llegir l'empremta. Introduïu la contrasenya"</string>
   <string name="fingerprint_not_recognized">No s\'ha reconegut</string>
@@ -3310,7 +3321,7 @@ Per fer-ho:
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Nom</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">D\'acord</string>
   <string name="security_settings_fingerprint_enroll_disclaimer">A més de desbloquejar el telèfon, també podeu utilitzar l\'empremta per autoritzar compres i l\'accés a les aplicacions. &lt;annotation id=\"url\"&gt;Més informació&lt;/annotation&gt;</string>
-  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">S\'ha desactivat l\'opció de bloqueig de pantalla. Encara podeu fer servir l\'empremta digital per autoritzar compres i permetre l\'accés a determinades aplicacions. &lt;annotation id=\"url\"&gt;Més informació&lt;/annotation&gt;</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">S\'ha desactivat l\'opció de bloqueig de pantalla. Encara podeu fer servir l\'empremta per autoritzar compres i permetre l\'accés a determinades aplicacions. &lt;annotation id=\"url\"&gt;Més informació&lt;/annotation&gt;</string>
   <string name="security_settings_fingerprint_enroll_done">Fet</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Il·lustració amb la ubicació del sensor d\'empremtes digitals i de dispositiu</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_message">Cerca el sensor d\'empremtes digitals a la part posterior del telèfon.</string>
