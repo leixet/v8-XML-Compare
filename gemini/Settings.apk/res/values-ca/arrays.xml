@@ -166,6 +166,16 @@
     <item>spa</item>
     <item>kor</item>
   </string-array>
+  <string-array name="color_mode_names">
+    <item>Vibrant (predeterminat)</item>
+    <item>Natural</item>
+    <item>Estàndard</item>
+  </string-array>
+  <string-array name="color_mode_descriptions">
+    <item>Colors millorats</item>
+    <item>Colors naturals tal com els veu l\'ull humà</item>
+    <item>Colors optimitzats per al contingut digital</item>
+  </string-array>
   <string-array name="battery_labels">
     <item>0%</item>
     <item>50%</item>
