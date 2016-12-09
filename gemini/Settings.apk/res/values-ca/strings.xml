@@ -171,7 +171,12 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="additional_permissions_more">%1$d més</string>
   <string name="additional_system_update_settings_list_item_title">Actualitzacions addicionals del sistema</string>
   <string name="adjust_3d_depth_title">"Ajusta la profunditat dels jocs 3D"</string>
+  <string name="admin_device_owner_message">"L'administrador pot supervisar i gestionar les aplicacions i les dades associades amb aquest dispositiu, inclosos la configuració, els permisos, l'accés corporatiu, l'activitat de xarxa i la informació d'ubicació del dispositiu."</string>
+  <string name="admin_disabled_other_options">L\'administrador ha desactivat altres opcions.</string>
   <string name="admin_more_details">Més detalls</string>
+  <string name="admin_profile_owner_message">"L'administrador pot supervisar i gestionar les aplicacions i les dades associades amb el perfil professional, inclosos la configuració, els permisos, l'accés corporatiu, l'activitat de xarxa i la informació d'ubicació del dispositiu."</string>
+  <string name="admin_profile_owner_user_message">"L'administrador pot supervisar i gestionar les aplicacions i les dades associades d'aquest usuari, inclosos la configuració, els permisos, l'accés corporatiu, l'activitat de xarxa i la informació d'ubicació del dispositiu."</string>
+  <string name="admin_support_more_info">Més detalls</string>
   <string name="advanced_apps">Avançat</string>
   <string name="advanced_section_header">Avançat</string>
   <string name="advanced_security_title">Avançat</string>
@@ -182,6 +187,7 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="agps_roaming_dia_title">Utilitzeu l\'A-GPS en itinerància</string>
   <string name="agps_roaming_summary">Utilitza dades mòbils quan el GPS és en itinerància</string>
   <string name="airplane_mode">Mode avió</string>
+  <string name="alarm_ringtone_title">So d\'alarma predeterminat</string>
   <string name="alarm_sound_dialog_title">Tria el so de l\'alarma</string>
   <string name="alarm_sound_title">So de l\'alarma</string>
   <string name="alarm_volume_option_title">Volum de l\'alarma</string>
@@ -209,6 +215,7 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="android_beam_tips">Assegureu-vos que els dos dispositius es toquen i premeu sobre el contingut que voleu transmetre.</string>
   <string name="android_beam_witch_label">Transmissió Android</string>
   <string name="animator_duration_scale_title">Durada de l\'animació</string>
+  <string name="another_migration_already_in_progress">Ja hi ha una migració en curs.</string>
   <string name="anr_record_interval_title">Gravació d\'intervals ANR</string>
   <string name="anti_spam">Llista de bloqueig</string>
   <string name="apn_apn">APN</string>
@@ -256,6 +263,9 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="app_floating_window_dlg_disable">"Si atureu la configuració de la finestra flotant %1$s's haureu de reinicialitzar l'aplicació."</string>
   <string name="app_floating_window_dlg_enable">"Si activeu la configuració de la finestra flotant %1$s's haureu de reinicialitzar l'aplicació."</string>
   <string name="app_forward_locked">L\'aplicació és protegida contra còpies.</string>
+  <string name="app_install_details_group_title">Botiga</string>
+  <string name="app_install_details_summary">Aplicació instal·lada des de %1$s</string>
+  <string name="app_install_details_title">Informació de l\'aplicació</string>
   <string name="app_install_location_summary">Canvia la ruta d\'instal·lació preferida per les noves aplicacions</string>
   <string name="app_install_location_title">Lloc d\'instal·lació preferit</string>
   <string name="app_invisible">Aplicació invisible</string>
@@ -274,6 +284,8 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="app_not_found_dlg_text">L\'aplicació no és a la llista d\'aplicacions instal·lades.</string>
   <string name="app_notification_block_summary">No mostris mai notificacions d\'aquesta aplicació</string>
   <string name="app_notification_block_title">Bloqueja-ho tot</string>
+  <string name="app_notification_importance_title">Importància</string>
+  <string name="app_notification_override_dnd_summary">Permet que aquestes notificacions continuïn interrompent quan el mode No molesteu estigui configurat com a Només amb prioritat</string>
   <string name="app_notification_preferences">Configuració de l\'aplicació</string>
   <string name="app_notification_row_banned">S\'ha bloquejat</string>
   <string name="app_notification_row_priority">Prioritat</string>
