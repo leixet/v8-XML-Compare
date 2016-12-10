@@ -896,10 +896,13 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="clear_data_failed">No s\'han pogut suprimir les dades de l\'aplicació.</string>
   <string name="clear_failed_dlg_text">No s\'han pogut suprimir les dades de l\'aplicació.</string>
   <string name="clear_failed_dlg_title">Suprimeix les dades</string>
+  <string name="clear_uri_btn_text">Esborra l\'accés</string>
   <string name="clear_user_data_text">Suprimeix les dades</string>
   <string name="close_gesture">Tanca amb un gest</string>
   <string name="close_miui_optimization_title">Atura la optimització de MIUI</string>
   <string name="close_miui_optimization_warning_message">El dispositiu arrencarà de nou per aplicar els canvis.</string>
+  <string name="collect_diagnostics_summary">Recull dades de diagnòstic per a la depuració</string>
+  <string name="collect_diagnostics_title">Recull la diagnosi</string>
   <string name="color_black">Negre</string>
   <string name="color_blue">Blau</string>
   <string name="color_calibration_none">Nadiu</string>
