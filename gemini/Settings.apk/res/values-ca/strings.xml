@@ -916,6 +916,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="color_orange">Carbassa</string>
   <string name="color_purple">Lila</string>
   <string name="color_red">Vermell</string>
+  <string name="color_temperature">Temperatura del color fred</string>
   <string name="color_title">Color</string>
   <string name="color_unspecified">Predeterminat</string>
   <string name="color_white">Blanc</string>
