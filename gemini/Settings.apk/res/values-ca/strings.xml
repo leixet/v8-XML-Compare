@@ -917,6 +917,8 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="color_purple">Lila</string>
   <string name="color_red">Vermell</string>
   <string name="color_temperature">Temperatura del color fred</string>
+  <string name="color_temperature_desc">Utilitza colors de pantalla més freds</string>
+  <string name="color_temperature_toast">Desactiva la pantalla per aplicar el canvi de color</string>
   <string name="color_title">Color</string>
   <string name="color_unspecified">Predeterminat</string>
   <string name="color_white">Blanc</string>
@@ -924,6 +926,12 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="common_settings">Configuració ràpida</string>
   <string name="complete_settings">Configuració general</string>
   <string name="computing_size">S\'està calculant&#8230;</string>
+  <string name="condition_airplane_summary">"La Wi-Fi, el Bluetooth, i la xarxa mòbil estan desactivats. No podeu fer trucades telefòniques ni connectar-vos a Internet."</string>
+  <string name="condition_airplane_title">Mode d\'avió activat</string>
+  <string name="condition_battery_summary">El rendiment ha disminuït. Els Serveis d\'ubicació i les dades en segon pla s\'han desactivat.</string>
+  <string name="condition_battery_title">Estalvi de bateria activat</string>
+  <string name="condition_bg_data_summary">Les dades en segon pla només estan disponibles mitjançant una Wi-Fi. Això pot afectar aplicacions o serveis determinats quan no n\'hi hagi cap de disponible.</string>
+  <string name="condition_bg_data_title">Economitzador de dades activat</string>
   <string name="condition_zen_title">S\'ha activat el mode No molesteu (%1$s)</string>
   <string name="config_charging_function_name">s\'està carregant</string>
   <string name="config_list_label">Xarxes configurades</string>
