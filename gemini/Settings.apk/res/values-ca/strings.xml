@@ -857,11 +857,16 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="cellular_data_summary">Permet l\'accés de dades a través de la xarxa mòbil</string>
   <string name="cellular_data_title">Dades mòbils</string>
   <string name="cellular_data_usage">Ús de dades mòbils</string>
+  <string name="cellular_to_wlan_hint_summary">Permet suggeriments quan és en manual o que sempre ho demani en mòbil -&gt; Wi-Fi</string>
+  <string name="cellular_to_wlan_hint_title">Mòbil -&gt; Wi-Fi suggeriments</string>
+  <string name="cellular_to_wlan_hint_toast">Mòbil -&gt;La connexió Wi-Fi pot quedar afectada</string>
+  <string name="cellular_to_wlan_title">Mòbil -&gt;Wi-Fi</string>
   <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="change">Canvia</string>
   <string name="change_password">Canvia el bloqueig de pantalla</string>
   <string name="change_security_lock">Prova altres formes de desbloqueig</string>
   <string name="change_storage">Canvia l\'emmagatzematge</string>
+  <string name="charge_length_format">Fa %1$s</string>
   <string name="charging_sounds_title">Sons de càrrega de la bateria</string>
   <string name="check_find_device_status_failure_confirm">D\'acord</string>
   <string name="check_update">Comprova les actualitzacions</string>
@@ -878,6 +883,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="choose_assist_title">Trieu l\'Assistent</string>
   <string name="choose_profile">Trieu el perfil</string>
   <string name="choose_smartcover_type">Trieu el tipus de funda</string>
+  <string name="choose_spell_checker">Tria el corrector ortogràfic</string>
   <string name="choose_timezone">Trieu el fus horàri</string>
   <string name="choose_voice_input_title">Trieu l\'entrada de veu</string>
   <string name="cleaner">Netejador</string>
