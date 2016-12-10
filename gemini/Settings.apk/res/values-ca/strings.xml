@@ -3431,6 +3431,7 @@ Per fer-ho:
   <string name="setup_fingerprint_enroll_enrolling_skip_title">Voleu ometre la configuració d\'empremta digital?</string>
   <string name="setup_fingerprint_enroll_finish_message">Toca el sensor d\'empremtes per activar i desbloquejar el dispositiu.</string>
   <string name="setup_fingerprint_enroll_finish_message_secondary">Quan vegeu aquesta icona, podeu fer servir l\'empremta.</string>
+  <string name="setup_fingerprint_enroll_finish_secondary_message">Per canviar la vostra configuració, aneu a Configuració &gt; Seguretat &gt; Empremta digital.</string>
   <string name="setup_wifi_nfc_tag">Configura l\'etiqueta de NFC per a Wi-Fi</string>
   <string name="severe_threats_summary">Rep alertes d\'amenaces extremes per a la vida i la propietat</string>
   <string name="severe_threats_title">Amenaces importants</string>
