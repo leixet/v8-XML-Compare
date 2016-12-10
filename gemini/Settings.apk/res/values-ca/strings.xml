@@ -2319,6 +2319,10 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="networks_title">Xarxes mòbils</string>
   <string name="never">Mai</string>
   <string name="new_backup_pw_prompt">Introduïu una contrasenya nova per a les còpies de seguretat completes</string>
+  <string name="new_password_to_new_fingerprint_dialog_msg">Afegiu la vostra empremta digital i utilitzeu-la per desbloquejar el vostre dispositiu.</string>
+  <string name="new_password_to_new_fingerprint_dialog_negative_msg">Cancel·la</string>
+  <string name="new_password_to_new_fingerprint_dialog_positive_msg">Afegeix</string>
+  <string name="new_password_to_new_fingerprint_dialog_tittle">Afegeix una empremta digital</string>
   <string name="next_button_label">Següent</string>
   <string name="next_label">Següent</string>
   <string name="nfc_category_title">NFC</string>
@@ -3360,7 +3364,9 @@ Per fer-ho:
   <string name="security_settings_fingerprint_enroll_finish_message">Quan vegeu aquesta icona, podeu fer servir l\'empremta per identificar-vos o per autoritzar una compra.</string>
   <string name="security_settings_fingerprint_enroll_finish_title">S\'ha afegit l\'empremta!</string>
   <string name="security_settings_fingerprint_enroll_introduction_cancel">Cancel·la</string>
+  <string name="security_settings_fingerprint_enroll_introduction_cancel_setup">Omet</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue">Continua</string>
+  <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Afegeix una empremta digital</string>
   <string name="security_settings_fingerprint_enroll_introduction_message">Només cal que toqueu el sensor d\'empremtes per a desbloquejar el telèfon, per autoritzar les compres o per iniciar la sessió en una aplicació. Aneu amb compte a l\'hora d\'afegir empremtes, tingueu present que totes les que afegiu podran fer tot això.</string>
   <string name="security_settings_fingerprint_enroll_introduction_title">Desbloqueig amb empremta</string>
   <string name="security_settings_fingerprint_enroll_lift_touch_again">Treu el dit i torna a tocar el sensor</string>
@@ -3787,6 +3793,7 @@ Per a un millor rendiment, us recomanem que utilitzeu un ^1 més ràpid."</strin
   <string name="storageuse_settings_title">Ús de l\'emmagatzematge</string>
   <string name="strict_mode">S\'ha activat el mode estricte</string>
   <string name="strict_mode_summary">Il·lumina la pantalla si les aplicacions fan tasques llargues en el procés principal</string>
+  <string name="suggestion_additional_fingerprints">Afegeix una altra empremta digital</string>
   <string name="sum_carrier_select">Trieu un operador de xarxa</string>
   <string name="summary_divider_text">", "</string>
   <string name="summary_font_size">%1$s</string>
