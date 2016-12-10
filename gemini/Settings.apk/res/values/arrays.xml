@@ -1630,6 +1630,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>XXXL</item>
     </string-array>
     <string-array name="organized_locales">
+        <item>al</item>
         <item>dz</item>
         <item>ao</item>
         <item>ag</item>
@@ -1638,9 +1639,11 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>bh</item>
         <item>bd</item>
         <item>bb</item>
+        <item>by</item>
         <item>be</item>
         <item>bz</item>
         <item>bo</item>
+        <item>ba</item>
         <item>bw</item>
         <item>bg</item>
         <item>br</item>
@@ -1659,6 +1662,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>eg</item>
         <item>sv</item>
         <item>gq</item>
+        <item>ee</item>
         <item>et</item>
         <item>fk</item>
         <item>fr</item>
@@ -1684,15 +1688,20 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>kz</item>
         <item>ke</item>
         <item>kw</item>
+        <item>lv</item>
         <item>lb</item>
         <item>ls</item>
         <item>ly</item>
         <item>lt</item>
+        <item>mk</item>
         <item>mw</item>
         <item>my</item>
+        <item>mt</item>
         <item>mr</item>
         <item>mu</item>
         <item>mx</item>
+        <item>md</item>
+        <item>me</item>
         <item>ma</item>
         <item>mz</item>
         <item>mm</item>
@@ -1744,6 +1753,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>ug</item>
         <item>ua</item>
         <item>ae</item>
+        <item>gb</item>
         <item>us</item>
         <item>uy</item>
         <item>uz</item>
@@ -1781,6 +1791,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>IR</item>
         <item>JM</item>
         <item>JO</item>
+        <item>KR</item>
         <item>KW</item>
         <item>MX</item>
         <item>NI</item>
@@ -2066,7 +2077,7 @@ http://m.mi.com"</item>
     <item type="array" name="APKTOOL_DUMMY_102">false</item>
     <item type="array" name="APKTOOL_DUMMY_103">false</item>
     <item type="array" name="APKTOOL_DUMMY_104">false</item>
-    <item type="array" name="APKTOOL_DUMMY_105">false</item>
     <item type="array" name="APKTOOL_DUMMY_106">false</item>
     <item type="array" name="APKTOOL_DUMMY_107">false</item>
+    <item type="array" name="APKTOOL_DUMMY_108">false</item>
 </resources>
