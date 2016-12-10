@@ -65,6 +65,14 @@
     <item quantity="other">Petits retards (%1$d ms)</item>
     <item quantity="one">Petit retard (%1$d ms)</item>
   </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+    <item quantity="other">Retards llargs (%1$d ms)</item>
+    <item quantity="one">Retard llarg (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+    <item quantity="other">Retards molt llargs (%1$d ms)</item>
+    <item quantity="one">Retard molt llarg (%1$d ms)</item>
+  </plurals>
   <plurals name="print_settings_title">
     <item quantity="other">%d tasques d\'impressió</item>
     <item quantity="one">1 tasca d\'impressió</item>
@@ -72,6 +80,22 @@
   <plurals name="ssl_ca_cert_dialog_title">
     <item quantity="other">Confia en els certificats o suprimeix-los</item>
     <item quantity="one">Confia en el certificat o suprimeix-lo</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message_device_owner">
+    <item quantity="other">"%s ha instal·lat autoritats de certificació en el dispositiu i podrà supervisar-ne l\'activitat a la xarxa, inclosos els correus electrònics, les aplicacions i els llocs web segurs.
+
+Per obtenir més informació sobre aquest certificat, contacteu amb l\'administrador."</item>
+    <item quantity="one">"%s ha instal·lat una autoritat de certificació en el dispositiu i podrà supervisar-ne l\'activitat a la xarxa, inclosos els correus electrònics, les aplicacions i els llocs web segurs.
+
+Per obtenir més informació sobre aquest certificat, contacteu amb l\'administrador."</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message">
+    <item quantity="other">"%s ha instal·lat autoritats de certificació en el perfil professional i podrà supervisar-ne l\'activitat a la xarxa, inclosos els correus electrònics, les aplicacions i els llocs web segurs.
+
+Per obtenir més informació sobre aquest certificat, contacteu amb l\'administrador."</item>
+    <item quantity="one">"%s ha instal·lat una autoritat de certificació en el perfil professional i podrà supervisar-ne l\'activitat a la xarxa, inclosos els correus electrònics, les aplicacions i els llocs web segurs.
+
+Per obtenir més informació sobre aquest certificat, contacteu amb l\'administrador."</item>
   </plurals>
   <plurals name="ssl_ca_cert_settings_button">
     <item quantity="other">Comprova els certificats</item>
