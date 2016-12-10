@@ -693,6 +693,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="bluetooth_talkback_computer">Ordinador</string>
   <string name="bluetooth_talkback_headphone">Auriculars</string>
   <string name="bluetooth_talkback_headset">Auricular</string>
+  <string name="bluetooth_talkback_imaging">Sincronització Bluetooth</string>
   <string name="bluetooth_talkback_input_peripheral">Perifèric d\'entrada</string>
   <string name="bluetooth_talkback_phone">Telèfon</string>
   <string name="bluetooth_tether_checkbox_text">Comparteix internet per Bluetooth</string>
@@ -797,6 +798,10 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="call_settings_summary">Configura la bústia de veu, devolució de trucada, trucada en espera, identificador de trucada</string>
   <string name="call_settings_title">Configuració de trucada</string>
   <string name="calls_title">Trucades</string>
+  <string name="camera_double_tap_power_gesture_desc">Obre ràpidament la càmera sense haver de desbloquejar la pantalla</string>
+  <string name="camera_double_tap_power_gesture_title">Botó d\'engegada dos cops per obrir càmera</string>
+  <string name="camera_gesture_desc">Gira el canell dues vegades per obrir l\'aplicació Càmera</string>
+  <string name="camera_gesture_title">Doble gir per obrir Càmera</string>
   <string name="camera_key_action_app_title">Obre l\'aplicació</string>
   <string name="camera_key_action_category_title">"No es pot utilitzar la càmera"</string>
   <string name="camera_key_action_none_title">No facis res</string>
@@ -846,8 +851,12 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="category_work">Feina</string>
   <string name="cdma_security_settings_summary">Defineix La meva ubicació, el desbloqueig de pantalla i el bloqueig d\'emmagatzematge de credencials</string>
   <string name="cell_broadcast_settings">Difusions d\'emergència</string>
+  <string name="cell_data_template">%1$s dades mòbils</string>
+  <string name="cell_warning_and_limit">%1$s Advertiment sobre ús de dades / %2$s Límit de dades</string>
+  <string name="cell_warning_only">%1$s Advertiment sobre ús de dades</string>
   <string name="cellular_data_summary">Permet l\'accés de dades a través de la xarxa mòbil</string>
   <string name="cellular_data_title">Dades mòbils</string>
+  <string name="cellular_data_usage">Ús de dades mòbils</string>
   <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="change">Canvia</string>
   <string name="change_password">Canvia el bloqueig de pantalla</string>
