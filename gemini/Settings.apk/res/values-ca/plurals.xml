@@ -53,6 +53,18 @@
     <item quantity="other">%d elements</item>
     <item quantity="one">1 element</item>
   </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+    <item quantity="other">Retards extremadament petits (%1$d ms)</item>
+    <item quantity="one">Retard extremadament petit (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+    <item quantity="other">Retards molt petits (%1$d ms)</item>
+    <item quantity="one">Retard molt petit (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+    <item quantity="other">Petits retards (%1$d ms)</item>
+    <item quantity="one">Petit retard (%1$d ms)</item>
+  </plurals>
   <plurals name="print_settings_title">
     <item quantity="other">%d tasques d\'impressió</item>
     <item quantity="one">1 tasca d\'impressió</item>
