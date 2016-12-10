@@ -137,6 +137,14 @@ Per obtenir més informació sobre aquest certificat, contacteu amb l\'administr
     <item quantity="other">%1$d aplicacions han utilitzat la memòria en els darrers %2$s</item>
     <item quantity="one">Una aplicació ha utilitzat la memòria en els darrers %2$s</item>
   </plurals>
+  <plurals name="notification_summary">
+    <item quantity="other">No es permet l\'enviament des de %d aplicacions</item>
+    <item quantity="one">No es permet l\'enviament des d\' %d aplicació</item>
+  </plurals>
+  <plurals name="data_saver_unrestricted_summary">
+    <item quantity="other">%1$d aplicacions poden utilitzar dades sense restricció quan l\'extensió Economitzador de dades és activat</item>
+    <item quantity="one">1 aplicació pot utilitzar dades sense restricció quan l\'extensió Economitzador de dades és activat</item>
+  </plurals>
   <plurals name="connected_devices_number">
     <item quantity="other">%d dispositius</item>
     <item quantity="one">%d dispositiu</item>
