@@ -2207,8 +2207,13 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="lockpattern_settings_enable_tactile_feedback_title">Vibra en tocar</string>
   <string name="lockpattern_settings_enable_title">Cal un patró</string>
   <string name="lockpattern_settings_enable_visible_pattern_title">Fes el patró visible</string>
+  <string name="lockpattern_settings_enable_visible_pattern_title_profile">Mostra el patró del perfil</string>
   <string name="lockpattern_settings_help_how_to_record">Com es dibuixa un patró de desbloqueig</string>
   <string name="lockpattern_settings_power_button_instantly_locks_summary">Excepte quan es manté desbloquejat per %1$s</string>
+  <string name="lockpattern_settings_require_cred_before_startup">Inici segur</string>
+  <string name="lockpattern_settings_require_password_before_startup_summary">"Sol·licita una contrasenya per iniciar el dispositiu. Quan està apagat, aquest dispositiu no pot rebre trucades, missatges, notificacions ni alarmes."</string>
+  <string name="lockpattern_settings_require_pattern_before_startup_summary">"Sol·licita un patró per iniciar el dispositiu. Quan està apagat, aquest dispositiu no pot rebre trucades, missatges, notificacions ni alarmes."</string>
+  <string name="lockpattern_settings_require_pin_before_startup_summary">"Sol·licita un PIN per iniciar el dispositiu. Quan està apagat, aquest dispositiu no pot rebre trucades, missatges, notificacions ni alarmes."</string>
   <string name="lockpattern_settings_title">Patró de desbloqueig</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts">Heu superat el límit d\'intents. Espereu-vos %d segons.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Espereu %d segons i torneu-ho a provar.</string>
@@ -2219,7 +2224,11 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="lockscreen_glogin_password_hint">Contrasenya</string>
   <string name="lockscreen_glogin_submit_button">Inici de sessió</string>
   <string name="long_press_volume_down">Mantén premut per baixar el volum</string>
-  <string name="lte_4g_settings_4gdisable_summary">S\'ha desactivat 4G</string>
+  <string name="lte_4g_settings_4gdisable_summary">S\'ha desactivat el 4G</string>
+  <string name="lte_4g_settings_4genable_summary">S\'ha activat el 4G</string>
+  <string name="lte_4g_settings_disable">Mode d\'avió o la targeta SIM no està preparada</string>
+  <string name="lte_4g_settings_title">Activa el 4G</string>
+  <string name="lte_4g_switch_prompt">El telèfon canviarà de 3G/2G a 4G, algunes tasques actives poden aturar-se</string>
   <string name="macaddr_label">Adreça MAC:</string>
   <string name="mah">%d mAh</string>
   <string name="main_running_process_description">Procés principal en ús.</string>
@@ -2239,12 +2248,16 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="manageapplications_settings_summary">Gestiona i elimina les aplicacions instal·lades</string>
   <string name="manageapplications_settings_title">Gestiona les aplicacions</string>
   <string name="managed_device_admin_title">Treball</string>
+  <string name="managed_profile_contact_search_summary">Permet que la teva organització cerqui contactes per identificar els remitents i els contactes</string>
+  <string name="managed_profile_contact_search_title">Cerca de contactes</string>
   <string name="managed_profile_location_category">Perfil professional</string>
   <string name="managed_profile_location_switch_lockdown">L\'ha desactivat l\'administrador de l\'empresa.</string>
   <string name="managed_profile_location_switch_title">Ubicació del perfil professional</string>
   <string name="managed_profile_not_available_label">El perfil professional encara no està disponible</string>
+  <string name="managed_profile_settings_title">Configuració del perfil professional</string>
   <string name="managed_user_title">Perfil professional</string>
   <string name="managing_admin">Gestionat per %s</string>
+  <string name="manual">Manual</string>
   <string name="manually_add_network">Afegeix una xarxa</string>
   <string name="master_clear_accounts">«
 
@@ -2285,6 +2298,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="max_cpu8_info">"Octa-core Max "</string>
   <string name="max_fingerprint_number_reached">"Només es permeten 5 emprentes. Per afegir-n'en una altra, primer n'heu d'esborrar una."</string>
   <string name="maximum_memory_use">Ús màxim de la memòria</string>
+  <string name="mbn_version">Versió MBN</string>
   <string name="media_button">Botó multimèdia</string>
   <string name="media_category">Multimèdia</string>
   <string name="media_feedback_enable_title">Vibra amb el ritme</string>
