@@ -3012,6 +3012,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="preferred_sms_warning_use_system">"No ho utilizis"</string>
   <string name="premium_sms_access">Accés a l\'enviament de SMS prèmium</string>
   <string name="premium_sms_none">Cap aplicació instal·lada no ha sol·licitat accés a l\'enviament de SMS prèmium</string>
+  <string name="preview_page_indicator_content_description">Previsualització, pàg %1$d de %2$d</string>
+  <string name="preview_pager_content_description">Previsualització</string>
   <string name="print_blocked_state_title_template">S\'ha bloquejat la impressora %1$s</string>
   <string name="print_cancel">Cancel·la</string>
   <string name="print_cancelling_state_title_template">S\'està cancel·lant %1$s</string>
@@ -3037,6 +3039,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="print_service_disabled">El servei s\'ha desactivat</string>
   <string name="print_settings">Impressió</string>
   <string name="print_settings_title">Serveis d\'impressió</string>
+  <string name="printer_info_desc">Més informació sobre aquesta impressora</string>
   <string name="priority_storage_app_settings">Les dades de %1$s es guardaran en</string>
   <string name="priority_storage_settings_summary">"Si no es detecta cap SD, les dades d'usuari seran guardades de forma automàtica a l'emmagatzematge intern del dispositiu"</string>
   <string name="priority_storage_summary">Trieu on es desen les dades d\'usuari</string>
@@ -3052,13 +3055,20 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="privacy_mode_enable_title">Mode convidat</string>
   <string name="privacy_notes">Notes</string>
   <string name="privacy_password">Contrasenya de privacitat</string>
+  <string name="privacy_password_bind_account">Afegeix un compte Mi</string>
+  <string name="privacy_password_bind_account_immediate">Afegeix</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Confirmeu la contrasenya del segon espai</string>
   <string name="privacy_password_confirm_use_finger">Desbloqueig amb empremta</string>
+  <string name="privacy_password_enter_privacy">Introduïu la contrasenya de privadesa</string>
   <string name="privacy_password_fingerprint_confirm_failed">"No s'ha pogut comprovar l'empremta"</string>
   <string name="privacy_password_fingerprint_confirm_succes">Comprovació correcta</string>
   <string name="privacy_password_fingerprint_dialog_error_title">"No s'ha pogut escanejar l'empremta, torneu-ho a provar"</string>
   <string name="privacy_password_fingerprint_dialog_message">Recolzeu el dit al sensor</string>
   <string name="privacy_password_fingerprint_dialog_title">Escaneja l\'empremta</string>
+  <string name="privacy_password_never_remind">"No m'ho tornis a preguntar"</string>
+  <string name="privacy_password_remind_bind_notlogin_account">Fes que el compte Mi pugui restablir la contrasenya.</string>
+  <string name="privacy_password_remind_bindaccont_message">Fes que el compte Mi (%s) pugui restablir la contrasenya.</string>
+  <string name="privacy_password_remind_bindaccount_title">Afegeix un compte Mi</string>
   <string name="privacy_password_settings">Utilitza la contrasenya de privacitat</string>
   <string name="privacy_password_settings_titles">La contrasenya de privacitat protegeix els vostres missatges, fotos, fitxers, notes i aplicacions.</string>
   <string name="privacy_password_title">Contrasenya de privacitat</string>
@@ -3097,6 +3107,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="processes_subtitle">Processos</string>
   <string name="profile_info_settings_title">Informació del perfil</string>
   <string name="profile_owner_add_title">Voleu activar un gestor de perfil?</string>
+  <string name="profile_section_header">Notificacions de la feina</string>
+  <string name="profiles_settings_title">Perfils de sistema</string>
   <string name="progress_scanning">S\'està cercant</string>
   <string name="provider_label">Subscripcions de tramesa automàtica</string>
   <string name="provision_back">Enrere</string>
@@ -3160,8 +3172,12 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="radio_info_band_mode_label">Seleccioneu la banda de ràdio</string>
   <string name="radio_info_call_redirect_label">Redirecció de trucada:</string>
   <string name="radio_info_call_status_label">Estat de la trucada:</string>
+  <string name="radio_info_cell_info_refresh_rate">Freqüència d\'actualització de la informació del mòbil:</string>
   <string name="radio_info_cellinfo_label">Informació mòbil:</string>
   <string name="radio_info_current_network_label">Xarxa actual:</string>
+  <string name="radio_info_data_connection_disable">Desactiva la connexió de dades</string>
+  <string name="radio_info_data_connection_enable">Activa la connexió de dades</string>
+  <string name="radio_info_data_network_type_label">Tipus de xarxa de dades:</string>
   <string name="radio_info_dcrtinfo_label">DcRtInfo:</string>
   <string name="radio_info_gprs_service_label">Servei GPRS:</string>
   <string name="radio_info_gsm_service_label">Servei GSM:</string>
@@ -3170,9 +3186,12 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="radio_info_message_waiting_label">Espera de missatges:</string>
   <string name="radio_info_neighboring_location_label">CID propers:</string>
   <string name="radio_info_phone_number_label">Número de telèfon:</string>
+  <string name="radio_info_ping_hostname_v4">Fes ping a IPv4 de nom d\'amfitrió (www.google.com):</string>
+  <string name="radio_info_ping_hostname_v6">Fes ping a IPv6 de nom d\'amfitrió (www.google.com):</string>
   <string name="radio_info_ppp_received_label">PPP rebuts:</string>
   <string name="radio_info_ppp_resets_label">Nombre de reinicialitzacions de PPP des de l\'inici:</string>
   <string name="radio_info_ppp_sent_label">PPP enviats:</string>
+  <string name="radio_info_radio_power">Alimentació del senyal mòbil</string>
   <string name="radio_info_roaming_label">Itinerància:</string>
   <string name="radio_info_set_perferred_label">Configura el tipus de xarxa preferida:</string>
   <string name="radio_info_signal_location_label">Ubicació:</string>
@@ -3181,6 +3200,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="radio_info_smsc_refresh_label">Actualitza</string>
   <string name="radio_info_smsc_update_label">Actualitza</string>
   <string name="radio_info_toggle_dns_check_label">Commuta la comprovació DNS</string>
+  <string name="radio_info_voice_network_type_label">Tipus de xarxa de veu:</string>
   <string name="rarely_running">S\'executa poques vegades (%s)</string>
   <string name="really_remove_account_message">Si suprimiu el compte se n\'esborraran tots els missatges, contactes i altres dades del telèfon!</string>
   <string name="really_remove_account_title">Voleu suprimir el compte?</string>
@@ -3191,8 +3211,10 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="recompute_size">S\'està tornant a calcular la mida&#8230;</string>
   <string name="record_anr_in_background">Registra l\'ANR en segon pla</string>
   <string name="regulatory_information">Informació de regulació</string>
+  <string name="remaining_length_format">Resten %1$s</string>
   <string name="remove_account_failed">L\'administrador no permet aquest canvi</string>
   <string name="remove_account_label">Suprimeix el compte</string>
+  <string name="remove_and_uninstall_device_admin">Desactiva i desinstal·la</string>
   <string name="remove_device_admin">Desactiva</string>
   <string name="remove_from_frequently_fragment">Voleu esborrar %s de la configuració ràpida?</string>
   <string name="remove_managed_profile_label">Suprimeix el perfil professional</string>
@@ -3223,11 +3245,18 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="reset_network_final_button_text">Reinicia la configuració</string>
   <string name="reset_network_final_desc">Voleu reiniciar tots els paràmetres de la xarxa? No podreu recuperar-los!</string>
   <string name="reset_network_title">Reinicia la configuració de la xarxa</string>
+  <string name="reset_second_space_passwd">Restableix la contrasenya del Segon espai</string>
+  <string name="reset_second_space_passwd_cancel">Cancel·la</string>
+  <string name="reset_second_space_passwd_confirm">Continua</string>
+  <string name="reset_second_space_passwd_detail">Introduïu la contrasenya del compte Mi del Primer espai</string>
+  <string name="reset_shortcut_manager_throttling">Restableix els comptadors de limitació de velocitat de ShortcutManager</string>
+  <string name="resetting_second_space_passwd">Restableix la contrasenya del Segon espai</string>
   <string name="resolver_settings_label">Ordena</string>
   <string name="resource_ringtone_volume_mute">S\'ha silenciat el so del telèfon</string>
   <string name="restore_default_apn">S\'està restaurant la configuració predeterminada d\'APN.</string>
   <string name="restore_default_apn_completed">S\'ha restablert la configuració predeterminada d\'APN.</string>
   <string name="restr_pin_enter_admin_pin">Introduïu el PIN d\'administrador</string>
+  <string name="restrict_background_blacklisted">Les dades en segon pla estan desactivades</string>
   <string name="restriction_bluetooth_config_summary">Permet la modificació de la vinculació i configuració per Bluetooth</string>
   <string name="restriction_bluetooth_config_title">Bluetooth</string>
   <string name="restriction_location_enable_summary">Permet que les aplicacions utilitzin la informació de la ubicació</string>
@@ -3290,6 +3319,7 @@ Aquesta configuració afecta tots els usuaris del telèfon.»</string>
   <string name="screen">Pantalla</string>
   <string name="screen_button">Botons de la pantalla</string>
   <string name="screen_button_tips">Llisca avall per amagar el botons de la pantalla</string>
+  <string name="screen_cells_config_title">Disposició de la pantalla d\'inici</string>
   <string name="screen_color_and_optimize">Colors i contrast</string>
   <string name="screen_color_and_optimize_disabled">"No es pot ajustar la temperatura del color en el mode lectura"</string>
   <string name="screen_color_temperature">Colors</string>
@@ -3353,6 +3383,8 @@ Per fer-ho:
   <string name="screen_timeout">En repòs</string>
   <string name="screen_timeout_summary">Després de %1$s d\'inactivitat</string>
   <string name="screen_timeout_title">Mode en repòs</string>
+  <string name="screen_zoom_conversation_icon_alex">A</string>
+  <string name="screen_zoom_conversation_icon_pete">P</string>
   <string name="screen_zoom_make_smaller_desc">Fes-la més petita</string>
   <string name="screen_zoom_preview_title">Previsualització</string>
   <string name="screen_zoom_short_summary">Amplia o redueix els elements de la pantalla</string>
@@ -5138,7 +5170,9 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="zen_mode_all_visual_interruptions">Apagat</string>
   <string name="zen_mode_automation_settings_title">Regles automàtiques</string>
   <string name="zen_mode_automation_suggestion_summary">Silencia en hores concretes</string>
+  <string name="zen_mode_automation_suggestion_title">Configura horari de No molesteu</string>
   <string name="zen_mode_calls">Trucades</string>
+  <string name="zen_mode_choose_rule_type">Tria el tipus de regla</string>
   <string name="zen_mode_configure_rule">Configura una regla</string>
   <string name="zen_mode_delete_rule">Suprimeix la regla</string>
   <string name="zen_mode_delete_rule_button">Suprimeix</string>
@@ -5164,6 +5198,7 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="zen_mode_important_category">Configuració</string>
   <string name="zen_mode_messages">Missatges</string>
   <string name="zen_mode_miui_silent_category">Permet</string>
+  <string name="zen_mode_no_visual_interruptions">Quan la pantalla està activada o desactivada</string>
   <string name="zen_mode_option_alarms">Només les alarmes</string>
   <string name="zen_mode_option_important_interruptions">Només amb prioritat</string>
   <string name="zen_mode_option_miui_silent">Mode silenci</string>
@@ -5178,6 +5213,7 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="zen_mode_rule_name_hint">Introdueix el nom de la regla</string>
   <string name="zen_mode_rule_name_warning">El nom de la regla ja s\'utilitza</string>
   <string name="zen_mode_rule_not_found_text">No s\'ha trobat la regla.</string>
+  <string name="zen_mode_rule_summary_enabled_combination">Engegat / %1$s</string>
   <string name="zen_mode_rule_summary_provider_combination">"%1$s
 %2$s"</string>
   <string name="zen_mode_rule_type">Tipus de regla</string>
