@@ -3605,9 +3605,18 @@ Per fer-ho:
   <string name="setup_fingerprint_enroll_finish_message">Toca el sensor d\'empremtes per activar i desbloquejar el dispositiu.</string>
   <string name="setup_fingerprint_enroll_finish_message_secondary">Quan vegeu aquesta icona, podeu fer servir l\'empremta.</string>
   <string name="setup_fingerprint_enroll_finish_secondary_message">Per canviar la vostra configuració, aneu a Configuració &gt; Seguretat &gt; Empremta digital.</string>
+  <string name="setup_lock_settings_picker_fingerprint_message">Fer servir l\'empremta pot ser menys segur que utilitzar un patró, un PIN o una contrasenya segurs. Per a més seguretat configureu un bloqueig de pantalla alternatiu.</string>
+  <string name="setup_lock_settings_picker_message">Activa les funcions de protecció del dispositiu per impedir que altres persones utilitzin el telèfon sense permís. Trieu el bloqueig de pantalla que vulgueu utilitzar.</string>
+  <string name="setup_lock_settings_picker_title">Protecció del telèfon</string>
   <string name="setup_wifi_nfc_tag">Configura l\'etiqueta de NFC per a Wi-Fi</string>
   <string name="severe_threats_summary">Rep alertes d\'amenaces extremes per a la vida i la propietat</string>
   <string name="severe_threats_title">Amenaces importants</string>
+  <string name="share_remote_bugreport_action">Compartició</string>
+  <string name="share_remote_bugreport_dialog_message">L\'administrador de TI ha sol·licitat un informe d\'errors per resoldre els problemes del dispositiu. És possible que es comparteixin aplicacions, dades i que el dispositiu funcioni més a poc a poc durant una estona.</string>
+  <string name="share_remote_bugreport_dialog_message_finished">L\'administrador de TI ha sol·licitat un informe d\'errors per resoldre els problemes del dispositiu. És possible que es comparteixin aplicacions i dades.</string>
+  <string name="share_remote_bugreport_dialog_title">Voleu compartir l\'informe d\'errors?</string>
+  <string name="sharing_remote_bugreport_dialog_message">L\'informe d\'errors s\'està compartint amb l\'administrador de TI. Contacteu-hi per obtenir-ne més informació.</string>
+  <string name="short_summary_font_size">Amplia o redueix el text</string>
   <string name="show_all_anrs">Mostra totes ANRs</string>
   <string name="show_all_anrs_summary">Mostra el quadre d\'aplicacions que no responen en segon pla</string>
   <string name="show_background_processes">Mostra els processos en memòria cau</string>
@@ -3623,6 +3632,8 @@ Per fer-ho:
   <string name="show_hw_layers_updates_summary">Quan s\'actualitza il·lumina les capes de maquinari en verd</string>
   <string name="show_hw_screen_updates">Mostra les actualitzacions de visualització de la GPU</string>
   <string name="show_hw_screen_updates_summary">Quan es dibuixin amb la GPU, il·lumina les vistes de dins de les finestres</string>
+  <string name="show_ime">Mostra el teclat virtual</string>
+  <string name="show_ime_summary">El deixa a la pantalla mentre el teclat físic està actiu</string>
   <string name="show_magnifier_when_input">Lupa</string>
   <string name="show_non_rect_clip">Depura les operacions de retall no rectangulars</string>
   <string name="show_owner_info_on_lockscreen_label">Mostra informació del propietari a la pantalla de bloqueig</string>
@@ -3632,6 +3643,8 @@ Per fer-ho:
   <string name="show_running_services">Mostra les tasques en execució</string>
   <string name="show_screen_updates">Mostra les actualitzacions de superfície</string>
   <string name="show_screen_updates_summary">Quan s\'actualitzin il·lumina totes les superfícies de les finestres</string>
+  <string name="show_silently">Mostra de manera silenciosa</string>
+  <string name="show_silently_summary">"No reprodueix cap so, no vibra ni mostra aquestes notificacions a la pantalla actual."</string>
   <string name="show_touches">Mostra els tocs</string>
   <string name="show_touches_summary">Mostra la ubicació dels tocs a la pantalla</string>
   <string name="show_user_info_on_lockscreen_label">Mostra informació del propietari a la pantalla de bloqueig</string>
@@ -3712,6 +3725,7 @@ Per fer-ho:
   <string name="size_peta_byte">PB</string>
   <string name="size_suffix">%1$s%2$s</string>
   <string name="size_tera_byte">TB</string>
+  <string name="skip_anyway_button_label">Omet de totes maneres</string>
   <string name="skip_label">Omet</string>
   <string name="skip_lock_screen_confirm_msg">Es desactivaran les següents funcions a la pantalla de bloqueig: notificacions, controls del reproductor de música, càmera i accés a Mi Home.</string>
   <string name="skip_step">Omet</string>
@@ -3741,7 +3755,11 @@ Per fer-ho:
   <string name="sound_category_system_title">Sistema</string>
   <string name="sound_effects_enable_title">Sons en tocar</string>
   <string name="sound_settings">So</string>
+  <string name="sound_settings_example_summary">Volum del timbre al 80%</string>
+  <string name="sound_settings_summary">Volum del timbre al %1$s</string>
   <string name="sound_vibrate_settings">So i vibració</string>
+  <string name="special_access">Accés especial</string>
+  <string name="spell_checker_not_selected">No s\'ha seleccionat</string>
   <string name="spellchecker_language">Idioma</string>
   <string name="spellchecker_quick_settings">Configuració</string>
   <string name="spellchecker_security_warning">Aquest corrector ortogràfic pot accedir a tot el que teclegeu, incloses dades personals, contrasenyes i targetes de crèdit. Prové de l\'aplicació %1$s. Voleu fer-lo servir?</string>
@@ -3762,6 +3780,7 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="status_bar_app_enable_keyguard">Pantalla de bloqueig</string>
   <string name="status_bar_app_enable_message">Insígnies</string>
   <string name="status_bar_key_position_custom">Posició de tecla personalitzada</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_bar_screen_button_desc">Llisca avall per amagar el botons de la pantalla</string>
   <string name="status_bar_screen_button_key">Tecles virtuals en pantalla</string>
   <string name="status_bar_screen_button_key_can_hide">Els botons de la pantalla es poden amagar</string>
@@ -3807,6 +3826,7 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="status_data_state">Estat de la xarxa mòbil</string>
   <string name="status_failed_to_write">No es poden escriure dades a l\'etiqueta NFC. Si el problema continua, proveu-ho amb una altra etiqueta</string>
   <string name="status_icc_id">ICCID</string>
+  <string name="status_iccid">ICCID</string>
   <string name="status_imei">IMEI</string>
   <string name="status_imei_sv">IMEI SV</string>
   <string name="status_invalid_password">La contrasenya no és vàlida. Torneu-ho a provar.</string>
@@ -3884,6 +3904,7 @@ Totes les aplicacions que hi hagi a ^1 es desinstal·laran i se n\'esborraran le
   <string name="storage_label">Emmagatzematge</string>
   <string name="storage_low_summary">És possible que algunes funcions del sistema, com ara la sincronització, no funcionin bé. Proveu d\'alliberar espai: suprimeix o desfixa elements, com ara aplicacions o contingut multimèdia.</string>
   <string name="storage_low_title">L\'espai d\'emmagatzematge s\'està esgotant</string>
+  <string name="storage_menu_cleanup">Neteja de l\'emmagatzematge</string>
   <string name="storage_menu_explore">Explora</string>
   <string name="storage_menu_forget">Oblida</string>
   <string name="storage_menu_format">Formata</string>
@@ -3902,6 +3923,7 @@ Totes les aplicacions que hi hagi a ^1 es desinstal·laran i se n\'esborraran le
   <string name="storage_settings_summary">Desmunta l\'emmagatzematge USB, visualitza l\'emmagatzematge disponible</string>
   <string name="storage_settings_title">Configuració d\'emmagatzematge</string>
   <string name="storage_size_large">^1&lt;petit&gt;&lt;petit&gt; ^2&lt;/petit&gt;&lt;/petit&gt;</string>
+  <string name="storage_summary">S\'ha utilitzat el %1$s de %2$s</string>
   <string name="storage_summary_format">%1$s utilitzats de %2$s</string>
   <string name="storage_title_usb">Connexió USB a l\'ordinador</string>
   <string name="storage_type_external">Emmagatzematge extern</string>
@@ -3969,7 +3991,13 @@ Per a un millor rendiment, us recomanem que utilitzeu un ^1 més ràpid."</strin
   <string name="storageuse_settings_title">Ús de l\'emmagatzematge</string>
   <string name="strict_mode">S\'ha activat el mode estricte</string>
   <string name="strict_mode_summary">Il·lumina la pantalla si les aplicacions fan tasques llargues en el procés principal</string>
+  <string name="suggested_fingerprint_lock_settings_summary">Desbloqueig amb empremta</string>
+  <string name="suggested_lock_settings_summary">Protegeix el dispositiu</string>
+  <string name="suggested_lock_settings_title">Bloqueig de pantalla</string>
   <string name="suggestion_additional_fingerprints">Afegeix una altra empremta digital</string>
+  <string name="suggestion_additional_fingerprints_summary">Desbloqueja amb una altra empremta</string>
+  <string name="suggestion_remove">Treu</string>
+  <string name="suggestions_title">Suggeriments (%1$d)</string>
   <string name="sum_carrier_select">Trieu un operador de xarxa</string>
   <string name="summary_divider_text">", "</string>
   <string name="summary_font_size">%1$s</string>
@@ -4017,6 +4045,7 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="system_alert_window_settings">Mostra a sobre d\'altres aplicacions</string>
   <string name="system_alert_window_summary" formatted="false">%d de %d aplicacions es poden mostrar a sobre d\'altres aplicacions</string>
   <string name="system_and_device_section_title">Sistema i dispositiu</string>
+  <string name="system_app">(Sistema)</string>
   <string name="system_app_settings">Aplicacions del sistema</string>
   <string name="system_backup_section_title">Còpia de seguretat</string>
   <string name="system_package">Les actualitzacions del sistema no es poden instal·lar en suports externs.</string>
