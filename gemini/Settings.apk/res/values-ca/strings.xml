@@ -3385,6 +3385,16 @@ Per fer-ho:
   <string name="screen_timeout_title">Mode en repòs</string>
   <string name="screen_zoom_conversation_icon_alex">A</string>
   <string name="screen_zoom_conversation_icon_pete">P</string>
+  <string name="screen_zoom_conversation_message_1">Ei, Pau!</string>
+  <string name="screen_zoom_conversation_message_2">Vols anar a fer el toc i parlem?</string>
+  <string name="screen_zoom_conversation_message_3">I tant, ja sé on podem anar.</string>
+  <string name="screen_zoom_conversation_message_4">Som-hi doncs.</string>
+  <string name="screen_zoom_conversation_timestamp_1">Dimarts a les 18:00</string>
+  <string name="screen_zoom_conversation_timestamp_2">Dimarts a les 18:01</string>
+  <string name="screen_zoom_conversation_timestamp_3">Dimarts a les 18:02</string>
+  <string name="screen_zoom_conversation_timestamp_4">Dimarts a les 18:03</string>
+  <string name="screen_zoom_keywords">densitat de pantalla, zoom de pantalla, escala, mida</string>
+  <string name="screen_zoom_make_larger_desc">Fes-la més grossa</string>
   <string name="screen_zoom_make_smaller_desc">Fes-la més petita</string>
   <string name="screen_zoom_preview_title">Previsualització</string>
   <string name="screen_zoom_short_summary">Amplia o redueix els elements de la pantalla</string>
@@ -5068,6 +5078,7 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="wifi_tether_configure_subtext">Punt d\'accés portàtil %1$s %2$s</string>
   <string name="wifi_tether_enabled_subtext">S\'ha activat el punt d\'accés Wi-Fi portàtil %1$s</string>
   <string name="wifi_tether_failed_subtext">Error del punt d\'accés Wi-Fi portàtil</string>
+  <string name="wifi_tether_first_use_message">Configura el punt d\'accés Wi-Fi al primer ús</string>
   <string name="wifi_tether_setting_title">Configuració</string>
   <string name="wifi_tether_settings_title">Punt d\'accés personal</string>
   <string name="wifi_tether_starting">S\'està engegant el punt d\'accés&#8230;</string>
@@ -5077,6 +5088,7 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="wifi_unchanged">(sense canvis)</string>
   <string name="wifi_unspecified">(sense especificar)</string>
   <string name="wifi_update">Actualitza les estadístiques</string>
+  <string name="wifi_use_system_certs">Utilitza certificats del sistema</string>
   <string name="wifi_verbose_logging">Activa el registre Wi‑Fi detallat</string>
   <string name="wifi_verbose_logging_summary">Augmenta nivell de registre Wi‑Fi i mostra\'l per SSID RSSI al Selector de Wi‑Fi</string>
   <string name="wifi_wapi_as_cert">Certificat AS</string>
@@ -5115,6 +5127,10 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="wifi_wps_overlap_error">S\'ha detectat una altra sessió Wi-Fi. Torneu-ho a provar d\'aquí a una estona.</string>
   <string name="wifi_wps_setup_msg">S\'esta engegant WPS&#8230;</string>
   <string name="wifi_wps_setup_title">Configuració de Wi-Fi protegida</string>
+  <string name="wifiap_configure_ap_text">Configura Wi-Fi wifiap</string>
+  <string name="wifiap_configure_subtext">%1$s%2$s Wi-Fi wifiap portable</string>
+  <string name="wifiap_settings_desc">Wi-Fi wifiap pot compartir la connexió de dades d\'internet mitjantçant la Wi-Fi amb altres dispositius com ara PC o dispositius mòbils.</string>
+  <string name="wifiap_settings_indication">Quan la Wi-Fi wifiap s\'ha activat, els altres dispositius podran connectar-se a internet seguint aquests passos:</string>
   <string name="wifiap_title">Punt d\'accés Wi-Fi</string>
   <string name="wifiap_turn_on_hint">Per utilitzar Wi-Fi wifiap, engegeu-lo.</string>
   <string name="wimax_settings">4G</string>
