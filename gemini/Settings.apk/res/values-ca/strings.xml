@@ -4353,6 +4353,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="unlock_disable_frp_warning_content_pattern_fingerprint">«Les funcions de protecció del dispositiu no funcionaran sense el patró.
 
 Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloquejar el telèfon, autoritzar compres o iniciar la sessió a les aplicacions.»</string>
+  <string name="unlock_disable_frp_warning_content_pattern_profile">Les funcions de protecció del perfil no funcionen sense patró.</string>
   <string name="unlock_disable_frp_warning_content_pin">\"Les funcions de protecció del dispositiu no funcionaran sense el PIN.</string>
   <string name="unlock_disable_frp_warning_content_pin_fingerprint">«Les funcions de protecció del dispositiu no funcionaran sense el PIN.
 
@@ -4363,6 +4364,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
 Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloquejar el telèfon, autoritzar compres o iniciar la sessió a les aplicacions.»</string>
   <string name="unlock_disable_frp_warning_ok">Sí, suprimeix-la</string>
   <string name="unlock_disable_frp_warning_title">Voleu suprimir la protecció del dispositiu?</string>
+  <string name="unlock_disable_frp_warning_title_profile">Voleu suprimir la protecció del perfil?</string>
   <string name="unlock_disable_lock_pin_summary">Desactiva el PIN</string>
   <string name="unlock_disable_lock_title">Desactiva la pantalla de bloqueig</string>
   <string name="unlock_set_do_later_title">Ara no</string>
@@ -4482,6 +4484,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="user_account_title">Compte per al contingut</string>
   <string name="user_add_max_count">Podeu afegir fins a %1$d usaris</string>
   <string name="user_add_on_lockscreen_menu">Afegeix usuaris quan el dispositiu és bloquejat</string>
+  <string name="user_add_on_lockscreen_menu_summary">amb el dispositiu bloquejat</string>
   <string name="user_add_profile_item_summary">Des del compte podeu restringir l\'accés a aplicacions i continguts</string>
   <string name="user_add_profile_item_title">Perfil amb restriccions</string>
   <string name="user_add_user_item_summary">Els usuaris tenen les seves aplicacions i el seu contingut</string>
@@ -4499,12 +4502,14 @@ Qualsevol usuari pot acceptar una actualització de permisos d\'una aplicació e
   <string name="user_add_user_title">Voleu afegir un altre usuari?</string>
   <string name="user_add_user_type_title">Afegeix</string>
   <string name="user_adding_new_user">S\'està afegint un altre usuari&#8230;</string>
+  <string name="user_admin">Administrador</string>
   <string name="user_cannot_add_accounts_message">Els perfils restringits no poden afegir comptes</string>
   <string name="user_cannot_manage_message">Només el propietari del telèfon en pot gestionar els usuaris.</string>
   <string name="user_confirm_remove_message">Se suprimiran totes les dades i totes les aplicacions.</string>
   <string name="user_confirm_remove_self_message">Perdreu l\'espai i les dades del telèfon. No podreu recuperar-lo.</string>
   <string name="user_confirm_remove_self_title">Voleu suprimir el vostre compte?</string>
   <string name="user_confirm_remove_title">Voleu suprimir l\'usuari?</string>
+  <string name="user_credential_title">Detalls de les credencials</string>
   <string name="user_credentials">Credencials d\'usuari</string>
   <string name="user_credentials_summary">Mostra i modifica les credencials emmagatzemades</string>
   <string name="user_delete_button">Esborra</string>
@@ -4714,6 +4719,8 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="vpn_type">Tipus</string>
   <string name="vpn_username">Nom d\'usuari</string>
   <string name="vpn_version">Versió %s</string>
+  <string name="vr_listener_security_warning_title">Voleu permetre a %1$s l\'accés al servei de realitat virtual?</string>
+  <string name="vr_listeners_title">Serveis d\'ajuda per a la realitat virtual</string>
   <string name="wait_for_debugger">Espereu el depurador</string>
   <string name="wait_for_debugger_summary">Abans d\'executar-se, l\'aplicació de depuració espera que es connecti el depurador</string>
   <string name="wakeup_for_keyguard_notification_title">Activa la pantalla en rebre notificacions</string>
@@ -4725,6 +4732,8 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wallpaper_lockscreen">Bloqueja la pantalla</string>
   <string name="wallpaper_settings_fragment_title">Selecciona fons de pantalla des de</string>
   <string name="wallpaper_settings_title">Fons de pantalla</string>
+  <string name="wallpaper_suggestion_summary">Personalitza la pantalla</string>
+  <string name="wallpaper_suggestion_title">Canvia el fons de pantalla</string>
   <string name="webview_license_title">Llicència de WebView del sistema</string>
   <string name="welcome">Benvinguts</string>
   <string name="wfd_available_devices">Dispositius disponibles</string>
@@ -4744,10 +4753,12 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="whetstone_level_reboot_OK">Reinicia</string>
   <string name="whetstone_level_title">Optimització de memòria del sistema</string>
   <string name="widget_picker_title">Selecció d\'un giny</string>
+  <string name="wifi">Wi-Fi</string>
   <string name="wifi_access_points">Xarxes Wi-Fi</string>
   <string name="wifi_add_network">Afegeix una xarxa</string>
   <string name="wifi_advanced_ip_address_title">Adreça IP</string>
   <string name="wifi_advanced_mac_address_title">Adreça MAC</string>
+  <string name="wifi_advanced_not_available">La configuració avançada de la Wi‑Fi no està disponible per a aquest usuari</string>
   <string name="wifi_advanced_settings_label">Configuració IP</string>
   <string name="wifi_advanced_titlebar">Configuració avançada de Wi-Fi</string>
   <string name="wifi_aggressive_handover">Transferència forçada des de Wi-Fi a mòbil</string>
@@ -4765,10 +4776,15 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_ap_choose_2G">Banda de 2,4 GHz</string>
   <string name="wifi_ap_choose_5G">Banda de 5 GHz</string>
   <string name="wifi_api_test">API de Wi-Fi</string>
+  <string name="wifi_assistant_intro_setup">"Presentació de l\'assistent Wi-Fi"</string>
+  <string name="wifi_assistant_setting_summary">Assistent Wi-Fi de Google</string>
+  <string name="wifi_assistant_setting_title">Assistent Wi-Fi</string>
   <string name="wifi_assistant_title">Assistent de Wi‑Fi</string>
   <string name="wifi_auto_connect">Connexió automàtica</string>
+  <string name="wifi_auto_connect_type_title">Connexió automàtica</string>
   <string name="wifi_automatically_connect_summary">Permet que un assistent de Wi-Fi es connecti automàticament a les xarxes obertes considerades de bona qualitat</string>
   <string name="wifi_automatically_connect_title">Utilització automàticament de xarxes Wi-Fi obertes</string>
+  <string name="wifi_automatically_manage_title">Administració automàtica del Wi-Fi</string>
   <string name="wifi_available_title">Connexió amb Wi-Fi</string>
   <string name="wifi_avoid_poor_network_detection_summary">Utilitza només les xarxes amb una bona connexió a Internet</string>
   <string name="wifi_band_24ghz">2.4 GHz</string>
@@ -4797,6 +4813,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_context_menu_change_wapi_certificate">Canvia el certificat WAPI</string>
   <string name="wifi_context_menu_connect">Connecta</string>
   <string name="wifi_context_menu_forget">Oblida-la</string>
+  <string name="wifi_data_template">%1$s dades Wi-Fi</string>
   <string name="wifi_data_usage">Ús de dades Wi-Fi</string>
   <string name="wifi_datanetwork_switch_not_remind">"No ho tornis a mostrar"</string>
   <string name="wifi_dialog_remind_type_title">Xarxa de dades mòbils</string>
@@ -4835,6 +4852,9 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_dns1_hint">8.8.8.8</string>
   <string name="wifi_dns2">DNS 2</string>
   <string name="wifi_dns2_hint">8.8.4.4</string>
+  <string name="wifi_do_not_provide_eap_user_cert">No proporcionis un certificat d\'usuari</string>
+  <string name="wifi_do_not_validate_eap_server">No validis el servidor d\'EAP</string>
+  <string name="wifi_do_not_validate_eap_server_warning">No s\'ha especificat cap certificat. La connexió no serà privada.</string>
   <string name="wifi_dont_skip">No ho ometis</string>
   <string name="wifi_eap_anonymous">Identitat anònima</string>
   <string name="wifi_eap_ca_cert">Certificat de CA</string>
@@ -4849,6 +4869,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_enable">Wi-Fi</string>
   <string name="wifi_enable_data_and_wifi_roam">Canvia entre dades i Wi-Fi</string>
   <string name="wifi_enable_data_and_wifi_roam_summary">Si la connexió Wi-Fi no és gaire bona, manté les dades i el Wi-Fi activats.</string>
+  <string name="wifi_enable_hs2_title">Passpoint activat</string>
   <string name="wifi_enable_watchdog_service_summary">Només connexions estables</string>
   <string name="wifi_error">Error</string>
   <string name="wifi_fail_to_scan">"No es poden cercar xarxes"</string>
@@ -4975,7 +4996,10 @@ Voleu permetre-ho per a totes les aplicacions que vulguin cercar xarxes?»</stri
   <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
   <string name="wifi_select_assistant_dialog_title">Selecció de l\'assistent</string>
   <string name="wifi_select_network">Tria una xarxa Wi-Fi</string>
+  <string name="wifi_set_priority_settings_summary">Configura la prioritat per a cada punt d\'accés</string>
+  <string name="wifi_set_priority_settings_title">Configuració de la prioritat als punt d\'accés</string>
   <string name="wifi_setting_category">Xarxes disponibles</string>
+  <string name="wifi_setting_connect_type_error">Hi ha hagut un problema en establir el tipus de connexió.</string>
   <string name="wifi_setting_frequency_band_title">Banda de freqüència Wi-Fi</string>
   <string name="wifi_setting_on_during_sleep_title">Wi‑Fi activa en repòs</string>
   <string name="wifi_setting_sleep_policy_error">S\'ha produït un problema en canviar la configuració</string>
@@ -5046,6 +5070,7 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="wifi_share_upload">Comparteix</string>
   <string name="wifi_share_upload_finish">S\'han compartit</string>
   <string name="wifi_share_uploading">S\'està compartint&#8230;</string>
+  <string name="wifi_shared">Comparteix amb altres usuaris del dispositiu</string>
   <string name="wifi_show_advanced">Opcions avançades</string>
   <string name="wifi_show_password">Mostra la contrasenya</string>
   <string name="wifi_signal">Intensitat del senyal</string>
@@ -5131,6 +5156,8 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="wifiap_configure_subtext">%1$s%2$s Wi-Fi wifiap portable</string>
   <string name="wifiap_settings_desc">Wi-Fi wifiap pot compartir la connexió de dades d\'internet mitjantçant la Wi-Fi amb altres dispositius com ara PC o dispositius mòbils.</string>
   <string name="wifiap_settings_indication">Quan la Wi-Fi wifiap s\'ha activat, els altres dispositius podran connectar-se a internet seguint aquests passos:</string>
+  <string name="wifiap_settings_indication_step1">1. Activant la Wi-Fi del propi dispositiu mòbil o PC.</string>
+  <string name="wifiap_settings_indication_step2">2. Cercant \"%s\" a la llista de xarxes Wi-Fi.</string>
   <string name="wifiap_title">Punt d\'accés Wi-Fi</string>
   <string name="wifiap_turn_on_hint">Per utilitzar Wi-Fi wifiap, engegeu-lo.</string>
   <string name="wimax_settings">4G</string>
