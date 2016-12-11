@@ -1675,7 +1675,7 @@ Un d’aquests transeünts que hi corren de seguida va provar d’assistir-lo, i
 Però ja no obtingué resposta, perquè el malalt greu acabava de morir d’una altra cosa."</string>
   <string name="font_size_preview_text_headline">Text de mostra</string>
   <string name="font_size_preview_text_subtitle">Conte d\'en Pere Calders: Prescripció facultativa</string>
-  <string name="font_size_preview_text_title">El meravellós màgic d\'Oz</string>
+  <string name="font_size_preview_text_title">Prescripció facultativa (Pere Calders)</string>
   <string name="font_size_save">D\'acord</string>
   <string name="font_size_small">Molt petita</string>
   <string name="font_size_summary">«Canvia la mida de la lletra del sistema operatiu
@@ -2219,6 +2219,7 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="lockscreen_glogin_password_hint">Contrasenya</string>
   <string name="lockscreen_glogin_submit_button">Inici de sessió</string>
   <string name="long_press_volume_down">Mantén premut per baixar el volum</string>
+  <string name="lte_4g_settings_4gdisable_summary">S\'ha desactivat 4G</string>
   <string name="macaddr_label">Adreça MAC:</string>
   <string name="mah">%d mAh</string>
   <string name="main_running_process_description">Procés principal en ús.</string>
@@ -2967,6 +2968,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="preferred_sms_title">Aplicació predeterminada de missatgeria</string>
   <string name="preferred_sms_warning_message">Usant \"%1$s\" com a aplicació predeterminada de missatgeria pot incrementar el consum de dades i comprometre les dades privades.</string>
   <string name="preferred_sms_warning_use_system">"No ho utilizis"</string>
+  <string name="premium_sms_access">Accés a l\'enviament de SMS prèmium</string>
+  <string name="premium_sms_none">Cap aplicació instal·lada no ha sol·licitat accés a l\'enviament de SMS prèmium</string>
   <string name="print_blocked_state_title_template">S\'ha bloquejat la impressora %1$s</string>
   <string name="print_cancel">Cancel·la</string>
   <string name="print_cancelling_state_title_template">S\'està cancel·lant %1$s</string>
@@ -5068,13 +5071,21 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="zen_mode_rule_name_hint">Introdueix el nom de la regla</string>
   <string name="zen_mode_rule_name_warning">El nom de la regla ja s\'utilitza</string>
   <string name="zen_mode_rule_not_found_text">No s\'ha trobat la regla.</string>
+  <string name="zen_mode_rule_summary_provider_combination">"%1$s
+%2$s"</string>
   <string name="zen_mode_rule_type">Tipus de regla</string>
   <string name="zen_mode_rule_type_unknown">Desconeguda</string>
+  <string name="zen_mode_schedule_alarm_summary">Atura quan s\'acabi o quan soni la propera alarma, el que passi primer</string>
+  <string name="zen_mode_schedule_alarm_title">L\'alarma pot substituir l\'hora de finalització</string>
   <string name="zen_mode_schedule_rule_days">Dies</string>
   <string name="zen_mode_schedule_rule_days_all">Cada dia</string>
   <string name="zen_mode_schedule_rule_days_none">Cap</string>
+  <string name="zen_mode_screen_off">Bloqueja quan la pantalla està desactivada</string>
+  <string name="zen_mode_screen_off_summary">Evita que les notificacions silenciades pel mode No molesteu activin la pantalla o el llum de notificació</string>
+  <string name="zen_mode_screen_off_summary_no_led">Evita que les notificacions silenciades pel mode No molesteu activin la pantalla</string>
   <string name="zen_mode_screen_off_visual_interruptions">Quan la pantalla està desactivada</string>
   <string name="zen_mode_screen_on">Bloqueja quan la pantalla està activada</string>
+  <string name="zen_mode_screen_on_summary">Evita que les notificacions silenciades pel mode No molesteu apareguin a la pantalla</string>
   <string name="zen_mode_screen_on_visual_interruptions">Quan la pantalla està activada</string>
   <string name="zen_mode_selected_callers">Contactes seleccionats</string>
   <string name="zen_mode_selected_messages">Missatges seleccionats</string>
