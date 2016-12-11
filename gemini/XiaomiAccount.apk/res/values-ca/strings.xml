@@ -95,7 +95,7 @@
   <string name="delete_device">Esborra dispositiu</string>
   <string name="delete_device_btn">Elimina</string>
   <string name="delete_device_failed">"No es pot treure el dispositiu"</string>
-  <string name="delete_device_notice">"Després de treure el dispositiu, es donarà de baixa del vostre compte Mi automàticament. Ja no podreu utilitzar aquest dispositiu para accedir a las fotos, missatges o qualsevol altre contingut desat al vostre compte."</string>
+  <string name="delete_device_notice">"Després de treure el dispositiu, es donarà de baixa del vostre compte Mi automàticament. Ja no podreu utilitzar aquest dispositiu per accedir a les fotos, missatges o qualsevol altre contingut desat al vostre compte."</string>
   <string name="delete_lock_device_success">S\'ha eliminat correctament</string>
   <string name="device_delete_success_message">"Si no heu obert una sessió des d'aquest dispositiu, canvieu la contrasenya immediatament."</string>
   <string name="device_delete_success_title">Sessió tancada</string>
