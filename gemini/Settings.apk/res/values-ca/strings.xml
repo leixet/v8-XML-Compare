@@ -2183,6 +2183,12 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="lockpassword_pin_set_toast">S\'ha definit el PIN</string>
   <string name="lockpassword_pin_too_long">El PIN ha de tenir menys de %d números</string>
   <string name="lockpassword_pin_too_short">El PIN ha de tenir com a mínim %d números</string>
+  <string name="lockpassword_strong_auth_required_reason_restart_device_password">Per continuar introduïu la contrasenya del dispositiu. Aquest pas és necessari després del reinici.</string>
+  <string name="lockpassword_strong_auth_required_reason_restart_device_pattern">Per continuar introduïu el patró del dispositiu. Aquest pas és necessari després del reinici.</string>
+  <string name="lockpassword_strong_auth_required_reason_restart_device_pin">Per continuar introduïu el PIN del dispositiu. Aquest pas és necessari després del reinici.</string>
+  <string name="lockpassword_strong_auth_required_reason_restart_work_password">Per continuar introduïu la contrasenya de la feina. Aquest pas és necessari després del reinici.</string>
+  <string name="lockpassword_strong_auth_required_reason_restart_work_pattern">Per continuar introduïu el patró de la feina. Aquest pas és necessari després del reinici.</string>
+  <string name="lockpassword_strong_auth_required_reason_restart_work_pin">Per continuar introduïu el PIN de la feina. Aquest pas és necessari després del reinici.</string>
   <string name="lockpattern_change_lock_pattern_label">Canvia el patró de desbloqueig</string>
   <string name="lockpattern_change_lock_pin_label">Canvia el PIN</string>
   <string name="lockpattern_confirm_button_text">Confirma</string>
@@ -2223,6 +2229,7 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="lockscreen_glogin_checking_password">S\'està comprovant&#8230;</string>
   <string name="lockscreen_glogin_password_hint">Contrasenya</string>
   <string name="lockscreen_glogin_submit_button">Inici de sessió</string>
+  <string name="lockscreen_remote_input">Si el dispositiu està bloquejat, impedeix que s\'escriguin respostes o altres textos a les notificacions</string>
   <string name="long_press_volume_down">Mantén premut per baixar el volum</string>
   <string name="lte_4g_settings_4gdisable_summary">S\'ha desactivat el 4G</string>
   <string name="lte_4g_settings_4genable_summary">S\'ha activat el 4G</string>
@@ -3012,6 +3019,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="preferred_sms_warning_use_system">"No ho utilizis"</string>
   <string name="premium_sms_access">Accés a l\'enviament de SMS prèmium</string>
   <string name="premium_sms_none">Cap aplicació instal·lada no ha sol·licitat accés a l\'enviament de SMS prèmium</string>
+  <string name="premium_sms_warning">Els SMS prèmium poden costar diners i aquest import s\'afegirà a la facturació de l\'operador de telefonia mòbil. Si activeu el permís en una aplicació, podreu enviar SMS prèmium utilitzant-la.</string>
   <string name="preview_page_indicator_content_description">Previsualització, pàg %1$d de %2$d</string>
   <string name="preview_pager_content_description">Previsualització</string>
   <string name="print_blocked_state_title_template">S\'ha bloquejat la impressora %1$s</string>
@@ -4349,8 +4357,15 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="unlock_disable_frp_warning_content_password_fingerprint">"Les funcions de protecció del dispositiu no funcionaran sense la contrasenya.
 
 Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloquejar el telèfon, autoritzar compres o iniciar la sessió a les aplicacions."</string>
+  <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">"Les funcions de protecció del dispositiu no funcionaran sense la contrasenya.
+
+Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloquejar el telèfon, autoritzar compres o iniciar la sessió a les aplicacions."</string>
+  <string name="unlock_disable_frp_warning_content_password_profile">Les funcions de protecció del perfil no funcionen sense contrasenya.</string>
   <string name="unlock_disable_frp_warning_content_pattern">\"Les funcions de protecció del dispositiu no funcionaran sense el patró.</string>
   <string name="unlock_disable_frp_warning_content_pattern_fingerprint">«Les funcions de protecció del dispositiu no funcionaran sense el patró.
+
+Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloquejar el telèfon, autoritzar compres o iniciar la sessió a les aplicacions.»</string>
+  <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">«Les funcions de protecció del dispositiu no funcionaran sense el patró.
 
 Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloquejar el telèfon, autoritzar compres o iniciar la sessió a les aplicacions.»</string>
   <string name="unlock_disable_frp_warning_content_pattern_profile">Les funcions de protecció del perfil no funcionen sense patró.</string>
