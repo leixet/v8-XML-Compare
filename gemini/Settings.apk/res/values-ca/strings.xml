@@ -1012,6 +1012,10 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="condition_expand_show">Mostra</string>
   <string name="condition_hotspot_summary">S\'ha activat el punt d\'accés Wi-Fi %1$s. S\'ha desactivat la Wi-Fi del dispositiu.</string>
   <string name="condition_hotspot_title">Punt d\'accés activat</string>
+  <string name="condition_turn_off">Apaga</string>
+  <string name="condition_turn_on">Engega</string>
+  <string name="condition_work_summary">Les aplicacions, la sincronització en segon pla i altres funcions relacionades amb el perfil professional estan desactivades.</string>
+  <string name="condition_work_title">Perfil professional desactivat</string>
   <string name="condition_zen_title">S\'ha activat el mode No molesteu (%1$s)</string>
   <string name="config_charging_function_name">s\'està carregant</string>
   <string name="config_list_label">Xarxes configurades</string>
@@ -1642,10 +1646,35 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="font_size_exhuge">Extra grossa</string>
   <string name="font_size_huge">Molt grossa</string>
   <string name="font_size_large">Grossa</string>
+  <string name="font_size_make_larger_desc">Fes-la més grossa</string>
+  <string name="font_size_make_smaller_desc">Fes-la més petita</string>
   <string name="font_size_medium">Mitjana</string>
   <string name="font_size_normal">Petita</string>
   <string name="font_size_preview">MIUI</string>
   <string name="font_size_preview_text">Aquest senyor vol una cervesa i uns kiwis.</string>
+  <string name="font_size_preview_text_body">"El metge va ésser taxatiu. Cal que sigui així, no podem pas criticar aquests professionals, perquè quan es mostren severs ho fan pel nostre bé.
+
+Va dir-li:
+
+—Des d’ara mateix, un canvi total de règim. Oblidi’s de les coses que li agraden i comenci a acostumar-se a aquelles altres que li desplauen. Si em creu a mi, encara podrà viure una colla d’anys.
+
+Sortí del consultori amb l’ànima als peus, perquè acomiadar-se dels bells moments sempre convida al pessimisme, ni que sigui a canvi de la promesa de durar més.
+
+Travessà el carrer a les palpentes, sense reparar en el semàfor, i una furgoneta de la Tintoreria Esperança el va aixafar.
+
+Un d’aquests transeünts que hi corren de seguida va provar d’assistir-lo, i recollí unes paraules balbucejants de l’accidentat:
+
+—Per aquest viatge no necessitava alforges…
+
+—Què diu? —volgué saber el benemèrit ciutadà que el socorria.
+
+—…sobretot —afegí el ferit—, quan algú m’acaba de buidar les alforges.
+
+—Què vol dir? —insistí l’home diligent.
+
+Però ja no obtingué resposta, perquè el malalt greu acabava de morir d’una altra cosa."</string>
+  <string name="font_size_preview_text_headline">Text de mostra</string>
+  <string name="font_size_preview_text_subtitle">Conte d\'en Pere Calders: Prescripció facultativa</string>
   <string name="font_size_preview_text_title">El meravellós màgic d\'Oz</string>
   <string name="font_size_save">D\'acord</string>
   <string name="font_size_small">Molt petita</string>
@@ -2895,6 +2924,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="power_overcounted">Comptabilitzada més d\'una vegada</string>
   <string name="power_phone">Trucades de veu</string>
   <string name="power_remaining_duration_only">Resten uns %1$s</string>
+  <string name="power_remaining_duration_only_short">Resten %1$s</string>
   <string name="power_screen">Pantalla</string>
   <string name="power_settings_title">Rendiment del sistema</string>
   <string name="power_unaccounted">Miscel·lània</string>
@@ -2909,6 +2939,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="pref_button_light_summary">Il·luminació dels botons Menú, Pàgina d\'inici i Enrere</string>
   <string name="pref_edge_handgrip">Controls de la vora</string>
   <string name="pref_operational_key">Botons de navegació</string>
+  <string name="pref_title_lang_selection">Preferències d\'idioma</string>
   <string name="pref_volume_launch_camera_summary">Per obrir la càmera, pitgeu dos cops baixar el volum</string>
   <string name="pref_volume_launch_camera_title">Obre la càmera</string>
   <string name="pref_volume_wake_summary">El dispositiu s\'engega prement les tecles de volum</string>
