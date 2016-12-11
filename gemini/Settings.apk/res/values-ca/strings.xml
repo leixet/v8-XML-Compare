@@ -5133,7 +5133,11 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="zen_mode_add_rule">Afegir regla</string>
   <string name="zen_mode_alarm_use">Sons</string>
   <string name="zen_mode_alarms">Alarmes</string>
+  <string name="zen_mode_all_callers">Totes les trucades</string>
+  <string name="zen_mode_all_messages">Tots els missatges</string>
+  <string name="zen_mode_all_visual_interruptions">Apagat</string>
   <string name="zen_mode_automation_settings_title">Regles automàtiques</string>
+  <string name="zen_mode_automation_suggestion_summary">Silencia en hores concretes</string>
   <string name="zen_mode_calls">Trucades</string>
   <string name="zen_mode_configure_rule">Configura una regla</string>
   <string name="zen_mode_delete_rule">Suprimeix la regla</string>
