@@ -909,6 +909,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>XXXL</item>
   </string-array>
   <string-array name="organized_locales">
+    <item>al</item>
     <item>dz</item>
     <item>ao</item>
     <item>ag</item>
@@ -917,9 +918,11 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>bh</item>
     <item>bd</item>
     <item>bb</item>
+    <item>by</item>
     <item>be</item>
     <item>bz</item>
     <item>bo</item>
+    <item>ba</item>
     <item>bw</item>
     <item>bg</item>
     <item>br</item>
@@ -938,6 +941,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>eg</item>
     <item>sv</item>
     <item>gq</item>
+    <item>ee</item>
     <item>et</item>
     <item>fk</item>
     <item>fr</item>
@@ -963,15 +967,20 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>kz</item>
     <item>ke</item>
     <item>kw</item>
+    <item>lv</item>
     <item>lb</item>
     <item>ls</item>
     <item>ly</item>
     <item>lt</item>
+    <item>mk</item>
     <item>mw</item>
     <item>my</item>
+    <item>mt</item>
     <item>mr</item>
     <item>mu</item>
     <item>mx</item>
+    <item>md</item>
+    <item>me</item>
     <item>ma</item>
     <item>mz</item>
     <item>mm</item>
@@ -1020,9 +1029,10 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>tr</item>
     <item>tm</item>
     <item>tt</item>
-    <item>ug</item>
-    <item>ua</item>
+    <item>zm</item>
+    <item>zw</item>
     <item>ae</item>
+    <item>gb</item>
     <item>us</item>
     <item>uy</item>
     <item>uz</item>
@@ -1060,6 +1070,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>IR</item>
     <item>JM</item>
     <item>JO</item>
+    <item>KR</item>
     <item>KW</item>
     <item>MX</item>
     <item>NI</item>
