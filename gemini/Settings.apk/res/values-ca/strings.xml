@@ -2520,6 +2520,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="notifications_redacted">El contingut confidencial no es mostra a la pantalla de bloqueig</string>
   <string name="notifications_silenced">Notificacions silenciades</string>
   <string name="notifications_summary_divider">&#160;/&#160;</string>
+  <string name="notify_connect">avisos CMCC Wi-Fi </string>
+  <string name="notify_connect_summary">Avisa\'m quan accedeixi a CMCC Wi-Fi</string>
   <string name="now">Reinicieu ara</string>
   <string name="oem_radio_info_label">Informació/configuració específica d\'OEM</string>
   <string name="oem_unlock_enable">Desbloqueig d\'OEM</string>
@@ -2534,6 +2536,9 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="oldman_mode_settings_caption">Configuració del mode bàsic</string>
   <string name="oldman_mode_summary">Utilitza la pantalla d\'inici i els menús simplificats</string>
   <string name="oldman_mode_summary_cta">Per a funcionar amb normalitat en el mode bàsic li cal connexió a internet, llegir els contactes, missatges i la ubicació.</string>
+  <string name="one_cacrt">un certificat CA</string>
+  <string name="one_usercrt">un certificat d\'usuari</string>
+  <string name="one_userkey">una clau d\'usuari</string>
   <string name="onekey_migrate">Mi Mover</string>
   <string name="online_resource_entry">Recursos en línia</string>
   <string name="only_one_home_message">La configuració d\'inici s\'amagarà fins que no instal·leu una altra aplicació d\'inici.</string>
@@ -2544,9 +2549,11 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="open_wifi_connect_summary">Toca per veure detalls.</string>
   <string name="open_wifi_connect_title">Connecta amb %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">L\'administrador d\'aquest perfil professional és:</string>
+  <string name="operator_warning">El recompte de dades de l\'operador de telefonia mòbil pot ser diferent del calculat pel dispositiu</string>
   <string name="optimization_cancel">Cancel·la</string>
   <string name="optimization_close">Desactiva i reinicia</string>
   <string name="optimization_open">Engega</string>
+  <string name="ota_disable_automatic_update">Actualitzacions automàtiques del sistema</string>
   <string name="other_advanced_settings">Configuració addicional</string>
   <string name="other_personal_settings">Configuració personal</string>
   <string name="other_relative">Altres</string>
@@ -2615,6 +2622,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="passwordIncorrect">La contrasenya introduïda és errònia</string>
   <string name="password_entrance_title">Pantalla de bloqueig</string>
   <string name="password_guard">Contrasenya</string>
+  <string name="password_turned_off_text">S\'ha desactivat la contrasenya</string>
+  <string name="password_turned_on_text">S\'ha activat la contrasenya</string>
   <string name="path_about_about_settings">Configuració/Quant al telèfon</string>
   <string name="path_accelerometer_settings">Configuració/Pantalla/Gir automàtic de la pantalla</string>
   <string name="path_access_control_settings">Configuració/Configuració addicional/Privadesa/Configuració de la privadesa</string>
@@ -2791,6 +2800,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="path_xiaomi_money_service">Aplicacions</string>
   <string name="path_xspace">Configuració/Aplicacions duals</string>
   <string name="path_zen_mode_option_miui_silent">Configuració/So i vibració/Mode en silenci</string>
+  <string name="payment_summary">%1$s com a predeterminat</string>
   <string name="performance_category">Rendiment</string>
   <string name="permission_detail_info">Detalls</string>
   <string name="permission_detail_info_summary">Seguretat: %1$d | Privadesa: %2$d | Altres: %3$d</string>
@@ -2812,6 +2822,10 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="phone_call_noise_suppression">Supressió de fressa durant la trucada</string>
   <string name="phone_info_label">Informació del telèfon</string>
   <string name="phone_language">Idioma</string>
+  <string name="physical_device_title">%1$s - %2$s</string>
+  <string name="physical_keyboard_title">Teclat físic</string>
+  <string name="picture_color_mode">Mode de color de la imatge</string>
+  <string name="picture_color_mode_desc">Utilitza sRGB</string>
   <string name="pin_failed">Hi ha hagut un problema en l\'operació del PIN de la SIM!</string>
   <string name="ping_test_label">Executa una prova de ping</string>
   <string name="please_select_phase2">Autenticació de fase 2</string>
@@ -2830,11 +2844,16 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s - %2$s fins a plena</string>
   <string name="power_charging_duration_ac">%1$s - %2$s fins a plena per AC</string>
+  <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
+  <string name="power_charging_duration_short">%1$s - %2$s</string>
   <string name="power_charging_duration_usb">%1$s - %2$s fins a plena per USB</string>
+  <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
   <string name="power_charging_duration_wireless">%1$s - %2$s fins a plena per sense fils</string>
+  <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
   <string name="power_checker">Comprovador d\'energia</string>
   <string name="power_discharge_remaining">%1$d restants</string>
   <string name="power_discharging_duration">%1$s - aprox. queda %2$s</string>
+  <string name="power_discharging_duration_short">Resten %1$s - %2$s</string>
   <string name="power_flashlight">Llanterna</string>
   <string name="power_hide_mode_summary">"Estalvieu bateria restringint els processos en segon pla, el Wi-Fi, les connexions mòbils i el GPS de les aplicacions"</string>
   <string name="power_hide_mode_title">Administra l\'ús de bateria de les aplicacions</string>
@@ -2845,6 +2864,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="power_optimize">Estalvi de bateria</string>
   <string name="power_overcounted">Comptabilitzada més d\'una vegada</string>
   <string name="power_phone">Trucades de veu</string>
+  <string name="power_remaining_duration_only">Resten uns %1$s</string>
   <string name="power_screen">Pantalla</string>
   <string name="power_settings_title">Rendiment del sistema</string>
   <string name="power_unaccounted">Miscel·lània</string>
@@ -3227,6 +3247,8 @@ Per fer-ho:
   <string name="screen_timeout">En repòs</string>
   <string name="screen_timeout_summary">Després de %1$s d\'inactivitat</string>
   <string name="screen_timeout_title">Mode en repòs</string>
+  <string name="screen_zoom_summary">Amplia o redueix els elements de la pantalla. És possible que algunes aplicacions de la pantalla canviïn de posició.</string>
+  <string name="screen_zoom_summary_custom">Personalitzat (%d)</string>
   <string name="screensaver_settings_button">Configuració</string>
   <string name="screensaver_settings_disabled_prompt">Per a controlar què passa quan el telèfon està acoblat i/o en repòs, activeu el Daydream.</string>
   <string name="screensaver_settings_dream_start">Inicia</string>
