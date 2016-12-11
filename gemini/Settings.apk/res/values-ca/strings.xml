@@ -4184,6 +4184,22 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="tether_settings_title_wifi">Punt d\'accés portàtil</string>
   <string name="tether_share_qrcode_title">Compartició del codi QR</string>
   <string name="tethering_help_button_text">Ajuda</string>
+  <string name="tethering_help_dialog_text">&lt;b&gt;USB compartit&lt;/b&gt;\" 
+Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador mitjançant un cable USB. 
+
+1.L\'USB compartit funciona amb Windows Vista, Windows 7, Windows 8, Windows 8.1 i Linux. 
+
+2.Si el dispositiu té una targeta SD o emmagatzematge USB, no podreu muntar-la mentre s\'estigui compartint l\'USB. 
+
+ \"&lt;b&gt;Punt d\'accés Wi-Fi &lt;/b&gt;\"
+ Podeu convertir el dispositiu Android en un punt d\'accés Wi-Fi i compartir la connexió a internet de l\'Android amb altres ordinadors o dispositius.
+
+1.Quan el dispositiu fa de punt d\'accés, no podreu utilitzar les aplicacions per connectar-vos a internet des de Wi-Fi (sí que ho podreu fer des de les dades mòbils). 
+
+2.Podeu configurar el punt d\'accés des de la configuració de Wi-Fi.\"</string>
+  <string name="tethering_help_dialog_title">Ajuda</string>
+  <string name="tethering_no_sim_alert_title">No hi ha cap targeta SIM</string>
+  <string name="tethering_no_sim_card_text">Instal·leu la targeta SIM per poder compartir la connexió de dades amb altres dispositius mitjançant un punt d\'accés Wi-Fi o amb un cable USB.</string>
   <string name="tethering_settings_not_available">Canvia la configuració de la connexió compartida en el primer espai</string>
   <string name="theme_settings_title">Temes</string>
   <string name="time_picker_title">Hora</string>
