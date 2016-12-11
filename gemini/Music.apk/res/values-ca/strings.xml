@@ -27,7 +27,7 @@
   <string name="ad_mark">ANUNCI</string>
   <string name="add_music">Afegeix cançons</string>
   <string name="add_to_last_of_playlist">Afegeix al final de la llista de reproducció</string>
-  <string name="alaka_required">"Aquesta cançó no està disponible."</string>
+  <string name="alaka_required">Aquesta cançó no està disponible.</string>
   <string name="album_name">Àlbum</string>
   <string name="album_search_title">Àlbum</string>
   <string name="all_artist">Tots els artistes</string>
