@@ -4808,10 +4808,14 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_assistant_setting_summary">Assistent Wi-Fi de Google</string>
   <string name="wifi_assistant_setting_title">Auxiliar de Wi-Fi</string>
   <string name="wifi_assistant_title">Auxiliar de Wi-Fi</string>
+  <string name="wifi_assistant_title_message">L\'auxiliar Wi-Fi de Google permet connectar automàticament amb la millor xarxa disponible</string>
+  <string name="wifi_assistant_vpn_message">Per protegir les dades, l\'auxiliar Wi-Fi de Google pot proporcionar una connexió VPN segura a través dels servidors de Google.</string>
   <string name="wifi_auto_connect">Connexió automàtica</string>
+  <string name="wifi_auto_connect_type_summary">Especifiqueu el tipus de connexió de xarxa</string>
   <string name="wifi_auto_connect_type_title">Connexió automàtica</string>
   <string name="wifi_automatically_connect_summary">Permet que un auxiliar de Wi-Fi es connecti automàticament a les xarxes obertes considerades de bona qualitat</string>
   <string name="wifi_automatically_connect_title">Utilització automàticament de xarxes Wi-Fi obertes</string>
+  <string name="wifi_automatically_manage_summary">Permet que un auxiliar Wi-Fi gestioni la xarxa de connexions</string>
   <string name="wifi_automatically_manage_title">Administració automàtica del Wi-Fi</string>
   <string name="wifi_available_title">Connexió amb Wi-Fi</string>
   <string name="wifi_avoid_poor_network_detection_summary">Utilitza només les xarxes amb una bona connexió a Internet</string>
