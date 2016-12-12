@@ -133,11 +133,11 @@ Si canvies de targeta SIM s\'enviarà un altre SMS automàticament per reactivar
   <string name="master_alert_notif_dspt_no">S\'ha sincronitzat</string>
   <string name="master_alert_notif_title">Activar MiCloud</string>
   <string name="member_due_date">Vàlid fins a %s</string>
-  <string name="micloud_all_sub_1_intl_sms">S\'ha d\'enviar un SMS internacional per activar la teva targeta SIM. El teu operador et cobrarà. Quan encenguis \'Cercar dispositiu\', pot ser que s\'enviï un SMS d\'activació després que hagis canviat la targeta SIM.</string>
-  <string name="micloud_all_sub_1_sms">S\'ha d\'enviar un SMS normal per activar la teva targeta SIM. El teu operador et cobrarà. Quan encenguis \'Cercar dispositiu\', pot ser que s\'enviï un SMS d\'activació després que hagis canviat la targeta SIM.</string>
-  <string name="micloud_all_sub_1_sms_1_intl_sms">S\'hauran d\'enviar dos SMS (normal i internacional) per activar la teva targeta SIM. El teu operador et cobrarà. Quan encenguis \'Cerca dispositiu\', pot ser que s\'enviï un SMS d\'activació després que hagis canviat la targeta SIM.</string>
-  <string name="micloud_all_sub_2_intl_sms">S\'hauran d\'enviar dos SMS internacionals per activar la teva targeta SIM. El teu operador et cobrarà. Quan encenguis \'Cerca dispositiu\', pot ser que s\'enviï un SMS d\'activació després que hagis canviat la targeta SIM.</string>
-  <string name="micloud_all_sub_2_sms">S\'hauran d\'enviar dos SMS normals per activar la teva targeta SIM. El teu operador et cobrarà. Quan encenguis \'Cerca dispositiu\', pot ser que s\'enviï un SMS d\'activació després que hagis canviat la targeta SIM.</string>
+  <string name="micloud_all_sub_1_intl_sms">S\'enviarà un SMS internacional per activar la vostra targeta SIM. El vostre operador us ho cobrarà.</string>
+  <string name="micloud_all_sub_1_sms">S\'enviarà un SMS normal per activar la vostra targeta SIM. El vostre operador us ho cobrarà.</string>
+  <string name="micloud_all_sub_1_sms_1_intl_sms">S\'enviaran dos missatges de text (un normal i un internacional) per activar la vostra targeta SIM. El vostre operador us ho cobrarà.</string>
+  <string name="micloud_all_sub_2_intl_sms">S\'enviaran dos missatges de text internacionals per activar la vostra targeta SIM. El vostre operador us ho cobrarà.</string>
+  <string name="micloud_all_sub_2_sms">S\'enviaran dos missatges de text normals per activar la vostra targeta SIM. El vostre operador us ho cobrarà.</string>
   <string name="micloud_all_sub_resend_sms">"Quan s'activa 'Trobar dispositiu', un SMS d'activació pot ser enviat després de canviar les targetes SIM."</string>
   <string name="micloud_battery_low_notification_message">Connectar el carregador per sincronitzar</string>
   <string name="micloud_battery_low_notification_title">Bateria baixa</string>
@@ -222,7 +222,7 @@ per reactivar aquesta funcionalitat."</string>
   <string name="micloud_find_device_guide_progress">Activant la funció Trobar dispositiu&#8230;</string>
   <string name="micloud_find_device_guide_title">"Inicia sessió a %s per trobar, bloquejar,
 o eliminar el dispositiu."</string>
-  <string name="micloud_find_device_open_fail">"No s'ha pogut encendre Trobar dispositiu"</string>
+  <string name="micloud_find_device_open_fail">"No s'ha pogut engegar Troba dispositiu"</string>
   <string name="micloud_find_device_opened">Trobar dispositiu a</string>
   <string name="micloud_find_device_opened_content">Troba el teu dispositiu a %s</string>
   <string name="micloud_find_device_opened_content_url">i.mi.com</string>
