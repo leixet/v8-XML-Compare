@@ -363,7 +363,7 @@
   <string name="empty_spam_dialog_title">Voleu buidar correu brossa?</string>
   <string name="empty_trash">Buidar paperera</string>
   <string name="empty_trash_dialog_title">Voleu buidar paperera?</string>
-  <string name="enable_sync_in_account_settings">Encendre a %1$s.</string>
+  <string name="enable_sync_in_account_settings">Engega en %1$s.</string>
   <string name="exception_cancel">"
         Aquest esdeveniment ha estat cancel·lat 
 		per: 
