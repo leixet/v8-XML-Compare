@@ -69,6 +69,8 @@
   <string name="current_permissions_category">Permisos actuals</string>
   <string name="daltonizer_mode_disabled">Desactivat</string>
   <string name="daltonizer_mode_monochromacy">Monocromia</string>
+  <string name="daltonizer_mode_protanomaly">Protanòpsia (vermell-verd)</string>
+  <string name="daltonizer_mode_tritanomaly">Tritanòpsia (blau-groc)</string>
   <string name="default_permission_description">realitza una acció desconeguda</string>
   <string name="devicePerms">Accés al dispositiu</string>
   <string name="dlg_app_replacement_statement">"L\'aplicació que esteu instal·lant substituirà una altra aplicació.
