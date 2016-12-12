@@ -287,7 +287,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="return_to_incall_screen">Tornar a la trucada</string>
   <string name="save_mode_btn_ok">D\'acord</string>
   <string name="saved_network">Guardat per %1$s</string>
-  <string name="screen_button_notification_text">Per encendre\'ls, prem el botó de Encesa i el de Home alhora.</string>
+  <string name="screen_button_notification_text">Per engegar-los, premeu el botó de Engegada i el de Inici alhora.</string>
   <string name="screen_button_notification_title">Els botons de navegació estan apagats</string>
   <string name="screen_pinning_description">La manté a la vista fins que treguis la fixació. Toca i mantén premut alhora Home i el botó d\'encesa per treure la fixació.</string>
   <string name="screen_pinning_description_accessible">La manté a la vista fins que treguis la fixació. Toca i mantén premut alhora Home i el botó d\'encesa per treure la fixació.</string>
