@@ -83,7 +83,7 @@
   <string name="permdesc_manageLocationPolicy">Permet que l\'aplicació gestioni les polítiques d\'ubicació i defineixi regles específiques de l\'aplicació.</string>
   <string name="permlab_manageLocationPolicy">Accés a la ubicació</string>
   <string name="reboot_confirm_title">Voleu reiniciar el dispositiu ara?</string>
-  <string name="reboot_info_auto_boot">El dispositiu està programat per encendre\'s a les %s</string>
+  <string name="reboot_info_auto_boot">El dispositiu està programat per engegar-se a les %s</string>
   <string name="reboot_info_shutdown_alarm">L\'alarma sonarà a les %s</string>
   <string name="reboot_progress">S\'està reiniciant&#8230;</string>
   <string name="replace">Substitueix</string>
