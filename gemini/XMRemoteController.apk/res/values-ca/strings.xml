@@ -483,7 +483,7 @@ Llavors responeu la pregunta"</string>
   <string name="match_tv_name_volume">Volum +</string>
   <string name="match_type_selection_des">Escolliu el dispositiu per emparellar</string>
   <string name="match_type_selection_title">Tipus</string>
-  <string name="match_voh_intro_open">Allibereu quan s\'encengui el projector</string>
+  <string name="match_voh_intro_open">Allibereu quan s\'engegui el projector</string>
   <string name="match_vol_dec">El volum ha disminuït?</string>
   <string name="match_vol_inc">El volum ha pujat?</string>
   <string name="max_enter">No es pot excedir els %d caràcters</string>
