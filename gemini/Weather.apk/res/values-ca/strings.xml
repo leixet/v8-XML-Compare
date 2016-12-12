@@ -62,6 +62,7 @@
   <string name="button_exit">Surt</string>
   <string name="button_not_allow">Cancel·la</string>
   <string name="button_sure_abandon">Voleu descartar els canvis?</string>
+  <string name="card_vote_item_vs">VS</string>
   <string name="change_alert">Comproveu la connexió a la xarxa i torneu a provar-ho</string>
   <string name="commercial">Publicitat</string>
   <string name="common_loading_text">Un moment&#8230;</string>
@@ -130,6 +131,8 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="network_unavailable">"No es pot connectar a la xarxa."</string>
   <string name="no_data">--</string>
   <string name="no_network_btn">Torna-ho a provar</string>
+  <string name="no_vote_num">%1$sgent |</string>
+  <string name="no_vote_ratio">cons %1$s%%</string>
   <string name="open">Obre</string>
   <string name="open_browser">Obre al navegador</string>
   <string name="pressure_connect">%1$s mbar</string>
@@ -164,6 +167,7 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="top_pollution_pm10">PM10</string>
   <string name="top_pollution_pm25">PM2.5</string>
   <string name="top_pollution_so2">SO2</string>
+  <string name="total_voted_num_text">"&lt;font color=\"#20a7ff '&gt;%1$s&lt;/font&gt; la gent ha votat"</string>
   <string name="traffic_control_daty_after_tomorrow_numbers">Demà passat: %1$s</string>
   <string name="traffic_control_today_numbers">Avui: %1$s</string>
   <string name="traffic_control_tomorrow_numbers">Demà: %1$s</string>
@@ -177,4 +181,6 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="weather_alert">Alertes meteorològiques</string>
   <string name="wind_miles_unit">%1$s mph</string>
   <string name="wind_unit">%1$s km/h</string>
+  <string name="yes_vote_num">| %1$sgent</string>
+  <string name="yes_vote_ratio">pros %1$s%%</string>
 </resources>
