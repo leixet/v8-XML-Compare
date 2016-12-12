@@ -707,7 +707,7 @@
   <string-array name="screen_key_long_press_action">
     <item>Res</item>
     <item>Mostra la safata d\'aplicacions recents</item>
-    <item>Obre l\'Assistent</item>
+    <item>Obre l\'auxiliar</item>
     <item>Obre Google now</item>
     <item>Tanca l\'aplicació actual</item>
     <item>Execució ràpida de la cerca</item>
