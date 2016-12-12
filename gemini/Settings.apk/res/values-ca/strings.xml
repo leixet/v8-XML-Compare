@@ -1042,7 +1042,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="confirm_reset_shortcut_manager_throttling_title">Voleu restablir la limitació de velocitat de ShortcutManager?</string>
   <string name="connect_to_internet">Connecta\'t a la xarxa</string>
   <string name="connected_via_passpoint">S\'ha connectat mitjançant %1$s</string>
-  <string name="connected_via_wfa">S\'ha connectat mitjançant l\'assistent de Wi‑Fi</string>
+  <string name="connected_via_wfa">S\'ha connectat mitjançant l\'auxiliar de Wi‑Fi</string>
   <string name="connected_wifi">S\'ha connectat</string>
   <string name="connecting_to_vpn">S\'està connectant amb la VPN</string>
   <string name="contributors_title">Col·laboradors</string>
@@ -2500,7 +2500,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="network_reset_not_available">Aquest usuari no pot restaurar-ho a configuració de fàbrica</string>
   <string name="network_restrictions">Restriccions de xarxa</string>
   <string name="network_scorer_change_active_dialog_text">Voleu utilitzar %1$s en comptes de %2$s per a gestionar les connexions de xarxa?</string>
-  <string name="network_scorer_change_active_dialog_title">Voleu canviar l\'assistent de Wi‑Fi?</string>
+  <string name="network_scorer_change_active_dialog_title">Voleu canviar l\'auxiliar de Wi‑Fi?</string>
   <string name="network_scorer_change_active_no_previous_dialog_text">Voleu utilitzar %s per a gestionar les connexions de xarxa?</string>
   <string name="network_settings_title">Xarxes mòbils</string>
   <string name="network_state_label">Estat de la xarxa:</string>
@@ -4742,6 +4742,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="vpn_type">Tipus</string>
   <string name="vpn_username">Nom d\'usuari</string>
   <string name="vpn_version">Versió %s</string>
+  <string name="vr_listener_security_warning_summary">%1$s es podrà executar quan s\'utilitzen aplicacions en mode de realitat virtual.</string>
   <string name="vr_listener_security_warning_title">Voleu permetre a %1$s l\'accés al servei de realitat virtual?</string>
   <string name="vr_listeners_title">Serveis d\'ajuda per a la realitat virtual</string>
   <string name="wait_for_debugger">Espereu el depurador</string>
@@ -4799,13 +4800,16 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_ap_choose_2G">Banda de 2,4 GHz</string>
   <string name="wifi_ap_choose_5G">Banda de 5 GHz</string>
   <string name="wifi_api_test">API de Wi-Fi</string>
-  <string name="wifi_assistant_intro_setup">"Presentació de l\'assistent Wi-Fi"</string>
+  <string name="wifi_assistant_card_message">Connecta\'t automàticament a les xarxes disponibles amb l\'auxiliar de Wi-Fi.</string>
+  <string name="wifi_assistant_dialog_message">"L'auxiliar de Wi-Fi vol configurar una connexió VPN que permet visualitzar el tràfic de xarxa.  Només accepteu-ho si confieu en l'origen."</string>
+  <string name="wifi_assistant_explanation_message">L\'auxiliar de Wi-Fi de Google detecta les xarxes disponibles i connecta el dispositiu a la que té millor velocitat i fiabilitat.</string>
+  <string name="wifi_assistant_intro_setup">"Presentació de l\'auxiliar Wi-Fi"</string>
   <string name="wifi_assistant_setting_summary">Assistent Wi-Fi de Google</string>
-  <string name="wifi_assistant_setting_title">Assistent Wi-Fi</string>
-  <string name="wifi_assistant_title">Assistent de Wi‑Fi</string>
+  <string name="wifi_assistant_setting_title">Auxiliar de Wi-Fi</string>
+  <string name="wifi_assistant_title">Auxiliar de Wi-Fi</string>
   <string name="wifi_auto_connect">Connexió automàtica</string>
   <string name="wifi_auto_connect_type_title">Connexió automàtica</string>
-  <string name="wifi_automatically_connect_summary">Permet que un assistent de Wi-Fi es connecti automàticament a les xarxes obertes considerades de bona qualitat</string>
+  <string name="wifi_automatically_connect_summary">Permet que un auxiliar de Wi-Fi es connecti automàticament a les xarxes obertes considerades de bona qualitat</string>
   <string name="wifi_automatically_connect_title">Utilització automàticament de xarxes Wi-Fi obertes</string>
   <string name="wifi_automatically_manage_title">Administració automàtica del Wi-Fi</string>
   <string name="wifi_available_title">Connexió amb Wi-Fi</string>
@@ -5017,7 +5021,7 @@ Voleu permetre-ho per a totes les aplicacions que vulguin cercar xarxes?»</stri
   <string name="wifi_security_wpa">WPA PSK</string>
   <string name="wifi_security_wpa2">WPA2 PSK</string>
   <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-  <string name="wifi_select_assistant_dialog_title">Selecció de l\'assistent</string>
+  <string name="wifi_select_assistant_dialog_title">Selecció de l\'auxiliar</string>
   <string name="wifi_select_network">Tria una xarxa Wi-Fi</string>
   <string name="wifi_set_priority_settings_summary">Configura la prioritat per a cada punt d\'accés</string>
   <string name="wifi_set_priority_settings_title">Configuració de la prioritat als punt d\'accés</string>
