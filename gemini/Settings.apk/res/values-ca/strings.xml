@@ -4804,6 +4804,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_assistant_dialog_message">"L'auxiliar de Wi-Fi vol configurar una connexió VPN que permet visualitzar el tràfic de xarxa.  Només accepteu-ho si confieu en l'origen."</string>
   <string name="wifi_assistant_explanation_message">L\'auxiliar de Wi-Fi de Google detecta les xarxes disponibles i connecta el dispositiu a la que té millor velocitat i fiabilitat.</string>
   <string name="wifi_assistant_intro_setup">"Presentació de l\'auxiliar Wi-Fi"</string>
+  <string name="wifi_assistant_permission_accepted">Vàreu autoritzar a \"l\'auxiliar Wi-Fi de Google\" d\'establir una connexió VPN, per tant aquesta aplicació pot controlar tràfic de xarxa.</string>
   <string name="wifi_assistant_setting_summary">Assistent Wi-Fi de Google</string>
   <string name="wifi_assistant_setting_title">Auxiliar de Wi-Fi</string>
   <string name="wifi_assistant_title">Auxiliar de Wi-Fi</string>
