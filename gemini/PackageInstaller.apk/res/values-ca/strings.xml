@@ -19,6 +19,7 @@
   <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
   <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
   <string name="abc_toolbar_collapse_description">Redueix</string>
+  <string name="accessibility_display_daltonizer_preference_subtitle">Aquesta característica és experimental i podria afectar el rendiment.</string>
   <string name="accessibility_display_daltonizer_preference_title">Correcció del color</string>
   <string name="accessibility_no_wifi">Wi-Fi desconnectada.</string>
   <string name="accessibility_wifi_off">Wi-Fi desactivada.</string>
@@ -33,9 +34,16 @@
   <string name="app_permissions_breadcrumb">Aplicacions</string>
   <string name="app_permissions_group_summary">%1$d de %2$d aplicacions permeses</string>
   <string name="app_process_limit_title">Límit de procés en segon pla</string>
+  <string name="battery_info_status_charging">S\'està carregant</string>
   <string name="battery_info_status_charging_ac_short">S\'està carregant</string>
   <string name="battery_info_status_charging_usb_short">S\'està carregant</string>
   <string name="battery_info_status_charging_wireless_short">S\'està carregant</string>
+  <string name="battery_info_status_full">Plena</string>
+  <string name="battery_info_status_not_charging">No s\'està carregant</string>
+  <string name="battery_info_status_unknown">Desconegut</string>
+  <string name="bluetooth_connected">Connectat</string>
+  <string name="bluetooth_connected_no_a2dp">S\'ha connectat (sense multimèdia)</string>
+  <string name="bluetooth_connected_no_headset">S\'ha connectat (sense telèfon)</string>
   <string name="cancel">Cancel·la</string>
   <string name="current_permission_template">%1$s de %2$s</string>
   <string name="default_permission_description">realitza una acció desconeguda</string>
