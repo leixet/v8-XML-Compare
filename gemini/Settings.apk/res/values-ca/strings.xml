@@ -4365,18 +4365,26 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="unlock_disable_frp_warning_content_pattern_fingerprint">«Les funcions de protecció del dispositiu no funcionaran sense el patró.
 
 Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloquejar el telèfon, autoritzar compres o iniciar la sessió a les aplicacions.»</string>
-  <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">«Les funcions de protecció del dispositiu no funcionaran sense el patró.
+  <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">"Les funcions de protecció del dispositiu no funcionaran sense el patró.
 
-Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloquejar el telèfon, autoritzar compres o iniciar la sessió a les aplicacions.»</string>
+Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloquejar el telèfon, autoritzar compres o iniciar la sessió a les aplicacions."</string>
   <string name="unlock_disable_frp_warning_content_pattern_profile">Les funcions de protecció del perfil no funcionen sense patró.</string>
   <string name="unlock_disable_frp_warning_content_pin">\"Les funcions de protecció del dispositiu no funcionaran sense el PIN.</string>
   <string name="unlock_disable_frp_warning_content_pin_fingerprint">«Les funcions de protecció del dispositiu no funcionaran sense el PIN.
 
 Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloquejar el telèfon, autoritzar compres o iniciar la sessió a les aplicacions.»</string>
+  <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">"Les funcions de protecció del dispositiu no funcionaran sense el PIN.
+
+Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloquejar el telèfon, autoritzar compres o iniciar la sessió a les aplicacions."</string>
+  <string name="unlock_disable_frp_warning_content_pin_profile">Les funcions de protecció del dispositiu no funcionaran sense el PIN.</string>
   <string name="unlock_disable_frp_warning_content_unknown">Les funcions de protecció del dispositiu no funcionaran sense la pantalla de bloqueig.</string>
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint">«Les funcions de protecció del dispositiu no funcionaran sense la pantalla de bloqueig.
 
 Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloquejar el telèfon, autoritzar compres o iniciar la sessió a les aplicacions.»</string>
+  <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">"Les funcions de protecció del dispositiu no funcionaran sense la pantalla de bloqueig.
+
+Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloquejar el telèfon, autoritzar compres o iniciar la sessió a les aplicacions."</string>
+  <string name="unlock_disable_frp_warning_content_unknown_profile">Les funcions de protecció del dispositiu no funcionaran sense la pantalla de bloqueig.</string>
   <string name="unlock_disable_frp_warning_ok">Sí, suprimeix-la</string>
   <string name="unlock_disable_frp_warning_title">Voleu suprimir la protecció del dispositiu?</string>
   <string name="unlock_disable_frp_warning_title_profile">Voleu suprimir la protecció del perfil?</string>
