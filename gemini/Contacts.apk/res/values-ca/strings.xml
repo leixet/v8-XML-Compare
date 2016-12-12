@@ -226,7 +226,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="contact_detail_profile_switch_off_fail_toast">"No s'han pogut apagar les targetes de contacte"</string>
   <string name="contact_detail_profile_switch_off_success_toast">Targetes de contacte apagades</string>
   <string name="contact_detail_profile_switch_on">"Veure les fotos de perfil del contacte"</string>
-  <string name="contact_detail_profile_switch_on_fail_toast">"No s'han pogut encendre les targetes de contacte"</string>
+  <string name="contact_detail_profile_switch_on_fail_toast">"No s'ha pogut engegar les targetes de contacte"</string>
   <string name="contact_detail_profile_switch_on_subtitle">Tocar per encendre les targetes de contacte</string>
   <string name="contact_detail_profile_switch_on_success_toast">Targetes de contacte enceses</string>
   <string name="contact_directory_description">Agenda %1$s</string>
