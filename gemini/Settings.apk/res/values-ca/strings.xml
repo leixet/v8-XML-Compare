@@ -4782,7 +4782,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_add_network">Afegeix una xarxa</string>
   <string name="wifi_advanced_ip_address_title">Adreça IP</string>
   <string name="wifi_advanced_mac_address_title">Adreça MAC</string>
-  <string name="wifi_advanced_not_available">La configuració avançada de la Wi‑Fi no està disponible per a aquest usuari</string>
+  <string name="wifi_advanced_not_available">La configuració avançada del Wi‑Fi no està disponible per a aquest usuari</string>
   <string name="wifi_advanced_settings_label">Configuració IP</string>
   <string name="wifi_advanced_titlebar">Configuració avançada de Wi-Fi</string>
   <string name="wifi_aggressive_handover">Transferència forçada des de Wi-Fi a mòbil</string>
@@ -5009,6 +5009,7 @@ Voleu permetre-ho per a totes les aplicacions que vulguin cercar xarxes?»</stri
   <string name="wifi_scan_notify_remember_choice">No tornis a mostrar-ho</string>
   <string name="wifi_scan_notify_text">Per millorar la precisió de la ubicació, les aplicacions i serveis encara poden cercar xarxes Wi-Fi. Es pot configurar des de LINK_BEGINscanning settingsLINK_END.</string>
   <string name="wifi_scan_notify_text_location_off">"Les aplicacions poden escanejar xarxes, fins i tot quan hi ha el Wi-Fi desactivat. Podeu configurar-ho des de Configuració avançada &gt; Escaneig sempre disponible."</string>
+  <string name="wifi_scan_notify_text_location_on">"Per millorar la precisió de la localització i altres finalitats, Google i d'altres aplicacions poden escanejar xarxes properes, fins i tot si hi ha el Wi-Fi desactivat. Podeu configurar-ho des d'Avançats &gt; Escaneig sempre disponible."</string>
   <string name="wifi_security">Tipus de seguretat</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
