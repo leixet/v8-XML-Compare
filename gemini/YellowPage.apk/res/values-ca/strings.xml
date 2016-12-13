@@ -114,6 +114,7 @@
   <string name="express_inquiry_delete_warning_multiple">Voleu eliminar %d entrades?</string>
   <string name="express_inquiry_delete_warning_single">Voleu eliminar aquesta entrada?</string>
   <string name="express_inquiry_delivered">S\'ha lliurat</string>
+  <string name="express_inquiry_detail">Detalls de la consulta expressa</string>
   <string name="express_inquiry_edit_logistics">Transportista</string>
   <string name="express_inquiry_history">Historial</string>
   <string name="express_inquiry_history_remark">Comentaris</string>
@@ -187,6 +188,7 @@ Comproveu el número de seguiment."</string>
   <string name="express_shortcut_name">Consulta o enviament exprés</string>
   <string name="express_show_all_inquiry_history">Mostra tot l\'historial de consultes</string>
   <string name="express_submit_order">Confirma</string>
+  <string name="express_tail_number">Número de cua</string>
   <string name="express_track_order">Fes el seguiment</string>
   <string name="express_tracking_number">Número de seguiment</string>
   <string name="express_urge_order">És urgent</string>
