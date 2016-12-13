@@ -70,6 +70,7 @@
   <string name="audio_effect_settings">Seleccioneu el tipus d\'auriculars</string>
   <string name="available_via_passpoint">Disponible a %1$s</string>
   <string name="battery_info_status_charging">S\'està carregant</string>
+  <string name="battery_info_status_charging_ac">S\'està carregant amb CA</string>
   <string name="battery_info_status_charging_ac_short">S\'està carregant</string>
   <string name="battery_info_status_charging_usb">S\'està carregant via USB</string>
   <string name="battery_info_status_charging_usb_short">S\'està carregant</string>
