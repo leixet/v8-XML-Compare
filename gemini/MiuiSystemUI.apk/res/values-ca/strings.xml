@@ -137,6 +137,8 @@
   <string name="bluetooth_sap_profile_summary_connected">Connectat a SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Utilitzar per a l\'accés SIM</string>
   <string name="bluetooth_tethered">Connexió compartida per Bluetooth</string>
+  <string name="bt_hci_snoop_log">Activa registre cerca HCI Bluetooth</string>
+  <string name="bt_hci_snoop_log_summary">Captura tots els paquets HCI de Bluetooth en un fitxer</string>
   <string name="bugreport_in_power">Drecera de l\'informe d\'errors</string>
   <string name="bugreport_in_power_summary">Mostra un botó en el menú d\'encesa per informar d\'un error</string>
   <string name="button_convert_fbe">Esborra i converteix&#8230;</string>
@@ -153,6 +155,7 @@
   <string name="camera_key_action_shortcut_title">Accés directe</string>
   <string name="camera_key_action_shortcut_wake">Bloquejar/reactivar dispositiu</string>
   <string name="camera_key_action_toggle_title">Accionar commutador</string>
+  <string name="category_personal">Personal</string>
   <string name="category_work">Feina</string>
   <string name="charge_length_format">Fa %1$s</string>
   <string name="chooseUsbActivity">Seleccioneu una aplicació per al dispositiu USB</string>
