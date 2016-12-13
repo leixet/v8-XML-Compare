@@ -176,7 +176,7 @@
   <string name="menu_workspace_preview">Vista prèvia de les pantalles d\'inici</string>
   <string name="mi_wallpaper">Botiga de Temes MIUI</string>
   <string name="mtzgadget_missing_text">"El giny no és disponible"</string>
-  <string name="multi_selecting_tips">Per recollir un aplicació, arrossegueu la seva icona i deixeu-la aquí</string>
+  <string name="multi_selecting_tips">Recolliu una aplicació arrossegant-la i deixant-la aquí</string>
   <string name="no_detail_page">No hi ha pàgina de detalls</string>
   <string name="normal_wallpaper">Fons de pantalla</string>
   <string name="notification_installed">S\'ha instal·lat correctament</string>
