@@ -372,6 +372,8 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="search_user_detail">Informació personal</string>
   <string name="search_user_detail_bottom_key_words">Canvia el telèfon,Canvia el correu electrònic,Canvia els ingressos,Canvia l\'educació,Canvia la ubicació,Canvia la regió</string>
   <string name="search_user_detail_desc">Informació personal</string>
+  <string name="search_user_detail_path">Compte Mi/Informació personal,Configuració/Compte Mi/Informació personal</string>
+  <string name="search_user_detail_top_key_words">Informació personal,Canvia la foto de perfil,Canvia el nom d\'usuari,Canvia el sobrenom,Canvia l\'aniversari,Canvia el gènere</string>
   <string name="security_question">Seleccioneu pregunta</string>
   <string name="security_question_answer">Introduïu la resposta</string>
   <string name="security_question_notice_message">Afegiu el vostre telèfon abans d\'establir les preguntes de seguretat per poder esborrar-les cas que oblideu les respostes.</string>
