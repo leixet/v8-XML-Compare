@@ -305,6 +305,7 @@
   <string name="passport_error_illegal_pwd">Contrasenya no vàlida</string>
   <string name="passport_error_invalid_phone_num">Número de telèfon no vàlid</string>
   <string name="passport_error_login">"No s'ha pogut iniciar la sessió"</string>
+  <string name="passport_error_network">"No es pot connectar a la xarxa"</string>
   <string name="path_develop_settings">Aplicacions del sistema/Vídeo/Configuracions de desenvolupament</string>
   <string name="path_settings">Aplicacions del sistema/Vídeo/Configuració</string>
   <string name="pause">Pausar</string>
