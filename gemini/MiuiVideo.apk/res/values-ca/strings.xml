@@ -329,6 +329,7 @@
   <string name="passport_login_instead_reg_with_email">Utilitza aquest email</string>
   <string name="passport_login_prompt">Un mateix compte Mi per a tots els serveis Mi.</string>
   <string name="passport_login_title">Inicieu la sessió al vostre compte Mi</string>
+  <string name="passport_relogin">Torna a iniciar la sessió</string>
   <string name="path_develop_settings">Aplicacions del sistema/Vídeo/Configuracions de desenvolupament</string>
   <string name="path_settings">Aplicacions del sistema/Vídeo/Configuració</string>
   <string name="pause">Pausar</string>
