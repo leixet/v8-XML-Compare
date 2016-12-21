@@ -361,6 +361,9 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="power_charging_duration_short">%1$s - %2$s</string>
   <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
   <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
+  <string name="power_discharging_duration_short">Resten %1$s - %2$s</string>
+  <string name="power_remaining_duration_only">Resten uns %1$s</string>
+  <string name="power_remaining_duration_only_short">Resten %1$s</string>
   <string name="process_kernel_label">SO Android</string>
   <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
   <string name="proxy_hostname_hint">proxy.example.com</string>
@@ -576,7 +579,13 @@ d MMMM"</string>
   <string name="wifi_disabled_password_failure">Problema d\'autenticació</string>
   <string name="wifi_disabled_wifi_failure">Error de connexió WiFi</string>
   <string name="wifi_display_certification">Certificació de pantalla sense fil</string>
+  <string name="wifi_display_certification_summary">Mostra les opcions de certificació de pantalla sense fil</string>
+  <string name="wifi_dns1_hint">8.8.8.8</string>
+  <string name="wifi_dns2_hint">8.8.4.4</string>
   <string name="wifi_fail_to_scan">"No es poden buscar xarxes"</string>
+  <string name="wifi_gateway_hint">192.168.1.1</string>
+  <string name="wifi_ip_address_hint">192.168.1.128</string>
+  <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_no_internet">"No detectat accés a Internet, no es tornarà a connectar automàticament."</string>
   <string name="wifi_not_in_range">Fora del rang</string>
   <string name="wifi_remembered">Desat</string>
@@ -591,4 +600,7 @@ d MMMM"</string>
   <string name="wifi_security_wpa">WPA PSK</string>
   <string name="wifi_security_wpa2">WPA2 PSK</string>
   <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+  <string name="wifi_verbose_logging">Activa el registre Wi‑Fi detallat</string>
+  <string name="wifi_verbose_logging_summary">Augmenta nivell de registre Wi‑Fi i mostra\'l per SSID RSSI al Selector de Wi‑Fi</string>
+  <string name="window_animation_scale_title">Escalat de l\'animació de finestres</string>
 </resources>
