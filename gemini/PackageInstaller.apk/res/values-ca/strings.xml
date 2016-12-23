@@ -24,6 +24,7 @@
   <string name="accessibility_no_wifi">Wi-Fi desconnectada.</string>
   <string name="accessibility_wifi_off">Wi-Fi desactivada.</string>
   <string name="accessibility_wifi_signal_full">Senyal de WiFi màxima.</string>
+  <string name="adb_warning_title">Voleu permetre la depuració USB?</string>
   <string name="additional_permissions">Permisos addicionals</string>
   <string name="allPerms">Tot</string>
   <string name="all_permissions">Tots els permisos</string>
@@ -45,6 +46,7 @@
   <string name="battery_info_status_full">Plena</string>
   <string name="battery_info_status_not_charging">No s\'està carregant</string>
   <string name="battery_info_status_unknown">Desconegut</string>
+  <string name="bluetooth_a2dp_profile_summary_connected">S\'ha connectat a un dispositiu d\'àudio</string>
   <string name="bluetooth_connected">Connectat</string>
   <string name="bluetooth_connected_no_a2dp">S\'ha connectat parcialment (sense multimèdia)</string>
   <string name="bluetooth_connected_no_headset">S\'ha connectat parcialment (sense telèfon)</string>
@@ -54,6 +56,8 @@
   <string name="bluetooth_disable_absolute_volume">Desactiva el volum general</string>
   <string name="bluetooth_disconnected">Desconnectat</string>
   <string name="bluetooth_disconnecting">S\'està desconnectant&#8230;</string>
+  <string name="bluetooth_headset_profile_summary_connected">S\'ha connectat a l\'àudio del telèfon</string>
+  <string name="bluetooth_hid_profile_summary_connected">S\'ha connectat a un dispositiu d\'entrada</string>
   <string name="bluetooth_pairing">S\'està vinculant&#8230;</string>
   <string name="bluetooth_pairing_accept">Vincula</string>
   <string name="bluetooth_pairing_accept_all_caps">VINCULA</string>
@@ -85,6 +89,7 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="grant_confirm_question">Voleu concedir els següents permisos? Obtindrà accés a:</string>
   <string name="grant_dialog_button_allow">Permet</string>
   <string name="grant_dialog_button_deny">Denega</string>
+  <string name="help_app_permissions"></string>
   <string name="install">Instal·la</string>
   <string name="install_confirm_question">Voleu instal·lar aquesta aplicació? Obtindrà accés a:</string>
   <string name="install_confirm_question_no_perms">Voleu instal·lar aquesta aplicació? No demana cap accés especial.</string>
@@ -139,6 +144,7 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="no_apps">Cap aplicació</string>
   <string name="no_new_perms">Aquesta actualització no demana cap permís nou.</string>
   <string name="no_permissions">Cap permís</string>
+  <string name="oem_preferred_feedback_reporter"></string>
   <string name="ok">D\'acord</string>
   <string name="old_sdk_deny_warning">Aquesta aplicació està dissenyada per una versió anterior d\'Android. Si li denegueu els permisos pot ser que ja no funcioni com estava previst.</string>
   <string name="orb_search_action">Acció de cerca</string>
