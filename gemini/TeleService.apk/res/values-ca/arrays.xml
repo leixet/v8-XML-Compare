@@ -47,6 +47,12 @@
     <item>4M</item>
     <item>16M</item>
   </string-array>
+  <string-array name="select_logd_size_lowram_titles">
+    <item>Desactivat</item>
+    <item>64K</item>
+    <item>256K</item>
+    <item>1M</item>
+  </string-array>
   <string-array name="select_logd_size_summaries">
     <item>Off</item>
     <item>64K per registre de memòria</item>
@@ -95,6 +101,25 @@
     <item>4K (sobredimensionat)</item>
     <item>4K (sobredimensionat, segur)</item>
     <item>720p, 1080p (dual screen)</item>
+  </string-array>
+  <string-array name="usb_configuration_titles">
+    <item>Càrrega</item>
+    <item>MTP (Protocol de Transferència de Multimèdia)</item>
+    <item>PTP (Protocol de Transferència d\'Imatges)</item>
+    <item>RNDIS (USB Ethernet)</item>
+    <item>Font d\'àudio</item>
+    <item>MIDI</item>
+  </string-array>
+  <string-array name="tts_rate_entries">
+    <item>Molt lent</item>
+    <item>Lent</item>
+    <item>Normal</item>
+    <item>Ràpid</item>
+    <item>Més ràpid</item>
+    <item>Molt ràpid</item>
+    <item>Vertiginós</item>
+    <item>Molt vertiginós</item>
+    <item>Màxima ràpidesa</item>
   </string-array>
   <string-array name="color_mode_names">
     <item>Vibrant (per defecte)</item>
