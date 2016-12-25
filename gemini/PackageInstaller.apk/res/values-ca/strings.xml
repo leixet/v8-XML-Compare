@@ -90,9 +90,15 @@
   <string name="daltonizer_mode_monochromacy">Monocromia</string>
   <string name="daltonizer_mode_protanomaly">Protanòpsia (vermell-verd)</string>
   <string name="daltonizer_mode_tritanomaly">Tritanòpsia (blau-groc)</string>
+  <string name="debug_input_category">Entrada</string>
+  <string name="debug_monitoring_category">Monitoratge</string>
+  <string name="debug_view_attributes">Habilita l\'inspecció d\'atributs de visualització</string>
   <string name="default_permission_description">realitza una acció desconeguda</string>
+  <string name="dev_settings_warning_message">Aquesta configuració només està prevista per a desenvolupament. Pot fer que el dispositiu i les aplicacions s\'interrompin o no funcionin correctament.</string>
   <string name="development_settings_enable">Activa les opcions per a desenvolupadors</string>
   <string name="development_settings_not_available">Per a aquest usuari no s\'admeten les opcions per a desenvolupadors</string>
+  <string name="development_settings_summary">Establiu les opcions pel desenvolupament d\'aplicacions</string>
+  <string name="development_settings_title">Opcions del desenvolupador</string>
   <string name="devicePerms">Accés al dispositiu</string>
   <string name="dlg_app_replacement_statement">"L\'aplicació que esteu instal·lant substituirà una altra aplicació.
 
