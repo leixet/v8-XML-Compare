@@ -1128,14 +1128,4 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Notes</item>
     <item>Mode infantil</item>
   </string-array>
-  <string-array name="standard_configuration_version_device_display_description_text_1">
-    <item>GB</item>
-    <item>16MP</item>
-    <item>95%NTSC</item>
-  </string-array>
-  <string-array name="standard_configuration_version_device_display_description_text_2">
-    <item>GB</item>
-    <item>蓝宝石</item>
-    <item>600nit</item>
-  </string-array>
 </resources>
