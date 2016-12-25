@@ -10,6 +10,8 @@
   <string name="abc_action_mode_done">Fet</string>
   <string name="abc_activity_chooser_view_see_all">Mostra-ho tot</string>
   <string name="abc_activitychooserview_choose_application">Tria una aplicació</string>
+  <string name="abc_capital_off">INACTIU</string>
+  <string name="abc_capital_on">ACTIU</string>
   <string name="abc_search_hint">Cerca&#8230;</string>
   <string name="abc_searchview_description_clear">Esborra la consulta</string>
   <string name="abc_searchview_description_query">Consulta de cerca</string>
@@ -66,6 +68,10 @@
   <string name="bluetooth_pairing_decline">Cancel·la</string>
   <string name="bluetooth_pairing_rejected_error_message">%1$s ha rebutjat la vinculació.</string>
   <string name="bluetooth_pairing_will_share_phonebook">La vinculació permet accedir als vostres contactes i al registre de trucades quan estigueu connectat.</string>
+  <string name="bluetooth_profile_opp">Transferència de fitxers</string>
+  <string name="bluetooth_profile_pan">Accés a Internet</string>
+  <string name="bluetooth_profile_pbap">Comparteix contacte</string>
+  <string name="bugreport_in_power">Drecera per a informe d\'errors</string>
   <string name="cancel">Cancel·la</string>
   <string name="category_personal">Personal</string>
   <string name="category_work">Feina</string>
