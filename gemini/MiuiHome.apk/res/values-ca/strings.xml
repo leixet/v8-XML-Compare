@@ -31,7 +31,7 @@
   <string name="apply_both">Estableix-ho a ambdues</string>
   <string name="aqi_quality_index_dangerous">Perillós</string>
   <string name="aqi_quality_index_good">Bo</string>
-  <string name="aqi_quality_index_hazardous">Dolent</string>
+  <string name="aqi_quality_index_hazardous">Perillós</string>
   <string name="aqi_quality_index_light_pollution">Precaució</string>
   <string name="aqi_quality_index_moderate">Moderat</string>
   <string name="aqi_quality_index_unhealthy">Insalubre</string>
