@@ -6,16 +6,12 @@
     <item>LTE/CDMA</item>
     <item>LTE/GSM/UMTS</item>
   </string-array>
-  <string-array name="preferred_network_mode_values_world_mode">
-    <item>10</item>
-    <item>8</item>
-    <item>9</item>
-  </string-array>
   <string-array name="ct_iccid_prefix_list">
     <item>898603</item>
     <item>898611</item>
     <item>898612</item>
   </string-array>
+  <array name="config_support_tdscdma_roaming_on_networks"></array>
   <string-array name="preferred_network_mode_gsm_wcdma_choices">
     <item>Només GSM</item>
     <item>Només WCDMA</item>
