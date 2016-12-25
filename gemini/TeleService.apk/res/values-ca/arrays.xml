@@ -48,13 +48,13 @@
     <item>16M</item>
   </string-array>
   <string-array name="select_logd_size_lowram_titles">
-    <item>Desactivat</item>
+    <item>Inactiu</item>
     <item>64K</item>
     <item>256K</item>
     <item>1M</item>
   </string-array>
   <string-array name="select_logd_size_summaries">
-    <item>Off</item>
+    <item>Inactiu</item>
     <item>64K per registre de memòria</item>
     <item>256K per registre de memòria</item>
     <item>1M per registre de memòria</item>
