@@ -68,9 +68,13 @@
   <string name="bluetooth_pairing_decline">Cancel·la</string>
   <string name="bluetooth_pairing_rejected_error_message">%1$s ha rebutjat la vinculació.</string>
   <string name="bluetooth_pairing_will_share_phonebook">La vinculació permet accedir als vostres contactes i al registre de trucades quan estigueu connectat.</string>
+  <string name="bluetooth_profile_hid">Dispositiu d\'entrada</string>
   <string name="bluetooth_profile_opp">Transferència de fitxers</string>
   <string name="bluetooth_profile_pan">Accés a Internet</string>
+  <string name="bluetooth_profile_pan_nap">Compartició de la connexió a Internet</string>
   <string name="bluetooth_profile_pbap">Comparteix contacte</string>
+  <string name="bluetooth_profile_pbap_summary">Utilitzeu per compartir contactes</string>
+  <string name="bluetooth_profile_sap">Accés SIM</string>
   <string name="bugreport_in_power">Drecera per a informe d\'errors</string>
   <string name="cancel">Cancel·la</string>
   <string name="category_personal">Personal</string>
@@ -78,6 +82,7 @@
   <string name="charge_length_format">Fa %1$s</string>
   <string name="choose_profile">Seleccioneu un perfil</string>
   <string name="connected_via_passpoint">Connectat via %1$s</string>
+  <string name="convert_to_file_encryption_done">El fitxer ja està encriptat</string>
   <string name="convert_to_file_encryption_enabled">Converteix&#8230;</string>
   <string name="current_permission_template">%1$s de %2$s</string>
   <string name="current_permissions_category">Permisos actuals</string>
@@ -86,6 +91,8 @@
   <string name="daltonizer_mode_protanomaly">Protanòpsia (vermell-verd)</string>
   <string name="daltonizer_mode_tritanomaly">Tritanòpsia (blau-groc)</string>
   <string name="default_permission_description">realitza una acció desconeguda</string>
+  <string name="development_settings_enable">Activa les opcions per a desenvolupadors</string>
+  <string name="development_settings_not_available">Per a aquest usuari no s\'admeten les opcions per a desenvolupadors</string>
   <string name="devicePerms">Accés al dispositiu</string>
   <string name="dlg_app_replacement_statement">"L\'aplicació que esteu instal·lant substituirà una altra aplicació.
 
