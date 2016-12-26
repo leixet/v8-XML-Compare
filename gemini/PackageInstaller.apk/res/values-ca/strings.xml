@@ -25,7 +25,10 @@
   <string name="accessibility_display_daltonizer_preference_title">Correcció del color</string>
   <string name="accessibility_no_wifi">Wi-Fi desconnectada.</string>
   <string name="accessibility_wifi_off">Wi-Fi desactivada.</string>
+  <string name="accessibility_wifi_one_bar">Senyal de Wi-Fi fluix.</string>
   <string name="accessibility_wifi_signal_full">Senyal de WiFi màxima.</string>
+  <string name="accessibility_wifi_three_bars">Senyal de Wi-Fi fort.</string>
+  <string name="accessibility_wifi_two_bars">Senyal de Wi-Fi moderat.</string>
   <string name="adb_warning_message">La depuració USB està pensada només per desenvolupament. Utilitzeu-la per copiar dades entre l\'ordinador i el vostre dispositiu, per instal·lar aplicacions al vostre dispositiu sense avisos i per llegir dades de registre.</string>
   <string name="adb_warning_title">Voleu permetre la depuració USB?</string>
   <string name="additional_permissions">Permisos addicionals</string>
