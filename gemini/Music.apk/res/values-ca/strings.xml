@@ -216,6 +216,7 @@
   <string name="download_running">En progrés</string>
   <string name="download_running_percent">En progrés, %d%%</string>
   <string name="download_share_dialog">Compartiu amb</string>
+  <string name="download_speed_null"></string>
   <string name="download_start">S\'està iniciant la baixada&#8230;</string>
   <string name="download_start_btn">Baixada gratuïta</string>
   <string name="download_success">Completat</string>
