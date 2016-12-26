@@ -123,6 +123,9 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="grant_dialog_button_deny">Denega</string>
   <string name="grant_dialog_button_deny_anyway">Rebutja igualment</string>
   <string name="help_app_permissions"></string>
+  <string name="home">Pàgina inicial de la configuració</string>
+  <string name="immediately_destroy_activities">No mantinguis les activitats</string>
+  <string name="immediately_destroy_activities_summary">Destrueix cada activitat a mesura que l\'usuari en surti</string>
   <string name="inactive_apps_title">Aplicacions inactives</string>
   <string name="install">Instal·la</string>
   <string name="install_confirm_question">Voleu instal·lar aquesta aplicació? Obtindrà accés a:</string>
@@ -137,6 +140,7 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="install_failed_msg">"%1$s no s'ha pogut instal·lar."</string>
   <string name="installing">S\'està instal·lant&#8230;</string>
   <string name="launch">Obre</string>
+  <string name="launch_defaults_none">No s\'han establert els predeterminats</string>
   <string name="lb_control_display_fast_forward_multiplier">%1$dx</string>
   <string name="lb_control_display_rewind_multiplier">%1$dx</string>
   <string name="lb_playback_controls_closed_captioning_disable">Desactiva els subtítols</string>
