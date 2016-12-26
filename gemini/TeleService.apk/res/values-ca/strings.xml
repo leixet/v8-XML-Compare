@@ -1148,7 +1148,7 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="voicemail_visual_voicemail_switch_title">Bústia de veu visual</string>
   <string name="voip_setting">Configuració VoIP</string>
   <string name="volte_switch_summary">Utilitza VoLTE per millorar la qualitat de les trucades de veu i de vídeo</string>
-  <string name="volte_switch_title">S\'ha activat VoLTE</string>
+  <string name="volte_switch_title">Activa VoLTE</string>
   <string name="wait_prompt_str">"Voleu enviar els tons següents?
 "</string>
   <string name="wifi_calling">Trucada Wi-Fi</string>
