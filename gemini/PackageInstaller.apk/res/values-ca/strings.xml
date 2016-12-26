@@ -29,6 +29,7 @@
   <string name="accessibility_wifi_signal_full">Senyal de WiFi màxima.</string>
   <string name="accessibility_wifi_three_bars">Senyal de Wi-Fi fort.</string>
   <string name="accessibility_wifi_two_bars">Senyal de Wi-Fi moderat.</string>
+  <string name="adb_keys_warning_message">Voleu revocar l\'accés a la depuració USB des de tots els ordinadors que prèviament heu autoritzat?</string>
   <string name="adb_warning_message">La depuració USB està pensada només per desenvolupament. Utilitzeu-la per copiar dades entre l\'ordinador i el vostre dispositiu, per instal·lar aplicacions al vostre dispositiu sense avisos i per llegir dades de registre.</string>
   <string name="adb_warning_title">Voleu permetre la depuració USB?</string>
   <string name="additional_permissions">Permisos addicionals</string>
