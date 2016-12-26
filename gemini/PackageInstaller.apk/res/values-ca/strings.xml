@@ -93,6 +93,10 @@
   <string name="daltonizer_mode_monochromacy">Monocromia</string>
   <string name="daltonizer_mode_protanomaly">Protanòpsia (vermell-verd)</string>
   <string name="daltonizer_mode_tritanomaly">Tritanòpsia (blau-groc)</string>
+  <string name="data_usage_uninstalled_apps">Aplicacions eliminades</string>
+  <string name="data_usage_uninstalled_apps_users">Aplicacions i usuaris eliminats</string>
+  <string name="debug_applications_category">Aplicacions</string>
+  <string name="debug_hw_drawing_category">Renderització accelerada per maquinari</string>
   <string name="debug_input_category">Entrada</string>
   <string name="debug_monitoring_category">Monitoratge</string>
   <string name="debug_view_attributes">Habilita l\'inspecció d\'atributs de visualització</string>
@@ -103,6 +107,7 @@
   <string name="development_settings_summary">Establiu les opcions pel desenvolupament d\'aplicacions</string>
   <string name="development_settings_title">Opcions del desenvolupador</string>
   <string name="devicePerms">Accés al dispositiu</string>
+  <string name="disabled_by_admin">Opció desactivada per l\'administrador</string>
   <string name="dlg_app_replacement_statement">"L\'aplicació que esteu instal·lant substituirà una altra aplicació.
 
 Es mantindran totes les dades d\'usuari prèvies."</string>
@@ -112,10 +117,13 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
 
 Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="done">Fet</string>
+  <string name="enabled_by_admin">Opció activada per l\'administrador</string>
   <string name="grant_confirm_question">Voleu concedir els següents permisos? Obtindrà accés a:</string>
   <string name="grant_dialog_button_allow">Permet</string>
   <string name="grant_dialog_button_deny">Denega</string>
+  <string name="grant_dialog_button_deny_anyway">Rebutja igualment</string>
   <string name="help_app_permissions"></string>
+  <string name="inactive_apps_title">Aplicacions inactives</string>
   <string name="install">Instal·la</string>
   <string name="install_confirm_question">Voleu instal·lar aquesta aplicació? Obtindrà accés a:</string>
   <string name="install_confirm_question_no_perms">Voleu instal·lar aquesta aplicació? No demana cap accés especial.</string>
