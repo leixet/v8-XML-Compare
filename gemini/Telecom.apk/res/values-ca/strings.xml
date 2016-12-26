@@ -42,6 +42,7 @@
   <string name="incall_error_call_failed">"No s'ha pogut fer la trucada."</string>
   <string name="no_vm_number">Falta el número de la bústia de veu</string>
   <string name="no_vm_number_msg">No hi ha cap número de bústia de veu emmagatzemat a la targeta SIM.</string>
+  <string name="notification_component"></string>
   <string name="notification_missedCallTicker">Trucada perduda de %s</string>
   <string name="notification_missedCallTitle">Trucada perduda</string>
   <string name="notification_missedCall_call_back">Torna la trucada</string>
@@ -49,6 +50,7 @@
   <string name="notification_missedCall_message">Envia un missatge</string>
   <string name="notification_missedCallsMsg">%s trucades perdudes</string>
   <string name="notification_missedCallsTitle">Trucades perdudes</string>
+  <string name="oem_preferred_feedback_reporter"></string>
   <string name="outgoing_call_error_no_phone_number_supplied">Per poder trucar, introduïu un número vàlid.</string>
   <string name="outgoing_call_not_allowed_no_permission">Aquesta aplicació no pot fer trucades sense el permís del telèfon.</string>
   <string name="outgoing_call_not_allowed_user_restriction">El propietari del dispositiu només admet trucades d\'emergència.</string>
@@ -58,6 +60,7 @@
   <string name="respond_via_sms_canned_response_4">"Ara no puc parlar. Truques després?"</string>
   <string name="respond_via_sms_confirmation_format">S\'ha enviat el missatge a %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Resposta ràpida</string>
+  <string name="respond_via_sms_setting_summary"></string>
   <string name="respond_via_sms_setting_title">Respostes ràpides</string>
   <string name="respond_via_sms_setting_title_2">Edició de les respostes ràpides</string>
   <string name="telecommAppLabel">Gestió de trucades telefòniques</string>
