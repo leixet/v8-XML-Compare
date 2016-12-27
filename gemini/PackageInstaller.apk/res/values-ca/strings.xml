@@ -221,6 +221,17 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="settings">Configuració</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="system_warning">Si denegueu aquest permís, les característiques bàsiques del vostre dispositiu no funcionaran correctament.</string>
+  <string name="tts_default_lang_title">Idioma</string>
+  <string name="tts_default_rate_title">Velocitat de parla</string>
+  <string name="tts_default_sample_string">Aquest és un exemple de síntesi de veu</string>
+  <string name="tts_engine_preference_section_title">Motor preferit</string>
+  <string name="tts_engine_settings_button">Obre la configuració del motor</string>
+  <string name="tts_general_section_title">General</string>
+  <string name="tts_install_data_summary">Instal·la les dades de veu que calguin per a la síntesi de veu</string>
+  <string name="tts_install_data_title">Instal·la dades de veu</string>
+  <string name="tts_lang_not_selected">No s\'ha seleccionat cap idioma</string>
+  <string name="tts_lang_use_system">Utilitza l\'idioma del sistema</string>
+  <string name="tts_reset_speech_pitch_title">Restableix la velocitat de la parla</string>
   <string name="uninstall_activity_text">%1$s és part de la següent aplicació:</string>
   <string name="uninstall_application_text">Voleu desinstal·lar aquesta aplicació?</string>
   <string name="uninstall_application_text_all_users">Voleu desinstal·lar aquesta aplicació per a &lt;b&gt;tots&lt;/b&gt; els usuaris? L\'aplicació i les seves dades s\'eliminaran de &lt;b&gt;tots&lt;/b&gt; els usuaris del dispositiu.</string>
