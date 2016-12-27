@@ -232,6 +232,8 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="tts_lang_not_selected">No s\'ha seleccionat cap idioma</string>
   <string name="tts_lang_use_system">Utilitza l\'idioma del sistema</string>
   <string name="tts_reset_speech_pitch_title">Restableix la velocitat de la parla</string>
+  <string name="tts_status_checking">S\'està verificant&#8230;</string>
+  <string name="tts_status_title">Configuració de l\'idioma predeterminat</string>
   <string name="uninstall_activity_text">%1$s és part de la següent aplicació:</string>
   <string name="uninstall_application_text">Voleu desinstal·lar aquesta aplicació?</string>
   <string name="uninstall_application_text_all_users">Voleu desinstal·lar aquesta aplicació per a &lt;b&gt;tots&lt;/b&gt; els usuaris? L\'aplicació i les seves dades s\'eliminaran de &lt;b&gt;tots&lt;/b&gt; els usuaris del dispositiu.</string>
@@ -250,6 +252,7 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="unknown">Desconegut</string>
   <string name="unknown_apps_admin_dlg_text">"L'administrador no permet la instal·lació d'aplicacions obtingudes de fonts desconegudes."</string>
   <string name="unknown_apps_dlg_text">Per seguretat, el telèfon està configurat per bloquejar la instal·lació d\'aplicacions obtingudes de fonts desconegudes.</string>
+  <string name="user_guest">Convidat</string>
   <string name="v7_preference_off">DESACTIVAT</string>
   <string name="v7_preference_on">ACTIVAT</string>
 </resources>
