@@ -201,6 +201,8 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="overlay_display_devices_title">Simula pantalles secundàries</string>
   <string name="permdesc_togglePermissions">Permet que el propietari iniciï la interfície per canviar els permisos de les aplicacions. No hauria de ser necessari per les aplicacions normals.</string>
   <string name="permission_request_title">Petició de permís</string>
+  <string name="permission_review_title_template_update">%1$s s\'ha actualitzat. Trieu quin accés permeteu a aquesta aplicació.</string>
+  <string name="permission_review_warning_title_template_update">%1$s s\'ha actualitzat. Permeteu a %1$s accedir al que segueix?</string>
   <string name="permission_summary_enforced_by_policy">Imposat per la política</string>
   <string name="permission_title">%1$s permisos</string>
   <string name="permission_warning_template">Voleu permetre %1$s a %2$s?</string>
