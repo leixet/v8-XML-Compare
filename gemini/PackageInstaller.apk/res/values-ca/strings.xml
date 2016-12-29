@@ -35,6 +35,10 @@
   <string name="additional_permissions">Permisos addicionals</string>
   <string name="allPerms">Tot</string>
   <string name="all_permissions">Tots els permisos</string>
+  <string name="allow_mock_location">Permet les ubicacions simulades</string>
+  <string name="allow_mock_location_summary">Permet les ubicacions simulades</string>
+  <string name="animator_duration_scale_title">Escala de la durada de l\'animació</string>
+  <string name="apn_settings_not_available">La configuració del nom del punt d\'accés no està disponible per a aquest usuari</string>
   <string name="app_name">Instal·lador de paquets</string>
   <string name="app_name_unknown">Desconegut</string>
   <string name="app_not_found_dlg_text">"L'aplicació no es troba a la llista d'aplicacions instal·lades."</string>
@@ -43,7 +47,9 @@
   <string name="app_permissions_breadcrumb">Aplicacions</string>
   <string name="app_permissions_group_summary">%1$d de %2$d aplicacions permeses</string>
   <string name="app_process_limit_title">Límit de procés en segon pla</string>
+  <string name="available_via_passpoint">Disponible mitjançant %1$s</string>
   <string name="battery_info_status_charging">S\'està carregant</string>
+  <string name="battery_info_status_charging_ac">S\'està carregant amb CA</string>
   <string name="battery_info_status_charging_ac_short">S\'està carregant</string>
   <string name="battery_info_status_charging_usb">S\'està carregant via USB</string>
   <string name="battery_info_status_charging_usb_short">S\'està carregant</string>
@@ -54,6 +60,7 @@
   <string name="battery_info_status_not_charging">No s\'està carregant</string>
   <string name="battery_info_status_unknown">Desconegut</string>
   <string name="bluetooth_a2dp_profile_summary_connected">S\'ha connectat a un dispositiu d\'àudio</string>
+  <string name="bluetooth_a2dp_profile_summary_use_for">Utilitza per a dispositius d\'àudio</string>
   <string name="bluetooth_connected">Connectat</string>
   <string name="bluetooth_connected_no_a2dp">S\'ha connectat parcialment (sense multimèdia)</string>
   <string name="bluetooth_connected_no_headset">S\'ha connectat parcialment (sense telèfon)</string>
@@ -61,10 +68,13 @@
   <string name="bluetooth_connected_no_map">S\'ha connectat parcialment (sense accés als missatges)</string>
   <string name="bluetooth_connecting">S\'està connectant&#8230;</string>
   <string name="bluetooth_disable_absolute_volume">Desactiva el volum general</string>
+  <string name="bluetooth_disable_absolute_volume_summary">Desactiva la funció de volum general de Bluetooth en cas que es produeixin problemes de volum amb dispositius remots, com ara el volum massa fort o una pèrdua de control.</string>
   <string name="bluetooth_disconnected">Desconnectat</string>
   <string name="bluetooth_disconnecting">S\'està desconnectant&#8230;</string>
   <string name="bluetooth_headset_profile_summary_connected">S\'ha connectat a l\'àudio del telèfon</string>
+  <string name="bluetooth_headset_profile_summary_use_for">Utilitza per l\'àudio del telèfon</string>
   <string name="bluetooth_hid_profile_summary_connected">S\'ha connectat a un dispositiu d\'entrada</string>
+  <string name="bluetooth_hid_profile_summary_use_for">Utilitza com a dispositiu d\'entrada</string>
   <string name="bluetooth_opp_profile_summary_connected">S\'ha connectat a un servidor de transferència de fitxers</string>
   <string name="bluetooth_pairing">S\'està vinculant&#8230;</string>
   <string name="bluetooth_pairing_accept">Vincula</string>
