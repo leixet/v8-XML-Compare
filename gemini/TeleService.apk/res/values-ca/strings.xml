@@ -1482,6 +1482,7 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="vm_change_failed">"No s\'ha pogut canviar el número de bústia de veu.
 Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="vm_changed">S\'ha canviat el número de la bústia de veu.</string>
+  <string name="voice_number_setting_primary_user_only">La configuració de la bústia de trucades de veu només pot ser modificat per l\'usuari principal.</string>
   <string name="voice_privacy">Privacitat de veu</string>
   <string name="voice_privacy_summary">Activa el mode de privacitat augmentada</string>
   <string name="voice_report_incoming_call">S\'està trucant</string>
