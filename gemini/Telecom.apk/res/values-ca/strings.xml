@@ -7,7 +7,10 @@
   <string name="accessibility_no_wifi">Wi-Fi desconnectada.</string>
   <string name="accessibility_speakerphone_enabled">Altaveu activat.</string>
   <string name="accessibility_wifi_off">Wi-Fi desactivada.</string>
+  <string name="accessibility_wifi_one_bar">Una barra de senyal Wi-Fi.</string>
   <string name="accessibility_wifi_signal_full">Senyal de WiFi màxima.</string>
+  <string name="accessibility_wifi_three_bars">Tres barres de senyal Wi-Fi.</string>
+  <string name="accessibility_wifi_two_bars">Dues barres de senyal Wi-Fi.</string>
   <string name="add_blocked_dialog_body">Bloqueja trucades i missatges provinents de</string>
   <string name="add_blocked_number_hint">Número de telèfon</string>
   <string name="add_vm_number_str">Afegeix número</string>
