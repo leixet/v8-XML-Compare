@@ -277,6 +277,7 @@
   <string name="callFailed_no_circuit_avail">Cap circuit disponible</string>
   <string name="callFailed_no_route_to_destination">No hi ha ruta cap al destí</string>
   <string name="callFailed_no_user_responding">Cap usuari respon</string>
+  <string name="callFailed_normal">Trucada finalitzada</string>
   <string name="callFailed_normal_unspecified">Normal, sense especificar</string>
   <string name="callFailed_number_changed">Número canviat</string>
   <string name="callFailed_number_unreachable">No es pot connectar amb aquest número</string>
