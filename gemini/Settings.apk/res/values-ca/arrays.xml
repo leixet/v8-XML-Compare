@@ -722,7 +722,7 @@
     <item>Cap</item>
     <item>Mode de captura ràpida (activa\'l a la càmera)</item>
     <item>Drecera a la targeta de transport públic</item>
-    <item>Public transportation shortcuts</item>
+    <item>Dreceres de transport públic</item>
   </string-array>
   <string-array name="button_light_timeout_entries">
     <item>1 segon</item>
