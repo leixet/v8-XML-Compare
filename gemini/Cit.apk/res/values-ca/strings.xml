@@ -267,6 +267,8 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="cit_sim_state_unkown">Desconegut</string>
   <string name="cit_start_calibration">Calibra</string>
   <string name="cit_stop_calibration">Atura el calibratge</string>
+  <string name="cit_tfcard_support_summary">Comprova si la targeta TF és compatible amb aquest dispositiu</string>
+  <string name="cit_tfcard_support_title">Suport targeta TF</string>
   <string name="cit_tool">Eines addicionals</string>
   <string name="cit_tool_bluetooth">Eina de prova de Bluetooth</string>
   <string name="cit_tool_bluetooth_dut">Entra al mode de prova de Bluetooth</string>
@@ -295,6 +297,10 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="cit_tool_log_toast_generate_bugreport">S\'està creant l\'informe d\'error... (Això triga aproximadament 1 minut)</string>
   <string name="cit_tool_modem">Eines de proves del mòdem</string>
   <string name="cit_tool_modem_bugreport">Força el MÒDEM Coredump</string>
+  <string name="cit_tool_modem_cu_volte">China Union VoLTE</string>
+  <string name="cit_tool_modem_cu_volte_no">Desactiva CU VoLTE</string>
+  <string name="cit_tool_modem_cu_volte_no_confirm">Desactiva CU VoLTE, caldrà reiniciar per tenir efecte.</string>
+  <string name="cit_tool_modem_cu_volte_yes">Activa CU VoLTE</string>
   <string name="cit_tool_modem_exit_ftm">Surt del mode FTM</string>
   <string name="cit_tool_modem_mbn">Canvia la configuració del mòdem</string>
   <string name="cit_tool_modem_offline_log">Obre/tanca el registre fora de línia</string>
