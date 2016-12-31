@@ -32,6 +32,7 @@
   <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
   <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
   <string name="abc_toolbar_collapse_description">Replega</string>
+  <string name="about_ad_service_instructions">Quant als serveis de publicitat i privacitat</string>
   <string name="about_settings">Quant al telèfon</string>
   <string name="about_settings_summary">Informació legal, estat i versió de programari</string>
   <string name="about_summary">Android %1$s</string>
@@ -2623,6 +2624,11 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="open_anr_debug">Activa la depuració ANR</string>
   <string name="open_miui_optimization_title">Activa l\'optimització MIUI</string>
   <string name="open_miui_optimization_warning_message">El dispositiu tornarà a arrencar per aplicar els canvis.</string>
+  <string name="open_personal_assistant_dialog_btn_cancel">Cancel·la</string>
+  <string name="open_personal_assistant_dialog_btn_confirm">Tanca</string>
+  <string name="open_personal_assistant_dialog_desc">"No podreu fer servir l'assistent intel·ligent i rebre les seves actualitzacions. Voleu desactivar-lo ara?"</string>
+  <string name="open_personal_assistant_dialog_title">Desactiva l\'assistent intel·ligent</string>
+  <string name="open_personal_assistant_title">Activa l\'assistent intel·ligent</string>
   <string name="open_wifi_connect_summary">Toca per veure detalls.</string>
   <string name="open_wifi_connect_title">Connecta amb %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">L\'administrador d\'aquest perfil professional és:</string>
@@ -3714,6 +3720,8 @@ Per fer-ho:
   <string name="set_password_message">Configura una contrasenya per aturar el mode de mainada i per a desbloquejar el dispositiu.</string>
   <string name="set_password_title">Estableix una contrasenya</string>
   <string name="setting_privacy_password">Estableix la contrasenya de privacitat</string>
+  <string name="settings_ad_loading">S\'està carregant&#8230;</string>
+  <string name="settings_ad_loading_unavailable">Hi ha un problema en carregar.</string>
   <string name="settings_backup">Còpia de seguretat de la configuració</string>
   <string name="settings_backup_summary">Còpia de seguretat de la configuració</string>
   <string name="settings_button">Configuració</string>
@@ -3924,6 +3932,7 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="status_bar_settings">Notificacions i barra d\'estat</string>
   <string name="status_bar_settings_advanced">Configuració avançada</string>
   <string name="status_bar_settings_all_app_display_loading">Un moment&#8230;</string>
+  <string name="status_bar_settings_app_notification_preferences">Configuració de l\'aplicació</string>
   <string name="status_bar_settings_basic_settings">Configuració bàsica</string>
   <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_bar_settings_custom_carrier">Edita el nom de l\'operador</string>
