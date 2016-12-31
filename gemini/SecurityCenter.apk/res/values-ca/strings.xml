@@ -1366,6 +1366,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="summary_garbage_lib">Utilitza les definicions més recents per eliminar spyware, adware i un altre programari no sol·licitat</string>
   <string name="summary_install_virus">Comprovar aplicacions a la recerca de virus abans de la instal·lació</string>
   <string name="summary_live_talk_purchase">Només ¥ 0,05 per minut per a trucades nacionals.</string>
+  <string name="summary_mifi_insurance">Obtén un pla de reemplaçament d\'un any que funcioni per als casos de danys en el maquinari</string>
   <string name="summary_miui_update">Actualització disponible per a %s.</string>
   <string name="summary_mms">Bloquejar spam de SMS automàticament</string>
   <string name="summary_network_switch">Permet a l\'aplicació Seguretat connectar-se a internet</string>
@@ -1517,6 +1518,7 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="title_install_virus_yes">Monitor d\'instal·lació activat</string>
   <string name="title_limit_traffic_per_day">Límit d\'ús de dades diari</string>
   <string name="title_live_talk_purchase">Torna a carregar ara</string>
+  <string name="title_mifi_insurance">Garantia estesa</string>
   <string name="title_miui_update">Actualització disponible</string>
   <string name="title_mms_no">Filtre de missatges desactivat</string>
   <string name="title_mms_yes">Filtre de missatges activat</string>
