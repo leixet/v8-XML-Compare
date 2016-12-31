@@ -301,6 +301,7 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="cit_tool_modem_cu_volte_no">Desactiva CU VoLTE</string>
   <string name="cit_tool_modem_cu_volte_no_confirm">Desactiva CU VoLTE, caldrà reiniciar per tenir efecte.</string>
   <string name="cit_tool_modem_cu_volte_yes">Activa CU VoLTE</string>
+  <string name="cit_tool_modem_cu_volte_yes_confirm">Activa CU VoLTE, caldrà reiniciar per tenir efecte.</string>
   <string name="cit_tool_modem_exit_ftm">Surt del mode FTM</string>
   <string name="cit_tool_modem_mbn">Canvia la configuració del mòdem</string>
   <string name="cit_tool_modem_offline_log">Obre/tanca el registre fora de línia</string>
