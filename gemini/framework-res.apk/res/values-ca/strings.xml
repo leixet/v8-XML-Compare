@@ -1386,6 +1386,9 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="taking_remote_bugreport_notification_title">S\'està prenent l\'informe d\'errors&#8230;</string>
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Toca per configurar</string>
+  <string name="tethered_notification_multi_device_message">%1$s dispositius connectats</string>
+  <string name="tethered_notification_no_device_message">Cap dispositiu connectat</string>
+  <string name="tethered_notification_one_device_message">%1$s dispositius connectats</string>
   <string name="tethered_notification_title">Ancoratge de xarxa o punt d\'accés actiu</string>
   <string name="textSelectionCABTitle">Selecció de text</string>
   <string name="text_copied">Text copiat al porta-retalls.</string>
