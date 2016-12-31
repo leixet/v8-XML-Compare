@@ -128,6 +128,7 @@
   <string name="softap_notifif_title">Punt d\'accés «%s» activat</string>
   <string name="start_security_permission_verify_text">Comproveu els permisos amb el vostre Compte Mi</string>
   <string name="status_bar_toggle_auto_brightness">Lluentor</string>
+  <string name="status_bar_toggle_battery_saver">Estalvi de la bateria</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_cast">Emet</string>
   <string name="status_bar_toggle_data">Dades mòbils</string>
@@ -138,6 +139,7 @@
   <string name="status_bar_toggle_midrop">Mi Drop</string>
   <string name="status_bar_toggle_midrop_action">com.xiaomi.midrop/.IntroActivity</string>
   <string name="status_bar_toggle_mute">Silenci</string>
+  <string name="status_bar_toggle_nfc">NFC</string>
   <string name="status_bar_toggle_paper_mode">Mode lectura</string>
   <string name="status_bar_toggle_power_mode">Rendiment</string>
   <string name="status_bar_toggle_quiet_mode">No molesteu</string>
