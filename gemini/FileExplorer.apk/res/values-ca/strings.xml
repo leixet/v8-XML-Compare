@@ -471,6 +471,7 @@
   <string name="recommend_user">Perfils recomanades</string>
   <string name="remote_video_report_success">"Gràcies pel vostre informe! Li donarem un cop d'ull tan aviat com sigui possible."</string>
   <string name="rename_alert">"Si canvies l'extensió d'aquest fitxer, pot ser que no ho aconsegueixis obrir."</string>
+  <string name="rename_alert2">El fitxer s\'ocultarà.</string>
   <string name="rename_failed">"No es pot reanomenar %1$s"</string>
   <string name="repair_done">Restaurat</string>
   <string name="repair_error">"No s'ha pogut restaurar"</string>
