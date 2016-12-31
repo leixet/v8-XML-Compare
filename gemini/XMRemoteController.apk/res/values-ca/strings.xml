@@ -714,6 +714,7 @@ To activate your account, follow the
   <string name="passport_wrong_phone_number_format">El format de número de telèfon que heu introduït no és vàlid</string>
   <string name="passport_wrong_vcode">El codi que heu introduït és incorrecte</string>
   <string name="passport_xiaomi_account_dspt">Use your Mi Account to sign in to Mi Cloud, MIUI Theme Store, and other Mi services, from anywhere.</string>
+  <string name="passport_xiaomi_account_sec_dspt"></string>
   <string name="passport_xiaomi_account_sec_dspt2">Signing in to your Mi Account requires an internet connection. In addition, location access, Mi Cloud, and Mi VIP will be turned on automatically.</string>
   <string name="passport_xiaomi_account_sec_dspt2_vip">Necessiteu una connexió a internet per iniciar la sessió al compte Mi. A més, s\'encendra automàticament l\'accés a la localització, Mi Cloud i Mi VIP.</string>
   <string name="place_frame">"Ubicació: "</string>
