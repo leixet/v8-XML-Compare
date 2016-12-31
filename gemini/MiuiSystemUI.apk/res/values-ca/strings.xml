@@ -50,6 +50,10 @@
   <string name="accessibility_recent">Aplicacions recents</string>
   <string name="accessibility_recent_task_enter">Recentment obertes, aplicacions disponibles: %d.</string>
   <string name="accessibility_recent_task_exit">Tancades recentment</string>
+  <string name="accessibility_recent_task_first_enter_tips">Recentment obertes, aplicacions disponibles: %d. Feu lliscar cap amunt per eliminar-la, feu lliscar cap avall per bloquejar-la.</string>
+  <string name="accessibility_recent_task_locked">Bloquejada, feu lliscar cap avall per desbloquejar-la.</string>
+  <string name="accessibility_recent_task_memory_info">RAM total: %2$s | RAM disponible: %1$s. Toqueu dues vegades per netejar-la.</string>
+  <string name="accessibility_recent_task_unlocked">Desbloquejada</string>
   <string name="accessibility_remove_notification">Esborra notificació.</string>
   <string name="accessibility_ringer_silent">Timbre en silenci.</string>
   <string name="accessibility_ringer_vibrate">Vibració.</string>
@@ -231,10 +235,15 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="disabled_by_admin">S\'ha desactivat per l\'administrador</string>
   <string name="disabled_by_admin_summary_text">Controlat per l\'administrador</string>
   <string name="dismount_storage">No</string>
+  <string name="divider_menu_close">Tanca</string>
+  <string name="divider_menu_select_apps">Tria</string>
+  <string name="divider_menu_swap_task">Alterna</string>
   <string name="dlg_confirm_kill_storage_users_text">Si activa l\'emmagatzematge USB, algunes aplicacions que està usant s\'aturaran i poden no estar disponibles fins que desactivi l\'emmagatzematge USB.</string>
   <string name="dlg_confirm_kill_storage_users_title">Activa emmagatzematge USB</string>
   <string name="dlg_error_title">L\'operació USB ha fallat</string>
   <string name="dlg_ok">D\'acord</string>
+  <string name="dock_forced_resizable">És possible que l\'aplicació no funcioni amb la pantalla dividida.</string>
+  <string name="dock_non_resizeble_failed_to_dock_text">L\'aplicació no admet la pantalla dividida.</string>
   <string name="drive_mode_tip">"Estàs en mode cotxe"</string>
   <string name="enable_adb">Depuració USB activada</string>
   <string name="enable_adb_summary">Activa el mode de depuració quan el dispositiu estigui connectat per USB</string>
@@ -336,8 +345,10 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="nav_guide_title">Amaga els botons de la pantalla</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_application">Cap</string>
+  <string name="no_multi_window_app">No hi ha aplicacions compatibles amb el mode de pantalla dividida</string>
   <string name="no_notification_tips">Sense notificacions.</string>
   <string name="no_weather_description">Obtén la informació meteorològica &gt;</string>
+  <string name="not_support_multi_window">"L'aplicació actual no és compatible amb el mode de pantalla dividida"</string>
   <string name="notification_header_title">Notificacions</string>
   <string name="notification_hidden_text">Contingut ocult</string>
   <string name="notification_manager">Administrar notificacions</string>
