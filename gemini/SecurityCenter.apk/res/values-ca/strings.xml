@@ -860,6 +860,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="optimize_result_button_cooldown_now">Refreda</string>
   <string name="optimize_result_button_correct_now">Ajusta</string>
   <string name="optimize_result_button_fix_now">Arregla</string>
+  <string name="optimize_result_button_mifi_insurance">Compra ara</string>
   <string name="optimize_result_button_onekey_open">Activa</string>
   <string name="optimize_result_button_onekey_restore">Restaura</string>
   <string name="optimize_result_button_open_now">Activa</string>
