@@ -1,5 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_195">false</string>
+  <string name="APKTOOL_DUMMY_196">false</string>
+  <string name="APKTOOL_DUMMY_197">false</string>
+  <string name="APKTOOL_DUMMY_198">false</string>
+  <string name="APKTOOL_DUMMY_199">false</string>
+  <string name="APKTOOL_DUMMY_19a">false</string>
+  <string name="APKTOOL_DUMMY_19b">false</string>
+  <string name="APKTOOL_DUMMY_19c">false</string>
+  <string name="APKTOOL_DUMMY_19d">false</string>
+  <string name="APKTOOL_DUMMY_19e">false</string>
+  <string name="APKTOOL_DUMMY_19f">false</string>
+  <string name="APKTOOL_DUMMY_1a0">false</string>
+  <string name="APKTOOL_DUMMY_1a1">false</string>
+  <string name="APKTOOL_DUMMY_1a2">false</string>
+  <string name="APKTOOL_DUMMY_1a3">false</string>
+  <string name="APKTOOL_DUMMY_1a4">false</string>
+  <string name="APKTOOL_DUMMY_1a5">false</string>
+  <string name="APKTOOL_DUMMY_1a6">false</string>
+  <string name="APKTOOL_DUMMY_1a7">false</string>
+  <string name="APKTOOL_DUMMY_1a8">false</string>
+  <string name="APKTOOL_DUMMY_1a9">false</string>
+  <string name="APKTOOL_DUMMY_1aa">false</string>
+  <string name="APKTOOL_DUMMY_1ab">false</string>
+  <string name="APKTOOL_DUMMY_1ac">false</string>
   <string name="account_info">My Account</string>
   <string name="account_name_not_login">Sign in</string>
   <string name="account_unactivated">Account not activated</string>
@@ -392,6 +416,7 @@
   <string name="theme_user_agreement_remind_summary">Show the Terms of Use pop-up every time you open the Themes app. This setting will take effect after you reboot your device.</string>
   <string name="theme_user_agreement_title">Terms of Use</string>
   <string name="theme_yes">Yes</string>
+  <string name="third_party_pickers_activity_title">Add %1$s</string>
   <string name="title_component">Customize theme</string>
   <string name="title_my_audio_resource">My ringtones</string>
   <string name="title_my_wallpaper_resource">My wallpapers</string>
