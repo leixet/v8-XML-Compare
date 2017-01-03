@@ -16,7 +16,7 @@
   <string name="bluetooth_map_settings_app_icon">Icona de l\'aplicació</string>
   <string name="bluetooth_map_settings_cancel">Cancel·la</string>
   <string name="bluetooth_map_settings_count">Espais lliures:</string>
-  <string name="bluetooth_map_settings_intro">Seleccioneu els comptes que vulgueu compartir per Bluetooth. Cal que accepteu l\'accés als comptes en connectar-hi.</string>
+  <string name="bluetooth_map_settings_intro">Seleccioneu els comptes que vulgueu compartir per Bluetooth. Caldrà que accepteu qualsevol accés als comptes en connectar-hi.</string>
   <string name="bluetooth_map_settings_no_account_slots_left">No es pot seleccionar el compte. No queda espai.</string>
   <string name="bluetooth_map_settings_save">Desa</string>
   <string name="bluetooth_map_settings_title">Configuració per compartir missatges mitjançant el Bluetooth</string>
