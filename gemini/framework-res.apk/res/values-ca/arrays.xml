@@ -105,24 +105,24 @@
   </string-array>
   <string-array name="fingerprint_acquired_vendor">
     <item>Reservat0</item>
-    <item>Reservat1</item>
-    <item>Col·loqueu el dit en el sensor</item>
+    <item></item>
+    <item></item>
     <item>Col·loqueu completament el dit sobre sensor</item>
-    <item>Aixequeu el dit1 i i cobriu el sensor fermament i completament</item>
+    <item></item>
     <item>Aixequeu el dit2 i i cobriu el sensor fermament i completament</item>
     <item>Reservat6</item>
-    <item>Reservat7</item>
-    <item>Reservat8</item>
-    <item>Reservat9</item>
-    <item>Reservat10</item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
     <item>Reservat11</item>
     <item>Reservat12</item>
     <item>"Col·loqueu el dit3 directament en el sensor"</item>
     <item>Moveu el dit lleugerament entre escanejos</item>
     <item>Aixequeu el dit5</item>
     <item>Mantingueu prolongadament el dit6 al sensor</item>
-    <item>Reservat17</item>
-    <item>Reservat18</item>
+    <item></item>
+    <item></item>
   </string-array>
   <array name="fingerprint_error_vendor"></array>
   <string-array name="imAddressTypes">
