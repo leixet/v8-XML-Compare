@@ -92,6 +92,8 @@
     <item>S\'està cercant el servei</item>
   </string-array>
   <array name="keypress_param_value"></array>
+  <array name="config_operatorConsideredDomesticRoaming"></array>
+  <array name="config_operatorConsideredDomesticRoamingExceptions"></array>
   <array name="common_nicknames"></array>
   <string-array name="wfcOperatorErrorAlertMessages">
     <item>Per fer trucades i enviar missatges per Wi-Fi, primer heu de demanar a l\'operador de telefonia mòbil que configuri aquest servei. Després, torneu a activar les trucades per Wi-Fi des de la Configuració.</item>
