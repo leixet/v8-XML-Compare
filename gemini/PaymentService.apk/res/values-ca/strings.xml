@@ -49,4 +49,10 @@
   <string name="mibi_giftcard_denom">Crèdit Mi</string>
   <string name="mibi_giftcard_denom_available">Crèdit Mi disponible</string>
   <string name="mibi_giftcard_has_expired">Ha caducat al %1$s</string>
+  <string name="mibi_giftcard_will_expire">Caduca al %1$s</string>
+  <string name="mibi_label_balance">Saldo</string>
+  <string name="mibi_label_giftcard">Targeta de regal</string>
+  <string name="mibi_license_title">Termes i condicions</string>
+  <string name="mibi_lockpattern_confirm_button_text">Confirma</string>
+  <string name="mibi_lockpattern_continue_button_text">Continua</string>
 </resources>
