@@ -8,11 +8,11 @@
     <item>S\'està autenticant&#8230;</item>
     <item>S\'està obtenint l\'adreça IP&#8230;</item>
     <item>Connectat</item>
-    <item>Suspesa</item>
+    <item>Suspès</item>
     <item>S\'està desconnectant&#8230;</item>
-    <item>S\'ha desconnectat</item>
-    <item>Error</item>
-    <item>Boquejat</item>
+    <item>Desconnectat</item>
+    <item>Incorrecte</item>
+    <item>Bloquejat</item>
     <item>S\'està evitant temporalment una mala connexió</item>
   </string-array>
   <string-array name="wifi_status_with_ssid">
@@ -22,16 +22,16 @@
     <item>S\'està autenticant amb %1$s&#8230;</item>
     <item>S\'està obtenint l\'adreça IP des de %1$s&#8230;</item>
     <item>S\'ha connectat a %1$s</item>
-    <item>Suspesa</item>
+    <item>Suspès</item>
     <item>S\'està desconnectant de %1$s&#8230;</item>
-    <item>Desconnectada</item>
-    <item>Error</item>
-    <item>Bloquejada</item>
+    <item>Desconnectat</item>
+    <item>Incorrecte</item>
+    <item>Boquejat</item>
     <item>S\'està evitant temporalment una mala connexió</item>
   </string-array>
   <string-array name="hdcp_checking_titles">
     <item>No ho comprovis mai</item>
-    <item>Comprova només contingut DRM</item>
+    <item>Només comprova si el contingut té DRM</item>
     <item>Comprova-ho sempre</item>
   </string-array>
   <string-array name="hdcp_checking_summaries">
@@ -40,7 +40,7 @@
     <item>Utilitza sempre la comprovació HDCP</item>
   </string-array>
   <string-array name="select_logd_size_titles">
-    <item>Desactivat</item>
+    <item>Inactiu</item>
     <item>64K</item>
     <item>256K</item>
     <item>1M</item>
@@ -48,7 +48,7 @@
     <item>16M</item>
   </string-array>
   <string-array name="select_logd_size_lowram_titles">
-    <item>Desactivat</item>
+    <item>Apagat</item>
     <item>64K</item>
     <item>256K</item>
     <item>1M</item>
@@ -59,13 +59,13 @@
     <item>256K per registre de memòria</item>
     <item>1M per registre de memòria</item>
     <item>4M per registre de memòria</item>
-    <item>16M per cada registre de memòria</item>
+    <item>16M per registre de memòria</item>
   </string-array>
   <string-array name="window_animation_scale_entries">
     <item>Sense animacions</item>
     <item>Escala d\'animació 0.5x</item>
     <item>Escala d\'animació 1x</item>
-    <item>Escala d\'animació 1.5x</item>
+    <item>Escala d\'animació 1,5x</item>
     <item>Escala d\'animació 2x</item>
     <item>Escala d\'animació 5x</item>
     <item>Escala d\'animació 10x</item>
@@ -74,7 +74,7 @@
     <item>Sense animacions</item>
     <item>Escala d\'animació 0.5x</item>
     <item>Escala d\'animació 1x</item>
-    <item>Escala d\'animació 1.5x</item>
+    <item>Escala d\'animació 1,5x</item>
     <item>Escala d\'animació 2x</item>
     <item>Escala d\'animació 5x</item>
     <item>Escala d\'animació 10x</item>
@@ -83,7 +83,7 @@
     <item>Sense animacions</item>
     <item>Escala d\'animació 0.5x</item>
     <item>Escala d\'animació 1x</item>
-    <item>Escala d\'animació 1.5x</item>
+    <item>Escala d\'animació 1,5x</item>
     <item>Escala d\'animació 2x</item>
     <item>Escala d\'animació 5x</item>
     <item>Escala d\'animació 10x</item>
@@ -98,34 +98,34 @@
     <item>1080p (segur)</item>
     <item>4K</item>
     <item>4K (segur)</item>
-    <item>4K (redimensionat)</item>
-    <item>4K (redimensionat, segur)</item>
+    <item>4K (ampliat)</item>
+    <item>4K (ampliat, segur)</item>
     <item>720p, 1080p (pantalla dual)</item>
   </string-array>
   <string-array name="enable_opengl_traces_entries">
     <item>Cap</item>
     <item>Logcat</item>
     <item>Systrace (gràfics)</item>
-    <item>Trucades en glGetError</item>
+    <item>Pila de crides a glGetError</item>
   </string-array>
   <string-array name="show_non_rect_clip_entries">
     <item>Desactivat</item>
-    <item>Dibuixa en blau les regions no rectangulars del clip</item>
-    <item>Ressalta en verd les ordres de dibuixos ja provats</item>
+    <item>Dibuixa l\'àrea de tall no rectangular en blau</item>
+    <item>Ressalta en color verd les ordres de dibuix verificades</item>
   </string-array>
   <string-array name="track_frame_time_entries">
     <item>Desactivat</item>
-    <item>Per pantalla en forma de barres</item>
-    <item>Per adb shell dumpsys gfxinfo</item>
+    <item>A la pantalla com barres</item>
+    <item>Volcat de sistema gfxinfo a la consola del adb</item>
   </string-array>
   <string-array name="debug_hw_overdraw_entries">
     <item>Desactivat</item>
     <item>Mostra les àrees sobreposades</item>
-    <item>Mostra les àrees amb Deuteranomaly</item>
+    <item>Mostra les àrees per Deuteranomaly</item>
   </string-array>
   <string-array name="app_process_limit_entries">
     <item>Límit estàndard</item>
-    <item>Sense processos en segon pla</item>
+    <item>Sense processos de fons</item>
     <item>Com a molt 1 procés</item>
     <item>Com a molt 2 processos</item>
     <item>Com a molt 3 processos</item>
@@ -133,8 +133,8 @@
   </string-array>
   <string-array name="usb_configuration_titles">
     <item>S\'està carregant</item>
-    <item>MTP (Media Transfer Protocol)</item>
-    <item>PTP (Picture Transfer Protocol)</item>
+    <item>PTP (Protocol de Transferència de Multimèdia)</item>
+    <item>PTP (Protocol de Transferència d\'imatges)</item>
     <item>RNDIS (USB Ethernet)</item>
     <item>Font d\'àudio</item>
     <item>MIDI</item>
@@ -144,20 +144,62 @@
     <item>Lent</item>
     <item>Normal</item>
     <item>Ràpid</item>
-    <item>El més ràpid</item>
+    <item>Més ràpid</item>
     <item>Molt ràpid</item>
-    <item>Ràpida</item>
+    <item>Ràpid</item>
     <item>Molt ràpid</item>
     <item>El més ràpid</item>
   </string-array>
+  <string-array name="tts_demo_strings">
+    <item>This is an example of speech synthesis in English.</item>
+    <item>Voici un échantillon de synthèse vocale en français.</item>
+    <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+    <item>Questo è un esempio di sintesi vocale in italiano.</item>
+    <item>Este es un ejemplo de síntesis de voz en español.</item>
+    <item>Aquest és un exemple d\'una síntesi de veu del Coreà.</item>
+  </string-array>
   <string-array name="color_mode_names">
-    <item>Vibrant (per defecte)</item>
+    <item>Vibrant (predeterminat)</item>
     <item>Natural</item>
     <item>Estàndard</item>
   </string-array>
   <string-array name="color_mode_descriptions">
     <item>Colors millorats</item>
     <item>Colors naturals tal com els veu l\'ull humà</item>
-    <item>Colors optimitzats per al contingut digital</item>
+    <item>Colors optimitzats per contingut digital</item>
+  </string-array>
+  <string-array name="battery_labels">
+    <item>0%</item>
+    <item>50%</item>
+    <item>100%</item>
+  </string-array>
+  <string-array name="weather_type">
+    <item>Serè</item>
+    <item>Ennuvolat</item>
+    <item>Cobert</item>
+    <item>Emboirat</item>
+    <item>Temporal fort</item>
+    <item>Aiguat</item>
+    <item>Temporal</item>
+    <item>Tempesta</item>
+    <item>Xàfec</item>
+    <item>Pluja forta</item>
+    <item>Pluja moderada</item>
+    <item>Pluja feble</item>
+    <item>Aiguaneu</item>
+    <item>Torb</item>
+    <item>Neu</item>
+    <item>Neu forta</item>
+    <item>Neu moderada</item>
+    <item>Neu feble</item>
+    <item>Temporal fort de sorra</item>
+    <item>Temporal de sorra</item>
+    <item>Sorra</item>
+    <item>Ventós</item>
+    <item>Pedra</item>
+    <item>Pols</item>
+    <item>Calitja</item>
+    <item>Pluja gelant</item>
+    <item></item>
   </string-array>
 </resources>
