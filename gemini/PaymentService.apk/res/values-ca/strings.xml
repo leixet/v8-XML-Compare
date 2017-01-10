@@ -32,4 +32,21 @@
   <string name="mibi_cancel">Cancel·la</string>
   <string name="mibi_deduct_goods_name">Article</string>
   <string name="mibi_deduct_open">Engega</string>
+  <string name="mibi_deduct_open_prompt">%1$s us podrà carregar automàticament utilitzant %2$s sense verificació. Podeu aturar aquesta funció en %1$s</string>
+  <string name="mibi_deduct_order_price">Preu</string>
+  <string name="mibi_deduct_pay_group_title">Seleccioneu el tipus de descompte</string>
+  <string name="mibi_deduct_payment_title">Descomptes automàtics</string>
+  <string name="mibi_deduct_success">Protocol de pagament automàtic activat</string>
+  <string name="mibi_deduct_success_sub">Tipus de descompte:%1$s</string>
+  <string name="mibi_deduct_type">Forma de pagament</string>
+  <string name="mibi_detail_consume_amount">Total</string>
+  <string name="mibi_detail_consume_name">Article</string>
+  <string name="mibi_detail_giftcard_activity">Promoció</string>
+  <string name="mibi_detail_giftcard_expired_time">Data de caducitat</string>
+  <string name="mibi_get_phone_format_error">Verifiqueu el número de telèfon</string>
+  <string name="mibi_get_phone_num_title">Introduïu un número de telèfon</string>
+  <string name="mibi_get_phone_sms_prompt">S\'ha enviat el codi de verificació a %1$s</string>
+  <string name="mibi_giftcard_denom">Crèdit Mi</string>
+  <string name="mibi_giftcard_denom_available">Crèdit Mi disponible</string>
+  <string name="mibi_giftcard_has_expired">Ha caducat al %1$s</string>
 </resources>
