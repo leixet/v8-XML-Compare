@@ -65,6 +65,13 @@
   <string name="mibi_label_balance">Saldo</string>
   <string name="mibi_label_giftcard">Targeta de regal</string>
   <string name="mibi_license_title">Termes i condicions</string>
+  <string name="mibi_lockpassword_choose_your_pattern_header">Seleccioneu el vostre patró contrasenya</string>
+  <string name="mibi_lockpassword_confirm_your_pattern_header">Confirmeu el vostre patró contrasenya</string>
+  <string name="mibi_lockpassword_input_your_pattern_header">Confirmeu el vostre patró contrasenya</string>
   <string name="mibi_lockpattern_confirm_button_text">Confirma</string>
   <string name="mibi_lockpattern_continue_button_text">Continua</string>
+  <string name="mibi_lockpattern_need_to_confirm">Torneu a traçar el vostre patró contrasenya per confirmar-lo:</string>
+  <string name="mibi_lockpattern_need_to_confirm_wrong">"Els patrons contrasenya no coincideixen. Torneu-ho a provar:"</string>
+  <string name="mibi_lockpattern_pattern_confirmed_header">El vostre nou patró contrasenya de desbloqueig:</string>
+  <string name="mibi_lockpattern_pattern_entered_header">S\'ha desat el patró contrasenya.</string>
 </resources>
