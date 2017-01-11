@@ -50,6 +50,15 @@
   <string name="mibi_direct_pay_novalid_method">Opció de pagament no vàlida.</string>
   <string name="mibi_direct_payment_title">Informació de la comanda</string>
   <string name="mibi_error_account_changed_title">Ha canviat el compte</string>
+  <string name="mibi_error_account_throtting">"El vostre compte no és segur.
+Contacteu amb el nostre servei al client"</string>
+  <string name="mibi_error_auth_summary">Torneu a iniciar la sessió al vostre compte Mi</string>
+  <string name="mibi_error_cert_date_summary">"Error de la data del certificat.
+Comproveu la vostra data local i torneu a provar."</string>
+  <string name="mibi_error_common_summary">Error del sistema. Intenteu-ho més tard.</string>
+  <string name="mibi_error_deduct">"No es va poder activar el protocol de pagament automàtic"</string>
+  <string name="mibi_error_expired_summary">La vostra comanda ha caducat</string>
+  <string name="mibi_error_frozen_service_time">Dilluns a diumenge</string>
   <string name="mibi_error_invalid_device">Dispositiu no vàlid.</string>
   <string name="mibi_error_mili_summary">No hi ha prou saldo.</string>
   <string name="mibi_error_network_summary">"No s'ha pogut connectar a la xarxa."</string>
