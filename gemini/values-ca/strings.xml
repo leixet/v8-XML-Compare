@@ -61,10 +61,16 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="mibi_error_deduct">"No es va poder activar el protocol de pagament automàtic"</string>
   <string name="mibi_error_expired_summary">La vostra comanda ha caducat</string>
   <string name="mibi_error_frozen_service_time">Dilluns a diumenge</string>
+  <string name="mibi_error_frozen_summary">"El vostre compte està bloquejat.
+Contacteu amb el servei al client de Xiaomi"</string>
+  <string name="mibi_error_has_bought_summary">Ja heu comprat aquest producte.</string>
+  <string name="mibi_error_illegal_order_summary">Error en la comanda. Torneu-ho a provar més tard</string>
   <string name="mibi_error_invalid_device">Dispositiu no vàlid.</string>
   <string name="mibi_error_mili_summary">No hi ha prou saldo.</string>
   <string name="mibi_error_network_summary">"No s'ha pogut connectar a la xarxa."</string>
   <string name="mibi_error_pay_result_uncertain">Resultat del pagament no confirmat.</string>
+  <string name="mibi_error_recharge_process_fail">El procés de recàrrega falla.</string>
+  <string name="mibi_error_recharge_result_fail">La recàrrega no ha acabat bé.</string>
   <string name="mibi_error_server_summary">Error al servidor. Torneu-ho a provar més tard</string>
   <string name="mibi_error_user_id_mismatch_summary">Comproveu i torneu a iniciar la sessió al vostre compte</string>
   <string name="mibi_error_web_summary">Error del servidor</string>
