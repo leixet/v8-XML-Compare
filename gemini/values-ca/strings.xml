@@ -130,6 +130,17 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="mibi_title_custom_service_phone">Contacta amb atenció al client</string>
   <string name="mibi_title_discounts">Descomptes</string>
   <string name="mibi_title_gesture">Patró de bloqueig</string>
+  <string name="mibi_title_mili_center">Crèdits Mi</string>
+  <string name="mibi_title_nopassword">"No és necessari en petits pagaments"</string>
   <string name="mibi_title_nopassword_dialog">Límit diari</string>
   <string name="mibi_title_password">Contraseya</string>
+  <string name="mibi_voucher_error_password">El codi no és vàlid.</string>
+  <string name="mibi_voucher_input_password_prompt">Introduïu codi</string>
+  <string name="mibi_web_login">Inici de sessió</string>
+  <string name="mibi_web_login_description">Inici de sessió</string>
+  <string name="mibi_web_login_waiting">Espereu si us plau&#8230;</string>
+  <string name="passport_access_denied">S\'ha denegat l\'accés</string>
+  <string name="passport_account_hint_text">Adreça de correu o identificador del compte Mi</string>
+  <string name="passport_activing_account">S\'està activant&#8230;</string>
+  <string name="passport_back">Torna</string>
 </resources>
