@@ -70,13 +70,17 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="mibi_error_web_summary">Error del servidor</string>
   <string name="mibi_fee">%1$s Crèdit Mi</string>
   <string name="mibi_forget_password">&lt;u&gt;Contrasenya oblidada&lt;/u&gt;</string>
+  <string name="mibi_frozen_sub">S\'ha detectat activitat anormal</string>
   <string name="mibi_get_phone_format_error">Verifiqueu el número de telèfon</string>
   <string name="mibi_get_phone_num_title">Introduïu un número de telèfon</string>
   <string name="mibi_get_phone_sms_prompt">S\'ha enviat el codi de verificació a %1$s</string>
   <string name="mibi_giftcard_denom">Crèdit Mi</string>
   <string name="mibi_giftcard_denom_available">Crèdit Mi disponible</string>
+  <string name="mibi_giftcard_denom_frozen">Crèdit Mi bloquejat</string>
   <string name="mibi_giftcard_empty">No hi ha targetes regal.</string>
   <string name="mibi_giftcard_has_expired">Ha caducat al %1$s</string>
+  <string name="mibi_giftcard_hint">Els crèdits Mi afegits via targeta regal són els que es gastaran en primer lloc.</string>
+  <string name="mibi_giftcard_record">Les meves targetes regal</string>
   <string name="mibi_giftcard_will_expire">Caduca al %1$s</string>
   <string name="mibi_label_balance">Saldo</string>
   <string name="mibi_label_giftcard">Targeta de regal</string>
@@ -90,4 +94,17 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="mibi_lockpattern_need_to_confirm_wrong">"Els patrons contrasenya no coincideixen. Torneu-ho a provar:"</string>
   <string name="mibi_lockpattern_pattern_confirmed_header">El vostre nou patró contrasenya de desbloqueig:</string>
   <string name="mibi_lockpattern_pattern_entered_header">S\'ha desat el patró contrasenya.</string>
+  <string name="mibi_lockpattern_tutorial_cancel_label">Cancel·la</string>
+  <string name="mibi_lockpattern_tutorial_continue_label">Següent</string>
+  <string name="mibi_menu_qa">PMF</string>
+  <string name="mibi_menu_shotcut">Posa-ho a la pantalla d\'inici</string>
+  <string name="mibi_mili_center">Crèdit Mi</string>
+  <string name="mibi_milicenter_title">Crèdit Mi</string>
+  <string name="mibi_mipay_error">El pagament Mi ha fallat</string>
+  <string name="mibi_msg_denomination_type">Crèdit Mi</string>
+  <string name="mibi_msg_error">La recàrrega ha fallat</string>
+  <string name="mibi_msg_order_hint_1_1">Després que toqueu la confirmació de la compra, el vostre telèfon es</string>
+  <string name="mibi_msg_order_hint_1_2">Contacta automàticament amb el vostre proveïdor de servei.</string>
+  <string name="mibi_password_forget">l\'heu oblidat?</string>
+  <string name="mibi_password_hint">Introduïu la contrasenya del compte</string>
 </resources>
