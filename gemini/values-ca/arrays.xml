@@ -198,21 +198,6 @@
     <item>Grossa</item>
     <item>Molt grossa</item>
   </string-array>
-  <string-array name="wifi_eap_method">
-    <item>PEAP</item>
-    <item>TLS</item>
-    <item>TTLS</item>
-    <item>PWD</item>
-    <item>SIM</item>
-    <item>AKA</item>
-    <item>"AKA'"</item>
-  </string-array>
-  <string-array name="eap_method_without_sim_auth">
-    <item>PEAP</item>
-    <item>TLS</item>
-    <item>TTLS</item>
-    <item>PWD</item>
-  </string-array>
   <string-array name="wifi_p2p_wps_setup">
     <item>Premeu el botó</item>
     <item>PIN del dispositiu a aparellar</item>
@@ -647,18 +632,6 @@
   <string-array name="wifi_wapi_key_type">
     <item>WAPI ASCII</item>
     <item>WAPI hexadecimal</item>
-  </string-array>
-  <string-array name="wifi_eap_method_add_sim">
-    <item>PEAP</item>
-    <item>TLS</item>
-    <item>TTLS</item>
-    <item>PWD</item>
-    <item>SIM</item>
-    <item>AKA</item>
-  </string-array>
-  <string-array name="wifi_eap_method_add_sim_for_cmcc">
-    <item>PEAP</item>
-    <item>SIM</item>
   </string-array>
   <string-array name="screen_key_position_action">
     <item>Botó de Menú a l\'esquerra i botó Enrera a la dreta</item>
