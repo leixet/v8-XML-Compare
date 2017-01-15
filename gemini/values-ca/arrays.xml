@@ -486,12 +486,12 @@
     <item>100%</item>
   </string-array>
   <string-array name="captioning_preset_selector_titles">
+    <item>Valors predeterminats</item>
     <item>Blanc sobre negre</item>
-    <item>Negre sobre blanc</item>
     <item>Negre sobre blanc</item>
     <item>Groc sobre negre</item>
     <item>Groc sobre blau</item>
-    <item>Personalitza</item>
+    <item>Personalitzat</item>
   </string-array>
   <string-array name="vpn_types">
     <item>PPTP</item>
