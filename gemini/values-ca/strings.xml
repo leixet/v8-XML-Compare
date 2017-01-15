@@ -121,9 +121,15 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_giftcard_title">Targeta regal Mi Credit</string>
   <string name="mibi_giftcard_will_expire">Caduca al %1$s</string>
   <string name="mibi_giftcard_with_num">%1$s Cupó Mi Credit disponible</string>
+  <string name="mibi_illegal_intent">Intent de sol·licitud il·legal</string>
+  <string name="mibi_is_what">Què puc comprar amb Mi Credits?</string>
   <string name="mibi_label_balance">Saldo</string>
   <string name="mibi_label_giftcard">Targeta de regal</string>
+  <string name="mibi_label_pay_remain">Quantitat deguda: %1$s Mi Credits</string>
+  <string name="mibi_license_message">"Sou a punt d'utilitzar Mi Credit, que és un servei proporcionat per Xiaomi Inc. Abans de poder utilitzar aquest servei, heu d'acceptar les Condicions de servei que s'indiquen a %1$s. Premeu D'acord si accepteu els termes i condicions descrits a %1$s. Necessitareu connectar-vos a Internet i localitzar el vostre dispositiu per utilitzar Mi Credit."</string>
+  <string name="mibi_license_message_span">Acord d\'usuari de Mi Credit</string>
   <string name="mibi_license_title">Termes i condicions</string>
+  <string name="mibi_list_item_bottom_hint">"Heu arribat al final d'aquesta llista"</string>
   <string name="mibi_lockpassword_choose_your_pattern_header">Seleccioneu el vostre patró contrasenya</string>
   <string name="mibi_lockpassword_confirm_your_pattern_header">Confirmeu el vostre patró contrasenya</string>
   <string name="mibi_lockpassword_input_your_pattern_header">Confirmeu el vostre patró contrasenya</string>
@@ -131,8 +137,10 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_lockpattern_continue_button_text">Continua</string>
   <string name="mibi_lockpattern_need_to_confirm">Torneu a traçar el vostre patró contrasenya per confirmar-lo:</string>
   <string name="mibi_lockpattern_need_to_confirm_wrong">"Els patrons contrasenya no coincideixen. Torneu-ho a provar:"</string>
+  <string name="mibi_lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Contrasenya incorrecta, podeu intentar-ho %d vegades més&lt;/font&gt;</string>
   <string name="mibi_lockpattern_pattern_confirmed_header">El vostre nou patró contrasenya de desbloqueig:</string>
   <string name="mibi_lockpattern_pattern_entered_header">S\'ha desat el patró contrasenya.</string>
+  <string name="mibi_lockpattern_recording_incorrect_too_short">Connecteu almenys %d punts. Torneu a intentar-ho:</string>
   <string name="mibi_lockpattern_tutorial_cancel_label">Cancel·la</string>
   <string name="mibi_lockpattern_tutorial_continue_label">Següent</string>
   <string name="mibi_menu_qa">PMF</string>
