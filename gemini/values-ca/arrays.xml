@@ -146,13 +146,8 @@
     <item>Colors naturals tal com els veu l\'ull humà</item>
     <item>Colors optimitzats per al contingut digital</item>
   </string-array>
-  <string-array name="battery_labels">
-    <item>0%</item>
-    <item>50%</item>
-    <item>100%</item>
-  </string-array>
   <string-array name="status_bar_style_entries">
-    <item>S\'han combinat</item>
+    <item>Combinat</item>
     <item>Separat</item>
   </string-array>
   <string-array name="timezone_filters">
