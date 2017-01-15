@@ -9,7 +9,7 @@
   <string name="Settings_title_network_assistants">Configuració d\'ús de dades</string>
   <string name="Settings_title_power_center">Configuració de bateria</string>
   <string name="ac_enable_title">Activa el bloquejador d\'aplicacions</string>
-  <string name="ac_enter_applock">Entrar al bloquejador d\'aplicacions</string>
+  <string name="ac_enter_applock">Entra al bloquejador d\'aplicacions</string>
   <string name="ac_firstUseApplock_subTitle">Utilitzeu el bloquejador d\'aplicacions per protegir la seva privacitat</string>
   <string name="ac_firstUseApplock_title">Sol·licitar contrasenya per obrir les aplicacions seleccionades</string>
   <string name="ac_summaryOff">Desactivat, no es requereix cap contrasenya per obrir aplicacions</string>
@@ -405,7 +405,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="datausage_ignore_app_list_count">"Ignorant %d ús de dades d'aplicacions"</string>
   <string name="declaration_dialog_msg">Aquesta característica pot ajudar a vigilar el seu ús, però no li garanteix evitar càrrecs addicionals. Per obtenir millors resultats, estableixi un límit conservador.</string>
   <string name="deep_clean_disconnect_data_title">Desactiva les dades mòbils quan el dispositiu està bloquejat</string>
-  <string name="deep_clean_memory_clean_title">Esborrar la memòria cau quan el dispositiu està bloquejat</string>
+  <string name="deep_clean_memory_clean_title">Esborra la memòria cau quan el dispositiu està bloquejat</string>
   <string name="deep_clean_never_memory_clean">Mai</string>
   <string name="deep_save_memory_clean_summary">Esborra la memòria cau quan es bloqueja el dispositiu per evitar l\'ús de la bateria de les aplicacions</string>
   <string name="deep_save_ontime_boot_shutdown_summary">Programar temps per engegar el dispositiu i apagar</string>
@@ -605,7 +605,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="keywords_networkassistant_2">Dades;Calibrar</string>
   <string name="keywords_networkassistant_4">Connexió;Internet;Prova</string>
   <string name="keywords_permcenter">Automàtic;Permisos;ROOT;Ubicació;Accés a contactes</string>
-  <string name="keywords_powercenter">Estalvi de bateria;Escalfament;Engegar;Apagar;Bateria;Drenatge</string>
+  <string name="keywords_powercenter">Estalvi de bateria;Sobreescalfament;Engega;Apaga;Bateria;Consum excessiu</string>
   <string name="keywords_powercenter_powerrank">Ús de bateria</string>
   <string name="keywords_securitycenter">Seguretat;Comprovar;Escannejar</string>
   <string name="keywords_securitycenter_settings">Estalvi de bateria;Permisos;Blocklist;Ús de dades;Calibrar pla de dades;Prova de xarxa;Bloqueig d\'app;Estalviar bateria;Escalfament;Engegar;Apagar;Bateria;Drenatge;Automàtic;ROOT;Ubicació;Accés a contactes;Bloquejar;Llista negre;Blocklist intel·ligent;Frau;Vendes;Agents;Dades;Trànsit;Calibrar;Connexió;Internet;Prova;Contrasenya;Privacitat;Accés;Protecció</string>
@@ -816,9 +816,9 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="no_network">"No s'ha pogut connectar a la xarxa, torneu-ho a provar més tard"</string>
   <string name="no_network_btn">Torna a provar-ho</string>
   <string name="none_mi_service_app_detail">Buit</string>
-  <string name="notification_battery_consume_abnormal_summary">Drenat %2$s de la bateria durant els últims %1$d minuts</string>
+  <string name="notification_battery_consume_abnormal_summary">S\'ha consumit un %2$s de la bateria en els últims %1$d minuts</string>
   <string name="notification_battery_consume_abnormal_title">La bateria està sent drenada massa ràpid</string>
-  <string name="notification_battery_over_heat_summary">Troba què causa escalfament i refreda el dispositiu.</string>
+  <string name="notification_battery_over_heat_summary">Trobeu què causa el sobreescalfament i refredeu el dispositiu.</string>
   <string name="notification_battery_over_heat_title">La temperatura actual és de %d℃</string>
   <string name="notification_charging_title">"S'està carregant "</string>
   <string name="notification_exit_power_save_mode">Apagar estalvi de bateria</string>
@@ -925,7 +925,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="permission_exception_summary">"Algunes aplicacions no tenen permís per connectar-se a internet"</string>
   <string name="permission_exception_title">Veure permisos de xarxa</string>
   <string name="permission_group_title_others">Altres</string>
-  <string name="permission_permission_control_closed_desc_dialog_msg">"Les aplicacions no li demanaran permís per llegir els seus contactes, veure el registre de trucades, canviar paràmetres del sistema o accedir a la càmera i altres recursos. Activeu aquesta característica en ajustos de Permisos."</string>
+  <string name="permission_permission_control_closed_desc_dialog_msg">"Les aplicacions no us demanaran permís per llegir els contactes, veure el registre de trucades, canviar paràmetres del sistema o accedir a la càmera i altres recursos. Activeu aquesta característica a la configuració de Permisos."</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Gestor de permisos</string>
   <string name="permission_send_sms_descx">Aplicacions poden enviar missatges SMS i MMS</string>
   <string name="permission_with_SMS_and_MMS">Permisos relatius a SMS i MMS</string>
@@ -1003,7 +1003,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="power_settings_number">Percentatge</string>
   <string name="power_settings_saver_title">Estalvi d\'energia</string>
   <string name="power_settings_shape">Gràfic</string>
-  <string name="power_settings_title">Selecciona</string>
+  <string name="power_settings_title">Configuració</string>
   <string name="power_settings_top">Barra superior</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pref_about">Quant a</string>
@@ -1266,12 +1266,12 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="seton_immediately">Activa</string>
   <string name="setting_privacy_password">Estableix la contrasenya de protecció de la privacitat</string>
   <string name="settings">Configuració d\'ús de dades</string>
-  <string name="settings_battery_consume_abnormal_summary">Rebre notificacions quan la bateria està sent drenada ràpid</string>
-  <string name="settings_battery_consume_abnormal_title">Notificacions de descàrrega de la bateria</string>
-  <string name="settings_battery_over_heat_summary">Rebre notificacions quan el dispositiu s\'escalfa més del normal</string>
-  <string name="settings_battery_over_heat_title">Notificacions d\'escalfament</string>
-  <string name="settings_category_other">Altres ajustos</string>
-  <string name="settings_category_overheat">Escalfament</string>
+  <string name="settings_battery_consume_abnormal_summary">Rebreu notificacions quan el consum de bateria sigui més alt que l\'habitual</string>
+  <string name="settings_battery_consume_abnormal_title">Notificacions de consum excessiu de bateria</string>
+  <string name="settings_battery_over_heat_summary">Rebreu notificacions quan el dispositiu se sobreescalfi més del normal</string>
+  <string name="settings_battery_over_heat_title">Notificacions de sobreescalfament</string>
+  <string name="settings_category_other">Altres paràmetres</string>
+  <string name="settings_category_overheat">Sobreescalfament</string>
   <string name="settings_choice_no_notification">Apagat</string>
   <string name="settings_power_save_ontime_title">Horari</string>
   <string name="settings_title_payment_security">Configuració de la seguretat de pagament</string>
@@ -1352,7 +1352,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="summary_cloud_space_almost_full">Aconseguir més espai</string>
   <string name="summary_cloud_space_full">Aconseguir més espai i accés a més funcionalitats</string>
   <string name="summary_cmcc_app_check">"Algunes aplicacions no van poder ser verificades"</string>
-  <string name="summary_consume_power">S\'han trobat problemes d\'escalfament que poden afectar la vida útil de la bateria</string>
+  <string name="summary_consume_power">S\'han trobat problemes de sobreescalfament que poden afectar la vida útil de la bateria</string>
   <string name="summary_data_flow">Evitar sobrepassar el límit mensual del seu pla de dades</string>
   <string name="summary_default_app">"%s no s'ha configurat com a aplicació predeterminada del sistema"</string>
   <string name="summary_dev">Evitar malware i protegir les dades personals</string>
