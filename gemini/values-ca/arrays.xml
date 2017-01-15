@@ -118,8 +118,8 @@
     <item>Com a molt 4 processos</item>
   </string-array>
   <string-array name="usb_configuration_titles">
-    <item>Charging</item>
-    <item>MTP (Media Transfer Protocol)</item>
+    <item>Càrrega</item>
+    <item>MTP (Protocol de Transferència de Multimèdia)</item>
     <item>PTP (Picture Transfer Protocol)</item>
     <item>RNDIS (USB Ethernet)</item>
     <item>Font d\'àudio</item>
@@ -135,14 +135,6 @@
     <item>Ràpida</item>
     <item>Molt ràpida</item>
     <item>El més ràpid</item>
-  </string-array>
-  <string-array name="tts_demo_strings">
-    <item>This is an example of speech synthesis in English.</item>
-    <item>Voici un échantillon de synthèse vocale en français.</item>
-    <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-    <item>Questo è un esempio di sintesi vocale in italiano.</item>
-    <item>Este es un ejemplo de síntesis de voz en español.</item>
-    <item>이것은 한국어 음성 합성의 예입니다.</item>
   </string-array>
   <string-array name="color_mode_names">
     <item>Vibrant (predeterminat)</item>
