@@ -141,8 +141,18 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_lockpattern_pattern_confirmed_header">El vostre nou patró contrasenya de desbloqueig:</string>
   <string name="mibi_lockpattern_pattern_entered_header">S\'ha desat el patró contrasenya.</string>
   <string name="mibi_lockpattern_recording_incorrect_too_short">Connecteu almenys %d punts. Torneu a intentar-ho:</string>
+  <string name="mibi_lockpattern_recording_inprogress">Aixequeu el dit quan hàgiu acabat.</string>
+  <string name="mibi_lockpattern_recording_intro_header">Dibuixeu un patró de desbloqueig:</string>
+  <string name="mibi_lockpattern_retry_text">&lt;u&gt;Restableix la contrasenya del patró&lt;/u&gt;</string>
+  <string name="mibi_lockpattern_settings_help_how_to_record">Com es dibuixa un patró de desbloqueig</string>
+  <string name="mibi_lockpattern_too_many_failed_confirmation_attempts_footer">Intenteu-ho de nou en %d segons.</string>
+  <string name="mibi_lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Massa intents fallits!&lt;/font&gt;</string>
   <string name="mibi_lockpattern_tutorial_cancel_label">Cancel·la</string>
   <string name="mibi_lockpattern_tutorial_continue_label">Següent</string>
+  <string name="mibi_lockscreen_forgot_pattern_button_text">&lt;u&gt;He oblidat la contrasenya del patró&lt;/u&gt;</string>
+  <string name="mibi_login">Inicia sessió</string>
+  <string name="mibi_memu_refresh">Recarrega</string>
+  <string name="mibi_menu_lock">Patró de bloqueig</string>
   <string name="mibi_menu_qa">PMF</string>
   <string name="mibi_menu_shotcut">Posa-ho a la pantalla d\'inici</string>
   <string name="mibi_mili_center">Crèdit Mi</string>
@@ -152,6 +162,8 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_msg_error">La recàrrega ha fallat</string>
   <string name="mibi_msg_order_hint_1_1">Després que toqueu la confirmació de la compra, el vostre telèfon es</string>
   <string name="mibi_msg_order_hint_1_2">Contacta automàticament amb el vostre proveïdor de servei.</string>
+  <string name="mibi_msg_picker_hint_1_2">La recàrrega via text podria ser més cara: &lt;font color=red&gt;€%1$d = %2$d Mi Credit&lt;/font&gt;</string>
+  <string name="mibi_msg_picker_hint_2_a">Les operadores cobraran una tarifa de servei de %1$s€ per recàrrega</string>
   <string name="mibi_password_forget">l\'heu oblidat?</string>
   <string name="mibi_password_hint">Introduïu la contrasenya del compte</string>
   <string name="mibi_password_prompt">Per donar seguretat a les vostres despeses, verifiqueu el vostre compte Mi</string>
