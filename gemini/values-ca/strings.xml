@@ -404,7 +404,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="data_usage_warning_title">Alerta d\'ús de dades</string>
   <string name="datausage_ignore_app_list_count">"Ignorant %d ús de dades d'aplicacions"</string>
   <string name="declaration_dialog_msg">Aquesta característica pot ajudar a vigilar el seu ús, però no li garanteix evitar càrrecs addicionals. Per obtenir millors resultats, estableixi un límit conservador.</string>
-  <string name="deep_clean_disconnect_data_title">Desactivar dades mòbils quan el dispositiu està bloquejat</string>
+  <string name="deep_clean_disconnect_data_title">Desactiva les dades mòbils quan el dispositiu està bloquejat</string>
   <string name="deep_clean_memory_clean_title">Esborrar la memòria cau quan el dispositiu està bloquejat</string>
   <string name="deep_clean_never_memory_clean">Mai</string>
   <string name="deep_save_memory_clean_summary">Esborra la memòria cau quan es bloqueja el dispositiu per evitar l\'ús de la bateria de les aplicacions</string>
@@ -946,7 +946,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="power_analysis_consume_title">Ús de la bateria</string>
   <string name="power_analysis_suggestion_need_optimize">Problemes d\'ús de la bateria detectats.</string>
   <string name="power_bluetooth">Bluetooth</string>
-  <string name="power_btn_analyze">Analitzar l\'ús de bateria</string>
+  <string name="power_btn_analyze">Analitza l\'ús de la bateria</string>
   <string name="power_cell">Telèfon en espera</string>
   <string name="power_center_auto_shutdown">Programar encesa i apagat</string>
   <string name="power_center_battery_full">"Bateria completament carregada"</string>
@@ -974,26 +974,26 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="power_idle">Telèfon inactiu</string>
   <string name="power_mode_choose_summary_change">Alguna cosa ha canviat en la configuració</string>
   <string name="power_optimize_auto_catagory_title">Problemes amb la bateria</string>
-  <string name="power_optimize_battery_save_idea">Optimitzar la bateria</string>
+  <string name="power_optimize_battery_save_idea">Optimitza la bateria</string>
   <string name="power_optimize_battery_save_more">Més</string>
   <string name="power_optimize_brightness">Brillantor de la pantalla</string>
   <string name="power_optimize_btn_text_fixed">Optimitzat</string>
   <string name="power_optimize_catagory_fixed_title">Optimitzat</string>
-  <string name="power_optimize_close_app">Tancar apps que consumeixen energia excessiva</string>
-  <string name="power_optimize_disable_app_autostart">Evitar que les apps s\'obrin automàticament</string>
-  <string name="power_optimize_disable_gps">Apagar GPS</string>
-  <string name="power_optimize_disable_start_other_app">Evitar que les apps obrin altres apps</string>
-  <string name="power_optimize_loading">Carregant</string>
+  <string name="power_optimize_close_app">Tanca les aplicacions que consumeixen massa energia</string>
+  <string name="power_optimize_disable_app_autostart">Evita que les aplicacions s\'obrin automàticament</string>
+  <string name="power_optimize_disable_gps">Desactiva el GPS</string>
+  <string name="power_optimize_disable_start_other_app">Evita que les aplicacions obrin altres aplicacions</string>
+  <string name="power_optimize_loading">S\'està carregant</string>
   <string name="power_optimize_manual_catagory_title">Manual</string>
-  <string name="power_optimize_open_hide_mode">Activar el mode ocult</string>
-  <string name="power_optimize_save_mode_not_opened">Estalvi de bateria apagat</string>
-  <string name="power_optimize_save_on_lockscreen">Estalviar energia quan el dispositiu està bloquejat</string>
+  <string name="power_optimize_open_hide_mode">Activa el mode ocult</string>
+  <string name="power_optimize_save_mode_not_opened">Estalvi de bateria desactivat</string>
+  <string name="power_optimize_save_on_lockscreen">Estalvia energia quan el dispositiu està bloquejat</string>
   <string name="power_phone">Trucades de veu</string>
   <string name="power_save_mode_enable">Estalvi de bateria</string>
   <string name="power_save_mode_end_time">Final</string>
-  <string name="power_save_mode_ontime_enabled">Programar temps per canviar entre modes</string>
+  <string name="power_save_mode_ontime_enabled">Programació d\'hores per canviar entre modes</string>
   <string name="power_save_mode_start_time">Inici</string>
-  <string name="power_save_mode_summary" formatted="false">Supervisar els processos de fons, desactivar la sincronització i amagar les animacions del sistema. L\'estalvi de bateria s\'apaga automàticament quan la càrrega de la bateria és del 60% o 100%.</string>
+  <string name="power_save_mode_summary" formatted="false">Supervisa els processos de fons i desactiva la sincronització. L\'estalvi de bateria s\'apaga automàticament quan la càrrega de la bateria és del 60% o del 100%.</string>
   <string name="power_save_on_time_end_time_summary_na">Fins</string>
   <string name="power_save_on_time_start_time_summary_na">Des de</string>
   <string name="power_save_summary_text">"Activar l'estalvi de bateria per reduir l'activitat de fons de les apps, aturar la sincronització, i reduir al mínim les animacions del sistema."</string>
@@ -1150,7 +1150,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="protection_category_security_title">Net (%d)</string>
   <string name="protocol_exception_title">Diagnòstics de protocol de xarxa</string>
   <string name="protocol_loop_back_exception_summary">La prova de bucle local ha fallat de nou. Per informar sobre aquesta qüestió a MIUI, aneu a l\'aplicació d\'informe d\'errors i envia un registre del dispositiu.</string>
-  <string name="quick_optimize_checking">Escaneig</string>
+  <string name="quick_optimize_checking">S\'està escanejant</string>
   <string name="quick_optimize_no_fix_issue_subtitle">"No s'ha pogut allargar la vida útil de la bateria"</string>
   <string name="quick_optimize_no_fix_issue_title">"No s'han pogut solucionar els problemes amb la bateria"</string>
   <string name="quick_optimize_no_issue">No hi ha problemes amb la bateria</string>
