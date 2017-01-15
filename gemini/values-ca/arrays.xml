@@ -493,16 +493,8 @@
     <item>Groc sobre blau</item>
     <item>Personalitzat</item>
   </string-array>
-  <string-array name="vpn_types">
-    <item>PPTP</item>
-    <item>L2TP/IPSec PSK</item>
-    <item>L2TP/IPSec RSA</item>
-    <item>IPSec Xauth PSK</item>
-    <item>IPSec Xauth RSA</item>
-    <item>IPSec Hybrid RSA</item>
-  </string-array>
   <string-array name="vpn_types_long">
-    <item>PPTP VPN</item>
+    <item>VPN PPTP</item>
     <item>VPN L2TP/IPSec amb claus prèviament compartides</item>
     <item>VPN L2TP/IPSec amb certificats</item>
     <item>VPN IPSec amb claus prèviament compartides i autenticació Xauth</item>
