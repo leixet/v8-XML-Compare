@@ -826,14 +826,6 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Molt alta (2K)</item>
     <item>Normal (720p)</item>
   </string-array>
-  <string-array name="miui_entries_font_size">
-    <item>S</item>
-    <item>M</item>
-    <item>L</item>
-    <item>XL</item>
-    <item>XXL</item>
-    <item>XXXL</item>
-  </string-array>
   <string-array name="common_password_business_names">
     <item>Bloqueig de pantalla</item>
     <item>Mode d\'infants</item>
