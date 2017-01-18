@@ -247,10 +247,15 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_push_set_accept_time_success">Establiu el temps d\'acceptació %1$s - %2$s correcte.</string>
   <string name="mibi_push_set_alias_fail">Establiu el temps de fallida per a %1$s.</string>
   <string name="mibi_push_set_alias_success">Establiu l\'àlies «%1$s» correcte.</string>
+  <string name="mibi_recharge_grid_error_denomination">La quantitat ha de ser entreMi Credits %1$s i %2$s.</string>
   <string name="mibi_recharge_grid_item_more">Més</string>
+  <string name="mibi_recharge_grid_mibi_picker_hint">Seleccioneu una quantitat</string>
   <string name="mibi_recharge_grid_money_picker_hint">Seleccioneu la quantitat</string>
   <string name="mibi_recharge_mibi_title">Mi Credit</string>
   <string name="mibi_recharge_notification">S\'estan recarregant: %1$s Mi Credits</string>
+  <string name="mibi_recharge_novalid_method">Opció de recàrrega no vàlida.</string>
+  <string name="mibi_recharge_other">Mostra altres mètodes</string>
+  <string name="mibi_recharge_push_notification_prime_title">%1$d afegits %2$s Mi Credits al vostre compte</string>
   <string name="mibi_recharge_push_notification_sub_title">S\'ha completat la recàrrega.</string>
   <string name="mibi_security_setting">Configuració</string>
   <string name="mibi_string_with_bracket">(%s)</string>
