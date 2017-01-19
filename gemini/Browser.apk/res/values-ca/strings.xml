@@ -169,6 +169,7 @@
   <string name="color_picker_hue">Tonalitat</string>
   <string name="color_picker_saturation">Saturació</string>
   <string name="comment_app_menu">Comentari</string>
+  <string name="comment_hint">Comentari</string>
   <string name="comment_menu">Comentari</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.cat</string>
   <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
@@ -190,6 +191,7 @@
   <string name="contextmenu_openlink">Obre</string>
   <string name="contextmenu_openlink_newwindow">Obre en una pestanya nova</string>
   <string name="contextmenu_openlink_newwindow_background">Obre en una pestanya al darrera</string>
+  <string name="contextmenu_recognise_qr_code">Reconeix codi QR</string>
   <string name="contextmenu_savelink">Desa enllaç</string>
   <string name="contextmenu_send_mail">Enviar email</string>
   <string name="contextmenu_set_wallpaper">Estableix com a fons de pantalla</string>
@@ -314,6 +316,7 @@ Les pàgines que visiteu no es veuran reflectides en l\'historial"</string>
   <string name="find_on_page_next">Següent</string>
   <string name="find_on_page_prev">Anterior</string>
   <string name="find_previous">Cerca l\'anterior</string>
+  <string name="fling_on_border_gesture_hint">Podeu escollir la funció d\'aquest gest a la Configuració</string>
   <string name="force_quick_search_title">Cerca</string>
   <string name="force_touch_bookmark_history_title">Marcadors i historial</string>
   <string name="force_touch_infoflow_title">Notícies</string>
@@ -334,6 +337,7 @@ Les pàgines que visiteu no es veuran reflectides en l\'historial"</string>
   <string name="gold_medals">Medalles d\'or</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">S\'ha posat a la pantalla d\'inici</string>
+  <string name="hint">Pista</string>
   <string name="history_saved_webpage">Desa la pàgina</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Esborra</string>
@@ -417,6 +421,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="miuichromium_error_page_airplane_mode_on">Desactiva el mode avió per connectar-se</string>
   <string name="miuichromium_error_page_btn_close">Tanca</string>
   <string name="miuichromium_error_page_btn_refresh">Actualitza</string>
+  <string name="miuichromium_error_page_btn_report_issue">Informa d\'un problema</string>
   <string name="miuichromium_error_page_diagnose">Diagnòstic de la xarxa</string>
   <string name="miuichromium_error_page_diagnose_banner">Diagnòstic de la xarxa</string>
   <string name="miuichromium_error_page_diagnose_certificate">"No s'ha pogut verificar el protocol de xarxa"</string>
@@ -541,8 +546,8 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="pref_file_download_default_path_prefix">Ubicació per defecte: %s</string>
   <string name="pref_file_download_save_modify_default_path">Ubicació de les baixades</string>
   <string name="pref_file_download_save_title">Baixades</string>
-  <string name="pref_fling_on_border_enabled">Arrosegueu des de la vora per bescanviar pestanyes</string>
-  <string name="pref_fling_on_border_enabled_title_summary">Arrosegueu des de la vora dreta o esquerra de la pantalla per commutar entre pestanyes</string>
+  <string name="pref_fling_on_border">Feu lliscar cap a la vora</string>
+  <string name="pref_fling_on_border_title_summary">Feu lliscar des de la vora esquerra o dreta de la pantalla</string>
   <string name="pref_font_size_category">Mida de la font a la web</string>
   <string name="pref_force_userscalable">Força el zoom</string>
   <string name="pref_force_userscalable_summary">"Anul·la la sol·licitud del web per controlar el comportament del zoom"</string>
@@ -555,6 +560,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="pref_notifications_receive">Notificacions</string>
   <string name="pref_notifications_title">Notificacions</string>
   <string name="pref_other_title">Altres</string>
+  <string name="pref_paper_mode_title">Mode lectura</string>
   <string name="pref_privacy_clear_cache">Esborra la memòria cau</string>
   <string name="pref_privacy_clear_cache_dlg">Voleu eliminar les bases de dades i el contingut de la memòria cau local?</string>
   <string name="pref_privacy_clear_cache_summary">Esborra les bases de dades i els continguts de la memòria cau local</string>
