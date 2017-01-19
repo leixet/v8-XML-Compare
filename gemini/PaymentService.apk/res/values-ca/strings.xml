@@ -263,11 +263,15 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_security_setting">Configuració</string>
   <string name="mibi_shurtcut_create_success">S\'ha afegit a la pantalla d\'inici</string>
   <string name="mibi_sms_code_empty">Introduïu el codi de verificació enviat al telèfon.</string>
+  <string name="mibi_sms_code_hint">Introduïu codi de verificació de 3 a 6 dígits</string>
   <string name="mibi_string_with_bracket">(%s)</string>
+  <string name="mibi_summary_bind_phone">Per garantir la seguretat del compte, completeu el pagament després de vincular el número de telèfon.</string>
   <string name="mibi_summary_custom_service_phone">Tel:</string>
   <string name="mibi_summary_lockpattern">Necessita un patró de bloqueig únic per Mi Credit</string>
+  <string name="mibi_summary_sms_code">Introduïu el codi de verificació enviat a %1$s i després, finalitzi el pagament</string>
   <string name="mibi_tianyi_create_order">China Unicom SMS</string>
   <string name="mibi_title_bill_record">Historial de pagaments</string>
+  <string name="mibi_title_bind_phone">S\'està vinculant amb el número de telèfon</string>
   <string name="mibi_title_change_lockpattern">Configura el patró de bloqueig</string>
   <string name="mibi_title_custom_service_phone">Contacta amb atenció al client</string>
   <string name="mibi_title_discounts">Descomptes</string>
@@ -282,9 +286,11 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_title_visible_pattern">Fes el patró visible</string>
   <string name="mibi_unit">Mi Credit</string>
   <string name="mibi_unit_value">%1$s Mi Credit</string>
+  <string name="mibi_voucher_card_text">Traieu-vos l\'abric</string>
   <string name="mibi_voucher_error_password">El codi no és vàlid.</string>
   <string name="mibi_voucher_input_password_prompt">Introduïu codi</string>
   <string name="mibi_web_login">Inici de sessió</string>
+  <string name="mibi_web_login_app_description">Inicia sessió amb %1$s</string>
   <string name="mibi_web_login_description">Inici de sessió</string>
   <string name="mibi_web_login_waiting">Espereu si us plau&#8230;</string>
   <string name="passport_access_denied">S\'ha denegat l\'accés</string>
