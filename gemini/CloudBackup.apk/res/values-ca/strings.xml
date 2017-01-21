@@ -101,7 +101,7 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud.»</
   <string name="open_wifi_setting">Configuració Wi-Fi</string>
   <string name="process_whole_recovery">Restaurant «%s»</string>
   <string name="query_restore_back_view">Còpia de seguretat del Mi Cloud</string>
-  <string name="query_restore_description">Restaurar aplicacions de pantalla d\'inici i ajustos usant aquesta còpia. Això sobreescriurà les dades de les aplicacions ja instal·lades al dispositiu. Les aplicacions no incloses en la còpia es mouran a l\'última pantalla de l\'escriptori.</string>
+  <string name="query_restore_description">Restaura les aplicacions de la pantalla d\'inici i ajustos usant aquesta còpia. Això sobreescriurà les dades de les aplicacions ja instal·lades al dispositiu. Les aplicacions no incloses a la còpia es mouran a l\'última pantalla de l\'escriptori.</string>
   <string name="query_restore_summary">S\'ha trobat una copia al Mi Cloud per a aquest dispositiu. Voleu restaurar les aplicacions de la pantalla d\'inici i configuracions o usar-lo com a nou dispositiu i eliminar les còpies anteriors del Mi Cloud?</string>
   <string name="recover_from_micloud">Restaurar còpia del Mi Cloud</string>
   <string name="recover_home_settings">Restaura la configuració de la pantalla d\'inici</string>
@@ -110,9 +110,9 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud.»</
   <string name="recovering">S\'està restaurant %s</string>
   <string name="remove_task_in_process">S\'està eliminant&#8230;</string>
   <string name="remove_task_unfinished">Encara no s\'ha eliminat</string>
-  <string name="restore_data_summary">Aquesta funcionalitat requereix de connexió a Internet.</string>
+  <string name="restore_data_summary">Aquesta funcionalitat requereix una connexió a Internet.</string>
   <string name="restore_from_cloud">Restaurar des del Mi Cloud</string>
-  <string name="restore_from_this_device">Restaurar usant aquesta còpia</string>
+  <string name="restore_from_this_device">Restaura usant aquesta còpia</string>
   <string name="restore_home_screen_apps">Restaurar des d\'una còpia del Mi Cloud</string>
   <string name="restore_task_unfinished">S\'estan restaurant les aplicacions, proveu-ho més tard</string>
   <string name="restoreing_file_tile">S\'estan restaurant %d fitxers</string>
@@ -121,6 +121,6 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud.»</
   <string name="settings_backup">Configuració del sistema</string>
   <string name="start_backup_to_micloud">Realitzar còpia de seguretat d\'aplicacions al Mi Cloud</string>
   <string name="start_recover">Restaura %s</string>
-  <string name="success_open_cloudbackup">Còpies d\'aplicacions de la pantalla d\'inici encesesa</string>
-  <string name="wait_icon_download">S\'està baixant icones d\'aplicacions</string>
+  <string name="success_open_cloudbackup">Còpies d\'aplicacions de la pantalla d\'inici enceses</string>
+  <string name="wait_icon_download">S\'estan baixant les icones de les aplicacions</string>
 </resources>
