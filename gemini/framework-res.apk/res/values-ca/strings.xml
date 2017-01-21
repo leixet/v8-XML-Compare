@@ -1087,7 +1087,7 @@ per al compte %s»</string>
   <string name="permlab_readCallLog">llegeix el registre de trucades</string>
   <string name="permlab_readCellBroadcasts">llegeix els missatges de difusió mòbil</string>
   <string name="permlab_readContacts">llegeix els contactes</string>
-  <string name="permlab_readHistoryBookmarks">llegeix l\'historial i els marcadors web</string>
+  <string name="permlab_readHistoryBookmarks">llegeix l\'historial web i els marcadors</string>
   <string name="permlab_readInstallSessions">Llegeix les sessions d\'instal·lació</string>
   <string name="permlab_readNetworkUsageHistory">llegeix l\'historial d\'ús de la xarxa</string>
   <string name="permlab_readPhoneState">llegeix la identitat i l\'estat del telèfon</string>
