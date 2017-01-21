@@ -170,7 +170,7 @@ Vè. Pot："</string>
   <string name="title_updatepattern">Modificar patró de bloqueig</string>
   <string name="title_visible_pattern">Hacer visible el patrón</string>
   <string name="type_prompt">Tipus de clau</string>
-  <string name="update_pattern_jump">&lt;u&gt;Elimina la contrasenya&lt;/u&gt;</string>
+  <string name="update_pattern_jump">Elimina la contrasenya</string>
   <string name="version_preference_title">Versió</string>
   <string name="welcome_page_alert">"Nota: Si us plau no esborreu la patró, altrament no podrà iniciar sessió"</string>
   <string name="welcome_page_details">"- Manteniu el vostre compte segur.
