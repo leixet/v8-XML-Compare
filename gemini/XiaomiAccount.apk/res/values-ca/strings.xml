@@ -251,7 +251,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_login_instead_reg_with_email">Utilitza aquest email</string>
   <string name="passport_login_prompt">Un compte Mi. Tots els serveis Mi.</string>
   <string name="passport_login_title">Inicia una sessió al vostre compte Mi</string>
-  <string name="passport_login_using_other_ways">&lt; u &gt;Altres maneres per iniciar la sessió &lt;/u &gt;</string>
+  <string name="passport_login_using_other_ways">&lt;u&gt;Altres maneres per iniciar la sessió &lt;/u&gt;</string>
   <string name="passport_message_dialog_title">SMS amb els codis de verificació</string>
   <string name="passport_next">Següent</string>
   <string name="passport_notification_title">Error d\'inici de sessió per a %1$s</string>
