@@ -499,7 +499,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="default_preference_summary">&lt;No establert&gt;</string>
   <string name="delete">Elimina</string>
   <string name="delete_fdn_contact">Esborra número de marcatge predefinit</string>
-  <string name="deleting_fdn_contact">Eliminant número de marcatge predefinit&#8230;</string>
+  <string name="deleting_fdn_contact">S\'està eliminant el número de marcatge predefinit&#8230;</string>
   <string name="description_delete_button">retrocés</string>
   <string name="description_dial_button">marca</string>
   <string name="description_dialpad_back">Torna enrere</string>
@@ -1393,7 +1393,7 @@ Queden %d intents."</string>
   <string name="telocation_number_type_tel">Telèfon fix</string>
   <string name="telocation_setting">Configuració de localització</string>
   <string name="telocation_show_settings">Mostra la configuració</string>
-  <string name="tether_settings_title_all">Ancoratge de xarxa i punt d\'accés portàtil</string>
+  <string name="tether_settings_title_all">Connexió compartida d\'Internet</string>
   <string name="tether_settings_title_bluetooth">Ancoratge Bluetooth</string>
   <string name="tether_settings_title_usb">Internet compartit per USB</string>
   <string name="tether_settings_title_usb_bluetooth">Connexió compartida</string>
