@@ -93,7 +93,7 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_error_user_id_mismatch_summary">Comproveu i torneu a iniciar la sessió al vostre compte</string>
   <string name="mibi_error_web_summary">Error del servidor</string>
   <string name="mibi_fee">%1$s Crèdit Mi</string>
-  <string name="mibi_forget_password">&lt;u&gt;Contrasenya oblidada&lt;/u&gt;</string>
+  <string name="mibi_forget_password">Contrasenya oblidada</string>
   <string name="mibi_format_bill_date">yyyy/MM/dd</string>
   <string name="mibi_format_date">MM. dd, yyyy</string>
   <string name="mibi_format_time">MM dd, yyyy hh:mmaa</string>
@@ -143,13 +143,13 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_lockpattern_recording_incorrect_too_short">Connecteu almenys %d punts. Torneu a intentar-ho:</string>
   <string name="mibi_lockpattern_recording_inprogress">Aixequeu el dit quan hàgiu acabat.</string>
   <string name="mibi_lockpattern_recording_intro_header">Dibuixeu un patró de desbloqueig:</string>
-  <string name="mibi_lockpattern_retry_text">&lt;u&gt;Restableix la contrasenya del patró&lt;/u&gt;</string>
+  <string name="mibi_lockpattern_retry_text">Restableix la contrasenya del patró</string>
   <string name="mibi_lockpattern_settings_help_how_to_record">Com es dibuixa un patró de desbloqueig</string>
   <string name="mibi_lockpattern_too_many_failed_confirmation_attempts_footer">Intenteu-ho de nou en %d segons.</string>
   <string name="mibi_lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Massa intents fallits!&lt;/font&gt;</string>
   <string name="mibi_lockpattern_tutorial_cancel_label">Cancel·la</string>
   <string name="mibi_lockpattern_tutorial_continue_label">Següent</string>
-  <string name="mibi_lockscreen_forgot_pattern_button_text">&lt;u&gt;He oblidat la contrasenya del patró&lt;/u&gt;</string>
+  <string name="mibi_lockscreen_forgot_pattern_button_text">He oblidat la contrasenya del patró</string>
   <string name="mibi_login">Inicia sessió</string>
   <string name="mibi_memu_refresh">Recarrega</string>
   <string name="mibi_menu_lock">Patró de bloqueig</string>
@@ -308,7 +308,7 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="passport_back">Torna</string>
   <string name="passport_bad_authentication">Nom d\'usuari o contrasenya incorrectes</string>
   <string name="passport_barcode_add_account_prompt">Per vincular un compte, escanegeu el codi QR una altra vegada després d\'iniciar sessió.</string>
-  <string name="passport_change_account">&lt;u&gt;Canvia de compte&lt;/u&gt;</string>
+  <string name="passport_change_account">Canvia de compte</string>
   <string name="passport_change_phone_number">Canvia els números</string>
   <string name="passport_checking_account">S\'està comprovant la contrasenya&#8230;</string>
   <string name="passport_checking_input">S\'està comprovant l\'entrada&#8230;</string>
