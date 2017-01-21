@@ -73,7 +73,7 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud.»</
   <string name="confirm_restore">Restaura</string>
   <string name="confirm_restore_summary">La pantalla d\'inici es reiniciarà i les aplicacions es baixaran automàticament quan estigueu connectat a Wi-Fi</string>
   <string name="confirm_restore_title">Restaurar</string>
-  <string name="customization">&lt;u&gt;Personalitzar&lt;/u&gt;</string>
+  <string name="customization">Personalitza</string>
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="deskclock_backup">Alarma del rellotge</string>
   <string name="desktop_downloading">S\'està baixant</string>
