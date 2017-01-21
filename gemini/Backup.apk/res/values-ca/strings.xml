@@ -142,9 +142,9 @@
   <string name="miliao_account_login">Inicia la sessió amb Mi Talk</string>
   <string name="mms_title">Missatgeria multimèdia</string>
   <string name="multi_select_title">%1$s seleccionats</string>
-  <string name="multi_user_mode_backup_message">"Desactiveu el mode de Multiusuari per poder utilitzar la còpia de seguretat."</string>
-  <string name="multi_user_mode_dialog_message">"Desactiveu el mode de Multiusuari per poder utilitzar Mi Mover."</string>
-  <string name="multi_user_mode_dialog_title">"Esteu utilitzant el mode de Multiusuari"</string>
+  <string name="multi_user_mode_backup_message">"Desactiveu el mode Multiusuari per poder utilitzar la còpia de seguretat."</string>
+  <string name="multi_user_mode_dialog_message">"Desactiveu el mode Multiusuari per poder utilitzar Mi Mover."</string>
+  <string name="multi_user_mode_dialog_title">"Esteu utilitzant el mode Multiusuari"</string>
   <string name="never">Mai</string>
   <string name="new_backup">Còpia de seguretat</string>
   <string name="no_encrypt_password">Sense contrasenya</string>
