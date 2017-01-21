@@ -397,7 +397,7 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="backup_data_summary">Feu una còpia de seguretat de les dades de les aplicacions, contrasenyes de Wi-Fi i altres ajustos en els servidors de Google</string>
   <string name="backup_data_title">Feu una còpia de seguretat de les dades</string>
   <string name="backup_disabled">Còpia de seguretat desactivada</string>
-  <string name="backup_erase_dialog_message">Voleu aturar la còpia de seguretat de les contrasenyes Wi-Fi, adreces d\'interès, configuracions, dades de l\'aplicació i eliminar totes les còpies dels servidors de Google?</string>
+  <string name="backup_erase_dialog_message">Voleu aturar la còpia de seguretat de les contrasenyes Wi-Fi, marcadors, configuracions, dades de l\'aplicació i eliminar totes les còpies dels servidors de Google?</string>
   <string name="backup_erase_dialog_title"></string>
   <string name="backup_inactive_title">S\'ha deshabilitat el servei de còpies de seguretat.</string>
   <string name="backup_pw_cancel_button_text">Cancel·la</string>
