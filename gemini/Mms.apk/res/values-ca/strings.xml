@@ -101,7 +101,7 @@
   <string name="confirm_send_mms">Un dels destinataris inclou una adreça de correu. Aquest missatge serà enviat com un MMS, que pot generar càrrecs addicionals de l\'operador.</string>
   <string name="context_menu_add_calendar">Afegeix al Calendari</string>
   <string name="context_menu_add_contact">Afegeix als Contactes</string>
-  <string name="context_menu_add_to_browser_favorite">Afegeix als favorits del navegador</string>
+  <string name="context_menu_add_to_browser_favorite">Afegeix als marcadors del navegador</string>
   <string name="context_menu_browse_web">Examina</string>
   <string name="context_menu_call">Trucada</string>
   <string name="context_menu_contact">Contacte: %1$s</string>
