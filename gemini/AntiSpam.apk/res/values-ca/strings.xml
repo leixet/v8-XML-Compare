@@ -89,7 +89,7 @@
   <string name="dlg_antispam_using_mode_delete_message">"Voleu eliminar les regles que feu servir actualment i tornar a les regles per defecte de la llista de bloqueig?"</string>
   <string name="dlg_antispam_using_mode_international_delete_message">"Voleu eliminar les regles que feu servir actualment i tornar a les regles per defecte de la llista de bloqueig?"</string>
   <string name="dlg_bl_add_manual">Afegeix el número a llista de bloqueig</string>
-  <string name="dlg_black_address_antispam_message">Afegeix aquesta ubicació a la llista de bloqueig?</string>
+  <string name="dlg_black_address_antispam_message">Voleu afegir aquesta ubicació a la llista de bloqueig?</string>
   <string name="dlg_black_antispam_hint">Llista de bloqueig</string>
   <string name="dlg_black_antispam_message">Voleu afegir aquest número a la llista de bloqueig?</string>
   <string name="dlg_clear_all_call">Voleu esborrar les trucades bloquejades?</string>
