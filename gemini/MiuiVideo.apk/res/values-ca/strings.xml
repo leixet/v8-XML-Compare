@@ -298,7 +298,7 @@
   <string name="passport_back">Torna</string>
   <string name="passport_bad_authentication">Nom d\'usuari o contrasenya no vàlids</string>
   <string name="passport_barcode_add_account_prompt">Per vincular un compte, escanegeu el codi QR una altra vegada després d\'iniciar sessió.</string>
-  <string name="passport_change_account">&lt;u&gt;Canvia de compte&lt;/u&gt;</string>
+  <string name="passport_change_account">Canvia de compte</string>
   <string name="passport_change_phone_number">Bescanvia números</string>
   <string name="passport_checking_account">S\'està comprovant la contrasenya&#8230;</string>
   <string name="passport_checking_input">S\'està comprovant l\'entrada&#8230;</string>
