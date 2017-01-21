@@ -71,7 +71,7 @@
   <string name="loading_ringtone">S\'està carregant el timbre&#8230;</string>
   <string name="menu_add_worldclock">Afegeix un rellotge</string>
   <string name="menu_desk_clock">Rellotge</string>
-  <string name="menu_edit_timer_item">Edita el temporitzador de tasques</string>
+  <string name="menu_edit_timer_item">Edita el temporitzador</string>
   <string name="menu_item_dock_settings">Configuració de l\'acoblador</string>
   <string name="menu_item_sort_by_gmt_offset">Ordena per hora</string>
   <string name="menu_item_sort_by_name">Ordena per nom</string>
