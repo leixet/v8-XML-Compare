@@ -40,12 +40,12 @@
   <string name="cloud_app_restore_success">Aplicacions restaurades</string>
   <string name="cloud_app_restore_wifi_prompt">Per restaurar l\'aplicació, connecteu-vos a una xarxa Wi-Fi.</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
-  <string name="cloud_back_up_detail_discription">«Aquests elements es desaran al Mi Cloud quan el dispositiu estigui connectat a Wi-Fi:
+  <string name="cloud_back_up_detail_discription">"Aquests elements es desaran al Mi Cloud quan el dispositiu estigui connectat a Wi-Fi:
 *\u0009\u0009\u0009\u0009Aplicacions, disposició de pantalla d\'inici i fons
 *\u0009\u0009\u0009\u0009Alarmes, rellotges i configuració del temps
 *\u0009\u0009\u0009\u0009Configuracions de les notificacions
 *\u0009\u0009\u0009\u0009Configuracions de MIUI i del sistema
-Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud.»</string>
+Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</string>
   <string name="cloud_back_up_frequence_choice_title">Programar còpia</string>
   <string name="cloud_back_up_frequence_long">Cada 7 dies</string>
   <string name="cloud_back_up_frequence_short">Cada dia</string>
