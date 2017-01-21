@@ -3577,7 +3577,7 @@ Per fer-ho:
   <string name="search_storage_settings">Esborra</string>
   <string name="search_sync_settings">Sincronització;Auto;Només per Wi-Fi</string>
   <string name="search_system_app_settings">Aplicacions del sistema</string>
-  <string name="search_tether">Tethering i; zona Wi-Fi;Hotspot;Personal Hotspot</string>
+  <string name="search_tether">Connexió compartida d\'Internet;Punt d\'accés Wi-Fi;Zona Wi-Fi,Punt d\'accés WLAN;WLAN</string>
   <string name="search_tether_settings_title_bluetooth">Bluetooth tethering</string>
   <string name="search_tether_settings_title_usb">USB tethering</string>
   <string name="search_theme_settings">Temes</string>
