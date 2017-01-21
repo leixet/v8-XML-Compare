@@ -287,7 +287,7 @@ Les pàgines que visiteu no es veuran reflectides en l\'historial"</string>
   <string name="download_title">Baixades</string>
   <string name="download_wait_connect">Esperant a connectar</string>
   <string name="edit">Edita</string>
-  <string name="edit_bookmark">Edita l\'adreça d\'interès</string>
+  <string name="edit_bookmark">Edita el marcador</string>
   <string name="edit_quicklink">Edita</string>
   <string name="empty_bookmark">Buit</string>
   <string name="empty_history_hint">L\'historial és buit</string>
