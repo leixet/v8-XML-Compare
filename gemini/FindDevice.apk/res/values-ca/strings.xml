@@ -3,8 +3,8 @@
 <resources>
   <string name="activate_xiaomi_account">Activa aquest dispositiu</string>
   <string name="adding_or_updating_account">S\'està actualitzant el compte&#8230;</string>
-  <string name="app_name">Troba dispositiu</string>
-  <string name="captcha">CAPTCHA</string>
+  <string name="app_name">Trobar dispositiu</string>
+  <string name="captcha">Codi de seguretat</string>
   <string name="change_find_device_status_failed">"No es pot desbloquejar. %s."</string>
   <string name="default_lock_msg_words">Aquest dispositiu està associat amb un Compte Mi existent. Per raons de seguretat, necessiteu introduir la vostra contrasenya de nou per verificar el dispositiu.</string>
   <string name="default_lock_msg_words_with_phone">Hola! Vaig perdre el meu telèfon. Podríeu posar-vos en contacte amb mi? Gràcies!</string>
@@ -14,16 +14,16 @@
   <string name="disable_find_device_success">Troba dispositiu està desactivat</string>
   <string name="doing_extra_login_steps">S\'està verificant l\'inici de sessió&#8230;</string>
   <string name="enable_find_device_error">"No es pot activar la recerca del dispositiu. %1$s"</string>
-  <string name="enable_find_device_success">Troba dispositiu està activat</string>
-  <string name="find_device">Troba dispositiu</string>
-  <string name="find_device_crash">Troba dispositiu s\'ha tancat inesperadament.</string>
+  <string name="enable_find_device_success">Trobar dispositiu està activat</string>
+  <string name="find_device">Trobar dispositiu</string>
+  <string name="find_device_crash">Trobar dispositiu s\'ha tancat inesperadament.</string>
   <string name="find_device_error_account_sys_timeout">"No s'ha pogut connectar al Compte Mi"</string>
   <string name="find_device_error_account_unknown_error">Error del Compte Mi (%s).</string>
   <string name="find_device_error_network">S\'ha produït un error de xarxa.</string>
-  <string name="find_device_error_password_changed">La contrasenya del compte s\'ha canviat recentment.</string>
+  <string name="find_device_error_password_changed">La contrasenya del vostre compte s\'ha canviat recentment.</string>
   <string name="find_device_error_server">Error de servidor (%s).</string>
   <string name="find_device_error_unknown">Error desconegut (%s).</string>
-  <string name="find_device_noise_title">Alarma de Troba dispositiu</string>
+  <string name="find_device_noise_title">Alarma de trobar dispositiu</string>
   <string name="find_device_notice_p1">Vés a</string>
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">«per localitzar, bloquejar, o restaurar el vostre telèfon.
