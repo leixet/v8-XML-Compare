@@ -295,8 +295,8 @@ Premeu [Sóc un receptor] per crear el codi QR"</string>
   <string name="trans_progress_subdescript_waiting">S\'està esperant a rebre %s</string>
   <string name="trans_receiver">"Sóc un receptor"</string>
   <string name="trans_receiver_time_remained">"%s restant.
-No apagueu la zona Wi-Fi.
-Mantingueu els dispositius propers l\'un a l\'altre."</string>
+No apagueu el punt d\'accés Wi-Fi.
+Mantingueu els dispositius propers l\'un de l\'altre."</string>
   <string name="trans_receiving_completed">S\'han rebut les dades correctament</string>
   <string name="trans_restoring">S\'està restaurant&#8230;</string>
   <string name="trans_restoring_no_items">S\'estan sincronitzant elements</string>
@@ -312,12 +312,12 @@ Se sobreescriuran els fitxers semblants del dispositiu nou"</string>
   <string name="trans_select_device_send">Seleccioneu un dispositiu per a transferir les dades.</string>
   <string name="trans_sender">"Sóc un emissor"</string>
   <string name="trans_sender_connectting">Confirma-ho en el dispositiu nou</string>
-  <string name="trans_sender_searching">S\'està cercant dispositius nous</string>
+  <string name="trans_sender_searching">S\'estan cercant dispositius nous</string>
   <string name="trans_sender_searching_ensurance">"Comproveu que el dispositiu antic està engegat
 S\'està esperant que el dispositiu antic es connecti&#8230;"</string>
   <string name="trans_sender_time_remained">"%s restant.
 No apagueu el Wi-Fi.
-Mantingueu els dispositius propers l\'un a l\'altre."</string>
+Mantingueu els dispositius propers l\'un de l\'altre."</string>
   <string name="trans_sending_completed">S\'ha enviat correctament</string>
   <string name="trans_show_qr_code_label">Connecteu el dispositiu antic</string>
   <string name="trans_show_qr_code_tips">Escanegeu el codi QR amb el dispositiu antic</string>
