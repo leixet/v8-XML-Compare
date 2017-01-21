@@ -662,7 +662,7 @@ Intents realitzats: %s"</string>
   <string name="url_fraud_insurance">Segur de frau</string>
   <string name="url_fraud_risky_alert">"La pàgina web a la que esteu intentant accedir pot ser perillosa. Voleu accedir a %s de totes maneres?"</string>
   <string name="url_fraud_title">El lloc web pot ser fals</string>
-  <string name="url_fraud_visit">&lt;u&gt;Accedeix de totes maneres&lt;/u&gt;</string>
+  <string name="url_fraud_visit">Accedeix de totes maneres</string>
   <string name="url_result_safe">La URL és segura</string>
   <string name="url_scanning">S\'està comprovat la URL&#8230;</string>
   <string name="user_agreement1">Llegiu els termes aplicables acuradament abans d\'instal·lar programari addicional o fer servir aquest producte.</string>
