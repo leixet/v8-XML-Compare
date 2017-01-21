@@ -42,8 +42,8 @@
   <string name="delete">Suprimeix</string>
   <string name="delete_alarm">Suprimeix l\'alarma</string>
   <string name="delete_alarm_confirm">Voleu eliminar les alarmes seleccionades?</string>
-  <string name="delete_selected_timer_item">Voleu eliminar la tasca seleccionada?</string>
-  <string name="delete_timer_item_title">Supressió de la tasca</string>
+  <string name="delete_selected_timer_item">Voleu eliminar el temporitzador seleccionada?</string>
+  <string name="delete_timer_item_title">Supressió del temporitzador</string>
   <string name="delete_timezone_title">Elimina la zona horària</string>
   <string name="dialog_confirm_abort">Voleu descartar els canvis?</string>
   <string name="done">Fet</string>
@@ -57,7 +57,7 @@
   <string name="hour">1 hora</string>
   <string name="hour_unit">Hr +</string>
   <string name="hours">%s hores</string>
-  <string name="keep_screen_on">Manté la pantalla engegada</string>
+  <string name="keep_screen_on">Mantenir la pantalla engegada</string>
   <string name="label">Estableix l\'etiqueta</string>
   <string name="label_pref_summary">Etiqueta</string>
   <string name="lap">Volta</string>
@@ -129,7 +129,7 @@
   <string name="timer_item_picker_second">S</string>
   <string name="timer_new_item">Afegeix temporitzador</string>
   <string name="timer_notify_text">Ajorna o ignora l\'alarma.</string>
-  <string name="timer_start_alarm">"El temps s'ha acabat!"</string>
+  <string name="timer_start_alarm">"S'ha acabat el temps!"</string>
   <string name="timer_title">Temporitzador</string>
   <string name="timezone_exist_error_message">"Ja s'està mostrant aquesta zona horària"</string>
   <string name="today">Avui</string>
@@ -139,7 +139,7 @@
   <string name="upcoming_alarm">&#160;Propera alarma</string>
   <string name="upcoming_alarm_hint">Podeu tancar aquesta alarma amb antelació</string>
   <string name="vibrate_pref_summary">Vibra quan soni l\'alarma</string>
-  <string name="vibrate_when_ringing">Vibra mentre sona</string>
+  <string name="vibrate_when_ringing">Vibra mentre l\'alarma soni</string>
   <string name="volume_button_setting_summary">"Estableix la funció dels botons de volum durant l'alarma"</string>
   <string name="volume_button_setting_title">Botons de volum</string>
   <string name="workday_alarm_clock">Alarma de dia laboral</string>
