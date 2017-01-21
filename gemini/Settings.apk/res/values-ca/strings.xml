@@ -2217,7 +2217,7 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="manage_space_text">Gestiona l\'espai</string>
   <string name="manage_trust_agents">Agents de confiança</string>
   <string name="manage_trust_agents_summary">Mostra o desactiva els agents de confiança</string>
-  <string name="manage_xiaomi_router">Configuració de Mi Router</string>
+  <string name="manage_xiaomi_router">Configuració del Mi Router</string>
   <string name="manage_zen_access_title">Accés a No molesteu</string>
   <string name="manageapplications_settings_summary">Gestiona i elimina les aplicacions instal·lades</string>
   <string name="manageapplications_settings_title">Gestiona les aplicacions</string>
