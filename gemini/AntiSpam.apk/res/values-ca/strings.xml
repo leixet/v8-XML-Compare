@@ -101,7 +101,7 @@
   <string name="dlg_clear_current_ok">Esborra</string>
   <string name="dlg_clear_current_sms">Voleu eliminar tots els SMS bloquejats enviats des d\'aquest número?</string>
   <string name="dlg_delete_keyword">Voleu esborrar les paraules clau seleccionades?</string>
-  <string name="dlg_edit_keyword">Edita paraules clau</string>
+  <string name="dlg_edit_keyword">Edita les paraules clau</string>
   <string name="dlg_import_blacklist">S\'està afegint&#8230;</string>
   <string name="dlg_import_whitelist">S\'està afegint&#8230;</string>
   <string name="dlg_keyword_ok">Desa</string>
