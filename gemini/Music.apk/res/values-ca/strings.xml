@@ -216,7 +216,6 @@
   <string name="download_running">En progrés</string>
   <string name="download_running_percent">En progrés, %d%%</string>
   <string name="download_share_dialog">Compartiu amb</string>
-  <string name="download_speed_null"></string>
   <string name="download_start">S\'està iniciant la baixada&#8230;</string>
   <string name="download_start_btn">Baixada gratuïta</string>
   <string name="download_success">Completat</string>
@@ -235,9 +234,9 @@
   <string name="downloaded_empty">Buit</string>
   <string name="downloading_empty">Buit</string>
   <string name="downloads_operating">S\'està processant&#8230;</string>
-  <string name="durationformatlong">%1$d%3$02d%5$02d</string>
-  <string name="durationformatshort">%2$d%5$02d</string>
-  <string name="durationformatshort_padding_with_0">%2$02d%5$02d</string>
+  <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
+  <string name="durationformatshort">%2$d:%5$02d</string>
+  <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="editmode_menu_delete">Esborra</string>
   <string name="editmode_menu_share">Comparteix</string>
   <string name="empty_page_no_album">No hi ha àlbums.</string>
