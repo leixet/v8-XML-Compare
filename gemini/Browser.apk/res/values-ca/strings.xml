@@ -74,12 +74,6 @@
   <string name="added_to_bookmarks">S\'ha afegit als marcadors</string>
   <string name="adjust_text_zoom_toast">Si es canvia la mida del text pot causar que algunes pàgines es visualitzin incorrectament</string>
   <string name="alert_tips">Aquest lloc pot suposar un risc per a la seguretat</string>
-  <string name="alisdk_message_10003_action"></string>
-  <string name="alisdk_message_10011_action"></string>
-  <string name="alisdk_message_10015_action"></string>
-  <string name="alisdk_message_100_action"></string>
-  <string name="alisdk_message_15_action"></string>
-  <string name="alisdk_message_18_action"></string>
   <string name="allow">Permet</string>
   <string name="app_new_version">Ja està instal·lada la darrera versió d\'aquesta aplicació</string>
   <string name="app_update_install">A punt per instal·lar l\'actualització.</string>
@@ -129,7 +123,6 @@
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Aquesta és la darrera pestanya</string>
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Llisqueu cap amunt per tancar</string>
   <string name="browserFrameFileErrorLabel">Problema de fitxer</string>
-  <string name="browserFrameFormResubmitLabel"></string>
   <string name="browserFrameFormResubmitMessage">"La pagina que esteu tractant de veure conté dades que ja s'han enviat abans. Si torneu a enviar les dades, qualsevol acció feta a la pagina (per exemple cerques o compres) es tornarà a fer."</string>
   <string name="browserFrameNetworkErrorLabel">Problema de connexió</string>
   <string name="cancel">Cancel·la</string>
