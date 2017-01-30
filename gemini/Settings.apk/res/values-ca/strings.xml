@@ -75,7 +75,7 @@ Pas 2: Toqueu i mantingueu els dos dits a la pantalla fins que sentiu un so de c
 
 Si més d\'un usuari fa servir el dispositiu, podeu habilitar-lo temporalment des d\'aquesta drecera de la pantalla de bloqueig.»</string>
   <string name="accessibility_global_gesture_preference_summary_off">Apaga</string>
-  <string name="accessibility_global_gesture_preference_summary_on">Engega</string>
+  <string name="accessibility_global_gesture_preference_summary_on">Activat</string>
   <string name="accessibility_global_gesture_preference_title">Drecera de Facilitat d\'accés</string>
   <string name="accessibility_lock_screen_progress">S\'han fet servir %1$d de %2$d caràcters</string>
   <string name="accessibility_long_press_timeout_preference_title">Retard en tocar i mantenir premut</string>
@@ -490,12 +490,12 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="battery_stats_camera_on_label">Càmera activada</string>
   <string name="battery_stats_charging_label">S\'està carregant</string>
   <string name="battery_stats_duration">%1$s des de que s\'ha desendollat</string>
-  <string name="battery_stats_flashlight_on_label">Llanterna engegada</string>
+  <string name="battery_stats_flashlight_on_label">Flaix engegat</string>
   <string name="battery_stats_gps_on_label">S\'ha activat el GPS</string>
   <string name="battery_stats_on_battery">Bateria al %1$s</string>
   <string name="battery_stats_phone_signal_label">Senyal de la xarxa mòbil</string>
   <string name="battery_stats_screen_on_label">Pantalla engegada</string>
-  <string name="battery_stats_wake_lock_label">Engega</string>
+  <string name="battery_stats_wake_lock_label">Engegada</string>
   <string name="battery_stats_wifi_running_label">Wi-Fi</string>
   <string name="battery_status_title">Estat de la bateria</string>
   <string name="battery_sugg_apps_gps">Selecciona el mode d\'estalvi d\'energia</string>
@@ -723,7 +723,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="bluetooth_unlock_state_too_far">Massa lluny</string>
   <string name="bluetooth_unlock_title">Desbloqueja-ho amb el dispositiu Bluetooth</string>
   <string name="bluetooth_unlock_turned_off">Apagat</string>
-  <string name="bluetooth_unlock_turned_on">Engegat</string>
+  <string name="bluetooth_unlock_turned_on">Activat</string>
   <string name="bluetooth_untether_blank">%1$s es desconnectarà de la connexió a internet compartida.</string>
   <string name="bluetooth_visibility_timeout">Durada de la visibilitat</string>
   <string name="bootloader">Mode Fastboot</string>
@@ -1931,7 +1931,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="link_speed_label">Velocitat de l\'enllaç:</string>
   <string name="loading_notification_apps">S\'estan carregant les aplicacions...</string>
   <string name="local_auto_backup_off">Apagat</string>
-  <string name="local_auto_backup_on">Engegat</string>
+  <string name="local_auto_backup_on">Activat</string>
   <string name="local_auto_backup_section_title">Còpies de seguretat automàtiques</string>
   <string name="local_backup_password_summary_change">Toca per canviar o suprimir la contrasenya de les còpies de seguretat d\'ordinador completes</string>
   <string name="local_backup_password_summary_none">Actualment les còpies de seguretat completes de l\'escriptori no estan protegides</string>
@@ -3288,7 +3288,7 @@ Aquesta configuració afecta tots els usuaris del telèfon.»</string>
   <string name="screen_paper_mode_time_title">Programat</string>
   <string name="screen_paper_mode_title">Mode lectura</string>
   <string name="screen_paper_mode_turn_off">Apagat</string>
-  <string name="screen_paper_mode_turn_on">Engegat</string>
+  <string name="screen_paper_mode_turn_on">Activat</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">"No ho tornis a mostrar"</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Permet</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Per tal d\'actualitzar la llista d\'aplicacions que poden utilitzar el mode lectura, cal connexió a la xarxa.</string>
@@ -3586,7 +3586,7 @@ Per fer-ho:
   <string name="security_encryption_close_dialog_info">Si no xifreu el dispositiu amb la contrasenya de bloqueig de pantalla pot ser que alguns serveis de Google no estiguin disponibles.</string>
   <string name="security_encryption_close_dialog_title">Torna a la protecció amb la contrasenya predeterminada</string>
   <string name="security_encryption_diaglog_continue">Següent</string>
-  <string name="security_encryption_is_used">Engegat</string>
+  <string name="security_encryption_is_used">Activat</string>
   <string name="security_encryption_progress_dialog_close">S\'està desxifrant&#8230;</string>
   <string name="security_encryption_progress_dialog_open">S\'està xifrant&#8230;</string>
   <string name="security_encryption_title">Xifra el dispositiu utilitzant la contrasenya de bloqueig de pantalla</string>
@@ -4101,7 +4101,7 @@ Per a un millor rendiment, us recomanem que utilitzeu un ^1 més ràpid."</strin
   <string name="suw_more_button_label">Més</string>
   <string name="suw_next_button_label">Següent</string>
   <string name="switch_off_text">Apagat</string>
-  <string name="switch_on_text">Engegat</string>
+  <string name="switch_on_text">Activat</string>
   <string name="switch_screen_button_order">Simetria dels botons</string>
   <string name="switch_screen_button_order_desc">Simetria dels botons Enrere i Menú</string>
   <string name="symbols_not_allowed_for_password">"La contrasenya no pot contenir símbols"</string>
@@ -5128,7 +5128,7 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="window_animation_scale_title">Escalat de l\'animació de finestres</string>
   <string name="wireless_networks_settings_title">Connexions sense fil i xarxes</string>
   <string name="wireless_off">Apagat</string>
-  <string name="wireless_on">Engegat</string>
+  <string name="wireless_on">Activat</string>
   <string name="wizard_back">Enrere</string>
   <string name="wizard_finish">Finalitza</string>
   <string name="wizard_next">Següent</string>
