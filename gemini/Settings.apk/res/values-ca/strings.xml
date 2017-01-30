@@ -66,7 +66,7 @@
   <string name="accessibility_display_title">Pantalla</string>
   <string name="accessibility_enable">Facilitat d\'accés</string>
   <string name="accessibility_feature_state_off">Apaga</string>
-  <string name="accessibility_feature_state_on">Engega</string>
+  <string name="accessibility_feature_state_on">Activat</string>
   <string name="accessibility_global_gesture_preference_description">«Amb aquesta funció activada podreu accedir ràpidament a les opcions de Facilitat d\'accés:
 
 Pas 1: Premeu i mantingueu premut el botó d\'engegat fins que sentiu un so o noteu una vibració.
