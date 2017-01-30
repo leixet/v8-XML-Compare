@@ -44,8 +44,8 @@ Per obtenir més espai d\'emmagatzematge, visiteu mi.com/micloud."</string>
 Última copia: %2$s"</string>
   <string name="cloud_back_up_open_info_no_backuptime">Copia quan estigui connectat a Wi-Fi un cop cada %1$s</string>
   <string name="cloud_back_up_remove_success">Copia de seguridad eliminada</string>
-  <string name="cloud_back_up_summary">Copiar quan estigui connectat al Wi-Fi</string>
-  <string name="cloud_back_up_title">Copiar dispositiu</string>
+  <string name="cloud_back_up_summary">Copia quan estigui connectat al Wi-Fi</string>
+  <string name="cloud_back_up_title">Còpia del dispositiu</string>
   <string name="cloud_backup_dialog_title">Còpia de seguretat amb Mi Cloud</string>
   <string name="cloud_find_device">Trobar dispositiu</string>
   <string name="cloud_restore_title">Restaurar des de còpia</string>
