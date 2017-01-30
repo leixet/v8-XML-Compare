@@ -470,7 +470,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="sync_item_sms_title">Sincronitzar missatges</string>
   <string name="sync_item_title">S\'estan sincronitzant elements</string>
   <string name="sync_off">Apagat</string>
-  <string name="sync_on">Ences</string>
+  <string name="sync_on">Activat</string>
   <string name="sync_resend_sms_dspt_provision">" Si canvia de targetes SIM, el seu operador pot cobrar pel missatge SMS utilitzat per reactivar aquest servei."</string>
   <string name="sync_sub_1_intl_sms">S\'enviaran missatges nacionals i internacionals per vincular la targeta SIM a aquest compte. Rebrà càrrecs de la seva companyia.</string>
   <string name="sync_sub_1_sms">S\'enviarà un SMS per vincular la seva SIM a aquest compte. Se li cobraran els costos de tarifa de la seva operadora.</string>
