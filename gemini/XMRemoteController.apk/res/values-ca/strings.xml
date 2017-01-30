@@ -560,7 +560,7 @@ ap arxiu d\'instal·lació</string>
   <string name="office">Despatx</string>
   <string name="on">Activa</string>
   <string name="open">Encén</string>
-  <string name="open_close">Encesa</string>
+  <string name="open_close">Activació</string>
   <string name="operator">Operador de telefonia mòbil</string>
   <string name="oscillation">Oscil·lació</string>
   <string name="other">Altre</string>
@@ -731,7 +731,7 @@ To activate your account, follow the
   <string name="popup_installed_app_no_app">Obtenint l\'aplicació, espereu un minut i torneu a provar</string>
   <string name="popup_installed_app_title">Seleccioneu l\'aplicació que voleu obrir a la televisió</string>
   <string name="popup_select_device">Seleccioneu el comandament per obrir la Wi-Fi</string>
-  <string name="power">Encesa</string>
+  <string name="power">Activació</string>
   <string name="power_off">Aturat</string>
   <string name="power_on">Engegat</string>
   <string name="press_to_continue_match">Premeu per continuar</string>
