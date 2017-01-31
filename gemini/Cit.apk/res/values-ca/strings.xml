@@ -24,7 +24,7 @@ Abans de calibrar el dispositiu, col·loqueu-lo sobre una superfície plana."</s
   <string name="cit_audio_cali_TEMP">Temp:</string>
   <string name="cit_audio_cali_done">Calibratge completat</string>
   <string name="cit_audio_cali_failed">Calibratge fallit, torneu-ho a provar</string>
-  <string name="cit_audio_cali_file_existed">El fitxer de música no existeix, no es pot fer el calibratge</string>
+  <string name="cit_audio_cali_file_existed">El fitxer de música no existeix, no es pot fer el calibratge!</string>
   <string name="cit_audio_cali_playing">Verifica les dades de calibratge</string>
   <string name="cit_audio_cali_q">Q:</string>
   <string name="cit_audio_cali_summary">Calibra l\'altaveu PA</string>
