@@ -11,7 +11,7 @@
   <string name="backing_up_to_micloud">Realitzant còpia de seguretat&#8230;</string>
   <string name="backup_fail">"No s'ha pogut fer la còpia"</string>
   <string name="backup_finished_notification_content">Còpia de seguretat d\'aplicacions pantalla d\'inici, configuració del sistema, etc.</string>
-  <string name="backup_now">Fer la còpia ara</string>
+  <string name="backup_now">Fes ara la còpia de seguretat</string>
   <string name="backup_size">Mida: %s</string>
   <string name="backup_size_summary">Mida: %1$s</string>
   <string name="backup_success">Còpia realitzada amb èxit</string>
