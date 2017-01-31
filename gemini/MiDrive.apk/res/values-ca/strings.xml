@@ -12,7 +12,7 @@
   <string name="cancel">Cancel·la</string>
   <string name="category_midrive">Mi Drive</string>
   <string name="category_transport">Mostra transferències</string>
-  <string name="change_mobile_network_message">S\'ha canviat a dades mòbils. Si utilitzeu les dades mòbils per transferir fitxers l\'operador us pot cobrar càrrecs adicionals. Voleu transferir-los igualment?</string>
+  <string name="change_mobile_network_message">S\'han activat les dades mòbils. Si utilitzeu les dades mòbils per transferir fitxers l\'operador us pot cobrar càrrecs addicionals. Voleu transferir-los igualment?</string>
   <string name="confirm">D’acord</string>
   <string name="consumption_alert">Connexió a Internet</string>
   <string name="consumption_message">Mi Drive necessita connectar-se a Internet per funcionar amb normalitat.</string>
