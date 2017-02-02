@@ -18,7 +18,7 @@
   <string name="bluetooth_preference_scan_title">Cercar dispositius</string>
   <string name="bluetooth_search_for_devices">Cercar dispositius</string>
   <string name="device_picker">Configuració del Bluetooth</string>
-  <string name="disconnect">Desvincular</string>
+  <string name="disconnect">Desvincula</string>
   <string name="goto_package">Obre %1$s</string>
   <string name="install_package">Instal·leu %1$s per a tenir més funcions</string>
   <string name="mi_band_vibrate_alarm">Vibra quan soni l\'alarma</string>
@@ -45,6 +45,6 @@
   <string name="some_app_taking">(%1$s ja està utilitzant aquesta funció)</string>
   <string name="unbind_device_alert_cancel">Cancel·la</string>
   <string name="unbind_device_alert_content">S\'ha perdut la connexió amb %1$s. Per estalviar bateria, desvinculeu aquest dispositiu.</string>
-  <string name="unbind_device_alert_ok">Desvincular</string>
-  <string name="unbind_device_alert_title">Desvincular dispositiu</string>
+  <string name="unbind_device_alert_ok">Desvincula</string>
+  <string name="unbind_device_alert_title">Desvincula el dispositiu</string>
 </resources>
