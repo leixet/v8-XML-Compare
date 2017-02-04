@@ -72,7 +72,7 @@
   <string name="add_to_desk_success">S\'ha posat a la pantalla d\'inici</string>
   <string name="add_to_quicklink">Pàgina d\'inici</string>
   <string name="added_to_bookmarks">S\'ha afegit als marcadors</string>
-  <string name="adjust_text_zoom_toast">Si es canvia la mida del text pot causar que algunes pàgines es visualitzin incorrectament</string>
+  <string name="adjust_text_zoom_toast">Si es canvia la mida del text algunes pàgines poden visualitzar-se incorrectament</string>
   <string name="alert_tips">Aquest lloc pot suposar un risc per a la seguretat</string>
   <string name="allow">Permet</string>
   <string name="app_new_version">Ja està instal·lada la darrera versió d\'aquesta aplicació</string>
