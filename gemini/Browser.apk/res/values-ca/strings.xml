@@ -330,20 +330,20 @@ Les pàgines que visiteu no es veuran reflectides en l\'historial"</string>
   <string name="gold_medals">Medalles d\'or</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">S\'ha posat a la pantalla d\'inici</string>
-  <string name="hint">Pista</string>
+  <string name="hint">Consell</string>
   <string name="history_saved_webpage">Desa la pàgina</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
-  <string name="homepage_delete_card_menu">Esborra</string>
-  <string name="homepage_get_location">Obtén localització</string>
-  <string name="homepage_get_location_failed">"No s'ha pogut aconseguir informació, escolliu una ciutat"</string>
+  <string name="homepage_delete_card_menu">Elimina</string>
+  <string name="homepage_get_location">Obtén la localització</string>
+  <string name="homepage_get_location_failed">"No s'ha pogut obtenir la informació, escolliu una ciutat"</string>
   <string name="homepage_more_cards">Més serveis</string>
   <string name="homepage_more_sites">Més llocs web</string>
   <string name="homepage_search_hint">Cerca</string>
   <string name="homepage_top_card_menu">Destacat</string>
   <string name="in_incognito">"Esteu d'incògnit! Les pàgines web que veieu en aquesta pestanya no apareixeran en el vostre historial de navegació."</string>
-  <string name="in_secureaccess">Canvia el navegador a mode segur</string>
-  <string name="isReplacePage">El fitxer ja existeix, el voleu sobreescriure?</string>
-  <string name="is_first_history_item">Aquest és el primer element de l\'historial</string>
+  <string name="in_secureaccess">El navegador s\'ha canviat al Mode segur</string>
+  <string name="isReplacePage">El fitxer ja existeix, el voleu reemplaçar?</string>
+  <string name="is_first_history_item">Aquesta és la primera pàgina de l\'historial de navegació</string>
   <string name="is_first_tab">Aquesta és la primera pestanya</string>
   <string name="is_last_history_item">Aquesta és la darrera pàgina de l\'historial de navegació</string>
   <string name="is_last_tab">Aquesta és la darrera pestanya</string>
