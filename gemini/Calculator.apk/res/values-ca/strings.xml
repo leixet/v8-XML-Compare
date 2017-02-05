@@ -150,7 +150,7 @@
   <string name="tanDesc">tangent</string>
   <string name="tax_accumulation_fund">Fons d\'acumulació</string>
   <string name="tax_annual_bonus_hint">Introduïu la bonificació abans d\'impostos</string>
-  <string name="tax_annual_bonus_number">Bonificació tributària</string>
+  <string name="tax_annual_bonus_number">Prima</string>
   <string name="tax_birth">Naixement</string>
   <string name="tax_cal_method_annual">Càlcul de bonificació anual</string>
   <string name="tax_cal_method_fixed_salary">Càlcul de l\'impost sobre la renda</string>
@@ -255,7 +255,7 @@
   <string name="unit_data_display_velocity_mps">Metres per segon</string>
   <string name="unit_data_display_velocity_nmiph">Nus</string>
   <string name="unit_data_display_volume_cl">Centilitre</string>
-  <string name="unit_data_display_volume_cu.af">Acre peu</string>
+  <string name="unit_data_display_volume_cu.af">Acre-peu</string>
   <string name="unit_data_display_volume_cu.cm">Centímetre cúbic</string>
   <string name="unit_data_display_volume_cu.dm">Decímetre cúbic</string>
   <string name="unit_data_display_volume_cu.ft">Peu cúbic</string>
@@ -342,7 +342,7 @@
   <string name="unit_data_short_volume_cu.mm">mm³</string>
   <string name="unit_data_short_volume_cu.um">μm³</string>
   <string name="unit_data_short_volume_cu.yd">yd³</string>
-  <string name="unit_data_short_volume_hl">hl³</string>
+  <string name="unit_data_short_volume_hl">hl</string>
   <string name="unit_data_short_weight_dan">dan</string>
   <string name="unit_data_short_weight_jin">jin</string>
   <string name="unit_data_short_weight_liang">liang</string>
@@ -375,13 +375,13 @@
   <string name="word_figure_yuan">元</string>
   <string name="word_figure_zheng">整</string>
   <string name="xiaomi_bytes_unit">%1$s B</string>
-  <string name="xiaomi_connect_download_manager_fail">Error en connectar-se a l\'Administrador de baixades, comproveu l\'estat de l\'Administrador de baixades a l\'Administrador d\'aplicacions.</string>
+  <string name="xiaomi_connect_download_manager_fail">Error en connectar-se al Gestor de baixades. Comproveu l\'estat del Gestor de baixades a l\'Administrador d\'aplicacions.</string>
   <string name="xiaomi_external_storage_unavailable">L\'emmagatzematge no està disponible, comproveu la targeta SD.</string>
-  <string name="xiaomi_kilobytes_unit">%1$s KB</string>
+  <string name="xiaomi_kilobytes_unit">%1$s kB</string>
   <string name="xiaomi_megabytes_unit">%1$s MB</string>
   <string name="xiaomi_update_dialog_message">"Presentació de la versió %1$s
 Mida: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Presentació de la versió %1$s
 Mida de l\'actualització Delta: %2$s"</string>
-  <string name="xiaomi_update_dialog_title">%1$s actualització!</string>
+  <string name="xiaomi_update_dialog_title">Actualització %1$s!</string>
 </resources>
