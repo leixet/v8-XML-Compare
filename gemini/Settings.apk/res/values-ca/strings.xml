@@ -4353,7 +4353,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="untitled_apn">Sense nom</string>
   <string name="update_progress_for_updates">S\'està actualitzant (%s)</string>
   <string name="upload_debug_log_summary">Ajudeu a millorar MIUI enviant dades d\'ús anònimes</string>
-  <string name="upload_debug_log_title">Programa d\'experiència d\'usuari</string>
+  <string name="upload_debug_log_title">Envia les dades de diagnòstic automàticament</string>
   <string name="usage">Ús</string>
   <string name="usage_access">Accés d\'ús</string>
   <string name="usage_access_description">Gràcies a l\'accés d\'ús, les aplicacions poden fer un seguiment de les altres aplicacions que utilitzeu i la freqüència amb què ho feu, de l\'operador de telefonia mòbil i de la configuració d\'idioma, entre d\'altres.</string>
