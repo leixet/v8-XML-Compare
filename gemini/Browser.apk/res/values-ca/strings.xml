@@ -210,7 +210,7 @@ Les pàgines que visiteu no apareixeran a l\'historial.»</string>
   <string name="date_picker_dialog_clear">Esborra</string>
   <string name="date_picker_dialog_other_button_label">Altres</string>
   <string name="date_picker_dialog_set">Estableix</string>
-  <string name="date_picker_dialog_title">Defineix la data</string>
+  <string name="date_picker_dialog_title">Estableix la data</string>
   <string name="date_time_picker_dialog_title">Estableix la data i l\'hora</string>
   <string name="delete">Elimina</string>
   <string name="delete_bookmark">Elimina</string>
@@ -437,24 +437,24 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="miuichromium_error_page_title">S\'ha produït un error</string>
   <string name="miuichromium_error_page_unknown_error">Vaja, alguna cosa ha anat malament</string>
   <string name="miuichromium_error_page_wlan">Activa la Wi-Fi</string>
-  <string name="miuishare_account_activate_confirmation">Requereix activació</string>
+  <string name="miuishare_account_activate_confirmation">Activació necessària</string>
   <string name="miuishare_account_activate_ok">Activa</string>
   <string name="miuishare_account_login_cancel">Cancel·la</string>
   <string name="miuishare_account_login_confirmation">Inicieu la sessió primer</string>
   <string name="miuishare_account_login_ok">Inicia la sessió</string>
-  <string name="miuishare_account_need_activate">El compte Weibo s\'hauria aparellar amb el vostre compte Mi. Voleu iniciar sessió en el vostre compte Mi?</string>
-  <string name="miuishare_account_need_login">El compte Weibo s\'hauria aparellar amb el vostre compte Mi actual. Voleu iniciar sessió ara per compartir-los?</string>
+  <string name="miuishare_account_need_activate">El compte Weibo s\'hauria de vincular amb el compte Mi. Voleu iniciar sessió al compte Mi?</string>
+  <string name="miuishare_account_need_login">El compte Weibo s\'hauria de vincular amb el compte Mi actual. Voleu iniciar sessió per compartir-los?</string>
   <string name="miuishare_app_name">MiuiShare</string>
   <string name="miuishare_no_network">"No s'ha pogut connectar a la xarxa"</string>
   <string name="miuishare_publish">Envia</string>
   <string name="miuishare_share_done">Compartit</string>
-  <string name="miuishare_share_editor_title">Comparteix</string>
+  <string name="miuishare_share_editor_title">Compartició</string>
   <string name="miuishare_title_more">Més</string>
-  <string name="miuishare_title_share">Comparteix</string>
+  <string name="miuishare_title_share">Compartició</string>
   <string name="miuishare_wechat_timeline_title">Cronologia de WeChat</string>
   <string name="miuishare_weibo_title">Weibo</string>
-  <string name="modify_download_path_no_sdcard_dlg_msg">Cal la memòria SD per modificar aquesta ruta.</string>
-  <string name="month_picker_dialog_title">Estableix mes</string>
+  <string name="modify_download_path_no_sdcard_dlg_msg">Es necessita una targeta SD per modificar aquesta ruta.</string>
+  <string name="month_picker_dialog_title">Estableix el mes</string>
   <string name="more_option">Més opcions</string>
   <string name="nav_bottom_bar_back">Anterior</string>
   <string name="nav_bottom_bar_close_all">Tanca-ho tot</string>
@@ -534,7 +534,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="pref_extras_send_feedback">Envia suggeriments</string>
   <string name="pref_extras_title">Avançat</string>
   <string name="pref_extras_title_version">Informació de la versió</string>
-  <string name="pref_file_downlaod_save_is_reset_default_settings">"Desa els arxius a la localització predeterminada del navegador"</string>
+  <string name="pref_file_downlaod_save_is_reset_default_settings">"Desa els fitxers a la ubicació predeterminada del navegador"</string>
   <string name="pref_file_downlaod_save_reset_default_settings">Restaura la ubicació predeterminada</string>
   <string name="pref_file_download_default_path_prefix">Ubicació per defecte: %s</string>
   <string name="pref_file_download_save_modify_default_path">Ubicació de les baixades</string>
@@ -601,7 +601,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="profiler_no_storage_toast">"El gestor de perfils no pot iniciar perquè l'emmagatzematge extern no és a punt"</string>
   <string name="profiler_started_toast">Gestor de perfils iniciat</string>
   <string name="profiler_stopped_toast">El gestor de perfils ha acabat. Els resultats són a %1$s.</string>
-  <string name="progress_dialog_setting_wallpaper">Establint fons de pantalla&#8230;</string>
+  <string name="progress_dialog_setting_wallpaper">S\'està establint el fons de pantalla&#8230;</string>
   <string name="pull_to_refresh_pull_label">Llisqueu per actualitzar</string>
   <string name="pull_to_refresh_release_label">Allibereu per recomanar i actualitzar</string>
   <string name="qr_code_title">Codi QR</string>
@@ -700,9 +700,9 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="senddesktop">Pantalla d\'inici</string>
   <string name="sendstartpage">Pàgina d\'inici</string>
   <string name="share_page_text">"Estic gaudint 【%1$s】 | %2$s"</string>
-  <string name="show_check_security_url_check_tip_dialog_description">"La URL d'aquesta web s'enviarà als servidors de Xiaomi per verificar la seva seguretat. Podeu desactivar aquesta funció en qualsevol moment a Configuració."</string>
+  <string name="show_check_security_url_check_tip_dialog_description">"L'URL d'aquest web s'enviarà als servidors de Xiaomi per verificar la seva seguretat. Podeu desactivar aquesta funció en qualsevol moment a Configuració."</string>
   <string name="show_security_tip_dialog_title">Condicions del servei</string>
-  <string name="show_weather_location_getter_tip_dialog_description">Els serveis meteorològics necessiten la vostra localització per donar-vos informació actualitzada del temps al vostre navegador. Podeu desactivar aquesta característica a Paràmetres.</string>
+  <string name="show_weather_location_getter_tip_dialog_description">Els serveis meteorològics necessiten la vostra ubicació per donar-vos informació del temps actualitzada al navegador. Podeu desactivar aquesta característica a Configuració.</string>
   <string name="sign_in_to" formatted="false">Inicia una sessió al %s1 \"%s2\"</string>
   <string name="skip_button_label">Omet</string>
   <string name="skip_current_version">Omet aquesta versió</string>
@@ -745,7 +745,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="time_picker_dialog_hour_minute_separator">:</string>
   <string name="time_picker_dialog_minute_second_separator">:</string>
   <string name="time_picker_dialog_second_subsecond_separator">.</string>
-  <string name="time_picker_dialog_title">Estableix la durada</string>
+  <string name="time_picker_dialog_title">Estableix l\'hora</string>
   <string name="title_bar_loading">S\'està carregant&#8230;</string>
   <string name="too_many_windows_dialog_message">"El navegador no pot obrir una nova pestanya fins que en tanqueu una altra"</string>
   <string name="too_many_windows_dialog_title">"No es pot obrir més pestanyes"</string>
@@ -846,5 +846,5 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="webpage_title">Marcadors i historial</string>
   <string name="webview_find_on_page">Cerca a la pàgina</string>
   <string name="webviewchromium_private_browsing_warning">Aquesta funció no està implementada en aquesta versió d\'Android.</string>
-  <string name="week_picker_dialog_title">Establiu setmana</string>
+  <string name="week_picker_dialog_title">Estableix la setmana</string>
 </resources>
