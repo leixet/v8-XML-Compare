@@ -52,7 +52,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="activity_title_settings">Configuració</string>
   <string name="activity_title_system">Sistema</string>
   <string name="activity_title_trash">Memòria cau</string>
-  <string name="activity_title_virus">Vírus</string>
+  <string name="activity_title_virus">Virus</string>
   <string name="activity_title_virus_detail">Detalls de virus</string>
   <string name="activity_title_virus_settings">Configuració</string>
   <string name="activity_title_white_list">Excepcions</string>
@@ -595,7 +595,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="item_install_monitor">Instal·lar monitor</string>
   <string name="item_mms">Filtra missatges no desitjats</string>
   <string name="item_usb_debug">Depuració USB</string>
-  <string name="item_virus">Vírus</string>
+  <string name="item_virus">Virus</string>
   <string name="item_virus_lib">Actualitza definició de virus automàticament</string>
   <string name="keywords_antispam">Blocklist;Bloquejar;Llista negre;Blocklist intel·ligent;Frau;Vendes;Agents</string>
   <string name="keywords_antivirus">Virus;Risc;Antivirus;Escanejar</string>
