@@ -127,7 +127,7 @@
   <string name="preference_about_calculator">Quant a la Calculadora</string>
   <string name="preference_alert_follow_wechat">Copia i enganxa al WeChat per seguir</string>
   <string name="preference_alert_follow_wechat_button">Copia</string>
-  <string name="preference_check_update_title">Cerca actualitzacions</string>
+  <string name="preference_check_update_title">Comprova si hi ha actualitzacions</string>
   <string name="preference_feedback_title">PMF</string>
   <string name="preference_follow_us">Segueix-nos</string>
   <string name="preference_follow_web_summary">www.miui.com</string>
@@ -137,7 +137,7 @@
   <string name="preference_follow_weibo_summary">\@MIUI</string>
   <string name="preference_follow_weibo_title">Sina Weibo</string>
   <string name="preference_settings">Configuració</string>
-  <string name="preference_use_degress_summary">Substituir radiants per angles en funcions trigonomètriques</string>
+  <string name="preference_use_degress_summary">Substitueix radiants per angles en funcions trigonomètriques</string>
   <string name="preference_use_degress_title">Utilitza angles</string>
   <string name="rate_data_provider">Els tipus d\'interès són proporcionats per hexun.com</string>
   <string name="rightParen">)</string>
