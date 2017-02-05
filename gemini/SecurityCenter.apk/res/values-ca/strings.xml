@@ -174,9 +174,9 @@ o introdueixi la seva contrasenya"</string>
   <string name="auto_task_notify_task_continue_do">Inicia l\'acció</string>
   <string name="auto_task_notify_task_count_down">L\'acció automatitzada s\'iniciarà en 5 segons</string>
   <string name="auto_task_operation_airplane_mode">Mode avió</string>
-  <string name="auto_task_operation_auto_brightness">Lluentor automàtica</string>
+  <string name="auto_task_operation_auto_brightness">Brillantor automàtica</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
-  <string name="auto_task_operation_brightness">Lluentor de la pantalla</string>
+  <string name="auto_task_operation_brightness">Brillantor de la pantalla</string>
   <string name="auto_task_operation_close">Desactivat</string>
   <string name="auto_task_operation_close_string">Desactiva %s</string>
   <string name="auto_task_operation_gps">GPS</string>
