@@ -174,9 +174,9 @@
   <string name="common_use_phrase_bottom_bar_text_previous">Anterior</string>
   <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
   <string name="config_webSettingsDefaultTextEncoding">UTF-8</string>
-  <string name="contextmenu_add_contact">Afegeix contacte</string>
+  <string name="contextmenu_add_contact">Afegeix un contacte</string>
   <string name="contextmenu_copy">Copia</string>
-  <string name="contextmenu_copylink">Copia enllaç URL</string>
+  <string name="contextmenu_copylink">Copia l\'URL de l\'enllaç</string>
   <string name="contextmenu_dial_dot">Marca&#8230;</string>
   <string name="contextmenu_download_image">Desa la imatge</string>
   <string name="contextmenu_download_image_as">Desa la imatge</string>
@@ -184,9 +184,9 @@
   <string name="contextmenu_openlink">Obre</string>
   <string name="contextmenu_openlink_newwindow">Obre en una pestanya nova</string>
   <string name="contextmenu_openlink_newwindow_background">Obre en una pestanya al darrera</string>
-  <string name="contextmenu_recognise_qr_code">Reconeix codi QR</string>
-  <string name="contextmenu_savelink">Desa enllaç</string>
-  <string name="contextmenu_send_mail">Enviar email</string>
+  <string name="contextmenu_recognise_qr_code">Reconeix el codi QR</string>
+  <string name="contextmenu_savelink">Desa l\'enllaç</string>
+  <string name="contextmenu_send_mail">Envia un correu electrònic</string>
   <string name="contextmenu_set_wallpaper">Estableix com a fons de pantalla</string>
   <string name="contextmenu_sharelink">Comparteix l\'enllaç</string>
   <string name="contextmenu_view_image">Mostra la imatge</string>
@@ -194,7 +194,7 @@
   <string name="contextmenu_webpage_html">Desa com a fitxer HTML</string>
   <string name="contextmenu_webpage_snapshot">Desa la pàgina</string>
   <string name="copy_to_clipboard_failure_message">No s\'ha pogut copiar al porta-retalls</string>
-  <string name="copy_url">Copia la URL</string>
+  <string name="copy_url">Copia l\'URL</string>
   <string name="create_qr_code">Codi QR</string>
   <string name="current_version_pad">Tauleta</string>
   <string name="current_version_pc">Escriptori</string>
