@@ -348,8 +348,8 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="audio_list_loading">S\'està carregant&#8230;</string>
   <string name="audio_profile_settings_title">Perfils d\'àudio</string>
   <string name="audio_record_proc_title">Redueix la fressa de fons</string>
-  <string name="auto_brightness_summary">Optimitza el nivell de lluminositat segons la llum</string>
-  <string name="auto_brightness_title">Lluminositat adaptativa</string>
+  <string name="auto_brightness_summary">Optimitza el nivell de brillantor segons la llum</string>
+  <string name="auto_brightness_title">Brillantor adaptativa</string>
   <string name="auto_caps">Majúscules automàtiques</string>
   <string name="auto_caps_summary">Primera lletra de les frases en majúscula</string>
   <string name="auto_disable_screenbuttons_ask">Demana\'m si ho vull deshabilitar</string>
@@ -372,7 +372,7 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="auto_restore_title">Restauració automàtica</string>
   <string name="auto_startup_application_manage">Auto-inici</string>
   <string name="auto_startup_count">%d aplicacions tenen autorització d\'auto-inici</string>
-  <string name="automatic_brightness">Lluminositat automàtica</string>
+  <string name="automatic_brightness">Brillantor automàtica</string>
   <string name="available_size">%s disponible</string>
   <string name="available_via_passpoint">Disponible mitjançant %1$s</string>
   <string name="available_virtual_keyboard_category">Teclat virtual disponible</string>
@@ -503,7 +503,7 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="battery_sugg_apps_settings">L\'aplicació permet la configuració d\'estalvi de bateria</string>
   <string name="battery_sugg_bluetooth_basic">Apagueu el Bluetooth quan no s\'utilitzi</string>
   <string name="battery_sugg_bluetooth_headset">Proveu de connectar-ho a un altre dispositiu</string>
-  <string name="battery_sugg_display">Reduiu la lluminositat de la pantalla i/o el temps d\'apagada</string>
+  <string name="battery_sugg_display">Reduiu la brillantor de la pantalla i/o el temps d\'apagada</string>
   <string name="battery_sugg_radio">Per estalviar energia en zones sense cobertura activeu el mode d\'avió</string>
   <string name="battery_sugg_wifi">"Apagueu el Wi-Fi quan no l'utilitzeu o no sigui disponible"</string>
   <string name="battery_summary">%1$d%% d\'ús des de la darrera càrrega</string>
@@ -756,11 +756,11 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="breathing_light_color_summary">Color del LED per a notificacions noves</string>
   <string name="breathing_light_freq_summary">Pampalluga quan hi ha notificacions noves</string>
   <string name="breathing_light_freq_title">Freqüència de pampallugeig del LED</string>
-  <string name="brightness">Nivell de lluminositat</string>
-  <string name="brightness_auto_adjust_off">La lluminositat de la pantalla romandrà constant.</string>
-  <string name="brightness_auto_adjust_on">La llum de la pantalla variarà segons la lluminositat de cada situació.</string>
-  <string name="brightness_summary">Ajusta la lluminositat de la pantalla</string>
-  <string name="brightness_title">Lluminositat</string>
+  <string name="brightness">Nivell de brillantor</string>
+  <string name="brightness_auto_adjust_off">La brillantor de la pantalla romandrà constant.</string>
+  <string name="brightness_auto_adjust_on">La brillantor de la pantalla variarà segons la il·luminació de cada situació.</string>
+  <string name="brightness_summary">Ajusta la brillantor de la pantalla</string>
+  <string name="brightness_title">Brillantor</string>
   <string name="bssid_label">BSSID:</string>
   <string name="bt_hci_snoop_log">Activa HCI Snoop log Bluetooth</string>
   <string name="bt_hci_snoop_log_summary">Captura tots els paquets HCI Bluetooth en un fitxer</string>
@@ -1294,8 +1294,8 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="display_preview_label">Visualització prèvia:</string>
   <string name="display_settings">Pantalla</string>
   <string name="display_settings_title">Pantalla</string>
-  <string name="display_summary_off">S\'ha desactivat la lluminositat automàtica</string>
-  <string name="display_summary_on">S\'ha activat la lluminositat automàtica</string>
+  <string name="display_summary_off">La brillantor automàtica està desactivada</string>
+  <string name="display_summary_on">La brillantor automàtica està activada</string>
   <string name="display_vr_pref_low_persistence">Utilitza la configuració de desenfocament baix causat pel moviment</string>
   <string name="display_vr_pref_off">No facis res</string>
   <string name="display_vr_pref_title">Amb el dispositiu en mode de realitat virtual</string>
@@ -1667,7 +1667,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="gadget_brightness_state_full">Màxim</string>
   <string name="gadget_brightness_state_half">meitat</string>
   <string name="gadget_brightness_state_off">Apagat</string>
-  <string name="gadget_brightness_template">Lluminositat %1$s</string>
+  <string name="gadget_brightness_template">Brillantor %1$s</string>
   <string name="gadget_location">Ubicació</string>
   <string name="gadget_picker_title">Trieu un giny</string>
   <string name="gadget_state_off">apagat</string>
@@ -2688,7 +2688,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="path_bluetooth_device_searchable">Configuració/Bluetooth/Visibilitat</string>
   <string name="path_bluetooth_enable">Configuració/Bluetooth/Bluetooth</string>
   <string name="path_bluetooth_settings">Configuració/Bluetooth</string>
-  <string name="path_brightness_settings">Configuració/Pantalla/Lluminositat</string>
+  <string name="path_brightness_settings">Configuració/Pantalla/Brillantor</string>
   <string name="path_button_light_timeout">Configuració/Configuració addicional/Botons/Durada de la llum dels botons</string>
   <string name="path_calendar_sound_title">Configuració/So i vibració/So del calendari</string>
   <string name="path_children_mode_settings">Configuració/Avançats/Mode de mainada</string>
@@ -3411,7 +3411,7 @@ Per fer-ho:
   <string name="search_bluetooth_device_name">Nom del dispositiu</string>
   <string name="search_bluetooth_device_searchable">Detectable</string>
   <string name="search_bluetooth_enable">Bluetooth</string>
-  <string name="search_brightness">Lluminositat</string>
+  <string name="search_brightness">Brillantor;Brillantor de la pantalla</string>
   <string name="search_button_light_timeout">Manté els llums dels botons encesos</string>
   <string name="search_calendar_sound_title">So del calendari</string>
   <string name="search_children_mode_settings">Mode de mainada;Bloqueig de SMS</string>
@@ -3426,7 +3426,7 @@ Per fer-ho:
   <string name="search_development_settings">Opcions per a desenvolupadors</string>
   <string name="search_device_name">Nom del dispositiu</string>
   <string name="search_device_status">Estat</string>
-  <string name="search_display">Pantalla;Lluminositat;Saturació de colors;Mode guants;Estalvi de pantalla;Orientació automàtica de la pantalla</string>
+  <string name="search_display">Pantalla;Il·luminació ambient;Saturació de colors;Mode guants;Estalvi de pantalla;Orientació automàtica de la pantalla;Brillantor;Tipografia;Tipografies;Mida de lletra</string>
   <string name="search_dndm_alarm_content">Excepcions</string>
   <string name="search_dndm_auto_button_title">Configura l\'hora</string>
   <string name="search_dndm_auto_time_setting">Configura l\'hora;No molesteu</string>
