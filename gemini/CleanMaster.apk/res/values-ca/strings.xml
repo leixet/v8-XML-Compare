@@ -3,7 +3,7 @@
 <resources>
   <string name="activity_title_ad">Publicitat</string>
   <string name="activity_title_apk">Paquets</string>
-  <string name="activity_title_brightness_image">Sub i sobreexposades</string>
+  <string name="activity_title_brightness_image">Subexposades i sobreexposades</string>
   <string name="activity_title_cache">Memòria cau</string>
   <string name="activity_title_cache_data">Dades d\'aplicació</string>
   <string name="activity_title_deep_apk">Elimina APK</string>
