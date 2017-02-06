@@ -10,6 +10,7 @@
   <string name="alpha_cancel_cancel">Cancel·la</string>
   <string name="alpha_cancel_confirm">Voleu cancel·lar el registre ara?</string>
   <string name="alpha_cancel_ok">D\'acord</string>
+  <string name="alpha_no_network">Connecteu-vos a la xarxa per inscriure-us</string>
   <string name="app_name">Actualitzador</string>
   <string name="apply_title">S\'està actualitzant (%s)</string>
   <string name="apply_update_dialog_cancel_button">Cancel·la</string>
@@ -102,6 +103,7 @@
   <string name="loading">S\'està sol·licitant&#8230;</string>
   <string name="log_share">Comparteix</string>
   <string name="menu_more_button">Menú</string>
+  <string name="menu_title_apply_for_alpha">Inscriure\'s al programa de proves Beta</string>
   <string name="menu_title_current_version_log">"Novetats"</string>
   <string name="menu_title_download_current_rom">Baixa l\'actualització</string>
   <string name="menu_title_pick_rom_file">Selecciona el paquet d\'actualització</string>
