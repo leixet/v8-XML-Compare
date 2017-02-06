@@ -117,7 +117,7 @@
   <string name="new_updates_found_notification_title">Actualització disponible</string>
   <string name="next">Següent</string>
   <string name="no_log">No hi ha cap resum disponible</string>
-  <string name="no_wifi_msg">Utilitzar les dades mòbils per baixar l\'actualització incrementarà molt l\'ús d\'aquestes. Si excediu el límit de la vostra tarifa, l\'operador us pot cobrar càrrecs addicionals.</string>
+  <string name="no_wifi_msg">Utilitzar les dades mòbils pot comportar despeses addicionals. Connecteu-vos a una xarxa Wi-Fi per baixar les actualitzacions.</string>
   <string name="no_wifi_title">Connecteu-vos a una xarxa Wi-Fi</string>
   <string name="not_open">No</string>
   <string name="notification_auto_reboot_seccess_title">El dispositiu s\'ha actualitzat automàticament</string>
