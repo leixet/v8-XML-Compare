@@ -102,6 +102,12 @@
     <item>4K (sobredimensionat, segur)</item>
     <item>720p, 1080p (dual screen)</item>
   </string-array>
+  <string-array name="enable_opengl_traces_entries">
+    <item>None</item>
+    <item>Logcat</item>
+    <item>Systrace (gràfics)</item>
+    <item>Call stack on glGetError</item>
+  </string-array>
   <string-array name="usb_configuration_titles">
     <item>Càrrega</item>
     <item>MTP (Protocol de Transferència de Multimèdia)</item>
