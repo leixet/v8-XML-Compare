@@ -148,6 +148,40 @@
     <item>Com a molt 1 procés</item>
     <item>Com a molt 2 processos</item>
     <item>Com a molt 3 processos</item>
-    <item>At most 4 processes</item>
+    <item>Com a molt 4 processos</item>
+  </string-array>
+  <string-array name="usb_configuration_titles">
+    <item>S\'està carregant</item>
+    <item>MTP (Protocol de transferència de multimèdia)</item>
+    <item>PTP (Protocol de transferència d\'imatges)</item>
+    <item>RNDIS (USB Ethernet)</item>
+    <item>Font d\'àudio</item>
+    <item>MIDI</item>
+  </string-array>
+  <string-array name="tts_rate_entries">
+    <item>Molt lenta</item>
+    <item>Lenta</item>
+    <item>Normal</item>
+    <item>Ràpida</item>
+    <item>Més ràpida</item>
+    <item>Molt ràpida</item>
+    <item>Vertiginós</item>
+    <item>Molt vertiginós</item>
+    <item>La més ràpida</item>
+  </string-array>
+  <string-array name="color_mode_names">
+    <item>Vibrant (per defecte)</item>
+    <item>Natural</item>
+    <item>Normal</item>
+  </string-array>
+  <string-array name="color_mode_descriptions">
+    <item>Colors millorats</item>
+    <item>Colors naturals tal com els veu l\'ull</item>
+    <item>Colors optimitzats per contingut digital</item>
+  </string-array>
+  <string-array name="organ_donor_values">
+    <item>Sí</item>
+    <item>No</item>
+    <item></item>
   </string-array>
 </resources>
