@@ -50,4 +50,24 @@
   <string name="exercise_setting_brief">Mostra les estadístiques d\'activitat (permet a Mi Fit iniciar-se automàticament a Seguretat).</string>
   <string name="express_mi_shop">Mi Store</string>
   <string name="express_open">Mostra targetes de seguiment d\'entrega</string>
+  <string name="express_other_app">Seguiment de comandes des de aplicacions de compres</string>
+  <string name="express_setting_brief">Reculli targetes de les aplicacions de compra per realitzar un seguiment de les comandes.</string>
+  <string name="express_support_app">Aplicacions compatibles</string>
+  <string name="express_taobao">Taobao</string>
+  <string name="express_tmall">Tmall</string>
+  <string name="flow_open">Mostra targeta de dades mòbils</string>
+  <string name="flow_setting_brief">Visualitzeu la informació de dades mòbils (Afegiu el pla de dades a Seguretat &gt; Ús de dades).</string>
+  <string name="focus">Segueix l\'estat</string>
+  <string name="focus_on_dynamic">Segueix l\'estat</string>
+  <string name="go_to_school">Per a i des de el treball o l\'escola</string>
+  <string name="groupon">Entrades i cupons</string>
+  <string name="groupon_open">Mostra la targeta d\'entrades i cupons</string>
+  <string name="groupon_setting_brief">Mostra informació sobre les entrades comprades i cupons.</string>
+  <string name="help_quick_start_wechat_video">Obteniu accés a funcions específiques de l\'aplicació fent servir dreceres</string>
+  <string name="hold_down_adjustment_order">Mantén premut la icona de la dreta per arrossegar elements</string>
+  <string name="home">Inici</string>
+  <string name="home_and_company">Inici i treball</string>
+  <string name="immediate_recommendation">Recomanacions</string>
+  <string name="launch_app">Recomanacions de l\'aplicació</string>
+  <string name="launch_change_order">Canvia l\'ordre</string>
 </resources>
