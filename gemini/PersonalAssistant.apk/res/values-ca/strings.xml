@@ -70,4 +70,26 @@
   <string name="immediate_recommendation">Recomanacions</string>
   <string name="launch_app">Recomanacions de l\'aplicació</string>
   <string name="launch_change_order">Canvia l\'ordre</string>
+  <string name="launch_enable">Mostra les targetes d\'accés ràpid</string>
+  <string name="launch_function">Seleccioneu característiques</string>
+  <string name="launch_label">Accés ràpid</string>
+  <string name="launch_noapp_dialog_cancel">Cancel·la</string>
+  <string name="launch_noapp_dialog_content">Es va eliminar l\'aplicació responsable d\'aquesta targeta. Podeu reemplaçar aquesta targeta per una diferent.</string>
+  <string name="launch_noapp_dialog_redownload">Baixa-ho de nou</string>
+  <string name="launch_noapp_dialog_replace">Reemplaça</string>
+  <string name="launch_noapp_dialog_title">L\'aplicació s\'ha suprimit</string>
+  <string name="launch_order_change">Canvia l\'ordre</string>
+  <string name="launch_order_finish">Fet</string>
+  <string name="launch_top">Inclou aplicacions recomanades o personalitzeu aquesta funció</string>
+  <string name="launcher_else">Altres</string>
+  <string name="locating_fail">"No s'ha pogut obtenir la ubicació"</string>
+  <string name="locations">Ubicacions freqüents</string>
+  <string name="locations_preferences">Ubicacions freqüents i preferències</string>
+  <string name="mi_sport_go_install">Baixa</string>
+  <string name="mi_sport_not_installed">"Aquesta aplicació no està instal·lada en el telèfon. No es pot utilitzar aquesta targeta."</string>
+  <string name="music">Música i ràdio</string>
+  <string name="music_open">Mostra la targeta de música i ràdio</string>
+  <string name="music_setting_brief">Connecteu els auriculars per seguir escoltant música o la ràdio des del lloc on ho va deixar.</string>
+  <string name="navigation_network_location_enable">Activa</string>
+  <string name="navigation_network_location_enable_later">Més tard</string>
 </resources>
