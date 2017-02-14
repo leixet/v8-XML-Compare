@@ -92,4 +92,20 @@
   <string name="music_setting_brief">Connecteu els auriculars per seguir escoltant música o la ràdio des del lloc on ho va deixar.</string>
   <string name="navigation_network_location_enable">Activa</string>
   <string name="navigation_network_location_enable_later">Més tard</string>
+  <string name="navigation_network_location_enabled">Els serveis d\'ubicació estan activats. Podeu canviar-ho a la Configuració.</string>
+  <string name="navigation_network_location_not_enabled_summary">L\'Assistent intel·ligent ofereix suggeriments segons la ubicació. Activeu els serveis d\'ubicació per una millor experiència.</string>
+  <string name="navigation_network_location_not_enabled_title">Activa els serveis d\'ubicació</string>
+  <string name="navigation_search_automatically_positioned_city">Obtén informació sobre la ciutat utilitzant la ubicació actual</string>
+  <string name="navigation_search_current_city">Ciutat actual:</string>
+  <string name="navigation_search_default_hint">Cerca elements aquí</string>
+  <string name="navigation_search_no_city_list">No hi ha cap ciutat</string>
+  <string name="navigation_search_positioning">Obtenint informació d\'ubicació&#8230;</string>
+  <string name="navigation_search_positioning_failed">"No s'ha pogut obtenir la ubicació, seleccioneu la ciutat manualment"</string>
+  <string name="network_access_denied">"No s'ha pogut connectar a la xarxa, primer accepteu els termes i les condicions"</string>
+  <string name="network_error">Error de xarxa</string>
+  <string name="network_unavaliable">"No es pot obtenir la informació, comproveu la connexió de xarxa"</string>
+  <string name="no_install">No s\'ha instal·lat</string>
+  <string name="no_more_result">No hi ha més elements</string>
+  <string name="no_settings">Sense definir</string>
+  <string name="not_install_c1">"Aquesta aplicació no està instal·lada en el telèfon. Voleu baixar-la i instal·lar-la?"</string>
 </resources>
