@@ -148,4 +148,26 @@
   <string name="setting_place">Afegeix ubicacions freqüents per veure suggeriments de trànsit i rutes</string>
   <string name="setting_place_next">Següent</string>
   <string name="setting_pref_confirm">Finalitza</string>
+  <string name="setting_school_label">Afegeix l\'adreça del treball/escola</string>
+  <string name="settings_label">Configuració de l\'Assistent intel·ligent</string>
+  <string name="shortcut">Dreceres</string>
+  <string name="sport_open">Mostra la targeta Mi Fit</string>
+  <string name="taxi">Taxi</string>
+  <string name="taxi_open">Mostra la targeta de taxi</string>
+  <string name="taxi_setting_brief">Obtén un taxi en un sol toc.</string>
+  <string name="transit_subway">Transport públic</string>
+  <string name="try_again">Torneu-ho a provar</string>
+  <string name="understandassistant">Quant l\'Assistent intel·ligent</string>
+  <string name="uploads_disabled">"No es poden pujar els arxius"</string>
+  <string name="walk">A peu</string>
+  <string name="weibo_name">Nou article</string>
+  <string name="weibo_parent">Weibo</string>
+  <string name="which_transport">Com arribeu normalment al vostre destí?</string>
+  <string name="wx_aa">Reparteix la despesa</string>
+  <string name="wx_collectioncode">Rep el pagament</string>
+  <string name="wx_name">La meva targeta</string>
+  <string name="wx_parent">WeChat</string>
+  <string name="wx_paycode">Pagament</string>
+  <string name="wx_scan">Escàner</string>
+  <string name="wx_timeline">Moments</string>
 </resources>
