@@ -141,4 +141,11 @@
   <string name="setting_address">Afegeix ubicacions freqüents</string>
   <string name="setting_dialog_cancel">Cancel·la</string>
   <string name="setting_dialog_quit">Tanca</string>
+  <string name="setting_dialog_title">Tots els canvis es perdran. Voleu sortir?</string>
+  <string name="setting_disable">Desactiva</string>
+  <string name="setting_home_label">Afegeix l\'adreça de casa</string>
+  <string name="setting_launch_change">Canvia</string>
+  <string name="setting_place">Afegeix ubicacions freqüents per veure suggeriments de trànsit i rutes</string>
+  <string name="setting_place_next">Següent</string>
+  <string name="setting_pref_confirm">Finalitza</string>
 </resources>
