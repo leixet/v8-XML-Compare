@@ -840,10 +840,6 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="carrier_enabled">Activa/Desactiva APN</string>
   <string name="carrier_enabled_summaryOff">S\'ha desactivat l\'APN</string>
   <string name="carrier_enabled_summaryOn">S\'ha activat l\'APN</string>
-  <string name="category_key_device">com.android.settings.category.device</string>
-  <string name="category_key_personal">com.android.settings.category.personal</string>
-  <string name="category_key_system">com.android.settings.category.system</string>
-  <string name="category_key_wireless">com.android.settings.category.wireless</string>
   <string name="category_personal">Personal</string>
   <string name="category_work">Feina</string>
   <string name="cdma_security_settings_summary">Defineix La meva ubicació, el desbloqueig de pantalla i el bloqueig d\'emmagatzematge de credencials</string>
@@ -858,7 +854,6 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="cellular_to_wlan_hint_title">Mòbil -&gt; Wi-Fi suggeriments</string>
   <string name="cellular_to_wlan_hint_toast">Mòbil -&gt;La connexió Wi-Fi pot quedar afectada</string>
   <string name="cellular_to_wlan_title">Mòbil -&gt;Wi-Fi</string>
-  <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="change">Canvia</string>
   <string name="change_password">Canvia el bloqueig de pantalla</string>
   <string name="change_security_lock">Prova altres formes de desbloqueig</string>
@@ -3681,7 +3676,6 @@ Per fer-ho:
   <string name="settings_license_activity_unavailable">S\'ha produït un problema en llegir les llicències.</string>
   <string name="settings_manual_activity_title">Manual</string>
   <string name="settings_manual_activity_unavailable">S\'ha produït un problema en carregar el manual.</string>
-  <string name="settings_package">com.android.settings</string>
   <string name="settings_safetylegal_activity_loading">S\'està carregant&#8230;</string>
   <string name="settings_safetylegal_activity_title">Informació de seguretat</string>
   <string name="settings_safetylegal_activity_unreachable">No hi ha connexió de dades. Per veure la informació, aneu a %s des de qualsevol ordinador connectat a Internet.</string>
