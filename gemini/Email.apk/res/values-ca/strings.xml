@@ -17,7 +17,7 @@
   <string name="account_security_policy_explanation_fmt">"El servidor %s requereix que permeti controlar remotament
         algunes característiques de seguretat en el teu dispositiu Android."</string>
   <string name="account_security_title">Dispositiu de seguretat</string>
-  <string name="account_set_up_change_type_note">Si voleu canviar la configuració del seu compte de POP3 i IMAP, primer ha d\'eliminar el compte i tornar a configurar l\'inici de sessió.</string>
+  <string name="account_set_up_change_type_note">Si us cal bescanviar la configuració entre POP3 i IMAP, primer heu d\'eliminar el vostre compte i tornar-lo a crear amb la configuració desitjada.</string>
   <string name="account_setting">Comptes</string>
   <string name="account_setting_keywords">Comptes; comptes de correu</string>
   <string name="account_setting_message_body_load_complete">Missatge complet</string>
