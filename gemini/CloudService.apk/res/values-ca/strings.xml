@@ -39,7 +39,7 @@ Per obtenir més espai d\'emmagatzematge, visiteu mi.com/micloud."</string>
   <string name="cloud_back_up_button_ok">Forçar aturada</string>
   <string name="cloud_back_up_close_info">Premi per realitzar còpia de seguretat. </string>
   <string name="cloud_back_up_dialog_content">"Aturar còpia de seguretat en curs? Si ho atura ara, no podrà utilitzar aquesta còpia de seguretat per restaurar aplicacions."</string>
-  <string name="cloud_back_up_network_unavailable">"No s'ha pogut eliminar. Connecteu amb Wi-Fi i torneu a intentar."</string>
+  <string name="cloud_back_up_network_unavailable">"No s'ha pogut eliminar. Connecteu via Wi-Fi i torneu a intentar-ho."</string>
   <string name="cloud_back_up_open_info">"Copiar quan estigui connectat a Wi-Fi un cop cada %1$s
 Última copia: %2$s"</string>
   <string name="cloud_back_up_open_info_no_backuptime">Copia quan estigui connectat a Wi-Fi un cop cada %1$s</string>
