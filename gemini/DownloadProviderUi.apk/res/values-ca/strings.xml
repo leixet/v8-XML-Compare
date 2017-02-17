@@ -59,9 +59,9 @@
   <string name="dialog_btn_ok">D\'acord</string>
   <string name="dialog_btn_ok_disabled_net">Configuració de xarxa</string>
   <string name="dialog_cannot_resume">Baixada interrompuda. No es pot reprendre.</string>
-  <string name="dialog_confirm_delete_checkbox_message">Eliminar també fitxers locals</string>
-  <string name="dialog_confirm_delete_downloads_message">Eliminar %d tasques?</string>
-  <string name="dialog_confirm_delete_the_download_item_message">Eliminar aquestes tasques</string>
+  <string name="dialog_confirm_delete_checkbox_message">Elimina també els fitxers locals</string>
+  <string name="dialog_confirm_delete_downloads_message">Voleu eliminar %d tasques?</string>
+  <string name="dialog_confirm_delete_the_download_item_message">Elimina aquestes tasques</string>
   <string name="dialog_failed_body">Voleu tornar a intentar baixar el fitxer més endavant o eliminar-lo de la cua?</string>
   <string name="dialog_file_already_exists">No es pot baixar. El fitxer de destí ja existeix.</string>
   <string name="dialog_file_missing_body">No es troba el fitxer baixat.</string>
