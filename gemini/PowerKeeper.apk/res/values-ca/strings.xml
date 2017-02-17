@@ -11,7 +11,7 @@
   <string name="add_user_define_group_failed">"No es pot afegir el perfil"</string>
   <string name="add_user_define_title">Afegir perfil</string>
   <string name="alter_message_abandon_title">Descarta els canvis?</string>
-  <string name="alter_message_delete">Eliminar?</string>
+  <string name="alter_message_delete">Voleu eliminar-lo?</string>
   <string name="alter_message_switch_mode">Canviar modes?</string>
   <string name="alter_message_switch_mode_message">En canviar els modes, la configuració anterior ja no s\'aplicarà a aquesta aplicació.</string>
   <string name="app_invisible_title">AppInvisible</string>
