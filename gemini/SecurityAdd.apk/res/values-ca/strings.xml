@@ -20,7 +20,7 @@
   <string name="game_more_improve">Restringiu l\'activitat en segon pla i la velocitat de baixada per estalviar bateria i ample de banda per jugar</string>
   <string name="game_setting">Configuració del joc</string>
   <string name="gs_app_back_self_start">Estalvi de bateria</string>
-  <string name="gs_dialog_confirm_close_msg">L\'accés directe s\'eliminarà de la pantalla d\'inici. Vés a Seguretat &gt; Configuració per restaurar-lo.</string>
+  <string name="gs_dialog_confirm_close_msg">L\'accés directe s\'eliminarà de la pantalla d\'inici. Aneu a Seguretat &gt; Configuració per restaurar-lo.</string>
   <string name="gs_dialog_confirm_close_title">Desactiva</string>
   <string name="gs_game_duration">Temps</string>
   <string name="gs_game_net_priority">Prioritat de connexió</string>
