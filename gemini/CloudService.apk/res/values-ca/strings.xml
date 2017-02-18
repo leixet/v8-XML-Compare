@@ -221,7 +221,7 @@ per reactivar aquesta funcionalitat."</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay recomana que activi la funció Trobar dispositiu</string>
   <string name="micloud_find_device_guide_progress">Activant la funció Trobar dispositiu&#8230;</string>
   <string name="micloud_find_device_guide_title">"Inicia sessió a %s per trobar, bloquejar,
-o eliminar el dispositiu."</string>
+o esborrar el vostre dispositiu."</string>
   <string name="micloud_find_device_open_fail">"No s'ha pogut engegar Troba dispositiu"</string>
   <string name="micloud_find_device_opened">Trobar dispositiu a</string>
   <string name="micloud_find_device_opened_content">Troba el teu dispositiu a %s</string>
