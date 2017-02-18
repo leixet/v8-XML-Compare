@@ -111,7 +111,7 @@
   <string name="deep_clean_uninstall_completed_tips">S\'ha desinstal·lat correctament</string>
   <string name="deepclean_1_k_clean">Neteja amb un botó</string>
   <string name="deepclean_apk_content">Esborra APK o aplicacions innecessàries</string>
-  <string name="deepclean_apk_summary_empty">Tot pinta bé, no hi ha APK a eliminar</string>
+  <string name="deepclean_apk_summary_empty">Tot pinta bé, no hi ha APKs a eliminar</string>
   <string name="deepclean_apk_version_error">Desconegut</string>
   <string name="deepclean_app_content">Desinstal·la les aplicacions que fa 30 dies que no s\'utilitzen</string>
   <string name="deepclean_app_summary_empty">Tot pinta bé, no hi ha aplicacions a eliminar</string>
@@ -120,7 +120,7 @@
   <string name="deepclean_cache_summary_empty">Tot pinta bé, no hi ha dades a eliminar</string>
   <string name="deepclean_empty">Tot sembla correcte</string>
   <string name="deepclean_install_info_desc2">Elimineu aplicacions per alliberar espai</string>
-  <string name="deepclean_large_content">Eliminar fitxers majors de 10MB</string>
+  <string name="deepclean_large_content">Elimina els fitxers més grans de 10MB</string>
   <string name="deepclean_large_summary_empty">Tot pinta bé, no hi ha fitxers a eliminar</string>
   <string name="deepclean_list_item_from_app">Botiga d\'aplicacions</string>
   <string name="deepclean_list_item_from_dcim_thumbnails">Miniatures</string>
