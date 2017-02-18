@@ -118,7 +118,7 @@
   <string name="callrecordview_menu_delete_called">Esborra les trucades sortints</string>
   <string name="callrecordview_menu_delete_missed">Esborra les trucades perdudes</string>
   <string name="callrecordview_menu_delete_new">Esborrar registres de trucades a nous contactes</string>
-  <string name="callrecordview_menu_delete_one">Eliminar del registre de trucades</string>
+  <string name="callrecordview_menu_delete_one">Elimina del registre de trucades</string>
   <string name="callrecordview_menu_delete_sim">Esborrar %s registres de trucades</string>
   <string name="callrecordview_menu_delete_stranger">Esborrar números desconeguts</string>
   <string name="callrecordview_menu_edit_call_note">Edita nota de trucada</string>
