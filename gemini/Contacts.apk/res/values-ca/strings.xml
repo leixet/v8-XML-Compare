@@ -274,8 +274,8 @@ Les targetes de contacte estan apagades"</string>
   <string name="date_year_toggle">Proporcionar un any</string>
   <string name="default_ringtone">To de trucada per defecte</string>
   <string name="deleteConfirmation">Aquest contacte s\'eliminarà.</string>
-  <string name="deleteConfirmationDetail">Eliminar \"%s\"?</string>
-  <string name="deleteConfirmation_title">Eliminar aquest contacte?</string>
+  <string name="deleteConfirmationDetail">Voleu eliminar \"%s\"?</string>
+  <string name="deleteConfirmation_title">Vols suprimir aquest contacte?</string>
   <string name="delete_call_log_message">Esborrar registre de trucades?</string>
   <string name="delete_call_log_selected_title">Esborrar registre de trucada seleccionat?</string>
   <string name="delete_call_log_title">Seleccionar registre de trucades</string>
@@ -284,11 +284,11 @@ Les targetes de contacte estan apagades"</string>
   <string name="delete_duplicate">Combinar</string>
   <string name="delete_duplicate_message">"Combinant contactes… "</string>
   <string name="delete_group_dialog_message">Suprimeix el grup \"%1$s\", els contactes dins d\'ells no seran eliminats.</string>
-  <string name="delete_group_dialog_title">Eliminar grup</string>
-  <string name="delete_selected_sim_entry_miui">Eliminar els contactes seleccionats</string>
+  <string name="delete_group_dialog_title">Suprimeix el grup</string>
+  <string name="delete_selected_sim_entry_miui">Elimina els contactes seleccionats</string>
   <string name="delete_sim_entries_finish">Contactes a la targeta SIM eliminats</string>
   <string name="delete_sim_entry_miui">Elimina</string>
-  <string name="delete_unknown_contact_calllog_title">Eliminar registre de trucades?</string>
+  <string name="delete_unknown_contact_calllog_title">Voleu netejar el registre de trucades?</string>
   <string name="deleting_sim_entry_miui">Esborrant contactes de la targeta SIM&#8230;</string>
   <string name="deleting_sim_entry_miui_prepare">S\'estan preparant els contactes&#8230;</string>
   <string name="description_add_contact">Afegeix contacte</string>
