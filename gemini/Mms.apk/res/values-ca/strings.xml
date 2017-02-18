@@ -128,7 +128,7 @@
   <string name="delete_phrase">Elimina la resposta</string>
   <string name="delete_unlocked">Elimina els missatges bloquejats</string>
   <string name="delete_wild_sims">Elimina els números</string>
-  <string name="delete_wild_sims_confirm">Tots els missatges que pertanyen als números seleccionats s\'eliminaran d\'aquest telèfon. Podreu restaurar-los en i.mi.com.</string>
+  <string name="delete_wild_sims_confirm">Tots els missatges que pertanyen als números seleccionats s\'eliminaran d\'aquest telèfon. Podreu restaurar-los a i.mi.com.</string>
   <string name="delete_wild_sims_title">Elimina els números seleccionats</string>
   <string name="delivery_report_activity">Informe de lliurament</string>
   <string name="delivery_toast_body">Missatge rebut de %s</string>
