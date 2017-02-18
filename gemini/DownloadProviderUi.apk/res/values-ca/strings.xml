@@ -265,7 +265,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="recommend_paused">En pausa</string>
   <string name="recommend_prepare">Esperar</string>
   <string name="recommend_show_other_downloads">Mostrar recomanades</string>
-  <string name="remove_download">Eliminar</string>
+  <string name="remove_download">Treu</string>
   <string name="restart_download">Reiniciar</string>
   <string name="resume_download">Reprèn</string>
   <string name="retry_after_network_available">"No es pot connectar a la xarxa. Comproveu la seva connexió de dades i reinténta-ho"</string>
