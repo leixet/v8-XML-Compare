@@ -112,10 +112,10 @@
   <string name="declaration_content_td_custom">Aquesta característica necessita connexió a internet per funcionar normalment.</string>
   <string name="defaults">Per defecte</string>
   <string name="delete">Elimina</string>
-  <string name="delete_action_text">Eliminar (%d)</string>
-  <string name="delete_addon">Eliminar</string>
+  <string name="delete_action_text">Elimina (%d)</string>
+  <string name="delete_addon">Elimina</string>
   <string name="delete_addon_content">Voleu eliminar aquest element?</string>
-  <string name="delete_with">Eliminar (%d)</string>
+  <string name="delete_with">Elimina (%d)</string>
   <string name="detail">Detall</string>
   <string name="detail_comment_empty">Buit</string>
   <string name="develop_version">Actualitzacions beta</string>
