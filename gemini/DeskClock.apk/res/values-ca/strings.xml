@@ -41,8 +41,8 @@
   <string name="default_label">Alarma</string>
   <string name="delete">Suprimeix</string>
   <string name="delete_alarm">Suprimeix l\'alarma</string>
-  <string name="delete_alarm_confirm">Voleu eliminar les alarmes seleccionades?</string>
-  <string name="delete_selected_timer_item">Voleu eliminar el temporitzador seleccionada?</string>
+  <string name="delete_alarm_confirm">Voleu eliminar l\'(es) alarma(es) seleccionada(es)?</string>
+  <string name="delete_selected_timer_item">Voleu eliminar el temporitzador seleccionat?</string>
   <string name="delete_timer_item_title">Supressió del temporitzador</string>
   <string name="delete_timezone_title">Elimina la zona horària</string>
   <string name="dialog_confirm_abort">Voleu descartar els canvis?</string>
