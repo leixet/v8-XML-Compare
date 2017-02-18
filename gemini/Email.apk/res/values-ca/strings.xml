@@ -201,7 +201,7 @@
   <string name="attachment_unknown">fitxer %s</string>
   <string name="attachment_video">Vídeo</string>
   <string name="attachments_header">Fitxers adjunts</string>
-  <string name="auto_advance_help_title">Després d\'eliminar un missatge, veure&#8230;</string>
+  <string name="auto_advance_help_title">Després d\'eliminar un missatge, consulta&#8230;</string>
   <string name="auto_advance_label">Avanç automàtic</string>
   <string name="auto_advance_summary">Tria quina pantalla es mostrarà després d\'eliminar un missatge</string>
   <string name="auto_sync_off">Sincronització automàtica apagada.</string>
