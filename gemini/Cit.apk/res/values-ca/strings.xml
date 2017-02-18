@@ -190,11 +190,11 @@ Toqueu la pantalla per iniciar el GPS&#8230;"</string>
   <string name="cit_magnetic_sensor_check_title">Sensor magnètic</string>
   <string name="cit_main_camera_check_summary">"Instruccions de la prova:
  		 
-1.Toqueu el botó de la càmera de sota per accedir a la interfície de la càmera posterior.
-2.Assegureu-vos que el flaix està activat.
-3.Toqueu l\'obturador.
-4.Toqueu la icona de Prova. El sistema desarà la foto automàticament.
-5.La foto que vau prendre hauria de mostrar-se a sota. Toqueu Eliminar per completar la prova."</string>
+1.Premeu el botó Càmera que hi ha a sota per accedir a la interfície de Càmera posterior
+2.Assegureu-vos que el flaix està activat
+3.Premeu l\'obturador
+4.Premeu la icona de Prova. El sistema desarà la foto automàticament.
+5.La foto que heu fet s\'hauria de mostrar a sota. Premeu Eliminar per completar la prova."</string>
   <string name="cit_main_camera_check_title">Càmera posterior</string>
   <string name="cit_name">Proves de maquinari</string>
   <string name="cit_not_available">"Aquesta prova no està disponible en aquesta versió de MIUI"</string>
