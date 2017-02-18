@@ -130,10 +130,10 @@ Sostingui el telèfon com si estigues contestant una trucada, parleu al micròfo
   <string name="cit_fpc_sensor_check_title">Sensor d\'empremta FPC</string>
   <string name="cit_front_camera_check_summary">"Instruccions de la prova:
  		 
-1.Toqueu el botó de Càmera de sota per entrar a la interfície de Càmera frontal.
-2.Toqueu l\'obturador.
-3.Toqueu la icona de Prova. El sistema desarà la foto automàticament.
-4.La foto que vas prendre hauria de mostrar-se a sota. Toqueu Elimina per completar la prova."</string>
+1.Premeu el botó Càmera que hi ha a sota per entrar a la interfície de Càmera frontal.
+2.Premeu l\'obturador.
+3.Premeu la icona de Prova. El sistema desarà la foto automàticament.
+4.La foto que heu fet s\'hauria de mostrar a sota. Toqueu Elimina per finalitzar la prova."</string>
   <string name="cit_front_camera_check_title">Càmera frontal</string>
   <string name="cit_get_signature_failed">HA FALLAT la obtenció de la signatura</string>
   <string name="cit_gps_check_summary">La informació corresponent al GPS hauria de mostrar-se a continuació.</string>
