@@ -84,7 +84,7 @@ Per obtenir més espai d\'emmagatzematge, visiteu mi.com/micloud."</string>
   <string name="find_device_disabled_notice">"Pots activar o desactivar aquesta funció en els ajustos de Mi Cloud"</string>
   <string name="find_device_disabled_title">Trobar Dispositiu desactivat</string>
   <string name="find_device_disabling">Apagant&#8230;</string>
-  <string name="find_device_dspt">Localitzar, bloquejar o eliminar el dispositiu de forma remota.</string>
+  <string name="find_device_dspt">Localitza, bloqueja o esborra el vostre dispositiu de forma remota</string>
   <string name="find_device_dspt_provision">\"Si perd el seu dispositiu, pot anar a %s per localitzar, bloquejar o reiniciar-lo. Aquestes funcions les pot activar o desactivar de qualsevol moment a Configuració.\"
   </string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
