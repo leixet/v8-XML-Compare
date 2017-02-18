@@ -85,7 +85,7 @@
   <string name="confirm_delete_locked_message">Voleu eliminar aquest missatge bloquejat?</string>
   <string name="confirm_delete_message">Voleu eliminar aquest missatge?</string>
   <string name="confirm_dialog_locked_title">Voleu eliminar el missatge bloquejat?</string>
-  <string name="confirm_dialog_title">Voleu eliminar?</string>
+  <string name="confirm_dialog_title">Voleu eliminar-lo?</string>
   <string name="confirm_dlg__msg">Avís CMCC: el servei de correu gratuït CMCC no serà proporcionat si cancel·la el servei. Esteu segur de cancel·lar-lo?</string>
   <string name="confirm_dlg_title">Administració de dispositius</string>
   <string name="confirm_export_dialog_description">Ja no s\'amagaran les converses anteriors amb aquest contacte.</string>
