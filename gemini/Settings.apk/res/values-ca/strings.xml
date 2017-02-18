@@ -467,7 +467,6 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="battery_info_status_unknown">Desconegut</string>
   <string name="battery_info_technology_label">Tecnologia de la bateria:</string>
   <string name="battery_info_temperature_label">Temperatura de la bateria:</string>
-  <string name="battery_info_temperature_units">°C</string>
   <string name="battery_info_uptime">Temps des de s\'ha engegat:</string>
   <string name="battery_info_voltage_label">Voltatge de la bateria:</string>
   <string name="battery_info_voltage_units">mV</string>
