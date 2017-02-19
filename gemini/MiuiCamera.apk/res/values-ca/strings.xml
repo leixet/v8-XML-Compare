@@ -111,7 +111,7 @@
   <string name="pref_camera_autoexposure_entry_centerweighted">Ponderada al centre</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Mitjana del fotograma</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Mesura puntual</string>
-  <string name="pref_camera_autoexposure_title">Configuració d\'exposició automàtica</string>
+  <string name="pref_camera_autoexposure_title">Paràmetres d\'exposició automàtica</string>
   <string name="pref_camera_beautify_detail_default">0</string>
   <string name="pref_camera_beautify_entry_0">0</string>
   <string name="pref_camera_beautify_entry_1">1</string>
@@ -218,7 +218,7 @@
   <string name="pref_camera_iso_entry_iso3200">ISO3200</string>
   <string name="pref_camera_iso_entry_iso400">ISO400</string>
   <string name="pref_camera_iso_entry_iso800">ISO800</string>
-  <string name="pref_camera_iso_title">Selecciona la ISO</string>
+  <string name="pref_camera_iso_title">ISO</string>
   <string name="pref_camera_jpegquality_entry_high">Alta</string>
   <string name="pref_camera_jpegquality_entry_low">Baixa</string>
   <string name="pref_camera_jpegquality_entry_normal">Estàndard</string>
@@ -349,7 +349,7 @@
   <string name="pref_front_mirror_entry_on">Activat</string>
   <string name="pref_front_mirror_title">Càmera frontal mirall</string>
   <string name="pref_groupshot_with_primitive_title">Desa també les fotos originals</string>
-  <string name="pref_manual_exposure_title">Exposició manual</string>
+  <string name="pref_manual_exposure_title">Temps d\'exposició</string>
   <string name="pref_priority_storage_title">Desar a la targeta SD</string>
   <string name="pref_qc_focus_position_title">Enfocament</string>
   <string name="pref_scan_qrcode_title">Escaneja el codi QR</string>
@@ -427,7 +427,7 @@
   <string name="spaceIsLow_content_external_storage_priority">La targeta SD s\'està quedant sense espai disponible</string>
   <string name="spaceIsLow_content_primary_storage_priority">L\'emmagatzematge USB s\'està quedant sense espai disponible</string>
   <string name="start_capture">D\'acord</string>
-  <string name="tap_to_exposure">Toqui per ajustar manualment l\'exposició</string>
+  <string name="tap_to_exposure">Toqueu per ajustar manualment l\'exposició</string>
   <string name="tap_to_focus">Toqueu per enfocar</string>
   <string name="time_lapse_error">"No es pot fer servir aquesta grandària de vídeo en un enregistrament time-lapse"</string>
   <string name="title_snap_double_confirm">Si us plau, confirmeu</string>
