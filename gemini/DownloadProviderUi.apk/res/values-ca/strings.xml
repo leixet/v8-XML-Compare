@@ -52,8 +52,8 @@
   <string name="delete_download">Elimina</string>
   <string name="delete_downloads_records">Elimina les baixades</string>
   <string name="delete_the_downloaded_file">S\'eliminaran els fitxers baixats.</string>
-  <string name="deselect_all">Desseleccionar tot</string>
-  <string name="deselect_subfile_all">Desseleccionar tot</string>
+  <string name="deselect_all">Desselecciona-ho tot</string>
+  <string name="deselect_subfile_all">Desselecciona-ho tot</string>
   <string name="determine">D\'acord</string>
   <string name="dialog_btn_cancel">Cancel·la</string>
   <string name="dialog_btn_ok">D\'acord</string>
