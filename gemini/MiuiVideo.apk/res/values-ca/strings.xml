@@ -652,8 +652,8 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="vp_retry">Reintentar</string>
   <string name="vp_scale_screen">Canviar la relació d\'aspecte</string>
   <string name="vp_screen_shot">Captura de pantalla</string>
-  <string name="vp_select_ci">Seleccionar episodi</string>
-  <string name="vp_select_ep">Seleccionar episodi</string>
+  <string name="vp_select_ci">Selecciona l\'episodi</string>
+  <string name="vp_select_ep">Selecciona l\'episodi</string>
   <string name="vp_select_function">Configuració del reproductor</string>
   <string name="vp_select_source">Seleccionar font</string>
   <string name="vp_select_tv">Canals</string>
