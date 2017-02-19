@@ -1400,7 +1400,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="edge_mode_notification_summary">Premeu per a més informació.</string>
   <string name="edge_mode_notification_title">Utilitza els controls de vora</string>
   <string name="edge_mode_photo">Fes una foto</string>
-  <string name="edge_mode_photo_summary">Des de l\'aplicació de càmera, toca la vora del telèfon per enfocar i torna-ho a tocar per fer la foto</string>
+  <string name="edge_mode_photo_summary">Des de l\'aplicació de càmera, toqueu la vora del telèfon per enfocar, i torneu-hi per fer la foto</string>
   <string name="edge_mode_screenshot">Captura de pantalla</string>
   <string name="edge_mode_screenshot_summary">Toca dues vegades ambdues vores per fer una captura de pantalla</string>
   <string name="emergency_info_title">Informació d\'emergència</string>
