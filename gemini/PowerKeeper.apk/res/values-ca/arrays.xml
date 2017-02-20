@@ -20,9 +20,9 @@
     <item>El telèfon està inactiu</item>
   </string-array>
   <string-array name="action_name_translate">
-    <item>Brillantor de pantalla màxima</item>
-    <item>Freqüència màxima de la CPU</item>
-    <item>Mode de pantalla</item>
+    <item>Màxima brillantor de pantalla</item>
+    <item>Màxima freqüència de la CPU</item>
+    <item>Mode visualització</item>
     <item>Ús de CPU</item>
     <item>Connexió de dades</item>
     <item>Ubicació</item>
@@ -41,13 +41,13 @@
     <item>Activat</item>
     <item>Desactivat</item>
     <item>Immediatament</item>
-    <item>Després de 10 min</item>
-    <item>Després de 30 min</item>
+    <item>D\'aquí a 10 min</item>
+    <item>D\'aquí a 30 min</item>
     <item>Quan la pantalla estigui desactivada</item>
   </string-array>
   <string-array name="app_groups">
-    <item>seleccionades</item>
-    <item>no seleccionades</item>
+    <item>En aquest mode</item>
+    <item>No s\'ha seleccionat</item>
     <item>altres seleccionades</item>
   </string-array>
   <string-array name="hmode_app_groups">
