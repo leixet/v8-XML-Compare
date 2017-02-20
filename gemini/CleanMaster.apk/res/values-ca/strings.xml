@@ -465,8 +465,15 @@
   <string name="wechat_chat_files">Historial de xat</string>
   <string name="wechat_clean">Netejador WeChat</string>
   <string name="wechat_clean_downloads">Fitxers rebuts</string>
+  <string name="wechat_clean_downloads_desc">Fitxers rebuts al WeChat</string>
   <string name="wechat_clean_exit_confirm">Voleu sortir?</string>
+  <string name="wechat_clean_exit_confirm_msg">Voleu aturar l\'escaneig i sortir?</string>
+  <string name="wechat_clean_stop_confirm">Voleu aturar l\'escaneig?</string>
+  <string name="wechat_clean_stop_confirm_msg">Voleu aturar l\'escaneig?</string>
+  <string name="wechat_copy_video_failed_dialog_title">"No s'ha pogut exportar"</string>
   <string name="wechat_copying_video">S\'està exportant&#8230;</string>
+  <string name="wechat_copying_video_success">S\'ha exportat amb èxit</string>
+  <string name="wechat_normal_files">Paperera</string>
   <string name="white_list_ad_header">Fitxers de publicitat: %d</string>
   <string name="white_list_apk_header">Instal·lar paquets: %d</string>
   <string name="white_list_cache_header">Fitxers en memòria cau: %d</string>
