@@ -48,11 +48,11 @@
   <string-array name="app_groups">
     <item>En aquest mode</item>
     <item>No s\'ha seleccionat</item>
-    <item>altres seleccionades</item>
+    <item>Seleccionat en altres modes</item>
   </string-array>
   <string-array name="hmode_app_groups">
-    <item>Estalvi personalitzat</item>
-    <item>Estalvi activat</item>
+    <item>Personalitzat</item>
+    <item>Estalvi de bateria</item>
   </string-array>
   <string-array name="power_checker_group_prefix">
     <item>Ara</item>
