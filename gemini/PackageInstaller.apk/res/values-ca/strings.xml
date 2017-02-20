@@ -207,12 +207,12 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="install">Instal·la</string>
   <string name="install_confirm_question">Voleu instal·lar aquesta aplicació? Obtindrà accés a:</string>
   <string name="install_confirm_question_no_perms">Voleu instal·lar aquesta aplicació? No demana cap accés especial.</string>
-  <string name="install_confirm_question_update">Voleu instal·lar una actualització d\'aquesta aplicació instal·lada? Les vostres dades actuals no es perdran. L\'aplicació actualitzada obtindrà accés a:</string>
-  <string name="install_confirm_question_update_no_perms">Voleu instal·lar una actualització d\'aquesta aplicació instal·lada? Les vostres dades actuals no es perdran. No demana cap accés especial.</string>
-  <string name="install_confirm_question_update_system">Voleu instal·lar una actualització d\'aquesta aplicació integrada? Les vostres dades actuals no es perdran. L\'aplicació actualitzada obtindrà accés a:</string>
-  <string name="install_confirm_question_update_system_no_perms">Voleu instal·lar una actualització d\'aquesta aplicació integrada? Les vostres dades actuals no es perdran. No demana cap accés especial.</string>
+  <string name="install_confirm_question_update">"Voleu instal·lar una actualització d'aquesta aplicació instal·lada? Les vostres dades actuals no es perdran. L'aplicació actualitzada obtindrà accés a:"</string>
+  <string name="install_confirm_question_update_no_perms">"Voleu instal·lar una actualització d'aquesta aplicació instal·lada? Les vostres dades actuals no es perdran. No demana cap accés especial."</string>
+  <string name="install_confirm_question_update_system">"Voleu instal·lar una actualització d'aquesta aplicació integrada? Les vostres dades actuals no es perdran. L'aplicació actualitzada obtindrà accés a:"</string>
+  <string name="install_confirm_question_update_system_no_perms">"Voleu instal·lar una actualització d'aquesta aplicació integrada? Les vostres dades actuals no es perdran. No demana cap accés especial."</string>
   <string name="install_done">Aplicació instal·lada.</string>
-  <string name="install_failed">Aplicació no instal·lada.</string>
+  <string name="install_failed">"Aplicació no instal·lada."</string>
   <string name="install_failed_blocked">El paquet s\'ha bloquejat perquè no es pugui instal·lar.</string>
   <string name="install_failed_conflict">El paquet no és compatible amb un paquet que té el mateix nom.</string>
   <string name="install_failed_incompatible">"Aquesta aplicació no és compatible amb el dispositiu."</string>
@@ -288,7 +288,7 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="next">Següent</string>
   <string name="no_application">Cap</string>
   <string name="no_apps">Cap aplicació</string>
-  <string name="no_new_perms">Aquesta actualització no demana cap permís nou.</string>
+  <string name="no_new_perms">"Aquesta actualització no demana cap permís nou."</string>
   <string name="no_permissions">Cap permís</string>
   <string name="oem_unlock_enable">Desbloqueig d\'OEM</string>
   <string name="oem_unlock_enable_summary">Permet desbloquejar el gestor d\'arrencada</string>
@@ -412,7 +412,7 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="uninstall_blocked_device_owner">"L'administrador de dispositius necessita aquesta aplicació i no es pot desinstal·lar."</string>
   <string name="uninstall_blocked_profile_owner">"Aquesta aplicació és necessaria pel vostre perfil de feina i no es pot desinstal·lar."</string>
   <string name="uninstall_done">Aplicació desinstal·lada</string>
-  <string name="uninstall_failed">No s\'ha pogut desinstal·lar.</string>
+  <string name="uninstall_failed">"No s'ha pogut desinstal·lar."</string>
   <string name="uninstall_failed_device_policy_manager">"No es pot desinstal·lar perquè aquest paquet és un administrador de dispositiu actiu."</string>
   <string name="uninstall_failed_device_policy_manager_of_user">"No es pot desinstal·lar perquè aquest paquet és un administrador de dispositiu actiu per l'usuari %1$s."</string>
   <string name="uninstall_failed_msg">"No s'ha pogut desinstal·lar %1$s."</string>
