@@ -15,7 +15,6 @@
   <string name="add_number_to_sender">Afegeix número a %s</string>
   <string name="add_picture">Afegeix imatge</string>
   <string name="add_private_contact">Afegeix contacte privat</string>
-  <string name="add_redpackage">Paquet vermell</string>
   <string name="add_slide">Afegeix diapositiva (després)</string>
   <string name="add_slide_before">Afegeix diapositiva d\'introducció</string>
   <string name="add_slide_hint">Toqueu per crear una nova diapositiva</string>
@@ -479,7 +478,6 @@
   <string name="recipient_label">"Destinatari: "</string>
   <string name="recipients_over_size">Hi ha massa destinataris.</string>
   <string name="recording_failed">"No es pot enregistrar"</string>
-  <string name="red_package_btn">Obre\'l</string>
   <string name="refill_now">Recàrrega ara</string>
   <string name="refresh">Actualitza</string>
   <string name="refresh_failed">L\'actualització ha fallat</string>
@@ -586,7 +584,6 @@
   <string name="sms_report_success">Informe enviat</string>
   <string name="snippet_audio">[àudio]</string>
   <string name="snippet_picture">[imatge]</string>
-  <string name="snippet_red_package">[Paquet vermell]</string>
   <string name="sp_category_all">Tots els missatges de servei</string>
   <string name="sp_category_bank">Missatges de notificació del banc</string>
   <string name="sp_category_title_prefix">%s</string>
@@ -626,9 +623,6 @@
   <string name="timed_message_to">per</string>
   <string name="title_allow_network_access">Actualitza la informació automàticament</string>
   <string name="title_collapse_sp_messages">Grup de notificacions</string>
-  <string name="title_recv_red_package">Rep el Paquet vermell</string>
-  <string name="title_red_package">Tingueu un bon any!</string>
-  <string name="title_send_red_package">Envia el Paquet vermell</string>
   <string name="title_show_blocked_messages">Mostra els SMS bloquejats</string>
   <string name="title_show_sms_template">Comproveu els SMS per als codis de verificació</string>
   <string name="title_show_sms_template_in">Comproveu l\'SMS per OTP</string>
