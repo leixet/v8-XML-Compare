@@ -269,7 +269,6 @@ Les targetes de contacte estan apagades"</string>
   <string name="data_left">Dades restants</string>
   <string name="data_unit_gb">GB</string>
   <string name="data_unit_mb">MB</string>
-  <string name="date_picker_label">Recordar 3 dies abans i una altra en el dia de</string>
   <string name="date_time_set">Fixar</string>
   <string name="date_year_toggle">Proporcionar un any</string>
   <string name="default_ringtone">To de trucada per defecte</string>
@@ -334,7 +333,6 @@ Les targetes de contacte estan apagades"</string>
   <string name="deselect_all">Desselecciona tot</string>
   <string name="details_list_group_header_other">UN ALTRE</string>
   <string name="device_bluetooth_title">Transferència de contactes</string>
-  <string name="device_brand_title">Triar una marca</string>
   <string name="device_import_account_dialog_title">Triar un compte</string>
   <string name="device_import_account_dialog_title_suffix">"
 (trobats %1$s contactes)"</string>
@@ -347,7 +345,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="device_import_progress_toast">%1$d contactes importats</string>
   <string name="device_import_title">Importa</string>
   <string name="device_list_title">Triar un telèfon</string>
-  <string name="device_other_guide">"Si el telèfon no apareix, feu el següent"</string>
+  <string name="device_other_guide">Si el telèfon no apareix, feu el següent</string>
   <string name="device_other_title">Un altre telèfon</string>
   <string name="device_paired_dialog_message">Combinant contactes&#8230;</string>
   <string name="device_paired_dialog_title">Combinant contactes&#8230;</string>
@@ -355,7 +353,6 @@ Les targetes de contacte estan apagades"</string>
   <string name="device_pairing_dialog_title">Dispositius vinculats</string>
   <string name="device_version_header_bluetooth">Assegureu-vos que el Bluetooth està activat</string>
   <string name="device_version_header_no_bluetooth">Importa contactes utilitzant la targeta SIM</string>
-  <string name="device_version_title">Triar un model</string>
   <string name="dial">Marcar</string>
   <string name="dialerDialpadHintText">Marca per afegir una trucada</string>
   <string name="dialerIconLabel">Recents</string>
@@ -712,7 +709,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="multi_number_title">Conferència</string>
   <string name="multipleContactDeleteConfirmation">Eliminar aquest contacte eliminarà la informació en diversos comptes.</string>
   <string name="multipleContactDeleteConfirmationDetail">En eliminar \"%s\" serà eliminat de diversos comptes.</string>
-  <string name="my_phone_not_provider_bluetooth">"El meu telèfon no té Bluetooth"</string>
+  <string name="my_phone_not_provider_bluetooth">El meu telèfon no té Bluetooth</string>
   <string name="my_phone_provider_bluetooth">El meu telèfon té Bluetooth</string>
   <string name="nameLabelsGroup">Nom</string>
   <string name="name_family">Cognom</string>
