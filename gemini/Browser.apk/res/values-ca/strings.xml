@@ -282,6 +282,7 @@ Les pàgines que visiteu no apareixeran a l\'historial.»</string>
   <string name="edit">Edita</string>
   <string name="edit_bookmark">Edita el marcador</string>
   <string name="edit_quicklink">Edita</string>
+  <string name="empty_app_name">Altre aplicació</string>
   <string name="empty_bookmark">Buit</string>
   <string name="empty_history_hint">L\'historial és buit</string>
   <string name="empty_snapshot_hint">Buit</string>
@@ -480,6 +481,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="notif_install_successful">Baixada completa</string>
   <string name="ok">D\'acord</string>
   <string name="older">Més antic</string>
+  <string name="open_app_confirm_message">Voleu permetre que aquesta pàgina obri %s?</string>
   <string name="open_file_explorer_failed">"No es pot obrir l'Explorador de fitxers"</string>
   <string name="opening_file_error">No es pot obrir el fitxer seleccionat</string>
   <string name="page_info">Informació de la pàgina</string>
