@@ -27,9 +27,10 @@
   <string name="config_restrict_function_title">Restringeix les aplicacions en segon pla</string>
   <string name="config_restrict_running_description">Les aplicacions es tancaran per estalviar bateria</string>
   <string name="config_restrict_running_title">Restringeix l\'activitat en segon pla</string>
-  <string name="config_suggest_description">Identificar les aplicacions i activitats per mantenir els processos importants actius.\nEl economitzador de bateria tractarà de forma selectiva les aplicacions importants.</string>
-  <string name="config_suggest_suffix_title">Estalviador de bateria MIUI (recomanat)</string>
-  <string name="config_suggest_title">Estalviador de bateria MIUI</string>
+  <string name="config_suggest_description">"Identifica les aplicacions i activitats per mantenir els processos importants actius.
+L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."</string>
+  <string name="config_suggest_suffix_title">Estalvi de bateria MIUI (recomanat)</string>
+  <string name="config_suggest_title">Estalvi de bateria MIUI</string>
   <string name="disabled">Apagat</string>
   <string name="empty_title_apps_container_list">Sense aplicacions</string>
   <string name="error_filename_too_long">Nom de fitxer massa llarg.</string>
