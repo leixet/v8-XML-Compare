@@ -470,8 +470,12 @@
   <string name="wechat_clean_exit_confirm_msg">Voleu aturar l\'escaneig i sortir?</string>
   <string name="wechat_clean_stop_confirm">Voleu aturar l\'escaneig?</string>
   <string name="wechat_clean_stop_confirm_msg">Voleu aturar l\'escaneig?</string>
+  <string name="wechat_content_empty">No hi ha arrxius per exportar</string>
   <string name="wechat_copy_video_failed_dialog_title">"No s'ha pogut exportar"</string>
   <string name="wechat_copying_video">S\'està exportant&#8230;</string>
+  <string name="wechat_copying_video_dialog_checkbox">Suprimeix els arxius després d\'exportar-los</string>
+  <string name="wechat_copying_video_dialog_msg">Els arxius es guardaran en aquesta carpeta: / DCIM/WeChat</string>
+  <string name="wechat_copying_video_empty">No hi ha vídeos per exportar</string>
   <string name="wechat_copying_video_success">S\'ha exportat amb èxit</string>
   <string name="wechat_normal_files">Paperera</string>
   <string name="white_list_ad_header">Fitxers de publicitat: %d</string>
