@@ -13,10 +13,10 @@
   <string name="alarm_list_title">Alarma</string>
   <string name="alarm_notify_snooze_label">%s repetició</string>
   <string name="alarm_notify_text">Repetir o descartar alarma.</string>
-  <string name="alarm_repeat">Repetir</string>
+  <string name="alarm_repeat">Repeteix</string>
   <string name="alarm_settings">Configuració de l\'alarma</string>
   <string name="alarm_settings_category_title">Configuració de l\'alarma</string>
-  <string name="alarm_vibrate">Vibrar</string>
+  <string name="alarm_vibrate">Vibra</string>
   <string name="alarm_volume_summary">Estableix el volum de l\'alarma</string>
   <string name="alarm_volume_title">Volum de l\'alarma</string>
   <string name="alarmclock_empty_text">Sense alarmes</string>
@@ -73,6 +73,15 @@
   <string name="life_post_setting">Informe matinal</string>
   <string name="life_post_setting_open_subtitle">Recepció d\'informació de l\'oratge quan atureu l\'alarma entre les 4:00 i 9:30</string>
   <string name="life_post_setting_open_title">Recepció d\'informes matínals</string>
+  <string name="life_post_setting_wake_up_list_title">Historial de l\'hora que us lleveu</string>
+  <string name="life_post_wake_up_acumu_day_title">Recompte diari</string>
+  <string name="life_post_wake_up_item_acumu_day">%1$s dies</string>
+  <string name="life_post_wake_up_item_acumu_day_title">Recompte diari</string>
+  <string name="life_post_wake_up_item_percentage_title">Usuaris Mi rere vostre</string>
+  <string name="life_post_wake_up_item_time_title">Hora de llevar-se</string>
+  <string name="life_post_wake_up_percentage_title">Usuaris Mi rere vostre</string>
+  <string name="life_post_wake_up_time_title">Hora de llevar-se</string>
+  <string name="life_post_weather_invalid">"No s'ha pogut obtenir informació meteorològica, premeu per provar-ho un altre cop"</string>
   <string name="loading_ringtone">S\'està carregant el timbre&#8230;</string>
   <string name="menu_add_worldclock">Afegeix un rellotge</string>
   <string name="menu_desk_clock">Rellotge</string>
@@ -119,6 +128,7 @@
   <string name="stopwatch_title">Cronòmetre</string>
   <string name="symbol_colon">:</string>
   <string name="system_time_setting">Configuració</string>
+  <string name="system_time_settings_category_title">Configuració de l\'hora</string>
   <string name="time">Hora</string>
   <string name="timer_alarm_alert_pad">%s</string>
   <string name="timer_alarm_cancel_pad">Toqueu la pantalla per aturar l\'alarma</string>
