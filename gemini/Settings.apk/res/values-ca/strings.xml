@@ -3193,6 +3193,7 @@ Per fer-ho:
   <string name="se_route_uicc">Element segur a la targeta SIM</string>
   <string name="se_wallet_ese">Mi Wallet permet pagar amb Mi Pay i sistemes NFC.</string>
   <string name="se_wallet_hce">Utilitza HCE Wallet</string>
+  <string name="search_about_settings">Quant al telèfon;Número de model;Versió d\'Android;Versió MIUI;CPU;Memòria RAM;Memòria interna;Versió de banda base;Versió del nucli;Número de compilació</string>
   <string name="search_access_control">Configuració de privadesa;Seguretat de la privadesa;Convidat;Mode de convidat</string>
   <string name="search_accessibility_captioning_title">Subtítols</string>
   <string name="search_accessibility_display_daltonizer_preference_title">Correcció de color</string>
@@ -3201,10 +3202,13 @@ Per fer-ho:
   <string name="search_accessibility_screen_magnification_title">Gestos d\'ampliació;ampliació</string>
   <string name="search_accessibility_settings">Facilitat d\'accés</string>
   <string name="search_account_list">Altres comptes;Comptes;Comptes</string>
+  <string name="search_airplane_mode">Mode avió;Mode avió;Mode de vol;Avió;Avió;Vol</string>
   <string name="search_alarm_sound_title">So de l\'alarma</string>
   <string name="search_apn_settings">APN;Noms dels punt d\'accés</string>
   <string name="search_app_invisible">Aplicació invisible;Aplicacions invisibles</string>
   <string name="search_app_switch_key">Recents</string>
+  <string name="search_application_lock_name">Bloqueig d\'aplicacions</string>
+  <string name="search_applications_settings">Aplicacions instal·lades</string>
   <string name="search_back_key">Enrera</string>
   <string name="search_battery_indicator">Nivell de la bateria</string>
   <string name="search_bluetooth_device_searchable">Detectable</string>
@@ -3212,12 +3216,15 @@ Per fer-ho:
   <string name="search_brightness">Brillantor;Brillantor de la pantalla</string>
   <string name="search_button_light_timeout">Manté els llums dels botons encesos</string>
   <string name="search_calendar_sound_title">So del calendari</string>
+  <string name="search_captioning_locale">Idioma</string>
   <string name="search_children_mode_title">Mode de mainada</string>
   <string name="search_choose_timezone">Tria fus horàri</string>
   <string name="search_cloud_backup_settings_section_title">Configuració de la còpia de seguretat</string>
   <string name="search_cloud_restore_section_title">Restaura des de Mi Cloud</string>
+  <string name="search_copyright_title">Drets d\'autor</string>
   <string name="search_credentials_install">Instal·la des de l\'emmagatzematge</string>
   <string name="search_description">Configuració de la cerca</string>
+  <string name="search_development_settings_title">Opcions per a desenvolupadors;Ajudes</string>
   <string name="search_device_name">Nom del dispositiu</string>
   <string name="search_device_status">Estat</string>
   <string name="search_dndm_alarm_content">Excepcions</string>
@@ -3227,8 +3234,10 @@ Per fer-ho:
   <string name="search_dndm_repeated_call_setting_title">Trucades repetides</string>
   <string name="search_dndm_vip_call_setting_title">VIP;Excepcions;Llista blanca;llista blanca</string>
   <string name="search_dndm_wristband">Activa\'l amb la Mi Band</string>
+  <string name="search_do_not_disturb_mode">No molesteu</string>
   <string name="search_dtmf_tone_enable_title">Tons de marcatge del teclat</string>
   <string name="search_empty">Cap resultat de cerca</string>
+  <string name="search_enable_adb">Depuració USB</string>
   <string name="search_fluency_mode">Animacions del sistema</string>
   <string name="search_font">Font del sistema</string>
   <string name="search_force_touch">Tàctil 3D</string>
@@ -3237,6 +3246,7 @@ Per fer-ho:
   <string name="search_handy_mode">Mode amb una sola mà</string>
   <string name="search_hint">Configuració de la cerca</string>
   <string name="search_home_key">Pàgina d\'inici</string>
+  <string name="search_key_settings_title">Botons;Tecles</string>
   <string name="search_lab_functions_title">Funcions en Beta;Funció Lab</string>
   <string name="search_label">Configuració</string>
   <string name="search_legal_information">Informació legal</string>
