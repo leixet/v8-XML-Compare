@@ -599,10 +599,10 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="pref_weather_location_summary">"Ho utilitza el connector metereològic del navegador"</string>
   <string name="pref_weather_location_title">Localització metereològica</string>
   <string name="private_browsing_warning">Aquesta funció no està implementada en aquesta versió d\'Android.</string>
-  <string name="profiler_error_toast">No es pot iniciar el gestor de perfils</string>
-  <string name="profiler_no_storage_toast">"El gestor de perfils no pot iniciar perquè l'emmagatzematge extern no és a punt"</string>
+  <string name="profiler_error_toast">No s\'ha pogut iniciar el gestor de perfils</string>
+  <string name="profiler_no_storage_toast">"No es pot iniciar el gestor de perfils perquè l'emmagatzematge extern no està a punt"</string>
   <string name="profiler_started_toast">Gestor de perfils iniciat</string>
-  <string name="profiler_stopped_toast">El gestor de perfils ha acabat. Els resultats són a %1$s.</string>
+  <string name="profiler_stopped_toast">El gestor de perfils ha finalitzat. Els resultats són a %1$s.</string>
   <string name="progress_dialog_setting_wallpaper">S\'està establint el fons de pantalla&#8230;</string>
   <string name="pull_to_refresh_pull_label">Llisqueu per actualitzar</string>
   <string name="pull_to_refresh_release_label">Allibereu per recomanar i actualitzar</string>
@@ -610,7 +610,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="quicklink_bookmark_save">UBICACIÓ DEL MARCADOR</string>
   <string name="quicklink_not_saved">"No s'ha pogut afegir a la pàgina d'inici"</string>
   <string name="quicklink_saved">S\'ha desat a la pàgina d\'inici</string>
-  <string name="quicklink_saved_before">Aquesta web Ja s\'havia afegit</string>
+  <string name="quicklink_saved_before">Ja s\'ha afegit aquest lloc</string>
   <string name="quicklink_user_define_webpage_title">Nom</string>
   <string name="quicklink_user_define_webpage_url">URL</string>
   <string name="quicklinks_group_default_subtitle">Buit</string>
