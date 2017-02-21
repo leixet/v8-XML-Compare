@@ -188,6 +188,7 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_detail_force_sync">sincronitzar ara</string>
   <string name="micloud_detail_lastest">S\'ha sincronitzat</string>
   <string name="micloud_detail_lastest_with_off">S\'ha sincronitzat</string>
+  <string name="micloud_detail_need_charge">Cal càrrega per sincronitzar</string>
   <string name="micloud_detail_not_sync">%d esperant per sincronitzar</string>
   <string name="micloud_detail_not_synced">No sincronitzat</string>
   <string name="micloud_detail_ok">D\'acord</string>
@@ -202,7 +203,10 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_detail_syncing">Sincronitzant</string>
   <string name="micloud_detail_upload_syncing">Pujant %s</string>
   <string name="micloud_detail_wlan">%d dades no sincronitzades</string>
+  <string name="micloud_dialog_sync_now_message">Li suggerim l\'ús de Wi-Fi</string>
   <string name="micloud_dialog_sync_now_negative">Ara no</string>
+  <string name="micloud_dialog_sync_now_positive">S\'està utilitzant el flux de transferència de dades</string>
+  <string name="micloud_dialog_sync_now_title">Sincronitza dades utilitzant el flux de transferència de dades</string>
   <string name="micloud_dspt">Utilitza Mi Cloud per sincronitzar dades, localitzar el teu dispositiu,</string>
   <string name="micloud_dspt_provision">Utilitza Mi Cloud per sincronitzar dades, localitzar el teu dispositiu i compartir coses amb amics.</string>
   <string name="micloud_find_device_finish">Fet</string>
