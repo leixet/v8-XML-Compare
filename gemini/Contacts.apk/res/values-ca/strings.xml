@@ -376,6 +376,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="dialog_voicemail_airplane_mode_message">Per trucar al correu de veu, primer desactivar el mode avió.</string>
   <string name="dialog_voicemail_not_ready_message">Per configurar el correu de veu, aneu a Menú &gt; configuració.</string>
   <string name="directory_search_label">Agenda</string>
+  <string name="disclaimer_title">Renúncia</string>
   <string name="display_all_contacts">Tots els contactes</string>
   <string name="display_more_groups">Més grups&#8230;</string>
   <string name="display_only_phones">Amaga números incomplets</string>
@@ -1007,6 +1008,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="remove_duplicate">"MIUI t\'ajudarà a trobar i combinar contactes duplicats.
   
   Per començar, toqueu la icona de fusió en la part inferior de la pantalla."</string>
+  <string name="report_inquiry_mms">Notifica els SMS</string>
   <string name="restore_nickname">Restaurar</string>
   <string name="ret_sign">«
 »</string>
@@ -1186,6 +1188,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="unknow_phone_number_mms_failed">"No es pot enviar un missatge a un número desconegut"</string>
   <string name="unknown">Desconegut</string>
   <string name="unknown_contact_name">Contacte desconegut</string>
+  <string name="update_sim_contact_photo_toast">No s\'ha pogut definir la foto per als contactes SIM</string>
   <string name="upgrade_in_progress">S\'està actualitzant la llista de contactes.</string>
   <string name="upgrade_out_of_memory">"Els contactes estan sent actualitzats.
 
