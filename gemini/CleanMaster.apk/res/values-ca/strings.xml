@@ -130,10 +130,10 @@
   <string name="deepclean_list_item_from_miui">MIUI</string>
   <string name="deepclean_list_item_from_music">Música</string>
   <string name="deepclean_list_item_from_sdcard">Targeta SD</string>
-  <string name="deepclean_normal_item_desc1">Neteja general</string>
+  <string name="deepclean_normal_item_desc1">Paperera</string>
   <string name="deepclean_normal_item_desc2">"L'activitat del Netejador no afectarà el rendiment del sistema"</string>
   <string name="deepclean_normal_item_summary_empty">Tot pinta bé, no hi ha res a eliminar</string>
-  <string name="deepclean_normal_title">Neteja automàtica</string>
+  <string name="deepclean_normal_title">Neteja automàticament</string>
   <string name="deepclean_similar_ignore">Ignora</string>
   <string name="deepclean_similar_summary_empty">Tot pinta bé, no hi ha fotos a eliminar</string>
   <string name="deepclean_size_summary_less">No hi ha prou espai</string>
