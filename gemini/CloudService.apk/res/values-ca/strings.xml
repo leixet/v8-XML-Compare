@@ -177,6 +177,7 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_confusion_toast_confirm">Dispositiu verificat</string>
   <string name="micloud_confusion_toast_deny">Inicia sessió amb el vostre compte Mi</string>
   <string name="micloud_confusion_yes">Sí</string>
+  <string name="micloud_detail_battery_low">Bateria baixa</string>
   <string name="micloud_detail_battery_low_message">La bateria està baixa. Si us plau carregui el telèfon per realitzar la sincronització.</string>
   <string name="micloud_detail_battery_low_title">La bateria està baixa</string>
   <string name="micloud_detail_depend_wifi_message">Si us plau connecta\'t al Wi-Fi o comprova la configuració de sincronització.</string>
@@ -190,6 +191,7 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_detail_not_sync">%d esperant per sincronitzar</string>
   <string name="micloud_detail_not_synced">No sincronitzat</string>
   <string name="micloud_detail_ok">D\'acord</string>
+  <string name="micloud_detail_pause">Sincronització pausada</string>
   <string name="micloud_detail_pending">Esperant</string>
   <string name="micloud_detail_preference_sync_items">Elements</string>
   <string name="micloud_detail_query_error">"No es pot obtenir l'estat de sincronització"</string>
@@ -200,6 +202,7 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_detail_syncing">Sincronitzant</string>
   <string name="micloud_detail_upload_syncing">Pujant %s</string>
   <string name="micloud_detail_wlan">%d dades no sincronitzades</string>
+  <string name="micloud_dialog_sync_now_negative">Ara no</string>
   <string name="micloud_dspt">Utilitza Mi Cloud per sincronitzar dades, localitzar el teu dispositiu,</string>
   <string name="micloud_dspt_provision">Utilitza Mi Cloud per sincronitzar dades, localitzar el teu dispositiu i compartir coses amb amics.</string>
   <string name="micloud_find_device_finish">Fet</string>
@@ -237,6 +240,7 @@ Per solucionar això, podeu netejar alguns fitxers antics per deixar espai als n
   <string name="micloud_full_influence_title">Quan el seu Mi Cloud está ple&#8230;</string>
   <string name="micloud_main_battery_low">Sense bateria suficient per sincronitzar</string>
   <string name="micloud_main_battery_message">Connecta el dispositiu a una font d\'energia per a sincronitzar</string>
+  <string name="micloud_main_cancel_sync">Cancel·la la sincronització</string>
   <string name="micloud_main_clear_now">Esborra</string>
   <string name="micloud_main_detail">Mostra els detalls</string>
   <string name="micloud_main_last_sync_time">L\'última sincronització va ser a %s</string>
