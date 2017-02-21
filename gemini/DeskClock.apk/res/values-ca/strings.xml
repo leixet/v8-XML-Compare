@@ -71,6 +71,8 @@
   <string name="legal_workday_invalidate_message">(Dates caducades. Actualitzeu-les a paràmetres)</string>
   <string name="legal_workday_message">" (Alarma aturada els dies festius)"</string>
   <string name="life_post_setting">Informe matinal</string>
+  <string name="life_post_setting_open_subtitle">Recepció d\'informació de l\'oratge quan atureu l\'alarma entre les 4:00 i 9:30</string>
+  <string name="life_post_setting_open_title">Recepció d\'informes matínals</string>
   <string name="loading_ringtone">S\'està carregant el timbre&#8230;</string>
   <string name="menu_add_worldclock">Afegeix un rellotge</string>
   <string name="menu_desk_clock">Rellotge</string>
