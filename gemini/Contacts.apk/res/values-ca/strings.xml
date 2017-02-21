@@ -10,7 +10,7 @@
   <string name="account_type_format">%1$s contacte</string>
   <string name="actionIncomingCall">Trucades entrants</string>
   <string name="action_menu_overflow_description">Més opcions</string>
-  <string name="activity_title_confirm_add_detail">Afegir a contactes</string>
+  <string name="activity_title_confirm_add_detail">Afegeix a un contacte</string>
   <string name="activity_title_contacts_filter">Contactes per mostrar</string>
   <string name="activity_title_settings">Configuració</string>
   <string name="addPeopleToGroup">Per afegir-ne, editeu el grup.</string>
