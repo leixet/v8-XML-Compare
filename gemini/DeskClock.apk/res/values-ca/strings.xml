@@ -15,10 +15,12 @@
   <string name="alarm_notify_text">Repetir o descartar alarma.</string>
   <string name="alarm_repeat">Repetir</string>
   <string name="alarm_settings">Configuració de l\'alarma</string>
+  <string name="alarm_settings_category_title">Configuració de l\'alarma</string>
   <string name="alarm_vibrate">Vibrar</string>
   <string name="alarm_volume_summary">Estableix el volum de l\'alarma</string>
   <string name="alarm_volume_title">Volum de l\'alarma</string>
   <string name="alarmclock_empty_text">Sense alarmes</string>
+  <string name="alarmclock_silent_hint">L\'alarma està silenciada</string>
   <string name="alert">So d\'alarma</string>
   <string name="analog_gadget">Rellotge analògic</string>
   <string name="app_label">Rellotge</string>
@@ -68,6 +70,7 @@
   <string name="legal_workday_invalidate">Dates caducades (tons d\'alarma de dilluns a divendres)</string>
   <string name="legal_workday_invalidate_message">(Dates caducades. Actualitzeu-les a paràmetres)</string>
   <string name="legal_workday_message">" (Alarma aturada els dies festius)"</string>
+  <string name="life_post_setting">Informe matinal</string>
   <string name="loading_ringtone">S\'està carregant el timbre&#8230;</string>
   <string name="menu_add_worldclock">Afegeix un rellotge</string>
   <string name="menu_desk_clock">Rellotge</string>
