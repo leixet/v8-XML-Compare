@@ -566,8 +566,8 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="pref_privacy_clear_form_data_dlg">Voleu eliminar totes les dades desades de formularis?</string>
   <string name="pref_privacy_clear_form_data_summary">Esborra totes les dades desades de formulari</string>
   <string name="pref_privacy_clear_geolocation_access">Esborra l\'accés a la ubicació</string>
-  <string name="pref_privacy_clear_geolocation_access_dlg">Voleu esborrar l\'accés a la localització del lloc web?</string>
-  <string name="pref_privacy_clear_geolocation_access_summary">Esborra accés de localització per a tots els webs</string>
+  <string name="pref_privacy_clear_geolocation_access_dlg">Voleu esborrar l\'accés a la ubicació del lloc web?</string>
+  <string name="pref_privacy_clear_geolocation_access_summary">Esborra l\'accés a la ubicació per a tots els webs</string>
   <string name="pref_privacy_clear_history">Esborra l\'historial</string>
   <string name="pref_privacy_clear_history_by_group_dlg">Esborra l\'historial de navegació?</string>
   <string name="pref_privacy_clear_history_dlg">Voleu esborrar l\'historial?</string>
@@ -576,7 +576,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="pref_privacy_clear_passwords_dlg">Voleu suprimir totes les contrasenyes desades?</string>
   <string name="pref_privacy_clear_passwords_summary">Esborra totes les contrasenyes desades</string>
   <string name="pref_privacy_cookies_title">Galetes</string>
-  <string name="pref_privacy_enable_geolocation">Localització</string>
+  <string name="pref_privacy_enable_geolocation">Ubicació</string>
   <string name="pref_privacy_enable_geolocation_summary">Permet que els llocs sol·licitin accés a la vostra ubicació</string>
   <string name="pref_privacy_formdata_title">Dades de formulari</string>
   <string name="pref_privacy_location_title">Accés a la ubicació</string>
