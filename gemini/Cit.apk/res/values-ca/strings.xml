@@ -318,6 +318,11 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="cit_tool_nfc_st_stop">Atura</string>
   <string name="cit_tool_prx_drx">PRx+DRx</string>
   <string name="cit_tool_prx_drx_select_mode">Seleccioneu un mode:</string>
+  <string name="cit_tool_prx_drx_select_rat">Seleccioneu el RAT:</string>
+  <string name="cit_tool_prx_drx_start_test">Inicia la prova</string>
+  <string name="cit_tool_prx_drx_stop_test">Atura la prova</string>
+  <string name="cit_tool_prx_only">PRX</string>
+  <string name="cit_tool_rf_ant">Eines d\'RF/antena</string>
   <string name="cit_tool_wifi">Eina de prova Wi-Fi</string>
   <string name="cit_tool_wifi_chain_1">1</string>
   <string name="cit_tool_wifi_chain_1_2">1+2</string>
@@ -332,6 +337,7 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="cit_tool_wifi_rx_exit">Rx: surt</string>
   <string name="cit_tool_wifi_rx_run">Executa</string>
   <string name="cit_tool_wifi_rx_stop">Atura</string>
+  <string name="cit_tool_wifi_rxac_test">Rx: ac</string>
   <string name="cit_tool_wifi_rxbg_test">Rx: a/b/g</string>
   <string name="cit_tool_wifi_rxbg_test_channel">canal:</string>
   <string name="cit_tool_wifi_rxn_test">Rx: n</string>
@@ -388,8 +394,22 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="cit_wifi_fail_to_scan">"No s'ha pogut escanejar xarxes"</string>
   <string name="cit_wifi_state_refresh">Actualitza</string>
   <string name="cit_yellow_torch_on">Activa el LED groc</string>
+  <string name="error_app_internal">Error intern de l\'aplicació</string>
+  <string name="error_app_unsupported">Format no suportat</string>
+  <string name="error_sdcard_access">No es pot accedir a l\'espai del sistema!</string>
+  <string name="keyboard">BOTÓ</string>
   <string name="lcminfo">Informació del LCM</string>
+  <string name="magnetic_info_hint">Gireu el dispositiu formant un 8</string>
+  <string name="mic1_spk_loop">Reprodueix el micro als altaveus</string>
+  <string name="mic1test">MIC1</string>
+  <string name="micphone_test">MIC i SPK</string>
+  <string name="remove_headset_and_starttest">Desconnecteu l\'auricular i premeu inicia per provar-ho</string>
+  <string name="speak_from_mic">Parleu al MICRO, la reproducció dels altaveus. Jutgeu si hi ha so.</string>
+  <string name="start">Inicia</string>
+  <string name="testagain">Podeu prémer la tecla INICI per provar-ho de nou</string>
   <string name="testing">S\'està executant l\'auto-test...</string>
+  <string name="touch_auto">L\'auto-test del panell tàctil està en curs, si us plau espereu....</string>
   <string name="tp_color">Color TP:</string>
   <string name="tp_version">Versió del TP:</string>
+  <string name="waiting">S\'està esperant 4 secs.</string>
 </resources>
