@@ -4,6 +4,8 @@
   <string name="SMTP_independent_verification_text">Verificació independent SMTP</string>
   <string name="SMTP_password_text">Contrasenya</string>
   <string name="SMTP_username_text">Nom d\'usuari</string>
+  <string name="accessibility_guide_first">A la següent pantalla, seleccioneu «Serveis» per activar la configuració automàtica de la bustia 139</string>
+  <string name="accessibility_guide_second">A continuació, feu clic a l\'interruptor a la bora superior dreta, feu clic a «Continua» per continuar.</string>
   <string name="account_cache_provider">Proveïdor de memòria cau de comptes</string>
   <string name="account_duplicate_dlg_message_fmt">"Ja esteu utilitzant aquest nom d'usuari pel compte \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Compte duplicada</string>
