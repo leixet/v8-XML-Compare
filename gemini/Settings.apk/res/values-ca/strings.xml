@@ -3290,10 +3290,13 @@ Per fer-ho:
   <string name="search_key_settings_title">Botons;Tecles</string>
   <string name="search_lab_functions_title">Funcions en Beta;Funció Lab</string>
   <string name="search_label">Configuració</string>
+  <string name="search_language_settings">Idioma &amp; entrada;Idioma;Idioma i entrada;entrada;Teclat</string>
+  <string name="search_led_settings">LED;Llum de notificació;Llum LED</string>
   <string name="search_legal_information">Informació legal</string>
   <string name="search_local_auto_backup_section_title">Còpies de seguretat automatiques</string>
   <string name="search_local_backup_section_title">Còpies de seguretat locals</string>
   <string name="search_location_settings_title">Ubicació</string>
+  <string name="search_lock_settings">Pantalla de bloqueig &amp; contrasenya;Desbloqueig del Bluetooth;contrasenya;Desbloqueig amb un dispositiu Bluetooth</string>
   <string name="search_lock_sounds_enable_title">So de bloqueig de la pantalla</string>
   <string name="search_manage_device_admin">Administradors de dispositius</string>
   <string name="search_manage_notification_access_title">Accés a notificació</string>
@@ -3301,11 +3304,13 @@ Per fer-ho:
   <string name="search_menu">Configuració de la cerca</string>
   <string name="search_micloud">Sincronitza;Micloud</string>
   <string name="search_music_audio_effect_optimize">Configuració d\'àudio</string>
+  <string name="search_music_equalizer">Equalitzador</string>
   <string name="search_music_headset_calibrate">Assigna botons;botons</string>
   <string name="search_music_headset_mode_settings">Botons del control remot per a auriculars</string>
   <string name="search_music_headset_settings">Auriculars; efectes d\'àudio</string>
   <string name="search_music_mi_effect_title">Potenciador de so Mi</string>
   <string name="search_networks_title">Xarxes mòbils</string>
+  <string name="search_nfc_quick_toggle_title">NFC</string>
   <string name="search_nfc_se_route_title">Posició d\'element segur</string>
   <string name="search_notification_sound_title">So predeterminat de notificació</string>
   <string name="search_ntts_settings_title">TTS;Configuració TTS</string>
