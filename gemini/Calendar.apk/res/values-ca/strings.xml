@@ -81,6 +81,7 @@
   <string name="chongsha">Fantasmes</string>
   <string name="copy_email">Copia l\'adreça de correu electrònic</string>
   <string name="copy_number">Copia el número de telèfon</string>
+  <string name="countdown_today">Avui</string>
   <string name="create_an_account_desc">"El Calendari funciona millor amb un compte Mi.
 
 • Accés des de qualsevol navegador
@@ -110,6 +111,8 @@
   <string name="delete_this_event_title">Voleu eliminar aquest esdeveniment?</string>
   <string name="deleting_calendar">Cancel·la la subscripció</string>
   <string name="departure">Sortida</string>
+  <string name="description_calendar">Aplicacions del sistema/Calendari</string>
+  <string name="description_calendar_edit_event">Aplicacions del sistema/Calendari/Agenda</string>
   <string name="directory_searching_fmt">S\'està cercant %s&#8230;</string>
   <string name="discard_label">Cancel·la</string>
   <string name="does_not_repeat">Esdeveniment únic</string>
@@ -120,6 +123,7 @@
   <string name="downloading_wallpaper">S\'està baixant el fons de pantalla</string>
   <string name="dropdown_delete_button_desc">Elimina %s dels destinataris</string>
   <string name="edit_event_all_day_label">Tot el dia</string>
+  <string name="edit_event_anniversary_name_hint">Contingut</string>
   <string name="edit_event_birthday_import_from_contact">Importa aniversaris dels contactes</string>
   <string name="edit_event_birthday_name_empty_hint">Introduïu un nom</string>
   <string name="edit_event_birthday_name_hint">Nom</string>
@@ -127,11 +131,16 @@
   <string name="edit_event_calendar_label">Calendari</string>
   <string name="edit_event_choose_date">Trieu la data</string>
   <string name="edit_event_confirm_message">Voleu descartar els canvis?</string>
+  <string name="edit_event_countdown_name_hint">Contingut</string>
   <string name="edit_event_from_label">Des de</string>
   <string name="edit_event_input_year">Introduïu l\'any</string>
   <string name="edit_event_label">Detalls</string>
   <string name="edit_event_no_reminder_value">"No m'ho tornis a recordar"</string>
+  <string name="edit_event_reminder_3_days_before">Recorda 3 dies abans</string>
+  <string name="edit_event_reminder_summary">Aquell dia a les %1$s</string>
+  <string name="edit_event_reminder_summary_3_days_before">Recorda 3 dies abans i aquell dia a les %1$s</string>
   <string name="edit_event_reminder_text">En %1$s a les %2$s</string>
+  <string name="edit_event_reminder_time">Temps de recordatori</string>
   <string name="edit_event_reminder_with_another_day_text">En %1$s, %2$s a les %3$s</string>
   <string name="edit_event_show_all">Mostra-ho tot</string>
   <string name="edit_event_tab_anniversary">Aniversari</string>
@@ -263,6 +272,7 @@
   <string name="olympic_total">总数</string>
   <string name="olympic_vs">CONTRA</string>
   <string name="online_reminder_header_text">Recorda</string>
+  <string name="path_calendar_settings">Aplicacions del sistema/Calendari/Configuració</string>
   <string name="pengzu">pengzu</string>
   <string name="prefDialogTitle_vibrateWhen">Vibració</string>
   <string name="pref_error_no_ringtone_select">To de trucada per defecte</string>
@@ -322,6 +332,8 @@
   <string name="saving_event_with_guest">S\'enviaran els canvis</string>
   <string name="search">Cerca</string>
   <string name="search_calendar">"Calendari;Agenda;Recordatori"</string>
+  <string name="search_calendar_edit_event">Reunió;Recordatori;Agenda</string>
+  <string name="search_calendar_settings">Calendari;Agenda;Recordatori</string>
   <string name="select_date">Vés a la data</string>
   <string name="select_synced_calendars_title">Calendaris per sincronitzar</string>
   <string name="set_as_wallpaper">Estableix com a fons</string>
