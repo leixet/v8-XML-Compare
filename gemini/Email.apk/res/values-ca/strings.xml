@@ -403,6 +403,8 @@
   <string name="file_rar_not_support">"No es poden obrir fitxers rar encriptats"</string>
   <string name="filtered_tag">"[%1$s]%2$s"</string>
   <string name="first_quick_default_reply">Feu clic en aquest accés directe, a continuació, «%s» s\'enviarà a tots els destinataris.</string>
+  <string name="float_window_content">Detecta que s\'està utilitzant la bústia, feu clic a Confirma per a que s\'ompli automàticament l\'acompte de correu 139 i la contrasenya.</string>
+  <string name="float_window_info">"En configurar la bústia de correu 139, no utilitzeu el telèfon, podríeu tenir fallides a la configuració."</string>
   <string name="folder_drafts_name_cn0">Esborrany</string>
   <string name="folder_drafts_name_cn1">Esborranys</string>
   <string name="folder_drafts_name_cn2">[Gmail]/Esborrany</string>
