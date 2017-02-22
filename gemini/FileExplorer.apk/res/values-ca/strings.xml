@@ -821,8 +821,11 @@
   <string name="year_month_day_format">dd MMM yyyy</string>
   <string name="yes">Sí</string>
   <string name="yesterday">Ahir</string>
+  <string name="you_liao_god_desc">Pugeu vídeos regularment i amplieu la base de fans per guanyar l\'estat de Senyor</string>
   <string name="you_liao_god_str">Senyor</string>
+  <string name="you_liao_goddess_desc">Pugeu vídeos regularment i amplieu la base de fans per guanyar l\'estat de Senyora</string>
   <string name="you_liao_goddess_str">Senyora</string>
+  <string name="you_liao_xunlei_desc">Signeu un contracte amb nosaltres per obtenir l\'estat d\'Amfitrió</string>
   <string name="you_liao_xunlei_str">Amfitrió Xunlei</string>
   <string name="youliao_ad_msg">"Gaudiu amb «Youliao»! 
 Formeu part dels 170 milions de Mi Fans!"</string>
