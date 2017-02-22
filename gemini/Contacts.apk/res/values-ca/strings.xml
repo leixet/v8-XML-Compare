@@ -13,8 +13,8 @@
   <string name="activity_title_confirm_add_detail">Afegeix a un contacte</string>
   <string name="activity_title_contacts_filter">Contactes per mostrar</string>
   <string name="activity_title_settings">Configuració</string>
-  <string name="addPeopleToGroup">Per afegir-ne, editeu el grup.</string>
-  <string name="add_2sec_pause">Afegir 2 segons de pausa</string>
+  <string name="addPeopleToGroup">Per afegir algú més, editeu el grup.</string>
+  <string name="add_2sec_pause">Afegeix 2 segons de pausa</string>
   <string name="add_account">Afegir un compte</string>
   <string name="add_blacklist">Bloquejar</string>
   <string name="add_blacklist_dialog_message">Bloquejar trucades i missatges des d\'aquest número?</string>
