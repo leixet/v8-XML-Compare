@@ -94,8 +94,8 @@
     <item></item>
     <item></item>
     <item></item>
-    <item>Move your finger slightly</item>
-    <item>This fingerprint has been added, use a different finger</item>
+    <item>Moveu el dit una mica</item>
+    <item>Aquesta empremta ja s\'ha afegit, utilitzeu un dit diferent</item>
   </string-array>
   <string-array name="imAddressTypes">
     <item>Casa</item>
