@@ -666,6 +666,9 @@
   <string name="outbox_alert_title_sent_failed">"No pot enviar correu"</string>
   <string name="outbox_no_mails">No hi ha missatges a la bústia de sortida</string>
   <string name="overlays_fail_tip">La seva bústia no té una configuració correcta, obriu els permisos flotants de Windows i torneu-ho a provar</string>
+  <string name="overlays_ok">Obre els permisos</string>
+  <string name="overlays_tip">Obriu els permisos flotants de Windows i gaudiu immediatament de la bustia 139 per configurar automàticament la experiència extrema.</string>
+  <string name="overlays_title">Obre els permisos de Windows flotants</string>
   <string name="parase_setup_data">Obtenint dades&#8230;</string>
   <string name="password_expire_warning_content_title">Contrasenya de pantalla de bloqueig expirada</string>
   <string name="password_expire_warning_dialog_content_fmt">Heu de canviar el PIN o contrasenya de la pantalla de bloqueig aviat, o les dades de %s s\'eliminaran. Voleu canviar-ho ara?</string>
@@ -695,6 +698,7 @@
   <string name="permission_access_provider_label">Dades d\'accés de l\'usuari</string>
   <string name="permission_read_attachment_desc">"L'aplicació podrà llegir els fitxers adjunts dels seus correus electrònics"</string>
   <string name="permission_read_attachment_label">Llegir fitxers adjunts</string>
+  <string name="permission_tip">La configuració va fallar, permeteu trucades i Sms durant els permisos de configuració</string>
   <string name="phone">telèfon</string>
   <string name="photo_load_failed">"No s'ha pogut carregar la imatge"</string>
   <string name="photo_view_count" formatted="false">%d de %d</string>
@@ -754,6 +758,8 @@
   <string name="push_wps_confirm_message">Prova a utilitzar WPS Office per obrir aquest fitxer adjunt.</string>
   <string name="push_wps_confirm_title">Provar WPS Office</string>
   <string name="push_wps_no_response_app">No s\'ha trobat l\'aplicació per gestionar aquesta acció</string>
+  <string name="qq_bar_open_imap">Activa</string>
+  <string name="qq_bar_send_message">Envia SMS</string>
   <string name="questionnair_body_invisibility">"No es mostren els missatges"</string>
   <string name="questionnair_confirm_delete">Eliminar</string>
   <string name="questionnair_instability">Aplicació inestable, reinicis</string>
