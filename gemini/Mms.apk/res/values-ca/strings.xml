@@ -75,7 +75,7 @@
   <string name="cloud_state_syncing">S\'està sincronitzant amb Mi Cloud&#8230;</string>
   <string name="compressing">Imatge massa gran. S\'està comprimint&#8230;</string>
   <string name="confirm">D\'acord</string>
-  <string name="confirm_add_blacklist_dialog_dspt">Voleu afegir aquest número a la llista de bloqueig?</string>
+  <string name="confirm_add_blacklist_dialog_dspt">Voleu afegir aquest número a la vostra llista de bloqueig?</string>
   <string name="confirm_delete_SIM_message">Voleu eliminar aquest missatge de la SIM?</string>
   <string name="confirm_delete_all_SIM_messages">Voleu eliminar tots els missatges de la SIM?</string>
   <string name="confirm_delete_all_conversations">Voleu eliminar totes les converses?</string>
