@@ -148,6 +148,7 @@
   <string name="decrypt_to">Desxifrar i desa a&#8230;</string>
   <string name="decrypting">Desencriptant&#8230;</string>
   <string name="default_prize_text">Això va directament al meu tresor!</string>
+  <string name="default_user_desc">"Aquesta persona encara no ha afegit una descripció"</string>
   <string name="delete_dialog_button">Elimina</string>
   <string name="delete_error">"No s'han pogut eliminar els fitxers, intenta-ho de nou"</string>
   <string name="delete_file">Voleu eliminar aquest fitxer?</string>
@@ -210,9 +211,11 @@
   <string name="file_loading">Un moment&#8230;</string>
   <string name="file_name_invalid">"Els noms de fitxer no poden contenir els següents caràcters: /\\:*?&lt;&gt;"</string>
   <string name="file_not_exist">"El fitxer no existeix"</string>
+  <string name="finish_str">Fet</string>
   <string name="folder_name_empty">El nom de la carpeta no pot estar buit</string>
   <string name="folder_name_illegal">Nom de la carpeta no vàlid</string>
   <string name="follow_fail">"No s'ha pogut seguir, torneu a provar-ho més tard"</string>
+  <string name="follow_success_tip">S\'ha seguit correctament</string>
   <string name="follow_tip_1">Seguiu-me per veure més vídeos</string>
   <string name="follow_tip_2">Seguiu-me per veure més vídeos</string>
   <string name="force_touch_clean">Neteja</string>
@@ -231,6 +234,9 @@
   <string name="full_gems">Intercanvia les seves gemmes</string>
   <string name="gbk_summary">Codificació per defecte de Xinès tradicional de Windows</string>
   <string name="gbk_title">GBK</string>
+  <string name="gender_choose_sub_tile">Obtén contingut personalitzat</string>
+  <string name="gender_choose_sub_title">Rebre recomanacions útils</string>
+  <string name="gender_choose_tip">Trieu el vostre gènere</string>
   <string name="get_user_info_err">"No es pot obtenir informació sobre aquesta persona"</string>
   <string name="get_verification_code_fail">"No es va poder obtenir el codi de verificació"</string>
   <string name="gigabyteShort">GB</string>
@@ -238,6 +244,7 @@
   <string name="group_title_extra_backup">Còpies</string>
   <string name="group_title_extra_expire">A punt d\'expirar</string>
   <string name="group_title_extra_new">Nou</string>
+  <string name="handsome_boy">Masculí</string>
   <string name="has_installed">Instal·lat</string>
   <string name="homepage_tab_category">Categories</string>
   <string name="homepage_tab_file_view">Emmagatzematge</string>
@@ -322,8 +329,11 @@
   <string name="move_icon_to_desktop_success">Accés directe afegit a la pantalla d\'inici.</string>
   <string name="move_to">Mou a&#8230;</string>
   <string name="msg_notify_setting">Configuració de notificacions</string>
+  <string name="msg_page_video_default_title">He pujat un vídeo, feu una ullada!</string>
   <string name="msg_set_password">Establir contrasenya primer</string>
+  <string name="my_follows">Els meus canals</string>
   <string name="name_empty">Has d\'introduir un nom.</string>
+  <string name="need_login">Inicieu la sessió primer</string>
   <string name="need_read_storage_permission">"L'Explorador necessita accedir a la memòria interna del dispositiu per funcionar com va ser dissenyat."</string>
   <string name="network_dialog_checkbox_tip">"No tornar a mostrar"</string>
   <string name="network_not_available">"No s'ha pogut connectar a la xarxa"</string>
@@ -331,6 +341,7 @@
   <string name="network_spent_reminding_title">Notificació d\'ús de dades</string>
   <string name="new_comments">Nous comentaris</string>
   <string name="new_folder_name">Carpeta sense nom</string>
+  <string name="next_time">Ara no</string>
   <string name="no">No</string>
   <string name="no_apk">Toqui per obtenir aplicacions.</string>
   <string name="no_app_tags">Buit</string>
@@ -347,6 +358,7 @@
   <string name="no_new_content_tip">Tots els articles estan actualitzats</string>
   <string name="no_recent_files">No hi ha fitxers recents</string>
   <string name="no_topic">No hi ha temes</string>
+  <string name="no_videos">Res aquí. Feu un cop d\'ull als següents!</string>
   <string name="no_wifi">No hi ha cap xarxa detectada</string>
   <string name="no_wifi_hint">No hi ha connexió</string>
   <string name="not_installed_documentsui">DocumentsUI no està instal·lat</string>
@@ -403,6 +415,7 @@
   <string name="operation_show_sys">Mostra fitxers ocults</string>
   <string name="operation_unfavorite">Treure de favorits</string>
   <string name="origin_name">%1$s:&#160;</string>
+  <string name="original_user_desc">Pugeu regularment vídeos originals per obtindre l\'estat de Creador</string>
   <string name="original_user_qq_group">Uniu-vos al grup de l\'equip de talent QQ</string>
   <string name="original_user_register">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; s\'ha unit a la comunitat</string>
   <string name="original_user_signal">Equip de talent</string>
@@ -419,6 +432,8 @@
   <string name="partial_cancel_successful">"No s'han pogut treure alguns fitxers. La resta van ser moguts a %s."</string>
   <string name="partial_delete_failure">"No s'han pogut eliminar alguns fitxers, intenta de nou"</string>
   <string name="partial_encrypt_success">"No s'han pogut amagar alguns fitxers, intenta de nou"</string>
+  <string name="path_download">Gestiona les baixades</string>
+  <string name="path_hot_sticker">Adhesius populars</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Emmagatzematge intern</string>
   <string name="phone_bind_skip">Saltar</string>
@@ -456,6 +471,7 @@
   <string name="popup_msg_wb">És un bon vídeo? Compartiu-lo amb els vostres amics de Weibo!</string>
   <string name="popup_msg_wx">Compartiu aquest vídeo amb els amics de WeChat.</string>
   <string name="port_range">El port ha d\'estar entre 1024 i 65535</string>
+  <string name="pretty_girl">Femení</string>
   <string name="private_files">Ocults</string>
   <string name="private_folder">Carpeta oculta</string>
   <string name="private_folder_no_file_hints">No hi ha fitxers ocults.</string>
@@ -472,6 +488,7 @@
   <string name="qzone_platform">Qzone</string>
   <string name="recent_show">Recent</string>
   <string name="recommend">Recomanat</string>
+  <string name="recommend_popup_title">Recomanacions</string>
   <string name="recommend_topic">Temes recomanades</string>
   <string name="recommend_user">Perfils recomanades</string>
   <string name="remote_video_report_success">"Gràcies pel vostre informe! Li donarem un cop d'ull tan aviat com sigui possible."</string>
@@ -672,6 +689,7 @@
   <string name="user_guide_continue_use">D\'acord</string>
   <string name="user_guide_more_login">Altres maneres d\'iniciar sessió</string>
   <string name="user_icon">Foto del perfil</string>
+  <string name="user_id_tip">ID:</string>
   <string name="user_info_setting">Editar la informació</string>
   <string name="user_like_text">M\'agrada</string>
   <string name="user_liked_video_title">Vídeos que m\'agraden</string>
@@ -788,6 +806,9 @@
   <string name="year_month_day_format">dd MMM yyyy</string>
   <string name="yes">Sí</string>
   <string name="yesterday">Ahir</string>
+  <string name="you_liao_god_str">Senyor</string>
+  <string name="you_liao_goddess_str">Senyora</string>
+  <string name="you_liao_xunlei_str">Amfitrió Xunlei</string>
   <string name="youliao_ad_msg">"Gaudiu amb «Youliao»! 
 Formeu part dels 170 milions de Mi Fans!"</string>
   <string name="youliao_ad_title">S\'han actualitzat els vídeos populars!</string>
