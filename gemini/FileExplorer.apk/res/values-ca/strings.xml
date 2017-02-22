@@ -8,6 +8,7 @@
   <string name="activity_rule">Regles</string>
   <string name="ad_download">Baixada</string>
   <string name="ad_downloading">Un moment&#8230;</string>
+  <string name="add_follow">Segueix</string>
   <string name="add_one">+1</string>
   <string name="add_private">Amaga els fitxers ara</string>
   <string name="add_private_files">Afegir fitxers</string>
@@ -52,6 +53,7 @@
   <string name="bind_phone_failed_tip">"No vam poder afegir el teu número telefònic"</string>
   <string name="bind_phone_success_tip">Número telefònic afegit correctament</string>
   <string name="bind_success_tip">Agregat amb èxit</string>
+  <string name="black_list">"Esteu bloquejats. Envieu els vostres comentaris al fòrum de MIUI per conèixer el motiu."</string>
   <string name="byteShort">B</string>
   <string name="can_not_send_with_too_many">"No es poden enviar tots aquests elements"</string>
   <string name="cancel">Cancel·lar</string>
@@ -99,9 +101,12 @@
   <string name="claim_video_success">S\'ha reclamat amb èxit</string>
   <string name="claim_video_unlogin">Inicieu sessió per reclamar vídeos</string>
   <string name="clean_hint">Tocar per alliberar espai</string>
+  <string name="click_login_str">Inicia la sessió</string>
   <string name="click_to_refresh">Premeu aquí per actualitzar</string>
   <string name="click_to_switch_volume">Toqui per canviar entre l\'emmagatzematge intern i la targeta SD</string>
   <string name="click_to_switch_volume_pad">Toqueu per canviar entre l\'emmagatzematge intern i la targeta SD</string>
+  <string name="comment_added">S\'ha afegit correctament</string>
+  <string name="comment_added_tip">"Esteu afegint molts comentaris. Voleu seguir a aquesta persona?"</string>
   <string name="comment_delete_message">El comentari se suprimirà permanentment.</string>
   <string name="comment_delete_title">Elimina el comentari</string>
   <string name="comment_hint">Afegir comentari</string>
