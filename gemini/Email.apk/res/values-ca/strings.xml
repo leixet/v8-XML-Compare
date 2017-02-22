@@ -405,6 +405,7 @@
   <string name="first_quick_default_reply">Feu clic en aquest accés directe, a continuació, «%s» s\'enviarà a tots els destinataris.</string>
   <string name="float_window_content">Detecta que s\'està utilitzant la bústia, feu clic a Confirma per a que s\'ompli automàticament l\'acompte de correu 139 i la contrasenya.</string>
   <string name="float_window_info">"En configurar la bústia de correu 139, no utilitzeu el telèfon, podríeu tenir fallides a la configuració."</string>
+  <string name="float_window_title">S\'està configurant&#8230;&#8230;&#8230;</string>
   <string name="folder_drafts_name_cn0">Esborrany</string>
   <string name="folder_drafts_name_cn1">Esborranys</string>
   <string name="folder_drafts_name_cn2">[Gmail]/Esborrany</string>
@@ -472,6 +473,7 @@
   <string name="header_category_other">Altres</string>
   <string name="header_label_general_preferences">Configuració general</string>
   <string name="help_and_info">Ajuda</string>
+  <string name="help_config">Configuració automàtica</string>
   <string name="hide_atts_remaining">Amaga %1$d adjunts</string>
   <string name="hide_elided">▼ Amaga el text citat</string>
   <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -497,6 +499,7 @@
   <string name="local_search">Recerca local</string>
   <string name="local_search_result">%s correus trobats en els correus locals</string>
   <string name="login">Inici de sessió</string>
+  <string name="login139">Inicia sessió amb una tecla CMCC</string>
   <string name="login_failed_ticker">%s inici de sessió infructuós.</string>
   <string name="login_failed_title">"No es pot iniciar sessió"</string>
   <string name="long_press_to_select_tip">Toqueu sense deixar anar per seleccionar una conversa, a continuació toqui una altra per seleccionar més.</string>
@@ -606,6 +609,7 @@
   <string name="mute">Mut</string>
   <string name="network_error">No hi ha connexió</string>
   <string name="network_not_available">"Connexió de xarxa no està disponible, si us plau intenti-ho més tard"</string>
+  <string name="network_tip">L\'autenticació ha fallat, comproveu la connexió de xarxa</string>
   <string name="network_try_again">Comprovar la connexió de xarxa i torna a intentar</string>
   <string name="network_unavailable">Xarxa no disponible</string>
   <string name="new_incoming_messages_one">Nou missatge de %s. vol mostrar.</string>
@@ -620,8 +624,11 @@
   <string name="no_conversations">No hi ha missatges</string>
   <string name="no_mails">Buit</string>
   <string name="no_matched_attachment">Res coincideix amb la seva recerca</string>
+  <string name="no_remind">No ho recordis</string>
   <string name="not_subject">(Sense assumpte)</string>
   <string name="not_synced_title">Compte no sincronitzat</string>
+  <string name="note_text">Possible a través de la xarxa de China Mobile o verificació d\'SMS, pot generar costos addicionals per al flux o SMS.</string>
+  <string name="note_title">Configuració automàtica del correu 139</string>
   <string name="notification_action_archive">Fitxer</string>
   <string name="notification_action_delete">Elimina</string>
   <string name="notification_action_remove_label">Tregui l\'etiqueta</string>
@@ -634,6 +641,7 @@
   <string name="oauth_error_description">"No s'ha pogut autenticar"</string>
   <string name="oauth_gmail_login_notify">Introduïu el vostre nom d\'usuari i la contrasenya de compte de Google a la següent pàgina de registre.</string>
   <string name="oauth_login_continue">Continuar</string>
+  <string name="oauth_login_continue_qq">Obtén un codi d\'autorització per a iniciar sessió &gt;</string>
   <string name="ok">D\'acord</string>
   <string name="okay_action">D\'acord</string>
   <string name="outbox_alert_button_no_resend">"No enviar"</string>
