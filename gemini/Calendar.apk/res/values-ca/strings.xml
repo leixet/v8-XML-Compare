@@ -123,9 +123,6 @@
   <string name="edit_event_birthday_import_from_contact">Importa aniversaris dels contactes</string>
   <string name="edit_event_birthday_name_empty_hint">Introduïu un nom</string>
   <string name="edit_event_birthday_name_hint">Nom</string>
-  <string name="edit_event_birthday_reminder_3_days_before">Recorda 3 dies abans</string>
-  <string name="edit_event_birthday_reminder_summary">Aquell dia a les %1$s</string>
-  <string name="edit_event_birthday_reminder_summary_3_days_before">Recorda 3 dies abans i aquell dia a les %1$s</string>
   <string name="edit_event_birthday_reminder_time">Temps de recordatori</string>
   <string name="edit_event_calendar_label">Calendari</string>
   <string name="edit_event_choose_date">Trieu la data</string>
@@ -266,7 +263,6 @@
   <string name="olympic_total">总数</string>
   <string name="olympic_vs">CONTRA</string>
   <string name="online_reminder_header_text">Recorda</string>
-  <string name="path_calendar">Aplicacions del sistema/Calendari/Configuració</string>
   <string name="pengzu">pengzu</string>
   <string name="prefDialogTitle_vibrateWhen">Vibració</string>
   <string name="pref_error_no_ringtone_select">To de trucada per defecte</string>
@@ -325,7 +321,7 @@
   <string name="saving_event">S\'ha desat l\'esdeveniment</string>
   <string name="saving_event_with_guest">S\'enviaran els canvis</string>
   <string name="search">Cerca</string>
-  <string name="search_calendar">Calendari;Agenda;Recordatori</string>
+  <string name="search_calendar">"Calendari;Agenda;Recordatori"</string>
   <string name="select_date">Vés a la data</string>
   <string name="select_synced_calendars_title">Calendaris per sincronitzar</string>
   <string name="set_as_wallpaper">Estableix com a fons</string>
@@ -341,7 +337,6 @@
   <string name="setting_sms_import">Importa els esdeveniments per SMS</string>
   <string name="setting_title_about">Quant a</string>
   <string name="setting_title_holiday_display">Mostra els dies festius</string>
-  <string name="settings_calendar">Calendari</string>
   <string name="show_day_view">Mostra el dia</string>
   <string name="show_newer_events">Toqueu per veure els esdeveniments posteriors a %1$s</string>
   <string name="show_older_events">Toqueu per veure els esdeveniments anteriors a %1$s</string>
