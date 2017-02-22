@@ -665,6 +665,7 @@
   <string name="outbox_alert_select_operation">Trieu una acció</string>
   <string name="outbox_alert_title_sent_failed">"No pot enviar correu"</string>
   <string name="outbox_no_mails">No hi ha missatges a la bústia de sortida</string>
+  <string name="overlays_fail_tip">La seva bústia no té una configuració correcta, obriu els permisos flotants de Windows i torneu-ho a provar</string>
   <string name="parase_setup_data">Obtenint dades&#8230;</string>
   <string name="password_expire_warning_content_title">Contrasenya de pantalla de bloqueig expirada</string>
   <string name="password_expire_warning_dialog_content_fmt">Heu de canviar el PIN o contrasenya de la pantalla de bloqueig aviat, o les dades de %s s\'eliminaran. Voleu canviar-ho ara?</string>
@@ -960,6 +961,8 @@
 Toqui \" Sincronitza ara per sincronitzar el correu una vegada, o Canviar la configuració de sincronització per configurar la sincronització automàtica d\'aquest compte.\"</string>
   <string name="wait_for_sync_title">A l\'espera de sincronització</string>
   <string name="wait_help_context">espereu</string>
+  <string name="webview_sslerror_handle_cancel">Cancel·la</string>
+  <string name="webview_sslerror_handle_continue">Continua</string>
   <string name="widget_all_mail">Tot el correu</string>
   <string name="widget_other_views">Altres</string>
   <string name="wipe_account_fail_description">Permet</string>
