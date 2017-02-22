@@ -81,6 +81,10 @@
   <string name="chongsha">Fantasmes</string>
   <string name="copy_email">Copia l\'adreça de correu electrònic</string>
   <string name="copy_number">Copia el número de telèfon</string>
+  <string name="countdown_card_title">Compte enrere de dies</string>
+  <string name="countdown_event_title">[Countdown]%1$s</string>
+  <string name="countdown_notify_before_3_day_title">[Countdown]%1$s en 3 dies</string>
+  <string name="countdown_notify_title">[Countdown]%1$s</string>
   <string name="countdown_today">Avui</string>
   <string name="create_an_account_desc">"El Calendari funciona millor amb un compte Mi.
 
@@ -131,6 +135,7 @@
   <string name="edit_event_calendar_label">Calendari</string>
   <string name="edit_event_choose_date">Trieu la data</string>
   <string name="edit_event_confirm_message">Voleu descartar els canvis?</string>
+  <string name="edit_event_countdown_name_empty_hint">Introduïu el contingut del compte enrere</string>
   <string name="edit_event_countdown_name_hint">Contingut</string>
   <string name="edit_event_from_label">Des de</string>
   <string name="edit_event_input_year">Introduïu l\'any</string>
