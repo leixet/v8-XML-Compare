@@ -760,11 +760,15 @@
   <string name="push_wps_no_response_app">No s\'ha trobat l\'aplicació per gestionar aquesta acció</string>
   <string name="qq_bar_open_imap">Activa</string>
   <string name="qq_bar_send_message">Envia SMS</string>
-  <string name="qq_login_basecode">S\'està iniciant sessió al correu QQ a través de la pagina web. Introduïu la seva contrasenya independent.</string>
+  <string name="qq_login_basecode">S\'està iniciant sessió al correu QQ a través de la pagina web. Introduïu la contrasenya independent.</string>
   <string name="qq_login_get_auth">No s\'ha pogut enviar l\'SMS de verificació? Autentiqueu-vos a través de las preguntes de protecció de contrasenya</string>
   <string name="qq_login_open_imap">Feu clic a «Permetre» per activar «IMAP/SMTP»</string>
   <string name="qq_login_origin_setting">Introduïu el nom d\'usuari i la contrasenya per iniciar sessió &gt;</string>
   <string name="qq_login_send_message">Feu clic a «Envia un SMS» per obtenir un codi d\'autorització</string>
+  <string name="qq_login_webview">S\'està iniciant sessió al correu QQ a través de la pagina web. Introduïu la contrasenya.</string>
+  <string name="qq_next_generation_auth_toast">Completeu la sol·licitud de protecció de contrasenya de segona generació a través del navegador</string>
+  <string name="qq_uthentication_failed">Error d\'autenticació, inicieu sessió una altra vegada</string>
+  <string name="qq_webview_loading">S\'està ometen, espereu...</string>
   <string name="questionnair_body_invisibility">"No es mostren els missatges"</string>
   <string name="questionnair_confirm_delete">Eliminar</string>
   <string name="questionnair_instability">Aplicació inestable, reinicis</string>
@@ -895,6 +899,7 @@
   <string name="single_new_message_notification_big_text">"%1$s 
 %2$s"</string>
   <string name="single_new_message_notification_title">%1$s: %2$s</string>
+  <string name="sms_tip">L\'autenticació ha fallit, comproveu si l\'antivirus intercepta l\'SMS</string>
   <string name="smtp_password_error">Contrasenya del servidor de correu sortint és incorrecta</string>
   <string name="sort_attachment">Ordenar per</string>
   <string name="special_text_1">Va escriure:</string>
