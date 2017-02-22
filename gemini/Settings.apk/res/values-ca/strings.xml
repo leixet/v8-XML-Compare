@@ -3326,6 +3326,7 @@ Per fer-ho:
   <string name="search_power_hide_mode_title">Gestiona l\'ús de bateria de les aplicacions</string>
   <string name="search_power_mode">Configuració d\'energia</string>
   <string name="search_power_optimize">Estalvi de bateria</string>
+  <string name="search_power_usage_summary_title">Bateria &amp; rendiment;Bateria i rendiment;Bateria;rendiment;Estalvi de bateria;Estalvia bateria</string>
   <string name="search_pref_edge_handgrip">Controls de la vora</string>
   <string name="search_pref_volume_wake_title">Activació amb els botons del volum</string>
   <string name="search_preferred_network_type_title">Tipus de xarxa preferida</string>
@@ -3355,6 +3356,7 @@ Per fer-ho:
   <string name="search_sound_settings">So;Volums;Mode silenci;Alarma;Música;Vibració;To del telèfon;So predeterminat de notificació;Missatge rebut;Missatge lliurat;Tàctil;So de bloqueig de pantalla;Configuració d\'àudio;Suprimeix la fressa</string>
   <string name="search_status_bar_settings_custom_carrier">Edita el nom de l\'operador</string>
   <string name="search_status_bar_settings_expandable_under_keyguard">Mostra a la pantalla de bloqueig;mostrar en pantalla de bloqueig</string>
+  <string name="search_status_bar_settings_manage_notification">Notificacions de l\'aplicació;Notificacions</string>
   <string name="search_status_bar_settings_show_carrier">Mostra nom de l\'operador</string>
   <string name="search_status_bar_settings_show_network_speed">Mostra velocitat de connexió</string>
   <string name="search_status_bar_settings_show_notification_icon">Mostra icones de notificació</string>
@@ -3364,6 +3366,7 @@ Per fer-ho:
   <string name="search_storage_settings">Esborra</string>
   <string name="search_sync_settings">Sincronització;Auto;Només per Wi-Fi</string>
   <string name="search_system_app_settings">Aplicacions del sistema</string>
+  <string name="search_theme_settings_title">Temes;Tema;Personalització;Personalitzat</string>
   <string name="search_touch_assistant">Menú de dreceres;Assistent tàctil</string>
   <string name="search_touch_sensitive_title">Mode guants</string>
   <string name="search_trusted_credentials">Certificats de confiança</string>
@@ -3378,6 +3381,7 @@ Per fer-ho:
   <string name="search_virtual_sim">Dades mòbils internacionals</string>
   <string name="search_vpn_enable">VPN</string>
   <string name="search_vpn_settings_password">Contrasenya VPN</string>
+  <string name="search_vpn_settings_title">VPN;Afegeix VPN;Inicia VPN</string>
   <string name="search_wakeup_for_keyguard_notification_title">Activació de la pantalla de bloqueig per a les notificacions</string>
   <string name="search_wifi_advanced_ip_address_title">Adreça IP</string>
   <string name="search_wifi_advanced_mac_address_title">Adreça MAC Wi-Fi</string>
