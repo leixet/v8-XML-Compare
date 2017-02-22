@@ -3120,7 +3120,6 @@ Per fer-ho:
   <string name="screen_pinning_unlock_password">Demana el codi PIN per anul·lar el fixat</string>
   <string name="screen_pinning_unlock_pattern">Demana el patró de desbloqueig per anul·lar el fixat</string>
   <string name="screen_pinning_unlock_pin">Demana el codi PIN per anul·lar el fixat</string>
-  <string name="screen_resolution_confirm">Reinicia</string>
   <string name="screen_resolution_summary">"Si baixeu la resolució de la pantalla pot augmentar la vida de la bateria i la velocitat del sistema, però les imatges en pantalla poden ser menys clares. Heu de reiniciar el dispositiu per aplicar aquest canvi."</string>
   <string name="screen_resolution_switch">Canvia la resolució</string>
   <string name="screen_resolution_title">Resolució de pantalla</string>
