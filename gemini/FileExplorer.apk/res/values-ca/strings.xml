@@ -434,6 +434,9 @@
   <string name="partial_encrypt_success">"No s'han pogut amagar alguns fitxers, intenta de nou"</string>
   <string name="path_download">Gestiona les baixades</string>
   <string name="path_hot_sticker">Adhesius populars</string>
+  <string name="path_hot_video">Visualitzeu vídeos curts populars de franc</string>
+  <string name="path_kuai_chuan">Transferència de fitxers punt a punt</string>
+  <string name="path_recent_file">Gestiona els fitxers al dispositiu</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Emmagatzematge intern</string>
   <string name="phone_bind_skip">Saltar</string>
@@ -520,6 +523,7 @@
   <string name="search_app">Font</string>
   <string name="search_app_more">Més</string>
   <string name="search_description">Cerca tots els fitxers al dispositiu</string>
+  <string name="search_download">Baixades;Baixades recents</string>
   <string name="search_empty_view_hint">"No hi ha resultats"</string>
   <string name="search_error_hint">Introduir paraules clau per buscar</string>
   <string name="search_file_type_apk">Apk</string>
@@ -528,7 +532,11 @@
   <string name="search_file_type_picture">Foto</string>
   <string name="search_file_type_video">Vídeo</string>
   <string name="search_hint">Cerca</string>
+  <string name="search_hot_sticker">Adhesius; Baixa adhesius</string>
+  <string name="search_hot_video">Vídeos populars;Puja vídeos;Pujar vídeo;Vídeo curt;Vídeos curts;Vídeo petit;Vídeos petits</string>
   <string name="search_keyword">Etiquetes</string>
+  <string name="search_kuai_chuan">Mi Drop;Transferència</string>
+  <string name="search_recent_file">Explorador d\'arxius;Explorador;Arxiu;Arxius;Gestiona arxius;Gestor d\'arxius</string>
   <string name="search_result">Resultats</string>
   <string name="search_result_more">Més</string>
   <string name="search_statistic_appname">source</string>
@@ -540,6 +548,8 @@
   <string name="search_title_hint">Cerca</string>
   <string name="select_dest_folder">Seleccionar carpeta</string>
   <string name="select_image">Triar fotos</string>
+  <string name="select_interest_str">Seleccioneu els temes que li agraden</string>
+  <string name="select_interest_tip">Hi ha molt per descobrir!</string>
   <string name="select_music">Triar cançons</string>
   <string name="select_video">Triar vídeos</string>
   <string name="select_volume">Seleccioneu volum</string>
@@ -574,6 +584,8 @@
   <string name="share_title_09">%s He compartit un vídeo, feu una ullada!</string>
   <string name="share_title_1">Trobat nou paquet d\'adhesius!</string>
   <string name="share_to">Compartir per&#8230;</string>
+  <string name="share_topic_desc">Pugeu vídeos per obtenir premis</string>
+  <string name="share_topic_title">"Estic veient #%1$s#, feu una ullada!"</string>
   <string name="share_youliao1">Actualitzeu per veure més capítols.</string>
   <string name="share_youliao2">Actualitzeu per veure més capítols.</string>
   <string name="share_youliao3">Actualitzeu per veure més capítols.</string>
@@ -617,6 +629,7 @@
   <string name="tab_local">LOCAL</string>
   <string name="tab_mine">Perfil</string>
   <string name="tab_more">Més</string>
+  <string name="tab_msg">Missatges</string>
   <string name="tab_newest_video">Nou</string>
   <string name="tab_ranking_list">Rànquing</string>
   <string name="tab_source">Aplicacions</string>
@@ -684,6 +697,7 @@
   <string name="used">Usat </string>
   <string name="user_cancel">Cancel·lat</string>
   <string name="user_center_title">Inici</string>
+  <string name="user_desc_default_tip">Inicieu sessió per acumular punts i guanyar premis.</string>
   <string name="user_follow_me_title">Els meus seguidors</string>
   <string name="user_follow_title">Persones que segueixo</string>
   <string name="user_guide_continue_use">D\'acord</string>
@@ -761,6 +775,7 @@
   <string name="video_publish_hint">Una bona descripció ajudarà al fet que altres persones trobin el teu vídeo</string>
   <string name="video_publish_hint2">Descripció</string>
   <string name="video_publish_origin_tag">Etiqueta original</string>
+  <string name="video_publish_watchable_limit">Podeu fer això un parell de vegades al dia</string>
   <string name="video_publish_watchable_tag">Seguiu-me per veure aquest vídeo</string>
   <string name="video_recommend_upload">Recomanat</string>
   <string name="video_status_reject">Rebutjat</string>
