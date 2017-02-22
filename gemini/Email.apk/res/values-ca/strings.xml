@@ -206,6 +206,12 @@
   <string name="auto_advance_help_title">Després d\'eliminar un missatge, consulta&#8230;</string>
   <string name="auto_advance_label">Avanç automàtic</string>
   <string name="auto_advance_summary">Trieu quin missatge es mostrarà després d\'eliminar un missatge</string>
+  <string name="auto_mail_describe">El servei de correu electrònic de configuració automàtica li pot ajudar a emplenar la informació d\'inici de sessió a la bustia de correu 139. Voleu activar aquesta funció?</string>
+  <string name="auto_mail_disable_txt">Desactivat</string>
+  <string name="auto_mail_enable_txt">Configuració inicial</string>
+  <string name="auto_mail_go_email">Bústia de correu</string>
+  <string name="auto_mail_name">AutoMail</string>
+  <string name="auto_mail_title_note">Trobeu la opció «Configuració automàtica de la bustia 139», feu clic per iniciar.</string>
   <string name="auto_sync_off">Sincronització automàtica apagada.</string>
   <string name="battery_saver">Estalvi de bateria</string>
   <string name="bcc">Cco</string>
@@ -249,6 +255,8 @@
   <string name="compose_picturesexceedlimits">"No es poden afegir més de 5 imatges"</string>
   <string name="compose_send">Envia</string>
   <string name="compose_sent">Enviat amb èxit</string>
+  <string name="config_cancel">Cancel·la</string>
+  <string name="config_retry">Reintenta</string>
   <string name="confirm">Confirmar</string>
   <string name="confirm_before_delete">Confirma abans d\'eliminar</string>
   <string name="confirm_before_send">Confirma abans d\'enviar</string>
