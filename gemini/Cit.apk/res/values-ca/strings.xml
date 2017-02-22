@@ -215,8 +215,6 @@ Toqueu la pantalla per iniciar el GPS&#8230;"</string>
   <string name="cit_pressure_sensor_check_title">Sensor de pressió</string>
   <string name="cit_proximity_sensor_check_summary">"Cobriu el sensor de proximitat (situat a la part superior del telèfon a prop del receptor) amb la mà, després moveu la mà lluny. Hauria d\'augmentar el valor 0,0 en moure la mà més lluny del dispositiu. Durant el calibratge, assegureu-vos que no hi ha res entre el sensor i la mà (p. ex. coberta protectora de pantalla o guants)."</string>
   <string name="cit_proximity_sensor_check_title">Sensor de proximitat</string>
-  <string name="cit_ramdump_crash">Força l\'aturada del sistema quan el mòdem falli</string>
-  <string name="cit_ramdump_dload">Força el canvi al mode daixada</string>
   <string name="cit_recovery_signature_failed">HA FALLAT la restauració de la signatura</string>
   <string name="cit_recovery_signature_passed">restauració de la signatura CORRECTA</string>
   <string name="cit_reset_check_summary">Aquesta prova reiniciarà el dispositiu. Es perdran totes les dades de la prova anterior.</string>
@@ -289,7 +287,6 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="cit_tool_nfc_st_confreq">freq:</string>
   <string name="cit_tool_nfc_st_run">Executa</string>
   <string name="cit_tool_nfc_st_stop">Atura</string>
-  <string name="cit_tool_ramdump">Configuració Ramdump</string>
   <string name="cit_tool_wifi">Eina de prova Wi-Fi</string>
   <string name="cit_tool_wifi_chain_1">1</string>
   <string name="cit_tool_wifi_chain_1_2">1+2</string>
