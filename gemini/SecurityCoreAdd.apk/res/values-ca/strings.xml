@@ -5,9 +5,9 @@
   <string name="PassWordGuard">Contrasenya del segon espai</string>
   <string name="PrivacyContactDes1">"Els contactes es convertiran en privats.
 Els missatges només apareixeran en el Segon espai."</string>
-  <string name="PrivacyContactDes2">"Si vau utilitzar missatges privats en el Primer espai,
+  <string name="PrivacyContactDes2">"Si heu utilitzat missatges privats en el Primer espai,
 aquesta característica s\'afegirà al Segon espai automàticament."</string>
-  <string name="add_finger_print">Afegir empremta</string>
+  <string name="add_finger_print">Afegeix empremta</string>
   <string name="appData">Aplicacions instal·lades</string>
   <string name="app_name">Security Core Component</string>
   <string name="back">Enrere</string>
