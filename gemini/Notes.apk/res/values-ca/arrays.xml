@@ -35,8 +35,8 @@
   <string-array name="welcome_notes_content">
     <item>"Toqui per crear una nota
 "</item>
-    <item>"Per afegir una imatge o mostrar caselles de verificació, feu clic al botó de sota
-"</item>
+    <item>"Creació d\'una nota
+Per afegir una nota premeu el signe +."</item>
     <item>"Seleccioneu plantilles
 Utilitzeu plantilles per canviar fons de pantalla i estils de les vostres notes.
 Premeu el botó inferior dret de la nota per seleccionar una plantilla."</item>
