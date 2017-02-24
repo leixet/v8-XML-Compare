@@ -30,7 +30,7 @@
     <item>Enregistra utilitzant 2 canals, escolta el so estèreo en els auriculars</item>
     <item>Moveu el micròfon prop de la font de so per obtenir millor qualitat</item>
     <item>Col·loqueu el telèfon entre dues persones per enregistrar-les clarament a ambdues</item>
-    <item>High dynamic range technology allows the microphone to capture more detailed sound</item>
+    <item>La tecnologia d\'alt rang dinàmic permet al micròfon capturar un so més detallat</item>
   </string-array>
   <string-array name="record_quality_entries">
     <item>Alta</item>
