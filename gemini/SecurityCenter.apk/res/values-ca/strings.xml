@@ -603,14 +603,18 @@ o introdueixi la seva contrasenya"</string>
   <string name="keywords_antispam">Blocklist;Bloquejar;Llista negre;Blocklist intel·ligent;Frau;Vendes;Agents</string>
   <string name="keywords_antivirus">Virus;Risc;Antivirus;Escanejar</string>
   <string name="keywords_app_permissions">Permisos;Ubicació;Contactes d\'accés;Permisos;Permisos de l\'aplicació</string>
+  <string name="keywords_auto_restart">Inici automàtic;Permisos;Inici automàtic; Automàtic;Gestiona l\'inici automàtic;Inici automàtic MIUI;Inici automàtic de l\'aplicació;Inicia automàticament aplicacions;Inici de la cadena,inici encadenat, inici provocat</string>
+  <string name="keywords_buy_flow">dades;dades mòbils;compra dades;compra dades mòbils;recàrrega de dades;pla de dades</string>
   <string name="keywords_cleanmaster">Paperera;Neteja;Velocitat;Emmagatzematge;Memòria cau</string>
   <string name="keywords_networkassistant_1">Dades;Trànsit</string>
   <string name="keywords_networkassistant_2">Dades;Calibrar</string>
   <string name="keywords_networkassistant_4">Connexió;Internet;Prova</string>
+  <string name="keywords_payment_security">Comprova la seguretat del pagament;seguretat del pagament;pagament segur;pagaments segurs;protecció del pagament;pagaments;pagaments protegits;zona segura;zona de pagament</string>
   <string name="keywords_powercenter">Estalvi de bateria;Sobreescalfament;Engega;Apaga;Bateria;Consum excessiu</string>
   <string name="keywords_powercenter_powerrank">Ús de bateria</string>
   <string name="keywords_securitycenter">Seguretat;Comprovar;Escannejar</string>
   <string name="keywords_securitycenter_settings">Estalvi de bateria;Permisos;Blocklist;Ús de dades;Calibrar pla de dades;Prova de xarxa;Bloqueig d\'app;Estalviar bateria;Escalfament;Engegar;Apagar;Bateria;Drenatge;Automàtic;ROOT;Ubicació;Accés a contactes;Bloquejar;Llista negre;Blocklist intel·ligent;Frau;Vendes;Agents;Dades;Trànsit;Calibrar;Connexió;Internet;Prova;Contrasenya;Privacitat;Accés;Protecció</string>
+  <string name="keywords_usb_install">Instal·lació USB;instal·lació des de l\'ordinador;instal·lació ADB</string>
   <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">KB/s</string>
   <string name="label_mi_stats">Anàlisi Mi</string>
@@ -826,6 +830,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="notification_exit_power_save_mode">Apagar estalvi de bateria</string>
   <string name="notification_exit_power_save_mode_subtitle">Bateria %s carregada.</string>
   <string name="notification_item">Protegir aplicacions seleccionades amb el bloquejador d\'aplicacions</string>
+  <string name="notification_quick_charging_title">Càrrega ràpida</string>
   <string name="notification_subtitle">Tocar per activar</string>
   <string name="notification_summary_cmcc_app_check">Toqui per veure els detalls.</string>
   <string name="notification_sysapp_cracked_text">S\'ha modificat la versió actual de MIUI</string>
@@ -902,6 +907,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="password_promotion_title">Contrasenya de protecció de la privacitat</string>
   <string name="path_antispam">Aplicacions del sistema/Seguretat/Llista de bloqueig</string>
   <string name="path_antivirus">Aplicacions del sistema/Seguretat/Escaneig de virus</string>
+  <string name="path_app_permissions">Aplicacions del sistema/Seguretat/Permisos/Permisos de l\'aplicació</string>
   <string name="path_cleanmaster">Aplicacions del sistema/Seguretat/Netejador</string>
   <string name="path_networkassistant_1">Aplicacions del sistema/Seguretat/Ús de dades</string>
   <string name="path_networkassistant_2">Aplicacions del sistema/Seguretat/Ús de dades</string>
