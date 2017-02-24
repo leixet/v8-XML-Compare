@@ -166,6 +166,7 @@
   <string name="backuped_desc">Les fotos i vídeos son copiats pel Mi Cloud</string>
   <string name="backuped_title">S\'ha copiat correctament</string>
   <string name="backuping_title_gprs">Còpia de seguretat amb dades mòbils&#8230;</string>
+  <string name="backuping_title_normal">Còpia de seguretat</string>
   <string name="begin_share">S\'ha creat l\'àlbum de nadó \"%s\". Ja el podeu compartir</string>
   <string name="begin_share_toast">Voleu crear un àlbum separat per aquest nen abans de compartir-lo?</string>
   <string name="browse_category_title">Navegació</string>
@@ -578,8 +579,11 @@
   <string name="cloud_storage_ok_desc">Espai al Mi Cloud: %s</string>
   <string name="cloud_storage_ok_title">Prou espai al Mi Cloud</string>
   <string name="cloud_storage_photo_title">Fotos</string>
+  <string name="cloud_storage_subtitle">Tots els elements es copiaran al Mi Cloud</string>
   <string name="cloud_storage_title">Espai al Mi Cloud</string>
   <string name="cloud_storage_video_title">Vídeos</string>
+  <string name="cloud_storage_warn_desc">Compreu el núvol VIP per emmagatzematge addicional</string>
+  <string name="cloud_storage_warn_title">No hi ha prou espai al Mi Cloud</string>
   <string name="cloudfolder_cannot_start_with">"El nom de l'àlbum no pot començar amb '%s'"</string>
   <string name="cloudfolder_contain_invalidate_char">"El nom de l'àlbum no pot contenir '%s'"</string>
   <string name="cloudfolder_name_cannot_empty">Introduïu un nom per l\'àlbum</string>
