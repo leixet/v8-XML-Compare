@@ -3,8 +3,8 @@
 <resources>
   <string-array name="aritst_gender_filter_api">
     <item>tots</item>
-    <item>male</item>
-    <item>female</item>
-    <item>group</item>
+    <item>masculí</item>
+    <item>femení</item>
+    <item>grup</item>
   </string-array>
 </resources>
