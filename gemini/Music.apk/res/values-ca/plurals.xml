@@ -109,4 +109,16 @@
     <item quantity="other">Còpia de seguretat de les cançons, %1$d cançons restants (%2$.1fMB)</item>
     <item quantity="one">Còpia de seguretat de la cançó, %1$d cançó restant (%2$.1fMB)</item>
   </plurals>
+  <plurals name="Nstop_backup_songs_message">
+    <item quantity="other">"%d cançons no s'han copiat al Mi Cloud. Voleu aturar-la?"</item>
+    <item quantity="one">"%d cançó no s'ha copiat al Mi Cloud. Voleu aturar-la?"</item>
+  </plurals>
+  <plurals name="Nsong_group_detail_subtitle">
+    <item quantity="other">Creat al %1$s | %2$d cançons en total</item>
+    <item quantity="one">Creat al %1$s | %2$d cançó en total</item>
+  </plurals>
+  <plurals name="Nalbum_total_songs">
+    <item quantity="other">%d cançons en total</item>
+    <item quantity="one">%d cançó en total</item>
+  </plurals>
 </resources>
