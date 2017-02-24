@@ -1082,6 +1082,9 @@ Feu més fotos als vostres amics!"</string>
   <string name="sync_off_title">Activeu la sincronització amb Mi Cloud per realitzar còpies de seguretat de fotos i vídeos automàticament</string>
   <string name="sync_pending_title">Se sincronitzarà automàticament</string>
   <string name="synced_title">Còpia de seguretat de fotos i vídeos correcta</string>
+  <string name="syncing_gprs_title">Ús de dades mòbils per realitzar còpies de seguretat d\'elements</string>
+  <string name="syncing_metadata_title">Sincronització de dades del Mi Cloud</string>
+  <string name="syncing_normal_title">Còpia de seguretat de fotos i vídeos</string>
   <string name="system_album">Àlbum de sistema</string>
   <string name="terabyteShort">TB</string>
   <string name="text_append">Text</string>
