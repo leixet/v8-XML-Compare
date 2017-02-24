@@ -170,6 +170,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="auto_task_notify_task_cancel_count_down">L\'acció automatitzada es cancel·larà en 5 segons</string>
   <string name="auto_task_notify_task_cancel_do">Cancel·la l\'acció</string>
   <string name="auto_task_notify_task_canceled_summary">Podreu fer i rebre trucades</string>
+  <string name="auto_task_notify_task_canceled_summary2">"Sembla que esteu jugant a un joc."</string>
   <string name="auto_task_notify_task_canceled_title">Acció cancel·lada</string>
   <string name="auto_task_notify_task_continue_do">Inicia l\'acció</string>
   <string name="auto_task_notify_task_count_down">L\'acció automatitzada s\'iniciarà en 5 segons</string>
