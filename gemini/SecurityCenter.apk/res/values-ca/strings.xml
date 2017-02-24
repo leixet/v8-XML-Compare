@@ -326,6 +326,8 @@ o introdueixi la seva contrasenya"</string>
   <string name="card_main_deepclean_title">Neteja intensiva</string>
   <string name="card_main_gamebooster_summary">Accelera la velocitat i millora l\'experiència de joc</string>
   <string name="card_main_gamebooster_title">Accelerador de velocitat dels jocs</string>
+  <string name="card_main_hbassistant_summary">Utilitzeu aquesta eina per agafar els sobres més ràpid</string>
+  <string name="card_main_hbassistant_title">Assistent del sobre vermell</string>
   <string name="card_main_monthreport_action">Mostra</string>
   <string name="card_main_monthreport_summary">Veure informes mensuals</string>
   <string name="card_main_monthreport_title">Estadístiques de seguretat</string>
@@ -600,6 +602,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="item_virus_lib">Actualitza definició de virus automàticament</string>
   <string name="keywords_antispam">Blocklist;Bloquejar;Llista negre;Blocklist intel·ligent;Frau;Vendes;Agents</string>
   <string name="keywords_antivirus">Virus;Risc;Antivirus;Escanejar</string>
+  <string name="keywords_app_permissions">Permisos;Ubicació;Contactes d\'accés;Permisos;Permisos de l\'aplicació</string>
   <string name="keywords_cleanmaster">Paperera;Neteja;Velocitat;Emmagatzematge;Memòria cau</string>
   <string name="keywords_networkassistant_1">Dades;Trànsit</string>
   <string name="keywords_networkassistant_2">Dades;Calibrar</string>
