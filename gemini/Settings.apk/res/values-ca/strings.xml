@@ -3329,8 +3329,10 @@ Per fer-ho:
   <string name="search_sim_status_title">Estat de la SIM;SIM</string>
   <string name="search_slot_status_title">Informació de l\'IMEI</string>
   <string name="search_sms_delivered_sound_title">Missatge lliurat</string>
+  <string name="search_sms_received_sound_title">Missatge rebut;so del missatge;missatge rebut;to del missatge</string>
   <string name="search_sound_effects_enable_title">So en tocar</string>
   <string name="search_sound_settings">So;Volums;Mode silenci;Alarma;Música;Vibració;To del telèfon;So predeterminat de notificació;Missatge rebut;Missatge lliurat;Tàctil;So de bloqueig de pantalla;Configuració d\'àudio;Suprimeix la fressa</string>
+  <string name="search_status_bar_settings">Notificacions &amp; barra d\'estat;Notificacions;Barra d\'estat</string>
   <string name="search_status_bar_settings_custom_carrier">Edita el nom de l\'operador</string>
   <string name="search_status_bar_settings_expandable_under_keyguard">Mostra a la pantalla de bloqueig;mostrar en pantalla de bloqueig</string>
   <string name="search_status_bar_settings_manage_notification">Notificacions de l\'aplicació;Notificacions</string>
@@ -3340,6 +3342,7 @@ Per fer-ho:
   <string name="search_status_bar_settings_show_screenshot_notification">Mostra pantalla de notificació</string>
   <string name="search_status_bar_settings_style">Estil de barra d\'estat</string>
   <string name="search_status_bar_settings_toggle_collapse_after_clicked">Redueix després de tocar</string>
+  <string name="search_status_bar_settings_toggle_position">Posicions dels commutadors;Commutadors;commutador;canvi de commutador</string>
   <string name="search_storage_settings">Esborra</string>
   <string name="search_sync_settings">Sincronització;Auto;Només per Wi-Fi</string>
   <string name="search_system_app_settings">Aplicacions del sistema</string>
@@ -3360,6 +3363,8 @@ Per fer-ho:
   <string name="search_vpn_settings_password">Contrasenya VPN</string>
   <string name="search_vpn_settings_title">VPN;Afegeix VPN;Inicia VPN</string>
   <string name="search_wakeup_for_keyguard_notification_title">Activació de la pantalla de bloqueig per a les notificacions</string>
+  <string name="search_wallpaper_settings_title">Fons de pantalla;Pantalla inicial;Pantalla de bloqueig</string>
+  <string name="search_wfd_settings_title">Pantalla sense fils;Activació de la pantalla sense fils</string>
   <string name="search_wifi_advanced_ip_address_title">Adreça IP</string>
   <string name="search_wifi_advanced_mac_address_title">Adreça MAC Wi-Fi</string>
   <string name="search_wifi_enable">Wi-Fi;Wi-Fi;Wi-Fi;Activa la Wifi;Activa la WiFi;Activa la Wi-Fi</string>
@@ -3369,8 +3374,10 @@ Per fer-ho:
   <string name="search_wifi_scan_always_available">Escaneig sempre disponible</string>
   <string name="search_wifi_setting_frequency_band_title">Banda de freqüències Wi-Fi;Freqüència WiFi;Freqüència Wi-Fi;Freqüència Wifi;banda de freqüències</string>
   <string name="search_wifi_setting_sleep_policy_title">Mantenir Wi-Fi durant el son</string>
+  <string name="search_wifi_settings_title">Wi-Fi;WLAN;Configuració avançada;WLAN;Xarxes sense fils;Sense fils</string>
   <string name="search_wifi_tether_checkbox">Punt d\'accés mòbil;punt d\'accés;mòbil</string>
   <string name="search_wifi_tether_configure_ap_text">Configura el punt d\'accés mòbil;Configura el punt d\'accés;afegeix un punt d\'accés</string>
+  <string name="search_wifi_tether_settings_title">Connexió compartida d\'Internet &amp;Punt d\'accés Wi-Fi;Internet compartit;Zona Wi-Fi,Punt d\'accés Wi-Fi</string>
   <string name="search_wifi_wapi_cert_install">Instal·la el certificat WAPI</string>
   <string name="search_wifi_wapi_cert_uninstall">Desinstal·la el certificat WAPI</string>
   <string name="search_wps_connect_title">Polsador WPS</string>
