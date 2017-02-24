@@ -26,6 +26,12 @@
     <item>Col·loqueu el telèfon entre dues persones per enregistrar-les clarament a ambdues</item>
     <item>La distància màxima efectiva del micròfon és de 10 metres</item>
   </string-array>
+  <string-array name="record_scenes_summaries_stereo">
+    <item>Enregistra utilitzant 2 canals, escolta el so estèreo en els auriculars</item>
+    <item>Moveu el micròfon prop de la font de so per obtenir millor qualitat</item>
+    <item>Col·loqueu el telèfon entre dues persones per enregistrar-les clarament a ambdues</item>
+    <item>High dynamic range technology allows the microphone to capture more detailed sound</item>
+  </string-array>
   <string-array name="record_quality_entries">
     <item>Alta</item>
     <item>Normal</item>
