@@ -666,6 +666,7 @@
   <string name="doodle_mosaic">Mosaic</string>
   <string name="doodle_small_size">Petit</string>
   <string name="doodle_super_big_size">Enorme</string>
+  <string name="double_tap_to_higher_definition">Toqueu dues vegades novament per la vista prèvia en HD</string>
   <string name="download_canceled">Baixada cancel·lada</string>
   <string name="download_retry_message">"No s'han pogut baixar els fitxers. Comproveu la connexió de xarxa i torneu a intentar-ho"</string>
   <string name="download_retry_text">Torna-ho a provar</string>
@@ -676,6 +677,7 @@
   <string name="download_without_wifi_title">Alerta d\'ús de dades</string>
   <string name="edit_baby_info">Veure informació del nadó</string>
   <string name="email_picker_title">Afegeix un correu compartit</string>
+  <string name="empty_query_text_msg">"No sé que cercar…"</string>
   <string name="empty_recommend_back">Enrere</string>
   <string name="empty_recommend_face_page_view">No hi ha més recomanacions</string>
   <string name="enable_auto_upload_tip">Aquest àlbum s\'eliminarà dels altres àlbums després que ho activeu.</string>
