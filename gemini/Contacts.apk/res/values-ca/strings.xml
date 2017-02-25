@@ -351,6 +351,8 @@ Les targetes de contacte estan apagades"</string>
   <string name="device_paired_dialog_title">Combinant contactes&#8230;</string>
   <string name="device_pairing_dialog_message">S\'està vinculant&#8230;</string>
   <string name="device_pairing_dialog_title">Dispositius vinculats</string>
+  <string name="device_transfer_by_bluetooth_message">"1. Activeu el \"Bluetooth\" de l\'altre dispositiu;         - Normalment als dispositius Android el \"Bluetooth\" es troba sota la secció de xarxa         - Als dispositius iOS el \"Bluetooth\" es troba dintre de la Configuració         2. Als dispositius Android també s\'ha d\'activar la opció \"Visible\";         3. Feu clic a \"Següent\" i permeteu que els contactes accedeixin al permís al següent pas."</string>
+  <string name="device_transfer_by_sim_message">"1. Deseu els contactes de l\'altre dispositiu a la targeta SIM;         2. Vés a \"Configuració dels contactes\" -- \"Importa/Exporta contactes\" -- \"Importa des de la targeta SIM\", premeu perllongament qualsevol contacte SIM, trieu els contactes que voleu importar i feu clic a la opció \"Importa."</string>
   <string name="device_version_header_bluetooth">Assegureu-vos que el Bluetooth està activat</string>
   <string name="device_version_header_no_bluetooth">Importa contactes utilitzant la targeta SIM</string>
   <string name="dial">Marcar</string>
@@ -500,7 +502,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="import_failure_no_vcard_file">No hi ha fitxers vCard a la targeta SD.</string>
   <string name="import_from_onekey_migrate">Importa amb Mi Mover</string>
   <string name="import_from_other_phone">Importa des d\'un altre telèfon</string>
-  <string name="import_from_sdcard">Importació des de emmagatzematge</string>
+  <string name="import_from_sdcard">Importa des de emmagatzematge</string>
   <string name="import_from_sim">Importa des de la targeta SIM</string>
   <string name="import_from_sim1">Importa des de SIM 1</string>
   <string name="import_from_sim2">Importa des de SIM 2</string>
