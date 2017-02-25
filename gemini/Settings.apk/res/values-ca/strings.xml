@@ -1847,6 +1847,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="keywords_factory_data_reset">esborrar, suprimir, restaurar, eliminar, suprimir</string>
   <string name="keywords_home">llançador</string>
   <string name="keywords_ignore_optimizations">ignorar les optimitzacions, migdiada, aplicacions inactives</string>
+  <string name="keywords_keyboard_and_ime">correcció de text, corregir, so, vibració, automàtic, idioma, gest, suggerir, suggeriment, tema, ofensiu, paraula, tipus, emoji, internacional</string>
   <string name="keywords_location">a prop, ubicació, historial, informes</string>
   <string name="keywords_location_mode">exactitud</string>
   <string name="keywords_lockscreen">fer lliscar el dit per desbloquejar, contrasenya, patró, PIN</string>
