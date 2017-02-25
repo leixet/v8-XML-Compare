@@ -1831,7 +1831,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="keywords_all_apps">aplicacions baixada aplicacions sistema</string>
   <string name="keywords_app">RAM</string>
   <string name="keywords_app_permissions">aplicacions permisos seguretat</string>
-  <string name="keywords_battery">ús de la càrrega de la bateria</string>
+  <string name="keywords_battery">ús de la bateria, càrrega</string>
   <string name="keywords_color_mode">vibrant, RGB, sRGB, color, natural, estàndard</string>
   <string name="keywords_color_temperature">temperatura del color D65 D73 blanc groc blau càlid fred</string>
   <string name="keywords_date_and_time">rellotge militar</string>
