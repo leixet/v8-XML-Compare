@@ -41,6 +41,8 @@
   <string name="export_to_note">Exporta a «Notes»</string>
   <string name="invalid_argument">Argument no vàlid</string>
   <string name="keywords_search_call_record">Grava trucades;Grava la trucada;Gravació de trucada;Gravacions de trucades</string>
+  <string name="keywords_search_record">Nova gravació;Afegeix gravació;Gravació;Gravacions;Transcripció;Transcriu;Gravadora;Gravadora de veu;Gravadora de so;Aplicació gravadora;Aplicació de gravació;Com gravar;Com gravar so;On és la gravadora;Reordena MIUI</string>
+  <string name="keywords_search_record_list">Gravadora;Transcripció;Transcripcions;Gravació;Comparteix la gravació;Comparteix les gravacions;Gravació;Gravacions</string>
   <string name="low_battery_error">"Queda menys del 5% de bateria. Atureu i deseu la gravació per impedir que es perdi."</string>
   <string name="low_battery_error_confirm">D\'acord</string>
   <string name="low_battery_error_title">Bateria baixa</string>
@@ -84,6 +86,7 @@
   <string name="recognition_error_internal">Error intern</string>
   <string name="recognition_error_stopped">Reconeixement aturat</string>
   <string name="recognition_status_downloading">S\'està baixant</string>
+  <string name="record">Grava</string>
   <string name="record_back_pressed_hint">Per aturar la gravació, toqueu «Enrere» un altre cop</string>
   <string name="record_download">Baixa des de Mi Cloud</string>
   <string name="record_download_complete">Baixada</string>
