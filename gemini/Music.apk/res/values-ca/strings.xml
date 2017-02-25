@@ -452,6 +452,7 @@
   <string name="lyric_open_other_connect">Baixa les lletres utilitzant les dades mòbils</string>
   <string name="lyric_setting">Configuració de lletres</string>
   <string name="male_artist">Artistes masculins</string>
+  <string name="manager_cloud_space">Gestionar l\'emmagatzematge del Mi Cloud</string>
   <string name="max_sleep_time">90</string>
   <string name="media_filter">Multimèdia</string>
   <string name="menu_all_task_pause">Pausa-ho tot</string>
@@ -464,9 +465,16 @@
   <string name="message_delete_playlist">Voleu eliminar la llista de reproducció %s?</string>
   <string name="metered_alert">Alerta d\'ús de dades</string>
   <string name="metered_alert_msg">"L'ús de la xarxa de dades mòbils per escoltar música augmentarà l'ús de dades. Si excediu el límit de dades contractats, la seva companyia podria cobrar-li despeses addicionals."</string>
+  <string name="metered_alert_msg_with_data">Li queden %s de dades mòbils. Voleu utilitzar dades per reproduir cançons?</string>
   <string name="metered_allow">Transmetre</string>
   <string name="metered_disallow">Cancel·la</string>
   <string name="metered_play_toast">Utilitzant la connexió de dades mòbils per transmetre</string>
+  <string name="metered_play_toast_with_beyond_data">S\'estan utilitzant les dades mòbils per reproduir cançons. S\'ha excedit el límit per %s</string>
+  <string name="metered_play_toast_with_data">S\'estan utilitzant les dades mòbils per reproduir cançons, %s restants</string>
+  <string name="metered_serious_alert">Resten molt poques dades mòbils</string>
+  <string name="metered_serious_alert_msg_with_beyond_data">"Heu superat el límit de dades mòbils un %s. Voleu utilitzar dades mòbils per reproduir cançons?"</string>
+  <string name="metered_serious_alert_msg_with_data">Només li queden %s de dades mòbils. Voleu utilitzar dades per reproduir cançons?</string>
+  <string name="metered_serious_allow">Reprodueix de totes maneres</string>
   <string name="milink_unavaliable_please_update">"Mi Link no disponible. Actualitzeu MIUI."</string>
   <string name="min_sleep_time">1</string>
   <string name="missing_title">&lt;Desconegut&gt;</string>
@@ -545,6 +553,7 @@
   <string name="no_local_source_find">"No s'ha pogut trobar la cançó"</string>
   <string name="no_online_song_selected">No hi ha cançons seleccionades</string>
   <string name="no_results_return">Sense resultats de la cerca</string>
+  <string name="no_scanned_songs">Buit</string>
   <string name="no_song">No hi ha cançons</string>
   <string name="no_song_downloaded">"No s'ha pogut connectar al servidor"</string>
   <string name="normal_quality">Bona</string>
@@ -585,6 +594,7 @@
   <string name="online_music_enabled_subtitle">Toqueu aquí per transmetre les vostres cançons preferides.</string>
   <string name="online_music_enabled_summary">Escolteu i baixeu les vostres cançons preferides. Consulteu les millors cançons i llistes de reproducció recomanades sigueu on sigueu!</string>
   <string name="online_music_enabled_title">La transmissió gratuït està aquí</string>
+  <string name="online_my">Meu</string>
   <string name="online_playlist_is_empty">Llista de reproducció buida</string>
   <string name="online_recommend">Llista de reproducció</string>
   <string name="online_special">Especial</string>
@@ -614,6 +624,7 @@
   <string name="play_next">Reproduir la propera</string>
   <string name="playback_failed_no_title_by_bad_file">"El format no és compatible o el fitxer no existeix."</string>
   <string name="playlist_deleted_message">Llista de reproducció eliminada</string>
+  <string name="playlist_empty">No s\'ha trobat cap llista de reproducció.</string>
   <string name="playlist_renamed_message">S\'ha canviat el nom de la llista de reproducció</string>
   <string name="playlist_type_album">Àlbums</string>
   <string name="playlist_type_artist">Artista</string>
@@ -659,6 +670,8 @@
   <string name="radar_searching_state">S\'està cercant&#8230;</string>
   <string name="radar_support_by">Desenvolupat per ACRCloud</string>
   <string name="really_pay">Voleu pagar ara?</string>
+  <string name="recently_played">Reproduït recentment</string>
+  <string name="recently_played_songs">Reproduït recentment</string>
   <string name="recommend_fragment_title">Destacat</string>
   <string name="recommended_file_size_download_in_mobile">Voleu utilitzar %s de dades mòbils per baixar aquest fitxer?</string>
   <string name="recommended_no_file_size_download_in_mobile">Voleu utilitzar la vostre connexió de dades mòbils per baixar aquest fitxer?</string>
@@ -681,9 +694,12 @@
   <string name="root_downloads">Baixades</string>
   <string name="save_to_playlist">Desa com a llista de reproducció</string>
   <string name="search_album">Cerca àlbums</string>
+  <string name="search_empty">Sense resultats. Proveu amb altres paraules</string>
   <string name="search_for_album">Àlbum</string>
   <string name="search_for_artist">Artista</string>
   <string name="search_hint">Cerca</string>
+  <string name="search_history_clear_all">Neteja</string>
+  <string name="search_instant_online_music">En línia</string>
   <string name="search_lyric">Cerca lletres</string>
   <string name="search_title">Cerca</string>
   <string name="search_title_album">Àlbums</string>
@@ -743,6 +759,7 @@
   <string name="share_text_list">"Llista de reproducció de Música Mi: "</string>
   <string name="share_text_song">"Cançó a Música Mi: "</string>
   <string name="show_more">Mostra %s més</string>
+  <string name="shuffle_music">Reproducció aleatòria</string>
   <string name="shuffle_off_notif">Reproducció aleatòria desactivada.</string>
   <string name="shuffle_on_notif">Reproducció aleatòria activada.</string>
   <string name="similar_songs">Cançons similars</string>
@@ -765,6 +782,8 @@
   <string name="start_to_play">Reprodueix</string>
   <string name="start_to_use">Obre Música</string>
   <string name="start_update">Actualitza a la darrera versió de l\'aplicació Música.</string>
+  <string name="stop">Atura</string>
+  <string name="stop_backup">Atura</string>
   <string name="storage_internal">Emmagatzematge intern</string>
   <string name="storage_sd_card">Targeta SD</string>
   <string name="storage_usb">Emmagatzematge USB</string>
