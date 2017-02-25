@@ -378,6 +378,9 @@ Les targetes de contacte estan apagades"</string>
   <string name="dialog_voicemail_airplane_mode_message">Per trucar al correu de veu, primer desactivar el mode avió.</string>
   <string name="dialog_voicemail_not_ready_message">Per configurar el correu de veu, aneu a Menú &gt; configuració.</string>
   <string name="directory_search_label">Agenda</string>
+  <string name="disclaimer_text">"Les pàgines grogues obtenen informació sobre el vostre saldo enviant un SMS. La vostre operadora pot actualitzar aquesta informació amb retard, pel que els números que obtengueu podrien no ser exactes. Si veieu un error, podeu reportar l\'SMS de la consulta per ajudar-nos a millorar aquest servei. 
+
+Per evitar consultes freqüents, actualitzem la informació del saldo una vegada al dia."</string>
   <string name="disclaimer_title">Renúncia</string>
   <string name="display_all_contacts">Tots els contactes</string>
   <string name="display_more_groups">Més grups&#8230;</string>
