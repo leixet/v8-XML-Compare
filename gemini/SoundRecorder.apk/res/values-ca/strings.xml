@@ -40,6 +40,7 @@
   <string name="error_sdcard_unmounted">Inseriu una targeta SD</string>
   <string name="export_to_note">Exporta a «Notes»</string>
   <string name="invalid_argument">Argument no vàlid</string>
+  <string name="keywords_search_call_record">Grava trucades;Grava la trucada;Gravació de trucada;Gravacions de trucades</string>
   <string name="low_battery_error">"Queda menys del 5% de bateria. Atureu i deseu la gravació per impedir que es perdi."</string>
   <string name="low_battery_error_confirm">D\'acord</string>
   <string name="low_battery_error_title">Bateria baixa</string>
