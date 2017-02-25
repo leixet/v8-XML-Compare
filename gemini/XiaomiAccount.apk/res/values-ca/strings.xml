@@ -334,6 +334,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="photoPickerNotFoundText">No hi ha fotos disponibles.</string>
   <string name="push_notification_content">Feu clic i obtén el codi de verificació</string>
   <string name="push_notification_title">Inicieu sessió al Compte Mi en un dispositiu desconegut</string>
+  <string name="push_notify_dialog_title">Verificació de seguretat de l\'inici de sessió</string>
   <string name="qq">QQ</string>
   <string name="remove_device_success_notice">Si elimineu aquest dispositiu dels vostres dispositius de confiança, pot ser que s\'hagi d\'executar el procés de verificació un altre cop quan inicieu la sessió</string>
   <string name="remove_trust_btn">Elimina dels dispositius de confiança</string>
