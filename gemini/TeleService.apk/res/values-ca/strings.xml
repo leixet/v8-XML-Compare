@@ -236,6 +236,7 @@
   <string name="bugreport_in_power">Drecera de l\'informe d\'errors</string>
   <string name="bugreport_in_power_summary">Mostra un botó al menú d\'encesa per crear un informe d\'errors</string>
   <string name="button_convert_fbe">Esborra i converteix&#8230;</string>
+  <string name="callEnded_pulled">Trucada transferida a un altre dispositiu.</string>
   <string name="callFailed_QOS_unavailable">Qualitat del servei no disponible</string>
   <string name="callFailed_access_information_discarded">S\'ha descartat l\'accés a la informació</string>
   <string name="callFailed_bearer_capability_not_authorized">Capacitat de la portadora no autoritzada</string>
@@ -248,6 +249,7 @@
   <string name="callFailed_channel_unacceptable">Canal inacceptable</string>
   <string name="callFailed_conditional_IE_error">Error d\'IE condicional</string>
   <string name="callFailed_congestion">Xarxa ocupada</string>
+  <string name="callFailed_data_disabled">La trucada es va finalitzar perquè les dades mòbils estaven desactivades.</string>
   <string name="callFailed_destination_out_of_order">Destí fora de servei</string>
   <string name="callFailed_dialToDial">La petició DIAL s\'ha transformat en una DIAL amb un altre número.</string>
   <string name="callFailed_dialToSs">La petició DIAL s\'ha modificat a petició SS.</string>
