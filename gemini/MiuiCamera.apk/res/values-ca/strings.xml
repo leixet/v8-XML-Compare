@@ -399,7 +399,6 @@
   <string name="pref_video_time_lapse_frame_interval_title">Interval de time-lapse</string>
   <string name="preparing_sd">Preparant emmagatzematge intern&#8230;</string>
   <string name="record_back_pressed_hint">Toqui una altra vegada per aturar la gravació </string>
-  <string name="search_settings">Camera settings;Quality;Image quality;Image location;Picture location;Face detection;Camera sound</string>
   <string name="see_qrcode_detals">Mostra els detalls</string>
   <string name="simple_mode_button_asd_flash">Tancar captura flash</string>
   <string name="simple_mode_button_asd_hdr">Tancar captura HDR</string>
