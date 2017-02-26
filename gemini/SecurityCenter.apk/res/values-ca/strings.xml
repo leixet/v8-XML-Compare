@@ -22,8 +22,8 @@ o introdueixi la seva contrasenya"</string>
   <string name="access_control_recording_intro_header">Dibuixeu el patró per bloquejar una aplicació</string>
   <string name="access_control_reset_by_account">Inicieu la sessió al seu compte Mi per resetejar el bloquejador d\'aplicacions</string>
   <string name="action_button_text_100">Optimitza</string>
-  <string name="action_button_text_60">Arregla</string>
-  <string name="action_button_text_60_80">Arregla</string>
+  <string name="action_button_text_60">Corregeix-ho</string>
+  <string name="action_button_text_60_80">Corregeix-ho</string>
   <string name="action_button_text_80_100">Optimitza</string>
   <string name="activity_title_antispam">Llista de bloqueig</string>
   <string name="activity_title_antivirus">Anàlisi de virus</string>
@@ -270,7 +270,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="btn_text_optimize_now">Optimitzar</string>
   <string name="btn_text_power_cleanup">Neteja intensiva</string>
   <string name="btn_text_power_consume_suggest_optimize">Optimitzar</string>
-  <string name="btn_text_quick_antivirus">Arregla</string>
+  <string name="btn_text_quick_antivirus">Corregeix-ho</string>
   <string name="btn_text_quick_cleanup">Neteja</string>
   <string name="btn_text_quick_optimize">Optimitzar</string>
   <string name="btn_text_quick_save_power">Refreda</string>
@@ -289,8 +289,8 @@ o introdueixi la seva contrasenya"</string>
   <string name="button_text_delete_from_virus_white_list">elimina</string>
   <string name="button_text_deny">Denega</string>
   <string name="button_text_disconnect_now">Desconnectar</string>
-  <string name="button_text_fix">Arreglar</string>
-  <string name="button_text_fix_now">Arreglar</string>
+  <string name="button_text_fix">Corregeix-ho</string>
+  <string name="button_text_fix_now">Corregeix-ho</string>
   <string name="button_text_ignore">Ignora</string>
   <string name="button_text_ignore_alert_title">Ignorar aquesta alerta?</string>
   <string name="button_text_known">D\'acord</string>
@@ -332,7 +332,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="card_main_monthreport_summary">Veure informes mensuals</string>
   <string name="card_main_monthreport_title">Estadístiques de seguretat</string>
   <string name="card_main_netcheck_action">Prova</string>
-  <string name="card_main_netcheck_summary">Connexió de prova per problemes de xarxa</string>
+  <string name="card_main_netcheck_summary">Proveu la connexió si teniu problemes de xarxa</string>
   <string name="card_main_netcheck_title">Prova de xarxa</string>
   <string name="card_main_overscroll_tips">Seguretat en el seu millor moment</string>
   <string name="card_main_paysafe_action">Activa</string>
@@ -381,7 +381,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="cta_checkbox_title">"No mostrar de nou"</string>
   <string name="cta_dialog_msg">El centre de seguretat pot connectar a Internet per obtenir actualitzacions.</string>
   <string name="cta_dialog_title">Termes i condicions.</string>
-  <string name="cta_settings">Permet connexió a internet</string>
+  <string name="cta_settings">Permet la connexió a internet</string>
   <string name="current_network_state_not_need_diagnose">Normal</string>
   <string name="daily_limit_and_lock_screen">Límit de dades i notificacions</string>
   <string name="daily_limit_network_available_body">Toqui per veure les estadístiques d\'ús de dades.</string>
@@ -718,7 +718,7 @@ Consum en hores punta: %1$s%2$s queda | %3$s usat"</string>
   <string name="manual_handle_title">CARACTERÍSTIQUES DISPONIBLES</string>
   <string name="manual_input_free_traffic">Establir ús de dades en hora vall</string>
   <string name="manual_input_traffic">Establir ús de dades</string>
-  <string name="manual_item_white_list_summary">Evitar que les aplicacions seleccionades siguin optimitzades</string>
+  <string name="manual_item_white_list_summary">Eviteu que s\'optimitzin les aplicacions seleccionades</string>
   <string name="manual_item_white_list_title">Excepcions</string>
   <string name="manual_white_list_header">%d excepcions</string>
   <string name="megabyteShort">MB</string>
@@ -736,15 +736,15 @@ Consum en hores punta: %1$s%2$s queda | %3$s usat"</string>
   <string name="menu_item_notification_antispam_text_normal">Llista de bloqueig</string>
   <string name="menu_item_notification_garbage_text">%s</string>
   <string name="menu_item_notification_power_text">Energia</string>
-  <string name="menu_item_notification_title">Mostra en àrea de notificacions</string>
+  <string name="menu_item_notification_title">Mostra un menú a l\'àrea de notificacions</string>
   <string name="menu_item_settings_title">Configuració</string>
-  <string name="menu_item_shortcut_summary">Posar característiques usades freqüentment a la pantalla d\'inici</string>
-  <string name="menu_item_shortcut_title">Administrar accessos directes</string>
+  <string name="menu_item_shortcut_summary">Trieu quines funcions voleu a la pantalla d\'inici</string>
+  <string name="menu_item_shortcut_title">Gestiona les dreceres</string>
   <string name="menu_item_uninstall">Desinstal·la</string>
   <string name="menu_item_virus_cloud_scan_summary">Puja els noms i detalls de l\'aplicació i escanejar amb les definicions de virus en línia</string>
   <string name="menu_item_virus_cloud_scan_title">Definicions en línia</string>
   <string name="menu_item_virus_install_monitor_summary">Comprovar aplicacions a la recerca de virus abans d\'instal·lar</string>
-  <string name="menu_item_virus_install_monitor_title">Escanejar abans d\'instal·lar</string>
+  <string name="menu_item_virus_install_monitor_title">Escaneja abans d\'instal·lar</string>
   <string name="menu_item_virus_lib_auto_update_summary">Darrera actualització: %s</string>
   <string name="menu_text_antispam">Llista de bloqueig</string>
   <string name="menu_text_antivirus">Anàlisi de virus</string>
@@ -866,7 +866,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="optimize_result_button_consume_power_analysis">Escaneja la bateria</string>
   <string name="optimize_result_button_cooldown_now">Refreda</string>
   <string name="optimize_result_button_correct_now">Ajusta</string>
-  <string name="optimize_result_button_fix_now">Arregla</string>
+  <string name="optimize_result_button_fix_now">Corregeix-ho</string>
   <string name="optimize_result_button_mifi_insurance">Compra ara</string>
   <string name="optimize_result_button_onekey_open">Activa</string>
   <string name="optimize_result_button_onekey_restore">Restaura</string>
@@ -1533,7 +1533,7 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="title_miui_update">Actualització disponible</string>
   <string name="title_mms_no">Filtre de missatges desactivat</string>
   <string name="title_mms_yes">Filtre de missatges activat</string>
-  <string name="title_network_switch">Permet connexió a internet</string>
+  <string name="title_network_switch">Connexió de xarxa</string>
   <string name="title_of_app_manage">Aplicacions</string>
   <string name="title_of_auto_launch_manage">Engegada automàtica</string>
   <string name="title_of_operators_set">Configuració de l\'operador</string>
