@@ -439,14 +439,14 @@ o introdueixi la seva contrasenya"</string>
   <string name="dialog_app_roaming_title">"Itinerància internacional no s'ha activat per %1$s"</string>
   <string name="dialog_msg_auto_start_declare">Algunes aplicacions de seguretat poden indicar incorrectament que MIUI els ha prohibit iniciar. Per comprovar els permisos que han estat concedits a les aplicacions individualment, aneu a Configuració i Aplicacions.</string>
   <string name="dialog_msg_stop_paysafety_scan">Voleu aturar la comprovació de seguretat del pagament?</string>
-  <string name="dialog_msg_stop_virus_scan">"Aturar l'escaneig de virus abans que acabi?"</string>
+  <string name="dialog_msg_stop_virus_scan">"Voleu aturar l'anàlisi de virus abans que acabi?"</string>
   <string name="dialog_roaming_apps_sorted_title">Ordenar per</string>
   <string name="dialog_roaming_message">Permet a aquesta aplicació usar dades mòbils en itinerància internacional?</string>
   <string name="dialog_roaming_title">Itinerància internacional</string>
   <string name="dialog_title_attention">Atenció</string>
   <string name="dialog_title_auto_start_declare">Quant a inici automàtic</string>
-  <string name="dialog_title_stop_paysafety_scan">Aturar</string>
-  <string name="dialog_title_stop_virus_scan">Aturar l\'escaneig de virus</string>
+  <string name="dialog_title_stop_paysafety_scan">Atura</string>
+  <string name="dialog_title_stop_virus_scan">Atura l\'anàlisi de virus</string>
   <string name="disable_air_mode">Desactivar mode avió</string>
   <string name="dns_exception_summary">"Comproveu la configuració DNS del seu router"</string>
   <string name="dns_exception_title">Comprovar ajustos DNS</string>
@@ -810,7 +810,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   3. Assegureu-vos que la targeta SIM i la ranura SIM del dispositiu no estan malmesos. Comproveu que la targeta SIM que utilitzeu s\'ha introduït correctament a la ranura SIM del dispositiu."</string>
   <string name="network_speed_for_apps_close">Atura-la</string>
   <string name="network_speed_for_apps_close_app_dlg_msg">Voleu aturar forçosament aquest aplicació?</string>
-  <string name="network_speed_for_apps_close_system_app_dlg_msg">"No pot obligar aturar apps del sistema."</string>
+  <string name="network_speed_for_apps_close_system_app_dlg_msg">"No podeu aturar aplicacions del sistema."</string>
   <string name="network_speed_for_apps_others">Altres</string>
   <string name="network_speed_for_apps_title">Connexió</string>
   <string name="network_speed_for_apps_total">Velocitat de connexió</string>
@@ -1005,7 +1005,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="power_save_mode_summary" formatted="false">Supervisa els processos de fons i desactiva la sincronització. L\'estalvi de bateria s\'apaga automàticament quan la càrrega de la bateria és del 60% o del 100%.</string>
   <string name="power_save_on_time_end_time_summary_na">Fins</string>
   <string name="power_save_on_time_start_time_summary_na">Des de</string>
-  <string name="power_save_summary_text">"Activar l'estalvi de bateria per reduir l'activitat de fons de les apps, aturar la sincronització, i reduir al mínim les animacions del sistema."</string>
+  <string name="power_save_summary_text">"Activeu l'estalvi de bateria per reduir l'activitat de fons de les aplicacions, aturar la sincronització, i reduir al mínim les animacions del sistema."</string>
   <string name="power_save_title_text">Estalvi de bateria</string>
   <string name="power_screen">Pantalla</string>
   <string name="power_settings_category_title">Indicador de bateria</string>
@@ -1350,7 +1350,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="start_diagnostic_botton">Iniciar</string>
   <string name="start_downloading_app">S\'està iniciant la baixada: %1$s</string>
   <string name="start_install">Instal·la ara</string>
-  <string name="stop_app_button">Aturar</string>
+  <string name="stop_app_button">Atura</string>
   <string name="suffix_pay_risk_count_bottom">riscos</string>
   <string name="suffix_pay_risk_count_top">pagament</string>
   <string name="suffix_virus_count_bottom">total</string>
