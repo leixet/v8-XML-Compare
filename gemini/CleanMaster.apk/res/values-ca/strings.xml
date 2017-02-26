@@ -130,7 +130,7 @@
   <string name="deepclean_list_item_from_miui">MIUI</string>
   <string name="deepclean_list_item_from_music">Música</string>
   <string name="deepclean_list_item_from_sdcard">Targeta SD</string>
-  <string name="deepclean_normal_item_desc1">Paperera</string>
+  <string name="deepclean_normal_item_desc1">Fitxers brossa</string>
   <string name="deepclean_normal_item_desc2">"L'activitat del Netejador no afectarà el rendiment del sistema"</string>
   <string name="deepclean_normal_item_summary_empty">Tot pinta bé, no hi ha res a eliminar</string>
   <string name="deepclean_normal_title">Neteja automàticament</string>
@@ -174,7 +174,7 @@
   <string name="empty_title_ad">No s\'han trobat fitxers de publicitat</string>
   <string name="empty_title_apk">No s\'han trobat paquets d\'instal·lació</string>
   <string name="empty_title_garbage_cache">No hi ha res per esborrar</string>
-  <string name="empty_title_garbage_white_list">Premeu elements per afegir-los a les excepcions.</string>
+  <string name="empty_title_garbage_white_list">Toqueu i mantingueu premuts els elements per afegir-los a les excepcions.</string>
   <string name="empty_title_installed_apps">Buit</string>
   <string name="empty_title_large_files">Buit</string>
   <string name="empty_title_photos">No s\'ha trobat cap foto</string>
@@ -250,7 +250,7 @@
   <string name="hints_storage_free">Disponibles</string>
   <string name="hints_storage_free_size">Total: %1$s, disponible: %2$s</string>
   <string name="hints_storage_news">Novetats de seguretat</string>
-  <string name="hints_title_garbage">paperera</string>
+  <string name="hints_title_garbage">brossa</string>
   <string name="hints_video_camera">Vídeos enregistrats</string>
   <string name="hints_video_download">Vídeos baixats</string>
   <string name="hot">Popular</string>
