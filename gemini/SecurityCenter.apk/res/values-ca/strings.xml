@@ -150,7 +150,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="auto_task_condition_time_text">A les %s</string>
   <string name="auto_task_dialog_button_close">Fet</string>
   <string name="auto_task_edit_abandon_change">Voleu descartar els canvis?</string>
-  <string name="auto_task_edit_activity_title">Les meves tasques automatitzades</string>
+  <string name="auto_task_edit_activity_title">Tasques automatitzades</string>
   <string name="auto_task_edit_adandon_button_text">Descarta</string>
   <string name="auto_task_edit_choose_condition_title">Seleccioneu una condició</string>
   <string name="auto_task_edit_choose_new_operation">Afegeix una acció</string>
@@ -164,7 +164,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="auto_task_main_title">Tasques automatitzades</string>
   <string name="auto_task_mamange_activity_title">Configuració</string>
   <string name="auto_task_manage_delete_prompt">Voleu eliminar les tasques seleccionades?</string>
-  <string name="auto_task_manager_group_title">Les meves tasques automatitzades</string>
+  <string name="auto_task_manager_group_title">Tasques automatitzades</string>
   <string name="auto_task_notify_do_task_title">Tasques automatitzades iniciades</string>
   <string name="auto_task_notify_exit_task_title">Tasques automatitzades finalitzades</string>
   <string name="auto_task_notify_task_cancel_count_down">L\'acció automatitzada es cancel·larà en 5 segons</string>
@@ -257,7 +257,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="btn_jump">Saltar</string>
   <string name="btn_lock">Afegir bloqueig</string>
   <string name="btn_start_diagnostic">Prova la xarxa</string>
-  <string name="btn_stop_diagnostic">Aturar</string>
+  <string name="btn_stop_diagnostic">Atura</string>
   <string name="btn_text_already_opened">Encès</string>
   <string name="btn_text_cleanup_all">Neteja</string>
   <string name="btn_text_done">Fet</string>
@@ -272,11 +272,11 @@ o introdueixi la seva contrasenya"</string>
   <string name="btn_text_power_consume_suggest_optimize">Optimitza-ho</string>
   <string name="btn_text_quick_antivirus">Corregeix-ho</string>
   <string name="btn_text_quick_cleanup">Neteja</string>
-  <string name="btn_text_quick_optimize">Optimitzar</string>
+  <string name="btn_text_quick_optimize">Optimitza-ho</string>
   <string name="btn_text_quick_save_power">Refreda</string>
   <string name="btn_text_quick_scan">Escanejar</string>
   <string name="btn_text_start_check">Escanejar</string>
-  <string name="btn_text_stop">Aturar</string>
+  <string name="btn_text_stop">Atura</string>
   <string name="btn_text_virus_scan">Escaneja</string>
   <string name="button_text_accept">D\'acord</string>
   <string name="button_text_accept_timer">D\'acord (%d)</string>
@@ -298,14 +298,14 @@ o introdueixi la seva contrasenya"</string>
   <string name="button_text_next_step">Següent</string>
   <string name="button_text_next_step_timer">Següent pas (%d)</string>
   <string name="button_text_open_now">Obrir</string>
-  <string name="button_text_quick_clean">Optimitzar</string>
+  <string name="button_text_quick_clean">Optimitza-ho</string>
   <string name="button_text_reject">Rebutjar</string>
   <string name="button_text_reject_timer">Rebutjar (%d)</string>
   <string name="button_text_security">Seguretat</string>
   <string name="button_text_start_optimize">Comprovar</string>
   <string name="button_text_uninstall_shortcut">Elimina accés directe de la pantalla d\'inici</string>
   <string name="button_text_update_now">Actualitzar</string>
-  <string name="button_text_view">Optimitzar</string>
+  <string name="button_text_view">Optimitza-ho</string>
   <string name="button_text_view_power">Veure</string>
   <string name="buy_immediately">Compra</string>
   <string name="buy_traffic_pack">Compra més dades</string>
@@ -426,9 +426,9 @@ o introdueixi la seva contrasenya"</string>
   <string name="descx_quick_scan_done">Escaneig finalitzat</string>
   <string name="descx_quick_scan_preparation">Un moment&#8230;</string>
   <string name="descx_scanning_item">Escanejant %s</string>
-  <string name="descx_start_cleanup_cache">Començant optimització de memòria cau</string>
-  <string name="descx_start_cleanup_memory">Començant optimització de memòria</string>
-  <string name="descx_start_cleanup_system">Començant optimització de protecció de sistema</string>
+  <string name="descx_start_cleanup_cache">S\'està iniciant l\'optimització de la memòria cau</string>
+  <string name="descx_start_cleanup_memory">S\'està iniciant l\'optimització de la memòria</string>
+  <string name="descx_start_cleanup_system">S\'està iniciant l\'optimització de la protecció del sistema</string>
   <string name="descx_start_scan_cache">Començant escaneig de memòria cau</string>
   <string name="descx_start_scan_memory">Començant escaneig de memòria</string>
   <string name="descx_start_scan_system">S\'està començant l\'escaneig de protecció de sistema</string>
@@ -438,7 +438,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="dialog_app_roaming_message">"%1$s no pot usar dades mòbils en itinerància. Quan està en itinerància internacional, només les aplicacions que ha afegit a la llista de permeses poden utilitzar les dades mòbils."</string>
   <string name="dialog_app_roaming_title">"Itinerància internacional no s'ha activat per %1$s"</string>
   <string name="dialog_msg_auto_start_declare">Algunes aplicacions de seguretat poden indicar incorrectament que MIUI els ha prohibit iniciar. Per comprovar els permisos que han estat concedits a les aplicacions individualment, aneu a Configuració i Aplicacions.</string>
-  <string name="dialog_msg_stop_paysafety_scan">Aturar la comprovació de seguretat del pagament？</string>
+  <string name="dialog_msg_stop_paysafety_scan">Voleu aturar la comprovació de seguretat del pagament?</string>
   <string name="dialog_msg_stop_virus_scan">"Aturar l'escaneig de virus abans que acabi?"</string>
   <string name="dialog_roaming_apps_sorted_title">Ordenar per</string>
   <string name="dialog_roaming_message">Permet a aquesta aplicació usar dades mòbils en itinerància internacional?</string>
@@ -466,7 +466,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="empty_title_system_process_list">No hi ha processos de sistema</string>
   <string name="empty_title_virus_list">No hi ha virus</string>
   <string name="enable_network">Activa xarxa primer</string>
-  <string name="every_day">Tots els dies</string>
+  <string name="every_day">Cada dia</string>
   <string name="examination_score_100">Tot sembla correcte!</string>
   <string name="examination_score_100_with_recommend">%d elements es poden optimitzar</string>
   <string name="examination_score_60_0">Analitza-ho ara</string>
@@ -977,7 +977,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="power_consume_rank_title">Ús de bateria</string>
   <string name="power_consume_total_hardware">Maquinari: %1$d%%</string>
   <string name="power_consume_total_software">Aplicacions: %1$d%%</string>
-  <string name="power_customize_giveup_change">Descarta els canvis?</string>
+  <string name="power_customize_giveup_change">Voleu descartar els canvis?</string>
   <string name="power_dialog_cancel">Cancel·la</string>
   <string name="power_dialog_ok">D\'acord</string>
   <string name="power_idle">Telèfon inactiu</string>
