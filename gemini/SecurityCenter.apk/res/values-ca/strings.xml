@@ -26,7 +26,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="action_button_text_60_80">Arregla</string>
   <string name="action_button_text_80_100">Optimitza</string>
   <string name="activity_title_antispam">Llista de bloqueig</string>
-  <string name="activity_title_antivirus">Escaneig de virus</string>
+  <string name="activity_title_antivirus">Anàlisi de virus</string>
   <string name="activity_title_apps_manager">Aplicacions</string>
   <string name="activity_title_auto_start_manager">Inici automàtic</string>
   <string name="activity_title_create_shortcut">Gestiona les dreceres</string>
@@ -160,7 +160,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="auto_task_edit_my_custom_task">Nom</string>
   <string name="auto_task_edit_operation_summary">Per exemple, «Activa el mode avió»</string>
   <string name="auto_task_edit_task_name">Nom</string>
-  <string name="auto_task_main_summary">Canvia la configuració del sistema en determinats períodes de temps o d\'acord amb el nivell de bateria</string>
+  <string name="auto_task_main_summary">Canvieu la configuració del sistema en determinats períodes de temps o d\'acord amb el nivell de bateria</string>
   <string name="auto_task_main_title">Tasques automatitzades</string>
   <string name="auto_task_mamange_activity_title">Configuració</string>
   <string name="auto_task_manage_delete_prompt">Voleu eliminar les tasques seleccionades?</string>
@@ -277,7 +277,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="btn_text_quick_scan">Escanejar</string>
   <string name="btn_text_start_check">Escanejar</string>
   <string name="btn_text_stop">Aturar</string>
-  <string name="btn_text_virus_scan">Escanejar</string>
+  <string name="btn_text_virus_scan">Escaneja</string>
   <string name="button_text_accept">D\'acord</string>
   <string name="button_text_accept_timer">D\'acord (%d)</string>
   <string name="button_text_cancel">Cancel·la</string>
@@ -316,13 +316,13 @@ o introdueixi la seva contrasenya"</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_button">Cancel·lar</string>
   <string name="card_main_applock_action">Activa</string>
-  <string name="card_main_applock_summary">Protegir els elements privats amb el bloquejador d\'aplicacions</string>
+  <string name="card_main_applock_summary">Protegiu els elements privats amb el bloquejador d\'aplicacions</string>
   <string name="card_main_applock_title">Bloquejador d\'aplicacions</string>
   <string name="card_main_datasave_action">Activa</string>
   <string name="card_main_datasave_summary">Comprimeix les dades per estalviar fins a un 20%</string>
   <string name="card_main_datasave_title">Estalvi de dades</string>
   <string name="card_main_deepclean_action">Neteja</string>
-  <string name="card_main_deepclean_summary">Elimina fitxers innecessaris</string>
+  <string name="card_main_deepclean_summary">Elimineu fitxers innecessaris</string>
   <string name="card_main_deepclean_title">Neteja intensiva</string>
   <string name="card_main_gamebooster_summary">Accelera la velocitat i millora l\'experiència de joc</string>
   <string name="card_main_gamebooster_title">Accelerador de velocitat dels jocs</string>
@@ -339,13 +339,13 @@ o introdueixi la seva contrasenya"</string>
   <string name="card_main_paysafe_summary">Escaneja l\'entorn de pagament per a possibles riscos</string>
   <string name="card_main_paysafe_title">Seguretat en el pagament</string>
   <string name="card_main_private_space_action">Crea</string>
-  <string name="card_main_private_space_summary">Utilitzant el Segon espai és com tenir 2 dispositius</string>
+  <string name="card_main_private_space_summary">Utilitzar el Segon espai és com tenir 2 dispositius</string>
   <string name="card_main_private_space_title">Segon espai</string>
   <string name="card_main_sectool_title">Eines</string>
   <string name="card_main_speeddetail_title">Velocitat de connexió</string>
-  <string name="card_main_speeddetailt_summary">Mostra la velocitat de connexió per a les aplicacions individualment</string>
+  <string name="card_main_speeddetailt_summary">Consulteu la velocitat de connexió per a cada aplicació individualment</string>
   <string name="card_main_xspace_action">Crea</string>
-  <string name="card_main_xspace_summary">Crea comptes duals per a qualsevol aplicació</string>
+  <string name="card_main_xspace_summary">Creeu comptes duals per a qualsevol aplicació</string>
   <string name="card_main_xspace_title">Aplicacions duals</string>
   <string name="celcius_symbol">℃</string>
   <string name="charging_text_battery_full_time">"Última càrrega "</string>
@@ -472,7 +472,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="examination_score_60_0">Escanejar ara</string>
   <string name="examination_score_80_100">Uns pocs elements poden ser optimitzats</string>
   <string name="examination_score_80_100_with_recommend">%d elements poden optimitzar-se</string>
-  <string name="examination_score_80_60">Alguns elements poden ser optimitzats</string>
+  <string name="examination_score_80_60">Alguns elements es poden optimitzar</string>
   <string name="examination_score_has_virus">Es van detectar algunes aplicacions sospitoses</string>
   <string name="finger_remind_message">Bloqueig d\'aplicació suporta desbloqueig per empremta. Afegir empremta?</string>
   <string name="fingerprint_identify_msg">Escanejant empremta…</string>
@@ -747,7 +747,7 @@ Consum en hores punta: %1$s%2$s queda | %3$s usat"</string>
   <string name="menu_item_virus_install_monitor_title">Escanejar abans d\'instal·lar</string>
   <string name="menu_item_virus_lib_auto_update_summary">Darrera actualització: %s</string>
   <string name="menu_text_antispam">Llista de bloqueig</string>
-  <string name="menu_text_antivirus">Escanejar virus</string>
+  <string name="menu_text_antivirus">Anàlisi de virus</string>
   <string name="menu_text_garbage_cleanup">Netejador</string>
   <string name="menu_text_garbage_cleanup_danger">%s sobrepassats</string>
   <string name="menu_text_license_manager">Permisos</string>
