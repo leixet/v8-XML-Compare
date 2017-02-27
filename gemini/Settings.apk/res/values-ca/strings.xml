@@ -3119,6 +3119,10 @@ Aquesta configuració afecta tots els usuaris del telèfon.»</string>
   <string name="screen_monochrome_mode_global_title">Totes les aplicacions</string>
   <string name="screen_monochrome_mode_local_summary">Utilitza el mode monocroma per a les aplicacions que trieu</string>
   <string name="screen_monochrome_mode_local_title">Aplicacions seleccionades</string>
+  <string name="screen_monochrome_mode_off_apps_title">"No utilitzis el mode monocroma"</string>
+  <string name="screen_monochrome_mode_set_apps_title">Aplicacions en mode monocrom</string>
+  <string name="screen_monochrome_mode_summary">Canvia al mode monocroma per estendre la vida de la bateria</string>
+  <string name="screen_monochrome_mode_title">Mode monocroma</string>
   <string name="screen_never_timeout_title">Sempre actiu</string>
   <string name="screen_on_proximity_sensor_summary">Bloqueja el telèfon automàticament al ficar-lo a la butxaca</string>
   <string name="screen_on_proximity_sensor_title">Evita trucades accidentals</string>
