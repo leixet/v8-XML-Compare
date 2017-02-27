@@ -76,6 +76,7 @@
   <string name="launch_enable">Mostra les targetes d\'accés ràpid</string>
   <string name="launch_function">Seleccioneu característiques</string>
   <string name="launch_label">Accés ràpid</string>
+  <string name="launch_no_dapp_dialog_content">Es va eliminar l\'aplicació dual responsable d\'aquesta targeta. Podeu reemplaçar aquesta targeta per una diferent.</string>
   <string name="launch_noapp_dialog_cancel">Cancel·la</string>
   <string name="launch_noapp_dialog_content">Es va eliminar l\'aplicació responsable d\'aquesta targeta. Podeu reemplaçar aquesta targeta per una diferent.</string>
   <string name="launch_noapp_dialog_redownload">Baixa-ho de nou</string>
