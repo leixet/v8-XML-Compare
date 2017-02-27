@@ -27,6 +27,7 @@
   <string name="hint_menu">Menú</string>
   <string name="hint_volume_down">Abaixa el volum</string>
   <string name="hint_volume_up">Apuja el volum</string>
+  <string name="home_title_none">Seleccioneu els elements</string>
   <string name="low_battery_title">Bateria baixa</string>
   <string name="mic_sound">So del micròfon</string>
   <string name="no_sound">Sense so</string>
@@ -37,5 +38,6 @@
   <string name="screen_record_params">Paràmetres d\'enregistrament</string>
   <string name="select_all">Selecciona-ho tot</string>
   <string name="show_hard_key">Visualitza els botons de navegació</string>
+  <string name="sound_source">Font de so</string>
   <string name="start">Inicia</string>
 </resources>
