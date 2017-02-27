@@ -39,6 +39,9 @@
   <string name="error_sdcard_access">"No es pot accedir a l'emmagatzematge"</string>
   <string name="error_sdcard_unmounted">Inseriu una targeta SD</string>
   <string name="export_to_note">Exporta a «Notes»</string>
+  <string name="head_set_tip_dialog_msg">Desconnecteu els auriculars per poder enregistrar el so amb les configuracions específiques (p.ex. Música, Veu).</string>
+  <string name="head_set_tip_dialog_ok">D\'acord</string>
+  <string name="head_set_tip_dialog_title">Utilitza el micròfon intern</string>
   <string name="invalid_argument">Argument no vàlid</string>
   <string name="keywords_search_call_record">Grava trucades;Grava la trucada;Gravació de trucada;Gravacions de trucades</string>
   <string name="keywords_search_record">Nova gravació;Afegeix gravació;Gravació;Gravacions;Transcripció;Transcriu;Gravadora;Gravadora de veu;Gravadora de so;Aplicació gravadora;Aplicació de gravació;Com gravar;Com gravar so;On és la gravadora;Reordena MIUI</string>
