@@ -26,9 +26,11 @@
   <string name="hint_back">Enrera</string>
   <string name="hint_home">Inici</string>
   <string name="hint_menu">Menú</string>
+  <string name="hint_power">Encesa</string>
   <string name="hint_volume_down">Abaixa el volum</string>
   <string name="hint_volume_up">Apuja el volum</string>
   <string name="home_title_none">Seleccioneu els elements</string>
+  <string name="loopback_sound">So de bucle invertit</string>
   <string name="low_battery">Carregueu el telèfon abans d\'iniciar l\'enregistrament</string>
   <string name="low_battery_title">Bateria baixa</string>
   <string name="low_battery_warning">Resta molt poca bateria. S\'ha aturat l\'enregistrament i s\'ha desat el vídeo.</string>
@@ -52,6 +54,12 @@
   <string name="select_all">Selecciona-ho tot</string>
   <string name="show_hard_key">Visualitza els botons de navegació</string>
   <string name="show_hard_key_summary">Mostra els missatges en prémer inici, menú i els botons de retrocés</string>
+  <string name="show_screen_touch">Mostra els gestos tàctils</string>
+  <string name="show_screen_touch_summary">Visualitza els gestos usant un punt blanc</string>
   <string name="sound_source">Font de so</string>
+  <string name="sound_source_summary">Sons del sistema o micròfon</string>
   <string name="start">Inicia</string>
+  <string name="stop_by_second_space">En canviar d\'usuari s\'aturarà l\'enregistrament de pantalla</string>
+  <string name="stop_record_while_locking">Bloqueja la pantalla per finalitzar</string>
+  <string name="stop_record_while_locking_summary">Finalitza l\'enregistrament i desa el vídeo quan la pantalla està bloquejada</string>
 </resources>
