@@ -34,15 +34,24 @@
   <string name="low_battery_warning">Resta molt poca bateria. S\'ha aturat l\'enregistrament i s\'ha desat el vídeo.</string>
   <string name="low_memory">Us resten menys de 200 Mb d\'emmagatzematge disponible. Podeu enregistrar fins a 5 minuts.</string>
   <string name="low_memory_title">No hi ha prou espai</string>
+  <string name="low_momery_warning">No hi ha prou espai. S\'ha aturat l\'enregistrament i s\'ha desat el vídeo.</string>
+  <string name="memory_not_allowed">L\'espai restant és massa baix per enregistrar la pantalla. Allibereu espai i torneu-ho a provar.</string>
   <string name="mic_sound">So del micròfon</string>
+  <string name="no_recorder_info">No hi ha cap vídeo</string>
+  <string name="no_recorder_info2">Toqueu al signe més per afegir un enregistrament de pantalla</string>
   <string name="no_sound">Sense so</string>
   <string name="operation_delete">Elimina</string>
   <string name="operation_send">Envia</string>
+  <string name="quit_recording">Tanca l\'enregistrador de pantalla</string>
   <string name="resolution">Resolució</string>
+  <string name="resolution_summary">Els vídeos amb una resolució més gran es veuen més nítids</string>
   <string name="screen_orientation">Orientació</string>
+  <string name="screen_orientation_summary">Orientació dels vídeos enregistrats</string>
+  <string name="screen_record_option">Opcions d\'enregistrament</string>
   <string name="screen_record_params">Paràmetres d\'enregistrament</string>
   <string name="select_all">Selecciona-ho tot</string>
   <string name="show_hard_key">Visualitza els botons de navegació</string>
+  <string name="show_hard_key_summary">Mostra els missatges en prémer inici, menú i els botons de retrocés</string>
   <string name="sound_source">Font de so</string>
   <string name="start">Inicia</string>
 </resources>
