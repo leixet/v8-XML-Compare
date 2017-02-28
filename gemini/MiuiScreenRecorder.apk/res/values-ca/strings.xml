@@ -29,7 +29,11 @@
   <string name="hint_volume_down">Abaixa el volum</string>
   <string name="hint_volume_up">Apuja el volum</string>
   <string name="home_title_none">Seleccioneu els elements</string>
+  <string name="low_battery">Carregueu el telèfon abans d\'iniciar l\'enregistrament</string>
   <string name="low_battery_title">Bateria baixa</string>
+  <string name="low_battery_warning">Resta molt poca bateria. S\'ha aturat l\'enregistrament i s\'ha desat el vídeo.</string>
+  <string name="low_memory">Us resten menys de 200 Mb d\'emmagatzematge disponible. Podeu enregistrar fins a 5 minuts.</string>
+  <string name="low_memory_title">No hi ha prou espai</string>
   <string name="mic_sound">So del micròfon</string>
   <string name="no_sound">Sense so</string>
   <string name="operation_delete">Elimina</string>
