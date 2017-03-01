@@ -766,13 +766,13 @@
   <string name="qq_bar_open_imap">Activa</string>
   <string name="qq_bar_send_message">Envia SMS</string>
   <string name="qq_login_basecode">S\'està iniciant sessió al correu QQ a través de la pagina web. Introduïu la contrasenya independent.</string>
-  <string name="qq_login_get_auth">No s\'ha pogut enviar l\'SMS de verificació? Autentiqueu-vos a través de las preguntes de protecció de contrasenya</string>
+  <string name="qq_login_get_auth">"No s'ha pogut enviar l'SMS de verificació? Autentiqueu-vos a través de las preguntes de protecció de contrasenya"</string>
   <string name="qq_login_open_imap">Feu clic a «Permetre» per activar «IMAP/SMTP»</string>
   <string name="qq_login_origin_setting">Introduïu el nom d\'usuari i la contrasenya per iniciar sessió &gt;</string>
   <string name="qq_login_send_message">Feu clic a «Envia un SMS» per obtenir un codi d\'autorització</string>
   <string name="qq_login_webview">S\'està iniciant sessió al correu QQ a través de la pagina web. Introduïu la contrasenya.</string>
   <string name="qq_next_generation_auth_toast">Completeu la sol·licitud de protecció de contrasenya de segona generació a través del navegador</string>
-  <string name="qq_uthentication_failed">Error d\'autenticació, inicieu sessió una altra vegada</string>
+  <string name="qq_uthentication_failed">"Error d'autenticació, inicieu sessió una altra vegada"</string>
   <string name="qq_webview_loading">S\'està ometen, espereu...</string>
   <string name="questionnair_body_invisibility">"No es mostren els missatges"</string>
   <string name="questionnair_confirm_delete">Eliminar</string>
@@ -983,7 +983,7 @@ Toqui \" Sincronitza ara per sincronitzar el correu una vegada, o Canviar la con
   <string name="wait_for_sync_title">A l\'espera de sincronització</string>
   <string name="wait_help_context">espereu</string>
   <string name="webview_logout">Realment voleu deixar d\'iniciar sessió? Va home, torneu-ho a provar!</string>
-  <string name="webview_logout_cancel">"No ho tornaré a provar"</string>
+  <string name="webview_logout_cancel">No ho tornaré a provar</string>
   <string name="webview_logout_sure">Prova-ho una vegada més</string>
   <string name="webview_sslerror_handle_cancel">Cancel·la</string>
   <string name="webview_sslerror_handle_continue">Continua</string>
