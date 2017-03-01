@@ -515,7 +515,6 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="bind_xiaomi_account_confirm">Afegeix</string>
   <string name="bind_xiaomi_account_dialog_summery">"Esteu a punto d'afegir el Compte Mi %s. Si oblideu la contrasenya, podeu utilitzar aquesta compte per restablir-la."</string>
   <string name="bind_xiaomi_account_success">El Compte Mi s\'afegit correctament</string>
-  <string name="binded_xiaomi_summary">Compte actual: %s</string>
   <string name="ble_scan_notify_text">Per millorar la precisió de la ubicació, les aplicacions i serveis encara poden detectar els dispositius Bluetooth. Es pot configurar des de LINK_BEGINscanning settingsLINK_END.</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">S\'ha connectat a un dispositiu d\'àudio</string>
@@ -2840,7 +2839,6 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="privacy_password_fingerprint_dialog_title">Escaneja l\'empremta</string>
   <string name="privacy_password_never_remind">"No m'ho tornis a preguntar"</string>
   <string name="privacy_password_remind_bind_notlogin_account">Fes que el compte Mi pugui restablir la contrasenya.</string>
-  <string name="privacy_password_remind_bindaccont_message">Fes que el compte Mi (%s) pugui restablir la contrasenya.</string>
   <string name="privacy_password_remind_bindaccount_title">Afegeix un compte Mi</string>
   <string name="privacy_password_settings">Utilitza la contrasenya de privacitat</string>
   <string name="privacy_password_settings_titles">La contrasenya de privacitat protegeix els vostres missatges, fotos, fitxers, notes i aplicacions.</string>
