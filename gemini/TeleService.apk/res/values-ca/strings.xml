@@ -1028,7 +1028,6 @@ Torneu a provar-ho o truqueu al servei d\'atenció al client per a més opcions.
   <string name="path_telocation_enable_title">Aplicacions del sistema/Telèfon/Ubicació/Mostra ubicació</string>
   <string name="path_turnover_mute_title">Aplicacions de sistema/Telèfon/Configuració de trucades entrants/Passa a mode silenciós</string>
   <string name="path_voicemail_settings">Aplicacions de sistema/Telèfon/Configuració avançada/Configuració de bústia de veu</string>
-  <string name="path_voip_setting">Aplicacions de sistema/Telèfon/Veu Mi</string>
   <string name="pause_prompt_no">No</string>
   <string name="pause_prompt_str">"Enviant tons
 "</string>
