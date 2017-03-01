@@ -884,6 +884,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="clear_uri_btn_text">Esborra l\'accés</string>
   <string name="clear_user_data_text">Suprimeix les dades</string>
   <string name="close_gesture">Tanca amb un gest</string>
+  <string name="close_install_and_connect">No, gràcies</string>
   <string name="close_miui_optimization_title">Atura la optimització de MIUI</string>
   <string name="close_miui_optimization_warning_message">El dispositiu arrencarà de nou per aplicar els canvis.</string>
   <string name="cmcc_hardware_version">Versió del maquinari</string>
@@ -946,6 +947,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="confirm_erase">Esborra</string>
   <string name="confirm_fingerprint_icon_content_description">Utilitza l\'empremta per a continuar.</string>
   <string name="confirm_fingerprint_msg">Recolza el dit a l\'escàner d\'empremtes</string>
+  <string name="confirm_install_and_connect">Instal·la i connecta</string>
   <string name="confirm_new_backup_pw_prompt">Torneu a escriure la nova contrasenya de la còpia de seguretat completa</string>
   <string name="confirm_privacy_password">Introduïu la contrasenya de privacitat</string>
   <string name="confirm_privacy_password_fingerprint">Escanegeu l\'empremta o introduïu la contrasenya de privacitat</string>
@@ -1275,6 +1277,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="disable_service_message">Fent clic \"D\'acord\" aturarà %1$s.</string>
   <string name="disable_service_title">Voleu aturar %1$s?</string>
   <string name="disable_text">Desactiva</string>
+  <string name="disable_wifi_master_key_service">Desactiva</string>
   <string name="disabled">S\'ha desactivat</string>
   <string name="disabled_because_no_backup_security">Per utilitzar-lo, heu de configurar un bloqueig de pantalla</string>
   <string name="disabled_by_admin">Desactivat per l\'administrador</string>
@@ -1440,6 +1443,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="enable_webview_multiprocess">WebView amb multiprocés</string>
   <string name="enable_webview_multiprocess_desc">Executa els renderitzadors de WebView per separat</string>
   <string name="enable_wifi_display">Activa la pantalla sense fils</string>
+  <string name="enable_wifi_master_key_service">Activa la clau mestra de la Wi-Fi</string>
   <string name="enabled_by_admin">Activat per l\'administrador</string>
   <string name="encrypt_dont_require_password">No, gràcies</string>
   <string name="encrypt_dont_require_pattern">No, gràcies</string>
@@ -1782,6 +1786,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="install_all_warning">El telèfon i les dades personals són més vulnerables a atacs per part d\'aplicacions d\'orígens desconeguts. L\'usuari accepta ser l\'únic responsable de qualsevol dany que es produeixi al telèfon o de la pèrdua de dades que puguin resultar de l\'ús d\'aquestes aplicacions.</string>
   <string name="install_applications">Orígens desconeguts</string>
   <string name="install_applications_title">Permet tots els orígens de les aplicacions</string>
+  <string name="install_master_key_and_connect">Podeu connectar-vos a aquesta xarxa Wi-Fi utilitzant la clau mestra. Voleu instal·lar aquesta eina?</string>
   <string name="install_no_market_app_summary">Permet la instal·lació d\'aplicacions d\'origen desconegut</string>
   <string name="install_no_market_app_title">Orígens desconeguts</string>
   <string name="install_preinstall_app">S\'estan carregant les aplicacions&#8230;</string>
@@ -2827,17 +2832,24 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="privacy_mode_enable_title">Mode convidat</string>
   <string name="privacy_notes">Notes</string>
   <string name="privacy_password">Contrasenya de privacitat</string>
+  <string name="privacy_password_add_account">Afegeix</string>
+  <string name="privacy_password_add_account_info">Fes que el Compte Mi pugui restablir la contrasenya en cas d\'oblit</string>
+  <string name="privacy_password_add_account_setting">Compte i privadesa</string>
   <string name="privacy_password_bind_account">Afegeix un compte Mi</string>
   <string name="privacy_password_bind_account_immediate">Afegeix</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Confirmeu la contrasenya del segon espai</string>
   <string name="privacy_password_confirm_use_finger">Desbloqueig amb empremta</string>
   <string name="privacy_password_enter_privacy">Introduïu la contrasenya de privadesa</string>
+  <string name="privacy_password_exit_account_info">El compte s\'eliminarà automàticament en tancar la sessió</string>
   <string name="privacy_password_fingerprint_confirm_failed">"No s'ha pogut comprovar l'empremta"</string>
   <string name="privacy_password_fingerprint_confirm_succes">Comprovació correcta</string>
   <string name="privacy_password_fingerprint_dialog_error_title">"No s'ha pogut escanejar l'empremta, torneu-ho a provar"</string>
   <string name="privacy_password_fingerprint_dialog_message">Recolzeu el dit al sensor</string>
   <string name="privacy_password_fingerprint_dialog_title">Escaneja l\'empremta</string>
+  <string name="privacy_password_login_and_add_account">Inicia la sessió i afegeix</string>
   <string name="privacy_password_never_remind">"No m'ho tornis a preguntar"</string>
+  <string name="privacy_password_not_add_account">Ara no</string>
+  <string name="privacy_password_not_login_account">"No heu iniciat sessió"</string>
   <string name="privacy_password_remind_bind_notlogin_account">Fes que el compte Mi pugui restablir la contrasenya.</string>
   <string name="privacy_password_remind_bindaccount_title">Afegeix un compte Mi</string>
   <string name="privacy_password_settings">Utilitza la contrasenya de privacitat</string>
