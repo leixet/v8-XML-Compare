@@ -785,6 +785,7 @@ Proveu a canviar a un compte de correu diferent."</string>
   <string name="protocol_imap">imap</string>
   <string name="protocol_legacy_imap">imap</string>
   <string name="protocol_pop3">pop3</string>
+  <string name="protocol_setting_toast">Toqueu la bora superior dreta per anar a la configuració una vegada accepteu</string>
   <string name="pull_to_refresh">Tiri cap avall per actualitzar</string>
   <string name="push_wps_better_confirm_download">Baixa</string>
   <string name="push_wps_better_confirm_exit">Ara no</string>
@@ -925,6 +926,8 @@ Proveu a canviar a un compte de correu diferent."</string>
   <string name="ser_resp_err_map_pserr">Nom d\'usuari o contrasenya incorrecta</string>
   <string name="ser_resp_err_map_serclosed">Servidor %s tancat</string>
   <string name="ser_resp_err_map_ssl">"Si us plau, intenti triar ' SSL/TLS (acceptar tots els certificats)' a 'Tipus de seguretat'"</string>
+  <string name="service_protocol_discribe">&lt;u&gt;\"He llegit i estic d\'acord amb l\'acord de servei de correu WPS \"&lt;/u&gt;</string>
+  <string name="service_protocol_title">Acord de servei</string>
   <string name="set_network">Definir xarxa</string>
   <string name="settings_activity_title">Configuració</string>
   <string name="share_choose">Triar fitxer a compartir</string>
@@ -995,6 +998,8 @@ Proveu a canviar a un compte de correu diferent."</string>
 	entre el teu %1$s, els seus altres dispositius i el web."</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Activar</string>
   <string name="turn_auto_sync_on_dialog_title">Activar la sincronització automàtica?</string>
+  <string name="unbind_dialog_text">"No podrà rebre recordatoris després de deixar d\'analitzar les factures.
+Voleu aturar-ho?"</string>
   <string name="undo">Desfer</string>
   <string name="unknow">Desconegut</string>
   <string name="unread_string">conversa no llegida</string>
