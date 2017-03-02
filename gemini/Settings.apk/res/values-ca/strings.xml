@@ -3600,6 +3600,8 @@ Per fer-ho:
   <string name="show_touches">Mostra els tocs</string>
   <string name="show_touches_summary">Mostra la ubicació dels tocs a la pantalla</string>
   <string name="show_user_info_on_lockscreen_label">Mostra informació del propietari a la pantalla de bloqueig</string>
+  <string name="show_wifi_master_key_summary">Connectar-se a xarxes Wi-Fi compartides utilitzant la clau mestra de la Wi-Fi</string>
+  <string name="show_wifi_master_key_title">Detecta les xarxes Wi-Fi compartides</string>
   <string name="shut_down_find_device_failure_confirm">D\'acord</string>
   <string name="shut_down_find_device_network_failure_content">"No s'ha pogut apagar Localitza el dispositiu. Assegureu-vos que el dispositiu és connectat a Internet."</string>
   <string name="shut_down_find_device_network_failure_title">"No s'ha pogut connectar a la xarxa"</string>
@@ -4000,6 +4002,7 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="system_and_device_section_title">Sistema i dispositiu</string>
   <string name="system_app">(Sistema)</string>
   <string name="system_app_settings">Aplicacions del sistema</string>
+  <string name="system_apps_updater">Actualitzador d\'aplicacions del sistema</string>
   <string name="system_backup_section_title">Còpia de seguretat</string>
   <string name="system_default_app">(Opció predeterminada del sistema)</string>
   <string name="system_package">Les actualitzacions del sistema no es poden instal·lar en suports externs.</string>
@@ -4139,6 +4142,7 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="uninstall_dlg_msg">Si ho desinstal·leu es suprimiran totes les dades de l\'aplicació.</string>
   <string name="uninstall_dlg_title">Voleu desinstal·lar-ho?</string>
   <string name="uninstall_text">Desinstal·la</string>
+  <string name="uninstall_wifi_master_key">Desinstal·la la clau mestra de la Wi-Fi</string>
   <string name="uninstall_with_xspace_app_dlg_msg">Les aplicacions duals es suprimiran conjuntament amb les dades de l\'aplicació.</string>
   <string name="uninstall_xspace_app_dlg_msg">Si desinstal·leu les aplicacions duals, es suprimiran totes les dades de l\'aplicació.</string>
   <string name="uninstall_xspace_app_dlg_title">Voleu desinstal·lar l\'aplicació dual?</string>
@@ -4298,6 +4302,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="use_privacy_password_immediate">Utilitza</string>
   <string name="use_system_language_to_select_input_method_subtypes">Utilitza l\'idioma del sistema</string>
   <string name="use_this_wlan">Roman connectat</string>
+  <string name="use_wifi_master_key_summary">Connecta utilitzant la clau mestra de la Wi-Fi</string>
   <string name="user_account_title">Compte per al contingut</string>
   <string name="user_add_max_count">Podeu afegir fins a %1$d usaris</string>
   <string name="user_add_on_lockscreen_menu">Afegeix usuaris quan el dispositiu és bloquejat</string>
@@ -4725,6 +4730,12 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_ip_settings_menu_cancel">Cancel·la</string>
   <string name="wifi_ip_settings_menu_save">Desa</string>
   <string name="wifi_limit_optimizations_summary">Limita la bateria utilitzada pel Wi-Fi</string>
+  <string name="wifi_master_key_dialog_content_master_key">Clau mestra de la Wi-Fi</string>
+  <string name="wifi_master_key_dialog_content_password">Contrasenya</string>
+  <string name="wifi_master_key_dialog_title">Connecta mitjançant</string>
+  <string name="wifi_master_key_name">Clau mestra de la Wi-Fi</string>
+  <string name="wifi_master_key_service_dialog_content">"La clau mestra de la Wi-Fi és un servei gratuït que proporciona les contrasenyes de les xarxes Wi-Fi compartides. La clau mestra Wi-Fi no compartirà la contrasenya de la xarxa."</string>
+  <string name="wifi_master_key_service_dialog_title">Xarxes Wi-Fi compartides</string>
   <string name="wifi_menu_advanced">Avançat</string>
   <string name="wifi_menu_configure">Configuració</string>
   <string name="wifi_menu_connect">Connecta a la xarxa</string>
@@ -5003,6 +5014,9 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="work_profile_confirm_remove_title">Voleu suprimir el perfil professional?</string>
   <string name="work_profile_usage_access_warning">Encara que es desactivi l\'accés a l\'ús d\'aquesta aplicació, l\'administrador podrà continuar fent el seguiment de les aplicacions del perfil professional.</string>
   <string name="work_sim_title">SIM professional</string>
+  <string name="work_space_delete">Elimina l\'espai de treball</string>
+  <string name="work_space_delete_confirm">Confirma la supressió</string>
+  <string name="work_space_delete_description">"No podreu entrar a 'espai de treball després d'esborrar-lo. Totes les dades es mouran o seran esborrades."</string>
   <string name="wps_category">WPS</string>
   <string name="wps_connect_summary">Comproveu que el router s\'ha activat i és compatible amb WPS</string>
   <string name="wps_connect_title">Connexió WPS</string>
