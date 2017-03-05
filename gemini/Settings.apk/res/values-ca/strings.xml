@@ -120,7 +120,7 @@ Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol
   <string name="accessibility_wifi_two_bars">Senyal de Wi-Fi moderat.</string>
   <string name="accessibility_work_account_title">Compte de la feina - %s</string>
   <string name="account_add">Afegeix</string>
-  <string name="account_autostar_label">Engegada automàtica</string>
+  <string name="account_autostar_label">Inici automàtic</string>
   <string name="account_list">Altres comptes</string>
   <string name="account_settings">Comptes</string>
   <string name="account_settings_menu_auto_sync">Sincronització automàtica de dades</string>
@@ -144,7 +144,7 @@ Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol
   <string name="adb_warning_title">Voleu permetre la depuració USB?</string>
   <string name="add_a_language">Afegeix un idioma</string>
   <string name="add_account_label">Afegiu un compte</string>
-  <string name="add_auto_startup_application">Afegiu aplicacions d\'engegada automàtica</string>
+  <string name="add_auto_startup_application">Afegiu aplicacions d\'inici automàtic</string>
   <string name="add_device_admin">Activa</string>
   <string name="add_device_admin_msg">Voleu activar l\'administrador de dispositius?</string>
   <string name="add_fingerprint_done_msg">Desbloqueja el dispositiu amb l\'empremta.</string>
@@ -2173,7 +2173,7 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="main_netcheck_summary">Connexió de prova per problemes de xarxa</string>
   <string name="main_running_process_description">Procés principal en ús.</string>
   <string name="make_sure_cancel_update">Voleu cancel·lar l\'actualització?</string>
-  <string name="man_add_application">Afegiu aplicacions d\'engegada automàtica</string>
+  <string name="man_add_application">Afegiu aplicacions d\'inici automàtic</string>
   <string name="manage_device_admin">Administradors del dispositiu</string>
   <string name="manage_device_admin_summary">Mostra o desactiva els administradors del dispositiu</string>
   <string name="manage_fingerprint_text">Gestió d\'empremtes</string>
