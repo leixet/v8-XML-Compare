@@ -1536,7 +1536,7 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="title_mms_yes">Filtre de missatges activat</string>
   <string name="title_network_switch">Connexió de xarxa</string>
   <string name="title_of_app_manage">Aplicacions</string>
-  <string name="title_of_auto_launch_manage">Engegada automàtica</string>
+  <string name="title_of_auto_launch_manage">Inici automàtic</string>
   <string name="title_of_operators_set">Configuració de l\'operador</string>
   <string name="title_of_package_set">Configuració del pla de dades</string>
   <string name="title_payment_risk">Riscos en el pagament</string>
