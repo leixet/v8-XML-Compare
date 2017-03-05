@@ -1695,7 +1695,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="global_locale_change_title">Canvia d\'idioma</string>
   <string name="go_back_button_label">Torna enrere</string>
   <string name="google_backup_enable">Activa la còpia de seguretat</string>
-  <string name="google_backup_section_title">Restaura la còpia de seguretat de Google</string>
+  <string name="google_backup_section_title">Còpia de seguretat i restauració de Google</string>
   <string name="got_it">D\'acord</string>
   <string name="gsm_to_wifi_connect_type_title">GSM a Wi-Fi</string>
   <string name="handy_mode">Disposició per a una sola mà</string>
