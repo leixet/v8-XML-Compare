@@ -135,6 +135,7 @@
   <string name="backup_cloud_space_low_title">No hi ha prou espai al Mi Cloud</string>
   <string name="backup_cta_not_allow">"No es pot accedir a la xarxa"</string>
   <string name="backup_cta_not_allow_btn_text">Permet</string>
+  <string name="backup_detail_page_empty">Sense fotos o vídeos esperant la còpia de seguretat</string>
   <string name="backup_detail_page_title">Còpia de seguretat de Mi Cloud</string>
   <string name="backup_device_space_low_btn_text">Neteja</string>
   <string name="backup_device_space_low_desc">Allibereu espai per continuar copiant elements</string>
