@@ -1669,6 +1669,7 @@ Dades extres en ús"</string>
   <string name="usbsharenet_exception_title">Comprovar xarxa compartida per USB</string>
   <string name="usbsharenet_pc_exception_summary">"No es pot connectar a Internet mitjançant connexió USB compartida. Comproveu la connexió a Internet de l'ordinador."</string>
   <string name="use_immediately">Utilitza</string>
+  <string name="virus_ad_icon_text">Anunci</string>
   <string name="virus_already_update">Les definicions estan actualitzades</string>
   <string name="virus_dp_update_title">Actualitzacions de les definicions</string>
   <string name="virus_scan">Cerca virus</string>
