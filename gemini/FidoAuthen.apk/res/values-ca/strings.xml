@@ -9,8 +9,8 @@
   <string name="fingerprint_matched">Coincideix!</string>
   <string name="fingerprint_mismatched">No coincideix! Torneu-ho a provar.</string>
   <string name="hello_world">Hola món!</string>
-  <string name="manage_hint">"¡Cap empremta registrada!
-Vés a la Configuració para registrar l\'empremta i torneu a registrar-vos."</string>
+  <string name="manage_hint">"Cap empremta registrada!
+Vés a la Configuració per registrar l\'empremta i torneu a registrar-vos."</string>
   <string name="manage_ok">Vés a la Configuració</string>
   <string name="my_app_name">FIDO UAF1.0 ASM</string>
   <string name="my_description">"Podeu configurar FIDO UAF1.0 AUTHENTICATOR al vostre dispositiu Android per iniciar sessió a l'aplicació. És segur i més adequat que iniciar sessió amb el seu nom d'usuari i contrasenya."</string>
