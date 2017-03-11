@@ -156,9 +156,9 @@
   <string name="delete_error">"No s'han pogut eliminar els fitxers, intenta-ho de nou"</string>
   <string name="delete_file">Voleu eliminar aquest fitxer?</string>
   <string name="delete_file_error">"No s'ha pogut eliminar el fitxer"</string>
-  <string name="delete_files">Vols eliminar %1$d fitxer(s)?</string>
+  <string name="delete_files">Voleu eliminar %1$d fitxer(s)?</string>
   <string name="delete_folder">Eliminar aquesta carpeta?</string>
-  <string name="delete_folders">Vols eliminar %1$d carpeta(s)?</string>
+  <string name="delete_folders">Voleu eliminar %1$d carpeta(s)?</string>
   <string name="delete_video">Elimina</string>
   <string name="delete_video_dialog_tip">"No podràs restablir el vídeo després d'haver-ho eliminat."</string>
   <string name="delete_video_dialog_title">Esborrar vídeo</string>
