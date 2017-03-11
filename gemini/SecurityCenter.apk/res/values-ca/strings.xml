@@ -1039,7 +1039,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_connect_settings_enable_background">Permet dades en segon pla</string>
   <string name="pref_connect_settings_enable_background_hint">"Permet a les aplicacions utilitzar dades mòbils quan no les utilitzeu"</string>
   <string name="pref_connect_settings_exceed_limit">Restringeix ús de dades després del límit</string>
-  <string name="pref_connect_settings_exceed_limit_hint">Tallar la connexió de dades quan l\'ús de dades arriba el seu límit</string>
+  <string name="pref_connect_settings_exceed_limit_hint">Desactiva la connexió de dades quan l\'ús de dades arriba el seu límit</string>
   <string name="pref_content_virus_white_list_none">Cap element</string>
   <string name="pref_daily_adjust">Establir límit de dades en hora punta</string>
   <string name="pref_daily_traffic">Límit de dades en hora punta</string>
