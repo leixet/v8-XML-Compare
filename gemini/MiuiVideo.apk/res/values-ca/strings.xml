@@ -60,7 +60,7 @@
   <string name="buffering">Carregant memòria intermèdia&#8230;</string>
   <string name="buffering_video_netplay_label_v5">Carregant memòria intermèdia&#8230;</string>
   <string name="buy_vip">compra vip</string>
-  <string name="cancel">Cancel·lar</string>
+  <string name="cancel">Cancel·la</string>
   <string name="cancel_favorite_success">Desmarcat de favorits</string>
   <string name="check_app_version">Comprovant l\'última versió...</string>
   <string name="check_network">"No es pot connectar a la xarxa."</string>
@@ -96,7 +96,7 @@
   <string name="data_buffering">Carregant memòria intermèdia</string>
   <string name="datastream_alert_download">Utilitza la connexió de dades mòbils per baixar vídeos incrementarà l\'ús de les seves dades. Si sobrepassa el límit del seu pla de dades, la seva companyia podria cobrar despeses addicionals.</string>
   <string name="datastream_alert_hint">Podeu desactivar les notificacions d\'ús de dades a Configuració</string>
-  <string name="datastream_alert_negative_button">Cancel·lar</string>
+  <string name="datastream_alert_negative_button">Cancel·la</string>
   <string name="datastream_alert_play">Utilitzar la connexió de dades mòbils per veure vídeos incrementarà l\'ús de les seves dades. Si sobrepassa el límit del seu pla de dades, la seva companyia podria cobrar despeses addicionals.</string>
   <string name="datastream_alert_positive_button">Continuar</string>
   <string name="datastream_alert_title">Alerta d\'ús de dades</string>
