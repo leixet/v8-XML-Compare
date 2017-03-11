@@ -254,8 +254,8 @@ Les targetes de contacte estan apagades"</string>
   <string name="contacts_unavailable_create_contact">Crea un nou contacte</string>
   <string name="contacts_unavailable_import_contacts">Importa contactes des d\'un fitxer</string>
   <string name="convenient_service">Serveis</string>
-  <string name="copy_number">Copiar</string>
-  <string name="copy_text">Copiar al portapapers</string>
+  <string name="copy_number">Copia</string>
+  <string name="copy_text">Copia al porta-retalls</string>
   <string name="createContactShortcutSuccessful">Accés directe de contacte afegit a la pantalla d\'inici</string>
   <string name="create_group_dialog_title">Crea un nou grup</string>
   <string name="create_group_item_label">Crea un nou grup</string>
@@ -594,7 +594,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="menu_accounts">Comptes</string>
   <string name="menu_addStar">Afegeix als favorits</string>
   <string name="menu_bar_group_add">Afegir</string>
-  <string name="menu_bar_group_batch_copy">Copiar en el grup</string>
+  <string name="menu_bar_group_batch_copy">Copia al grup</string>
   <string name="menu_bar_group_batch_edit">Contactes múltiples</string>
   <string name="menu_bar_group_batch_move">Moure al grup</string>
   <string name="menu_bar_group_batch_remove">Eliminar grup</string>
@@ -609,7 +609,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="menu_clear_frequents">Esborra freqüents</string>
   <string name="menu_contacts_filter">Contactes per mostrar</string>
   <string name="menu_copy">Copia</string>
-  <string name="menu_copyContact">Copiar als meus contactes</string>
+  <string name="menu_copyContact">Copia als meus contactes</string>
   <string name="menu_create_contact_shortcut">Posar a la pantalla d\'inici</string>
   <string name="menu_deleteContact">Suprimeix el contacte</string>
   <string name="menu_deleteGroup">Elimina</string>
