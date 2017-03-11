@@ -1073,9 +1073,9 @@ Podeu trobar un control per a l\'ús de dades més apropiat en els paràmetres d
   <string name="data_usage_app_summary_title">Ús de dades de l\'aplicació</string>
   <string name="data_usage_auto_sync_off_dialog">S\'allargarà la durada de la bateria, però haureu de sincronitzar cada compte manualment per a obtenir informació recent. No rebreu les notificacions que es produeixin.</string>
   <string name="data_usage_auto_sync_off_dialog_title">Voleu desactivar la sincronització de dades automàtica?</string>
-  <string name="data_usage_auto_sync_on_dialog">«Qualsevol modificació que feu en els comptes des del web, es copiaran automàticament en el telèfon.
+  <string name="data_usage_auto_sync_on_dialog">"Qualsevol modificació que feu en els comptes des del web, es copiaran automàticament en el telèfon.
 
-Alguns comptes també poden copiar automàticament els canvis que feu des del telèfon a la web. Els comptes Google funcionen així.»</string>
+Alguns comptes també poden copiar automàticament els canvis que feu des del telèfon a la web. Els comptes Google funcionen així."</string>
   <string name="data_usage_auto_sync_on_dialog_title">Voleu activar la sincronització de dades automàtica?</string>
   <string name="data_usage_background_label">Segon pla:</string>
   <string name="data_usage_cellular_data">Dades mòbils</string>
