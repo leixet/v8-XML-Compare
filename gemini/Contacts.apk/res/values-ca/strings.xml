@@ -324,8 +324,8 @@ Les targetes de contacte estan apagades"</string>
   <string name="description_plus_button">Més</string>
   <string name="description_quick_contact_for">Contacte ràpid per %1$s</string>
   <string name="description_search_button">Cerca</string>
-  <string name="description_send_message">Enviar missatge a %1$s</string>
-  <string name="description_send_text_message">Enviar missatge de text a %1$s</string>
+  <string name="description_send_message">Envia el missatge a %1$s</string>
+  <string name="description_send_text_message">Envia el missatge de text a %1$s</string>
   <string name="description_star">favorit</string>
   <string name="description_view_contact">Veure contacte %1$s</string>
   <string name="description_view_contact_detail">Veure contacte</string>
@@ -404,11 +404,11 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="edit_contact_photo">Edita foto del contacte</string>
   <string name="email">Correu electrònic</string>
   <string name="emailLabelsGroup">Correu electrònic</string>
-  <string name="email_custom">Enviar email a %s</string>
-  <string name="email_home">Enviar email a casa</string>
-  <string name="email_mobile">Enviar email al mòbil</string>
+  <string name="email_custom">Envia el correu a %s</string>
+  <string name="email_home">Envia un correu a casa</string>
+  <string name="email_mobile">Envia un correu al mòbil</string>
   <string name="email_other">Correu electrònic</string>
-  <string name="email_work">Enviar email a la feina</string>
+  <string name="email_work">Envia un correu a la feina</string>
   <string name="emergency_number_label">Número d\'emergència</string>
   <string name="emptyGroup">Grup sense contactes</string>
   <string name="enter_contact_name">"Nom del contacte"</string>
@@ -638,7 +638,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="menu_select_all">Selecciona-ho tot</string>
   <string name="menu_select_none">Desselecciona tot</string>
   <string name="menu_sendSMS">Contacte de text</string>
-  <string name="menu_sendTextMessage">Enviar missatge de text</string>
+  <string name="menu_sendTextMessage">Envia el missatge de text</string>
   <string name="menu_set_ring_tone">Ajustar el to de trucada</string>
   <string name="menu_settings">Configuració</string>
   <string name="menu_share">Comparteix</string>
@@ -1063,7 +1063,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="select_show_contacts">Llista de contactes</string>
   <string name="select_vcard_title">Seleccioneu una vCard</string>
   <string name="send_contact_shortcut_todesktop_success">Afegit a la pantalla d\'inici</string>
-  <string name="send_to_voicemail_checkbox">Enviar trucades directament al correu de veu</string>
+  <string name="send_to_voicemail_checkbox">Envia trucades directament al correu de veu</string>
   <string name="separatorJoinAggregateAll">Tots els contactes</string>
   <string name="separatorJoinAggregateSuggestions">Contactes suggerits</string>
   <string name="service_more">Més</string>
