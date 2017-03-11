@@ -34,9 +34,9 @@
   <string name="bt_xunlei_open_info">Utilitza motor Xunlei per obrir aquests enllaços?</string>
   <string name="button_sort_by_date">Ordenar per data</string>
   <string name="button_sort_by_size">Ordenar per mida</string>
-  <string name="cancel">Cancel·lar</string>
-  <string name="cancel_running_download">Cancel·lar</string>
-  <string name="cancle">Cancel·lar</string>
+  <string name="cancel">Cancel·la</string>
+  <string name="cancel_running_download">Cancel·la</string>
+  <string name="cancle">Cancel·la</string>
   <string name="choose_open_time">"Seleccioneu quan voleu començar"</string>
   <string name="clear_data">Esborra</string>
   <string name="complete_time">Completat:</string>
@@ -99,7 +99,7 @@
   <string name="download_list_get_hightspeed_flow_sucess_tail">Gaudiu de velocitats de baixada més ràpides gràcies a Xunlei</string>
   <string name="download_list_intoAuth">Verifica el seu compte</string>
   <string name="download_list_intoAuthAlert">Carregant</string>
-  <string name="download_list_open_xl_cancel">Cancel·lar</string>
+  <string name="download_list_open_xl_cancel">Cancel·la</string>
   <string name="download_list_open_xl_message">L\'accelerador Xunlei li permetrà augmentar la velocitat de les baixades.</string>
   <string name="download_list_open_xl_ok">D\'acord</string>
   <string name="download_list_open_xl_title">Accelerador de baixades Xunlei</string>
