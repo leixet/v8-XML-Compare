@@ -972,7 +972,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="qrcode_editor_flash_failed">"No es pot actualitzar el codi QR"</string>
   <string name="quickcontact_missing_app">No s\'ha trobat una aplicació per gestionar aquesta acció</string>
   <string name="quit_dialog_confirm_message">"No has fusionat cap contacte"</string>
-  <string name="quit_dialog_confirm_title">Cancel·lar la fusió de contactes</string>
+  <string name="quit_dialog_confirm_title">Cancel·la la fusió de contactes</string>
   <string name="rcs_account_type_title">Compte Fetion</string>
   <string name="rcs_contact_detail_profile_binded_label">Compte Fetion actual</string>
   <string name="rcs_fetion_not_exist">"No es pot trobar el connector Feiton"</string>
