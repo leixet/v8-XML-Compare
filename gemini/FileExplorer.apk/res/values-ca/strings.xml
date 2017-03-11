@@ -552,7 +552,7 @@
   <string name="select_video">Triar vídeos</string>
   <string name="select_volume">Seleccioneu volum</string>
   <string name="send_comment">Envia</string>
-  <string name="send_sticker">Enviar adhesiu</string>
+  <string name="send_sticker">Envia un adhesiu</string>
   <string name="send_to_qq">Envia a QQ</string>
   <string name="send_to_weixin">Envia a WeChat</string>
   <string name="server_control_advanced_settings">Configuració FTP</string>
@@ -587,7 +587,7 @@
   <string name="shared_sticker_page_no_file">"No s'ha pogut connectar a la xarxa. Comprova la teva connexió i torna a provar."</string>
   <string name="shared_sticker_str">Compartits per fans de Mi</string>
   <string name="shared_sticker_suffix">Adhesiu a %s</string>
-  <string name="shared_sticker_use_tip">"Pots enviar els adhesius que has desat a converses de WeChat igual que envies imatges.
+  <string name="shared_sticker_use_tip">"Podeu enviar els adhesius que heu desat a converses de WeChat igual que envieu imatges.
 (Els GIFs es poden afegir a Personalitzats en els adhesius de WeChat)."</string>
   <string name="shared_sticker_use_tip_title">Com utilitzar adhesius</string>
   <string name="shared_str">Compartit per %s</string>
