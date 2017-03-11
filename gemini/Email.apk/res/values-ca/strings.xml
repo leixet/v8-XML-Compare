@@ -332,8 +332,8 @@
   <string name="conversation_view">Vista de conversa</string>
   <string name="conversation_view_keywords">vista de conversa;conversa del correu</string>
   <string name="copied">Copiat</string>
-  <string name="copy_email">Copiar l\'adreça de correu electrònic</string>
-  <string name="copy_number">Copiar el número telefònic</string>
+  <string name="copy_email">Copia l\'adreça del correu electrònic</string>
+  <string name="copy_number">Copia el número telefònic</string>
   <string name="create_action">Nou</string>
   <string name="credit_limit_text">Límit de crèdit</string>
   <string name="cur_debt">Saldo del compte</string>
