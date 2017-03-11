@@ -493,7 +493,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="see_all_count_comment">%d comentaris més</string>
   <string name="select_all">Selecciona-ho tot</string>
   <string name="select_count_xiang">%d seleccionats</string>
-  <string name="select_none">Desseleccionar tot</string>
+  <string name="select_none">Anul·la la selecció</string>
   <string name="select_tv">Seleccionar canal</string>
   <string name="select_tv_empty_hint">No hi ha canals.</string>
   <string name="select_tvs">Seleccionar canals</string>
