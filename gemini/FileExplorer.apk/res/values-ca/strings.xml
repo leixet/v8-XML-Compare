@@ -55,9 +55,9 @@
   <string name="black_list">"Esteu bloquejats. Envieu els vostres comentaris al fòrum de MIUI per conèixer el motiu."</string>
   <string name="byteShort">B</string>
   <string name="can_not_send_with_too_many">"No es poden enviar tots aquests elements"</string>
-  <string name="cancel">Cancel·lar</string>
+  <string name="cancel">Cancel·la</string>
   <string name="cancel_error">"No s'han pogut treure, intenta-ho de nou"</string>
-  <string name="cancel_operation">Cancel·lar operació</string>
+  <string name="cancel_operation">Cancel·la l\'operació</string>
   <string name="cancel_success">S\'han eliminat correctament, tots els fitxers van ser moguts a %s</string>
   <string name="cancelled_by_user">Operació cancel·lada</string>
   <string name="category">Categories</string>
@@ -135,7 +135,7 @@
   <string name="data_consumption_message">Aquesta aplicació necessita connectar-se a internet per Wi-Fi per funcionar amb normalitat.</string>
   <string name="data_consumption_message1">El dispositiu ha d\'estar connectat a internet per veure adhesius i vídeos.</string>
   <string name="data_consumption_title">Connexió a internet</string>
-  <string name="decompress_cancel">Cancel·lar</string>
+  <string name="decompress_cancel">Cancel·la</string>
   <string name="decompress_confirm">Extreure</string>
   <string name="decompress_destination_error">"No es poden extreure els fitxers en aquesta ubicació"</string>
   <string name="decompress_encrypted_rar_not_supported">Els fitxers encriptats rar no estan suportats.</string>
@@ -259,7 +259,7 @@
   <string name="hot_video_load_more">Més &gt;</string>
   <string name="hot_video_title">Vídeos populars</string>
   <string name="hottest_sticker_str">Popular</string>
-  <string name="if_cancel">Cancel·lar aquesta operació?</string>
+  <string name="if_cancel">Voleu cancel·lar aquesta operació?</string>
   <string name="image_loading_error">"No s'ha pogut carregar la imatge"</string>
   <string name="input_memo_hint">Introduïu comentaris addicionals (opcional)</string>
   <string name="install_fail">"No s'ha pogut instal·lar"</string>
@@ -387,7 +387,7 @@
   <string name="open_chest_failed">"No es pot obrir, comproveu la configuració de xarxa i torneu-ho a provar"</string>
   <string name="open_private_folder">Creant una carpeta oculta…</string>
   <string name="operation_add_fav">Afegint a favorits&#8230;</string>
-  <string name="operation_cancel">Cancel·lar</string>
+  <string name="operation_cancel">Cancel·la</string>
   <string name="operation_compress">Comprimir</string>
   <string name="operation_compressing">Comprimint&#8230;</string>
   <string name="operation_copy">Copiar</string>
@@ -697,7 +697,7 @@
   <string name="user_id_tip">ID:</string>
   <string name="user_info_setting">Editar la informació</string>
   <string name="user_liked_video_title">Vídeos que m\'agraden</string>
-  <string name="user_login_dialog_cancle">Cancel·lar</string>
+  <string name="user_login_dialog_cancle">Cancel·la</string>
   <string name="user_login_dialog_tip">Connecta\'t per compartir vídeos, participar en rànquings, i guanyar premis</string>
   <string name="user_login_dialog_title">Iniciar sessió</string>
   <string name="user_nickname">Àlies</string>
@@ -740,7 +740,7 @@
   <string name="video_comment_limit">%1$s caràcters restants</string>
   <string name="video_comment_publish">Inscriure</string>
   <string name="video_comment_topic">\#Afegir tòpic#</string>
-  <string name="video_data_consumption_cancel">Cancel·lar</string>
+  <string name="video_data_consumption_cancel">Cancel·la</string>
   <string name="video_data_consumption_confirm">D\'acord</string>
   <string name="video_data_consumption_dialog_message">Pujar va a requerir %1$s de dades mòbils</string>
   <string name="video_data_consumption_dialog_title">Avís d\'ús de dades</string>
