@@ -29,8 +29,8 @@
   <string name="intro_midrop">Mi Drop</string>
   <string name="intro_page1_text1">Comparteix fitxers amb dispositius propers</string>
   <string name="intro_page1_text2">"Més fàcil que mai"</string>
-  <string name="intro_page2_choose_files">Tria els fitxers i toca \"Enviar\"</string>
-  <string name="intro_page2_click_to_send">Toca \"Enviar\"</string>
+  <string name="intro_page2_choose_files">Trieu els fitxers i toqueu «Envia»</string>
+  <string name="intro_page2_click_to_send">Toqueu «Envia»</string>
   <string name="intro_page3_choose_midrop">Tria \"Mi Drop\"</string>
   <string name="intro_page3_choose_midrop2">Els fitxers s\'enviaran immediatament!</string>
   <string name="newText">Nou text</string>
