@@ -464,8 +464,8 @@
   <string name="phone_storage_other_title">Altres:&#160;</string>
   <string name="phone_storage_size_tip">"L'espai d'emmagatzematge lliure que es mostra en el Explorador podria diferir d'altres aplicacions."</string>
   <string name="phone_storage_video_title">Vídeos:&#160;</string>
-  <string name="phone_storage_zip_title">Fitxers:&#160;</string>
-  <string name="phone_valid_code_tip">El codi ha estat ingressat tantes vegades, que ara n\'has d\'obtenir un de nou</string>
+  <string name="phone_storage_zip_title">Arxius:&#160;</string>
+  <string name="phone_valid_code_tip">El codi ha estat introduït massa vegades, intenta aconseguir-ne un altra</string>
   <string name="pick_file">Seleccioneu fitxers</string>
   <string name="pick_folder">Triar carpeta</string>
   <string name="popup_msg_qq">Compartiu aquest vídeo amb els amics de QQ.</string>
@@ -475,7 +475,7 @@
   <string name="pretty_girl">Femení</string>
   <string name="private_files">Ocults</string>
   <string name="private_folder">Carpeta oculta</string>
-  <string name="private_folder_no_file_hints">No hi ha fitxers ocults.</string>
+  <string name="private_folder_no_file_hints">No hi ha arxius amagats.</string>
   <string name="private_folder_update">S\'estan actualitzant els fitxers ocults&#8230;</string>
   <string name="private_toast_hint2">Per amagar un fitxer, prem i manté, després afegeix-ho a una carpeta oculta.</string>
   <string name="private_toast_hint3">Tira per obrir les carpetes ocultes</string>
@@ -504,7 +504,7 @@
   <string name="report_advertisement">Publicitat</string>
   <string name="report_other">Altres</string>
   <string name="report_politics">Incorrecció política</string>
-  <string name="report_porn">Porno</string>
+  <string name="report_porn">Pornografia</string>
   <string name="report_violence">Violència</string>
   <string name="request_timeout">Temps d\'espera de xarxa esgotat</string>
   <string name="reset_password">Canviar la contrasenya</string>
@@ -512,8 +512,8 @@
   <string name="rlv_closing">Tancant&#8230;</string>
   <string name="rlv_last_refreshing_time">Actualitzat %1$s</string>
   <string name="rlv_loading_more">Un moment&#8230;</string>
-  <string name="rlv_pull_to_close">Llisqueu cap avall per tancar</string>
-  <string name="rlv_pull_to_refresh">Tirar per recarregar</string>
+  <string name="rlv_pull_to_close">Llisca avall per tancar</string>
+  <string name="rlv_pull_to_refresh">Tira avall per recarregar</string>
   <string name="rlv_refreshing">Escanejant fitxers&#8230;</string>
   <string name="rlv_release_to_close">Deixeu anar per tancar</string>
   <string name="rlv_release_to_refresh">Deixar anar per recarregar</string>
