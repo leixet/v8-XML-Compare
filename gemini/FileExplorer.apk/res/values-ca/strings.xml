@@ -403,7 +403,7 @@
   <string name="operation_hide_sys">"No mostrar fitxers ocults"</string>
   <string name="operation_info">Detalls</string>
   <string name="operation_like">Favorit</string>
-  <string name="operation_move">Tallar</string>
+  <string name="operation_move">Talla</string>
   <string name="operation_moving">Movent&#8230;</string>
   <string name="operation_other_apps">Obre en una altra aplicació</string>
   <string name="operation_paste">Enganxar</string>
@@ -412,7 +412,7 @@
   <string name="operation_rename">Reanomenar</string>
   <string name="operation_rename_message">Reanomenar carpeta</string>
   <string name="operation_reply">Comentari</string>
-  <string name="operation_send">Enviar</string>
+  <string name="operation_send">Envia</string>
   <string name="operation_share">Compartir</string>
   <string name="operation_show_sys">Mostra fitxers ocults</string>
   <string name="operation_unfavorite">Treure de favorits</string>
@@ -451,7 +451,7 @@
   <string name="phone_num_format_tip">Número telefònic invàlid</string>
   <string name="phone_send_code">Obtenir codi</string>
   <string name="phone_send_code_again">Obtenir codi de nou</string>
-  <string name="phone_send_code_tip">Enviar una altra vegada a %1$ds</string>
+  <string name="phone_send_code_tip">Envia una altra vegada a %1$ds</string>
   <string name="phone_storage">Emmagatzematge</string>
   <string name="phone_storage_apk_title">APKs:&#160;</string>
   <string name="phone_storage_audio_title">Música:&#160;</string>
@@ -551,10 +551,10 @@
   <string name="select_music">Triar cançons</string>
   <string name="select_video">Triar vídeos</string>
   <string name="select_volume">Seleccioneu volum</string>
-  <string name="send_comment">Enviar</string>
+  <string name="send_comment">Envia</string>
   <string name="send_sticker">Enviar adhesiu</string>
-  <string name="send_to_qq">Enviar a QQ</string>
-  <string name="send_to_weixin">Enviar a WeChat</string>
+  <string name="send_to_qq">Envia a QQ</string>
+  <string name="send_to_weixin">Envia a WeChat</string>
   <string name="server_control_advanced_settings">Configuració FTP</string>
   <string name="server_control_charset">Codificació de transferència</string>
   <string name="server_control_settings">Configuració</string>
