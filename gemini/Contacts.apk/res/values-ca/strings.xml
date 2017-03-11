@@ -141,9 +141,9 @@
   <string name="callrecordview_menu_voip">Mi Voice</string>
   <string name="calls_voip_prompt">VoIP</string>
   <string name="cancel_confirmation_dialog_message">Descarteu els canvis?</string>
-  <string name="cancel_confirmation_dialog_title">Cancel·lar</string>
-  <string name="cancel_export_confirmation_message">Cancel·lar l\'exportació de %s?</string>
-  <string name="cancel_import_confirmation_message">Cancel·lar l\'importació de %s?</string>
+  <string name="cancel_confirmation_dialog_title">Cancel·la</string>
+  <string name="cancel_export_confirmation_message">Voleu cancel·lar l\'exportació de %s?</string>
+  <string name="cancel_import_confirmation_message">Voleu cancel·lar l\'importació de %s?</string>
   <string name="cancel_import_dialog_message">Deixar d\'importar contactes?</string>
   <string name="cancel_import_dialog_title">Aturar</string>
   <string name="cancel_vcard_import_or_export_failed">"No va poder cancel·lar la importació/exportació de vCard"</string>
@@ -274,7 +274,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="default_ringtone">To de trucada per defecte</string>
   <string name="deleteConfirmation">Aquest contacte s\'eliminarà.</string>
   <string name="deleteConfirmationDetail">Voleu eliminar \"%s\"?</string>
-  <string name="deleteConfirmation_title">Vols suprimir aquest contacte?</string>
+  <string name="deleteConfirmation_title">Voleu eliminar aquest contacte?</string>
   <string name="delete_call_log_message">Esborrar registre de trucades?</string>
   <string name="delete_call_log_selected_title">Esborrar registre de trucada seleccionat?</string>
   <string name="delete_call_log_title">Seleccionar registre de trucades</string>
