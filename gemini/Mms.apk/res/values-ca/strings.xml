@@ -105,7 +105,7 @@
   <string name="context_menu_call">Trucada</string>
   <string name="context_menu_contact">Contacte: %1$s</string>
   <string name="context_menu_copy">Copia</string>
-  <string name="context_menu_copy_notice">Copiat al porta-retalls</string>
+  <string name="context_menu_copy_notice">S\'ha copiat al porta-retalls</string>
   <string name="context_menu_new_contact">Crea un nou contacte</string>
   <string name="context_menu_send_mail">Envia un correu</string>
   <string name="context_menu_send_sms">Envia el missatge</string>
