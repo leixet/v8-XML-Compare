@@ -288,7 +288,7 @@
   <string name="confirm_save_message_yes">Sí</string>
   <string name="confirm_send_message_with_no_body">"No hi ha cap text al cos del missatge."</string>
   <string name="confirm_send_message_with_no_subject">"No hi ha cap text en l'assumpte del missatge."</string>
-  <string name="confirm_send_title">Enviar missatge?</string>
+  <string name="confirm_send_title">Voleu enviar el missatge?</string>
   <string name="contact_edit_set_black_list_from">Mou tots els emails d\'aquest remitent a les escombraries</string>
   <string name="contact_edit_set_black_list_receive">Moure emails amb aquest destinatari a les escombraries (només nous)</string>
   <string name="contact_edit_set_black_list_receive_summary">Esborrar correus electrònics que incloguin aquest destinatari en els camps Per o Cc</string>
@@ -313,7 +313,7 @@
   <string name="contextmenu_create">Crea un nou contacte</string>
   <string name="contextmenu_dial_dot">Marca&#8230;</string>
   <string name="contextmenu_edit">Editar contacte</string>
-  <string name="contextmenu_feedback">Enviar comentaris</string>
+  <string name="contextmenu_feedback">Envia els comentaris</string>
   <string name="contextmenu_help">Ajuda</string>
   <string name="contextmenu_map">Mapa</string>
   <string name="contextmenu_open">Obrir</string>
@@ -372,7 +372,7 @@
   <string name="donot_disturb_starttime_title">De</string>
   <string name="donot_disturb_summary">Les notificacions dels correus electrònics que arriben seran silenciades</string>
   <string name="donot_disturb_title">No molestar</string>
-  <string name="downlaod_cancel_confirm_download">Cancel·lar la descàrrega</string>
+  <string name="downlaod_cancel_confirm_download">Atura</string>
   <string name="downlaod_cancel_continue_download">"Cancel·la"</string>
   <string name="downlaod_confirm_download">Baixa</string>
   <string name="downlaod_nonWifi_confirm_message">Voleu utilitzar la connexió de dades per descarregar aquest adjunt?</string>
@@ -1009,7 +1009,7 @@ Voleu aturar-ho?"</string>
   <string name="updated_at">Última actualització %1$s</string>
   <string name="upload_log">Pujar registres</string>
   <string name="upload_log_failed">"La pujada dels registres ha fallat"</string>
-  <string name="upload_log_no">Cancel·lar</string>
+  <string name="upload_log_no">Cancel·la</string>
   <string name="upload_log_success">"Els registres s'han pujat correctament"</string>
   <string name="upload_log_title">Pujar els registres ara?</string>
   <string name="upload_log_yes">Pujar</string>
