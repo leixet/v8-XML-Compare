@@ -116,8 +116,8 @@
   <string name="comment_reply">Resposta %1$s:&#160;</string>
   <string name="compress_fail">"No s'ha pogut comprimir. Ja existeix un fitxer amb el mateix nom."</string>
   <string name="compress_fail_unknown">"No s'ha pogut comprimir. Emmagatzematge complet o error desconegut."</string>
-  <string name="compress_message">Comprimir a&#8230;</string>
-  <string name="compress_title">Comprimir</string>
+  <string name="compress_message">Comprimeix a&#8230;</string>
+  <string name="compress_title">Comprimeix</string>
   <string name="confirm">D\'acord</string>
   <string name="confirm_clean">Neteja</string>
   <string name="confirm_know">D\'acord</string>
@@ -125,8 +125,8 @@
   <string name="connection_error">"No s'ha pogut connectar"</string>
   <string name="copied">Copiat</string>
   <string name="copy_failed">"No s'ha pogut copiar, sembla que l'emmagatzematge és ple"</string>
-  <string name="copy_text">Copiar text</string>
-  <string name="copy_to">Copiar a&#8230;</string>
+  <string name="copy_text">Copia el text</string>
+  <string name="copy_to">Copia a&#8230;</string>
   <string name="count_down">Compte enrere: %1$s</string>
   <string name="create_shortcut_success">S\'ha afegit una drecera</string>
   <string name="data_consumption_cancel">Sortir</string>
@@ -388,9 +388,9 @@
   <string name="open_private_folder">Creant una carpeta oculta…</string>
   <string name="operation_add_fav">Afegint a favorits&#8230;</string>
   <string name="operation_cancel">Cancel·la</string>
-  <string name="operation_compress">Comprimir</string>
+  <string name="operation_compress">Comprimeix</string>
   <string name="operation_compressing">Comprimint&#8230;</string>
-  <string name="operation_copy">Copiar</string>
+  <string name="operation_copy">Copia</string>
   <string name="operation_create_folder">Crear una carpeta</string>
   <string name="operation_create_folder_message">Nom de la carpeta</string>
   <string name="operation_decompressing">Extraient&#8230;</string>
