@@ -5,7 +5,7 @@
   <string name="action_mode_deselect_all">Anul·la tota la selecció</string>
   <string name="action_mode_select_all">Seleccionar tot</string>
   <string name="activity_parse_video_title">Enganxar URL</string>
-  <string name="ad_download">Baixada</string>
+  <string name="ad_download">Descarrega</string>
   <string name="ad_downloading">Un moment&#8230;</string>
   <string name="add_follow">Segueix</string>
   <string name="add_one">+1</string>
@@ -36,7 +36,7 @@
   <string name="backup_cancel">"No copiar"</string>
   <string name="backup_checkbox_msg">Copiar sempre i mostrar notificacions</string>
   <string name="backup_confirm">Copiar ara</string>
-  <string name="backup_success_cancel">D\'acord</string>
+  <string name="backup_success_cancel">Accepta</string>
   <string name="backup_success_confirm">Veure</string>
   <string name="backup_success_message">Copiat a %1$s</string>
   <string name="backup_success_title">Copiat</string>
@@ -699,7 +699,7 @@
   <string name="user_liked_video_title">Vídeos que m\'agraden</string>
   <string name="user_login_dialog_cancle">Cancel·la</string>
   <string name="user_login_dialog_tip">Connecta\'t per compartir vídeos, participar en rànquings, i guanyar premis</string>
-  <string name="user_login_dialog_title">Iniciar sessió</string>
+  <string name="user_login_dialog_title">Inicia la sessió</string>
   <string name="user_nickname">Àlies</string>
   <string name="user_nickname_limit">L\'àlies ha de tenir de 4 a 20 caràcters</string>
   <string name="user_no_fans_tip">Sense seguidors</string>
@@ -718,7 +718,7 @@
   <string name="user_setting_followed_msg_tip">"Se us notificarà quan algú comenci a seguir-vos"</string>
   <string name="user_setting_hot_comment">Notificacions de comentaris destacats</string>
   <string name="user_setting_hot_comment_tip">"Rebreu notificacions quan els vostres comentaris es destaquin"</string>
-  <string name="user_setting_logout">Tancar la sessió</string>
+  <string name="user_setting_logout">Tanca la sessió</string>
   <string name="user_setting_new_comment">Notificacions de nous comentaris</string>
   <string name="user_setting_new_comment_tip">"Se us notificarà sobre les respostes als seus comentaris i vídeos"</string>
   <string name="user_setting_new_liked">Notificacions sobre els M\'agrada</string>
@@ -735,13 +735,13 @@
   <string name="user_video_text">Els meus vídeos</string>
   <string name="utf8_summary">Codificació per defecte del sistema FTP</string>
   <string name="utf8_title">UTF-8</string>
-  <string name="video_ad_download">Instal·lar</string>
+  <string name="video_ad_download">Instal·la</string>
   <string name="video_comment_hint">Seleccionar tema</string>
   <string name="video_comment_limit">%1$s caràcters restants</string>
   <string name="video_comment_publish">Inscriure</string>
   <string name="video_comment_topic">\#Afegir tòpic#</string>
   <string name="video_data_consumption_cancel">Cancel·la</string>
-  <string name="video_data_consumption_confirm">D\'acord</string>
+  <string name="video_data_consumption_confirm">Accepta</string>
   <string name="video_data_consumption_dialog_message">Pujar va a requerir %1$s de dades mòbils</string>
   <string name="video_data_consumption_dialog_title">Avís d\'ús de dades</string>
   <string name="video_description">Descripció del vídeo</string>
