@@ -3,14 +3,14 @@
 <resources>
   <string name="a_week_share_rank">Rànquing setmanal</string>
   <string name="action_mode_deselect_all">Anul·la tota la selecció</string>
-  <string name="action_mode_select_all">Seleccionar tot</string>
-  <string name="activity_parse_video_title">Enganxar URL</string>
-  <string name="ad_download">Descarrega</string>
+  <string name="action_mode_select_all">Selecciona tot</string>
+  <string name="activity_parse_video_title">Enganxa l\'enllaç de vídeo</string>
+  <string name="ad_download">Baixada</string>
   <string name="ad_downloading">Un moment&#8230;</string>
   <string name="add_follow">Segueix</string>
   <string name="add_one">+1</string>
   <string name="add_private">Amaga els fitxers ara</string>
-  <string name="add_private_files">Afegir fitxers</string>
+  <string name="add_private_files">Afegeix fitxers</string>
   <string name="album_creator">Creat per %s</string>
   <string name="album_name">Selecció diària: %s</string>
   <string name="all_topic">Tots els temes</string>
@@ -464,7 +464,7 @@
   <string name="phone_storage_other_title">Altres:&#160;</string>
   <string name="phone_storage_size_tip">"L'espai d'emmagatzematge lliure que es mostra en el Explorador podria diferir d'altres aplicacions."</string>
   <string name="phone_storage_video_title">Vídeos:&#160;</string>
-  <string name="phone_storage_zip_title">Arxius:&#160;</string>
+  <string name="phone_storage_zip_title">Fitxers:&#160;</string>
   <string name="phone_valid_code_tip">El codi ha estat introduït massa vegades, intenta aconseguir-ne un altra</string>
   <string name="pick_file">Seleccioneu fitxers</string>
   <string name="pick_folder">Triar carpeta</string>
