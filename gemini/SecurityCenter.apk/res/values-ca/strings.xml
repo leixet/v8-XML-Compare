@@ -314,7 +314,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="call_and_contact">Trucades i contactes</string>
   <string name="cancal_to_setting_fingerprint">Cancel·la</string>
   <string name="cancel">Cancel·la</string>
-  <string name="cancel_button">Cancel·lar</string>
+  <string name="cancel_button">Cancel·la</string>
   <string name="card_main_applock_action">Activa</string>
   <string name="card_main_applock_summary">Protegiu els elements privats amb el bloquejador d\'aplicacions</string>
   <string name="card_main_applock_title">Bloquejador d\'aplicacions</string>
@@ -1620,7 +1620,7 @@ Dades extres en ús"</string>
   <string name="traffic_setting_fragment_area">Local</string>
   <string name="traffic_setting_fragment_area_dual">%s Local</string>
   <string name="traffic_setting_fragment_brand">Marca</string>
-  <string name="traffic_setting_fragment_button1_text">Cancel·lar</string>
+  <string name="traffic_setting_fragment_button1_text">Cancel·la</string>
   <string name="traffic_setting_fragment_button2_text">Desar</string>
   <string name="traffic_setting_fragment_get_template_falure">"L'actualització falla. Comproveu la connexió de dades i torneu a provar."</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">"No tornar a mostrar"</string>
