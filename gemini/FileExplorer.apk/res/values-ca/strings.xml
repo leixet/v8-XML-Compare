@@ -33,9 +33,9 @@
   <string name="auto_play_recommend">Reprodueix automàticament</string>
   <string name="auto_play_recommend_tips">Inicia la reproducció de vídeos automàticament</string>
   <string name="auto_play_toast">Els vídeos es reproduiran automàticament. Podeu canviar-ho a la configuració.</string>
-  <string name="backup_cancel">"No copiar"</string>
-  <string name="backup_checkbox_msg">Copiar sempre i mostrar notificacions</string>
-  <string name="backup_confirm">Copiar ara</string>
+  <string name="backup_cancel">"No copiïs"</string>
+  <string name="backup_checkbox_msg">Copia automàticament</string>
+  <string name="backup_confirm">Copia ara</string>
   <string name="backup_success_cancel">Accepta</string>
   <string name="backup_success_confirm">Veure</string>
   <string name="backup_success_message">Copiat a %1$s</string>
@@ -158,7 +158,7 @@
   <string name="delete_file_error">"No s'ha pogut eliminar el fitxer"</string>
   <string name="delete_files">Voleu eliminar %1$d fitxer(s)?</string>
   <string name="delete_folder">Eliminar aquesta carpeta?</string>
-  <string name="delete_folders">Voleu eliminar %1$d carpeta(s)?</string>
+  <string name="delete_folders">Voleu eliminar %1$d carpeta(es)?</string>
   <string name="delete_video">Elimina</string>
   <string name="delete_video_dialog_tip">"No podràs restablir el vídeo després d'haver-ho eliminat."</string>
   <string name="delete_video_dialog_title">Eliminar vídeo</string>
@@ -396,7 +396,7 @@
   <string name="operation_decompressing">Extraient&#8230;</string>
   <string name="operation_del_fav">S\'està eliminant dels preferits&#8230;</string>
   <string name="operation_delete">Elimina</string>
-  <string name="operation_delete_confirm_message">Eliminar?</string>
+  <string name="operation_delete_confirm_message">Voleu eliminar-ho?</string>
   <string name="operation_delete_confirm_message_folder">"S'eliminarà tot el contingut de la carpeta. "</string>
   <string name="operation_deleting">S\'està eliminant&#8230;</string>
   <string name="operation_favorite">Favorit</string>
@@ -410,7 +410,7 @@
   <string name="operation_pasting">Copiant&#8230;</string>
   <string name="operation_refresh">Actualitzar</string>
   <string name="operation_rename">Canvia el nom</string>
-  <string name="operation_rename_message">Reanomenar carpeta</string>
+  <string name="operation_rename_message">Canvia el nom de la carpeta</string>
   <string name="operation_reply">Comentari</string>
   <string name="operation_send">Envia</string>
   <string name="operation_share">Compartir</string>
@@ -495,7 +495,7 @@
   <string name="remote_video_report_success">"Gràcies pel vostre informe! Li donarem un cop d'ull tan aviat com sigui possible."</string>
   <string name="rename_alert">"Si canvies l'extensió d'aquest fitxer, pot ser que no ho aconsegueixis obrir."</string>
   <string name="rename_alert2">El fitxer s\'ocultarà.</string>
-  <string name="rename_failed">"No es pot reanomenar %1$s"</string>
+  <string name="rename_failed">"No es pot canviar el nom de %1$s"</string>
   <string name="repair_done">Restaurat</string>
   <string name="repair_error">"No s'ha pogut restaurar"</string>
   <string name="repair_file">Restaurar fitxers encriptats</string>
