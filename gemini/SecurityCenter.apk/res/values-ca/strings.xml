@@ -1450,7 +1450,7 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="tc_diagnostic_upload_no_network">Gràcies pels seus comentaris! L\'informe es presentarà quan es connecti a la xarxa.</string>
   <string name="tc_diagnostic_upload_success">Gràcies pels vostres comentaris!</string>
   <string name="tc_sms_report_direction">Sol·licitar codi (SMS)</string>
-  <string name="tc_sms_report_do_report">Enviar</string>
+  <string name="tc_sms_report_do_report">Envia</string>
   <string name="tc_sms_report_get_default">"No incorrerà en càrrecs per missatges SMS que s'utilitzen per obtenir el saldo d'utilització de les dades del seu operador."</string>
   <string name="tc_sms_report_get_sms">Obtenir SMS</string>
   <string name="tc_sms_report_get_sms2">Obtenir SMS</string>
