@@ -161,7 +161,7 @@
   <string name="delete_folders">Voleu eliminar %1$d carpeta(s)?</string>
   <string name="delete_video">Elimina</string>
   <string name="delete_video_dialog_tip">"No podràs restablir el vídeo després d'haver-ho eliminat."</string>
-  <string name="delete_video_dialog_title">Esborrar vídeo</string>
+  <string name="delete_video_dialog_title">Eliminar vídeo</string>
   <string name="delete_video_success">Eliminat amb èxit</string>
   <string name="deleted_video_msg">"Arribeu una mica tard. Aquest vídeo s'ha suprimit."</string>
   <string name="dialog_logout_message">Tancar la sessió ara?</string>
@@ -409,7 +409,7 @@
   <string name="operation_paste">Enganxar</string>
   <string name="operation_pasting">Copiant&#8230;</string>
   <string name="operation_refresh">Actualitzar</string>
-  <string name="operation_rename">Reanomenar</string>
+  <string name="operation_rename">Canvia el nom</string>
   <string name="operation_rename_message">Reanomenar carpeta</string>
   <string name="operation_reply">Comentari</string>
   <string name="operation_send">Envia</string>
