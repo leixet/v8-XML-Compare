@@ -629,7 +629,7 @@
     <item>Mostra el menú</item>
   </string-array>
   <string-array name="screen_key_long_press_action">
-    <item>Res</item>
+    <item>Cap</item>
     <item>Mostra la safata d\'aplicacions recents</item>
     <item>Obre l\'auxiliar</item>
     <item>Obre Google now</item>
