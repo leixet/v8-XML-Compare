@@ -14,7 +14,7 @@
   <string name="album_creator">Creat per %s</string>
   <string name="album_name">Selecció diària: %s</string>
   <string name="all_topic">Tots els temes</string>
-  <string name="already_liked">"Ja has marcat com a favorit aquest element"</string>
+  <string name="already_liked">"Ja has marcat aquest element com a destacat"</string>
   <string name="app_name">Explorador</string>
   <string name="app_name_bluetooth">Bluetooth</string>
   <string name="app_name_camera">Càmera</string>
@@ -66,7 +66,7 @@
   <string name="category_bluetooth">Bluetooth</string>
   <string name="category_document">Documents</string>
   <string name="category_download">Baixades</string>
-  <string name="category_favorite">Favorits</string>
+  <string name="category_favorite">Destacats</string>
   <string name="category_file">Fitxers</string>
   <string name="category_files">Fitxers</string>
   <string name="category_installed_app">Aplicacions instal·lades</string>
@@ -386,7 +386,7 @@
   <string name="open_chest">Obriu-lo per aconseguir un regal</string>
   <string name="open_chest_failed">"No es pot obrir, comproveu la configuració de xarxa i torneu-ho a provar"</string>
   <string name="open_private_folder">Creant una carpeta oculta…</string>
-  <string name="operation_add_fav">Afegint a favorits&#8230;</string>
+  <string name="operation_add_fav">S\'està afegint als destacats&#8230;</string>
   <string name="operation_cancel">Cancel·la</string>
   <string name="operation_compress">Comprimeix</string>
   <string name="operation_compressing">Comprimint&#8230;</string>
@@ -394,15 +394,15 @@
   <string name="operation_create_folder">Crear una carpeta</string>
   <string name="operation_create_folder_message">Nom de la carpeta</string>
   <string name="operation_decompressing">Extraient&#8230;</string>
-  <string name="operation_del_fav">S\'està eliminant dels preferits&#8230;</string>
+  <string name="operation_del_fav">S\'està traient dels destacats&#8230;</string>
   <string name="operation_delete">Elimina</string>
   <string name="operation_delete_confirm_message">Voleu eliminar-ho?</string>
   <string name="operation_delete_confirm_message_folder">"S'eliminarà tot el contingut de la carpeta. "</string>
   <string name="operation_deleting">S\'està eliminant&#8230;</string>
-  <string name="operation_favorite">Favorit</string>
+  <string name="operation_favorite">Destaca</string>
   <string name="operation_hide_sys">"No mostrar fitxers ocults"</string>
   <string name="operation_info">Detalls</string>
-  <string name="operation_like">Favorit</string>
+  <string name="operation_like">Destaca</string>
   <string name="operation_move">Talla</string>
   <string name="operation_moving">Movent&#8230;</string>
   <string name="operation_other_apps">Obre en una altra aplicació</string>
@@ -415,7 +415,7 @@
   <string name="operation_send">Envia</string>
   <string name="operation_share">Compartir</string>
   <string name="operation_show_sys">Mostra fitxers ocults</string>
-  <string name="operation_unfavorite">Treure de favorits</string>
+  <string name="operation_unfavorite">Treu dels destacats</string>
   <string name="origin_name">%1$s:&#160;</string>
   <string name="original_user_desc">Pugeu regularment vídeos originals per obtindre l\'estat de Creador</string>
   <string name="original_user_qq_group">Uniu-vos al grup de l\'equip de talent QQ</string>
@@ -645,9 +645,9 @@
   <string name="transfer_done">Fitxers moguts correctament.</string>
   <string name="transfer_private_data">Movent carpetes ocultes de la targeta SD&#8230;</string>
   <string name="type_not_support">"Aquest format de fitxer no està suportat. Descomprimeix aquest fitxer i torna a provar."</string>
-  <string name="ui_main_toast_favorite_added">Marcat com a favorit</string>
-  <string name="ui_main_toast_favorite_removed">Desmarcat de favorits</string>
-  <string name="ui_main_toast_operation_failed">"No es pot desmarcar %1$s de favorits"</string>
+  <string name="ui_main_toast_favorite_added">Afegit als destacats</string>
+  <string name="ui_main_toast_favorite_removed">Tret dels destacats</string>
+  <string name="ui_main_toast_operation_failed">"No es pot treure %1$s dels destacats"</string>
   <string name="unbind">Elimina</string>
   <string name="unbind_account">Eiminar %s?</string>
   <string name="unbind_fail">"No s'ha pogut eliminar"</string>
