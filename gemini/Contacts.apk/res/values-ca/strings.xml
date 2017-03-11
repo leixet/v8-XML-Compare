@@ -636,7 +636,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="menu_removeStar">Elimina de favorits</string>
   <string name="menu_search">Cerca</string>
   <string name="menu_select_all">Selecciona-ho tot</string>
-  <string name="menu_select_none">Desselecciona tot</string>
+  <string name="menu_select_none">Anul·la la selecció</string>
   <string name="menu_sendSMS">Contacte de text</string>
   <string name="menu_sendTextMessage">Envia el missatge de text</string>
   <string name="menu_set_ring_tone">Ajustar el to de trucada</string>
