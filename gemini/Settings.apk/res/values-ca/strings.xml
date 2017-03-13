@@ -1250,6 +1250,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="device_name">Nom del dispositiu</string>
   <string name="device_name_input_error">"No s'ha pogut desar el nom del dispositiu"</string>
   <string name="device_name_input_hint">Introduïu el nom</string>
+  <string name="device_name_input_overlength">Més enllà del límit de les paraules</string>
   <string name="device_name_usage_point">Altres dispositius propers poden veure aquest nom</string>
   <string name="device_picker">Tria un dispositiu Bluetooth</string>
   <string name="device_rear_camera">Càmera posterior</string>
@@ -1279,6 +1280,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="disable_service_title">Voleu aturar %1$s?</string>
   <string name="disable_text">Desactiva</string>
   <string name="disable_wifi_master_key_service">Desactiva</string>
+  <string name="disable_wifi_master_key_service_first">Desactiva</string>
   <string name="disabled">S\'ha desactivat</string>
   <string name="disabled_because_no_backup_security">Per utilitzar-lo, heu de configurar un bloqueig de pantalla</string>
   <string name="disabled_by_admin">Desactivat per l\'administrador</string>
@@ -1445,6 +1447,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="enable_webview_multiprocess_desc">Executa els renderitzadors de WebView per separat</string>
   <string name="enable_wifi_display">Activa la pantalla sense fils</string>
   <string name="enable_wifi_master_key_service">Activa la clau mestra de la Wi-Fi</string>
+  <string name="enable_wifi_master_key_service_first">Activa</string>
   <string name="enabled_by_admin">Activat per l\'administrador</string>
   <string name="encrypt_dont_require_password">No, gràcies</string>
   <string name="encrypt_dont_require_pattern">No, gràcies</string>
@@ -1571,6 +1574,8 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="firmware_version">Versió d\'Android</string>
   <string name="floating_window_switch_label">Activa les finestres flotants</string>
   <string name="floating_window_switch_label_disable">Desactiva les finestres flotants</string>
+  <string name="fluency_mode">Animacions del sistema</string>
+  <string name="fluency_mode_confirm_and_reboot">Reinicia ara</string>
   <string name="font_size_exhuge">Extra grossa</string>
   <string name="font_size_huge">Molt grossa</string>
   <string name="font_size_large">Grossa</string>
