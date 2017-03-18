@@ -831,7 +831,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="option_not_star">Eliminar de favorits</string>
   <string name="option_rename_group">Canviar el nom</string>
   <string name="option_send_to_desktop">Posar a la pantalla d\'inici</string>
-  <string name="option_send_to_others">Endavant</string>
+  <string name="option_send_to_others">Reenvia</string>
   <string name="option_view_contact">Veure</string>
   <string name="option_view_group">Veure</string>
   <string name="organizationLabelsGroup">Organització</string>
