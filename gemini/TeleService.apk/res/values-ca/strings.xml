@@ -1523,7 +1523,6 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="wifi_allow_scan_with_traffic_summary">Activeu/Desactiveu les cerques de xarxes Wi-Fi en itinerància basades en la quantitat de dades presents a la interfície</string>
   <string name="wifi_auth_password_wrong">La contrasenya podria ser incorrecta</string>
   <string name="wifi_calling">Trucada Wi-Fi</string>
-  <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
   <string name="wifi_connected_no_internet">S\'ha connectat, no hi ha Internet</string>
   <string name="wifi_disabled_generic">Desactivada</string>
   <string name="wifi_disabled_network_failure">Error de configuració d\'IP</string>
