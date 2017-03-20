@@ -1096,9 +1096,6 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_warning_values">Nivell d\'avís d\'ús de dades</string>
   <string name="pref_whitelist_setting">Administrar llista de permeses</string>
   <string name="preference_category_information_setting">category_information_setting</string>
-  <string name="preference_key_lock_screen_memory_clean">lock_screen_memory_clean</string>
-  <string name="preference_key_module_antipam">module_antipam</string>
-  <string name="preference_key_module_power_center">module_power_center</string>
   <string name="preferred_app_entries_browser">Navegador</string>
   <string name="preferred_app_entries_camera">Càmera</string>
   <string name="preferred_app_entries_dial">Telèfon</string>
