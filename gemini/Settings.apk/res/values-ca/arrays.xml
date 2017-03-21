@@ -808,6 +808,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>1 minut</item>
     <item>2 minuts</item>
     <item>5 minuts</item>
+    <item>Never</item>
   </string-array>
   <string-array name="fluency_mode_entries">
     <item>Amaga les animacions del sistema</item>
@@ -847,6 +848,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
   <string-array name="edge_touch_volume_action">
     <item>Feu clic en ajusta - Doble clic en el disparador</item>
     <item>Ajust lliscant - Disparador lliscant</item>
+    <item>Click adjust - Click trigger</item>
   </string-array>
   <string-array name="alarm_repeat_type">
     <item>Cada dia</item>
