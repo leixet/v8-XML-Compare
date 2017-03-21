@@ -63,7 +63,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="adb_install_reject_notiy">"No va permetre la instal·lació de %s a través de l'USB"</string>
   <string name="adb_install_reject_notiy_desc">Pot permetre la instal·lació a través d\'USB a Opcions per a desenvolupadors</string>
   <string name="adb_login_xiaomi_account">Primer inicia la sessió al seu compte Mi</string>
-  <string name="add_miservice_dialog_content">"%s us requereix perquè afegiu l'estructura de serveis MIUI a la llista d'excepcions. Pot rebre notificacions de les aplicacions MIUI incorporades i altres de tercers."</string>
+  <string name="add_miservice_dialog_content">%s us requereix perquè afegiu l\'estructura de serveis MIUI a la llista d\'excepcions. Pot rebre notificacions de les aplicacions MIUI incorporades i altres de tercers.</string>
   <string name="add_miservice_dialog_title">Estructura de serveis MIUI</string>
   <string name="add_to_whitelist_button">Excepcions en les dades en itinerància</string>
   <string name="add_white_list">Afegir</string>
@@ -391,7 +391,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="data_network_blocked_notification_title">No hi ha connexió a internet</string>
   <string name="data_usage_correction_timeout_body">Toqui per actualitzar manualment.</string>
   <string name="data_usage_correction_timeout_title">Esgotat el temps per sincronitzar ús de dades</string>
-  <string name="data_usage_disabled_dialog">"Ha arribat al límit d'ús de dades. L'ús excessiu de la seva tarifa de dades pot ocasionar despeses addicionals"</string>
+  <string name="data_usage_disabled_dialog">Ha arribat al límit d\'ús de dades. L\'ús excessiu de la seva tarifa de dades pot ocasionar despeses addicionals</string>
   <string name="data_usage_disabled_dialog_enable">Activar dades</string>
   <string name="data_usage_leisure_warning_body">Toqui per veure detalls de l\'ús de dades.</string>
   <string name="data_usage_leisure_warning_title">Límit d\'ús de dades</string>
@@ -595,7 +595,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="installing">S\'està instal·lant</string>
   <string name="international_roaming_setting">Itinerància internacional</string>
   <string name="international_roaming_whitelist_count">%d aplicacions poden utilitzar dades mòbils en itinerància</string>
-  <string name="ip_address_exception_summary">"No s'ha pogut obtenir l'adreça IP. Si tornes a tenir aquest problema, prova a utilitzar una IP estàtica."</string>
+  <string name="ip_address_exception_summary">No s\'ha pogut obtenir l\'adreça IP. Si tornes a tenir aquest problema, prova a utilitzar una IP estàtica.</string>
   <string name="item_app_permission">Permisos d\'aplicació</string>
   <string name="item_dev_mode">Opcions de desenvolupament</string>
   <string name="item_install_monitor">Instal·lar monitor</string>
@@ -635,7 +635,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="list_empty_text">Buit</string>
   <string name="load_fail">"No s'ha pogut carregar"</string>
   <string name="load_only_under_wlan">Carrega notícies quan es connecta al Wi-Fi</string>
-  <string name="local_ip_exception_summary">"No s'ha pogut obtenir una adreça IP local. Per reportar a MIUI, aneu a l'aplicació Informar error i envieu registre des del dispositiu."</string>
+  <string name="local_ip_exception_summary">No s\'ha pogut obtenir una adreça IP local. Per reportar a MIUI, aneu a l\'aplicació Informar error i envieu registre des del dispositiu.</string>
   <string name="lock_mode_title">Configuració de bloqueig</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s usats amb la pantalla bloquejada</string>
   <string name="lock_screen_traffic_guide_notification_title">Tocar per administrar ús de dades.</string>
@@ -681,43 +681,19 @@ o introdueixi la seva contrasenya"</string>
   <string name="main_alert_message_no_imsi">SIM no detectada</string>
   <string name="main_alert_message_no_mobile_package">Establir límit de dades</string>
   <string name="main_alert_message_open_traffic_ctrl">Li recomanem la restricció de l\'ús de dades</string>
-  <string name="main_button_idel_traffic">Hora vall</string>
-  <string name="main_button_normal_traffic">Límit</string>
   <string name="main_button_usage_adjust">Establir límit d\'ús de dades</string>
   <string name="main_button_usage_adjust_manual">Establir límit d\'ús de dades</string>
   <string name="main_button_usage_adjusting">Canviant&#8230;</string>
   <string name="main_button_usage_package_setting">Establir límit d\'ús de dades</string>
-  <string name="main_message_no_package_by_dual">Establir límit de dades per %s</string>
   <string name="main_open_traffic_ctrl_button">Restricció d\'ús de dades</string>
-  <string name="main_primary_message_traffic_cur_leisure">Ús de dades en hora vall</string>
-  <string name="main_primary_message_traffic_cur_normal">Per sota del límit de dades</string>
-  <string name="main_primary_message_traffic_cur_normal_overlimit">Límit de dades excedit</string>
-  <string name="main_primary_message_traffic_cur_normal_warning">Alerta d\'ús de dades</string>
-  <string name="main_primary_message_traffic_enough">Per sota del límit d\'ús de dades</string>
   <string name="main_primary_message_traffic_overlimit">Límit d\'ús de dades excedit</string>
-  <string name="main_primary_message_traffic_overlimit_purchase">Necessita recarregar</string>
-  <string name="main_primary_message_traffic_purchase">Necessita recarregar</string>
   <string name="main_primary_message_traffic_warning">A prop del límit d\'ús de dades</string>
-  <string name="main_secondary_message_traffic_detail_leisure">"
-Consum en hores vall: %1$s queda | %2$s usat"</string>
-  <string name="main_secondary_message_traffic_detail_normal">"
-Consum en hores punta: %1$s%2$s queda | %3$s usat"</string>
-  <string name="main_secondary_message_traffic_over">"sobrepassat "</string>
-  <string name="main_secondary_message_traffic_remain">"queden "</string>
-  <string name="main_secondary_message_traffic_used_leisure">%s dades en hora vall usats</string>
-  <string name="main_secondary_message_traffic_used_noleisure">%s dades en hora punta usats | no queden dades en hora vall</string>
-  <string name="main_secondary_message_traffic_used_normal">%s dades en hora punta usats</string>
   <string name="main_toolbar_firewall">Restricció d\'ús de dades a aplicació</string>
   <string name="main_toolbar_internet_by_mobiledata">Dades mòbils</string>
   <string name="main_toolbar_internet_by_pc_brige">Internet USB</string>
   <string name="main_toolbar_internet_by_wifi">Connectar a internet usant Wi-Fi</string>
   <string name="main_toolbar_purchase">Recargar</string>
   <string name="main_toolbar_statistic">Estadístiques d\'ús de dades</string>
-  <string name="main_traffic_overlimit_text">sobrepassat</string>
-  <string name="main_traffic_remian_text">queden</string>
-  <string name="main_traffic_used">%s usats</string>
-  <string name="main_traffic_used_only">%s usats</string>
-  <string name="main_traffic_used_text">usats</string>
   <string name="manual_handle_title">CARACTERÍSTIQUES DISPONIBLES</string>
   <string name="manual_input_free_traffic">Establir ús de dades en hora vall</string>
   <string name="manual_input_traffic">Establir ús de dades</string>
@@ -785,7 +761,7 @@ Consum en hores punta: %1$s%2$s queda | %3$s usat"</string>
 
  3. La senyal de la xarxa del seu operador pot ser feble en la seva localització actual."</string>
   <string name="network_not_available">"No s'ha pogut connectar a la xarxa"</string>
-  <string name="network_operator_exception_summary">"No podia activa la targeta SIM. Assegureu-vos que la targeta SIM està inserida correctament i que s'ha activat el seu pla mòbil per la vostra companyia."</string>
+  <string name="network_operator_exception_summary">No podia activa la targeta SIM. Assegureu-vos que la targeta SIM està inserida correctament i que s\'ha activat el seu pla mòbil per la vostra companyia.</string>
   <string name="network_permission_exception_tips">"No podeu utilitzar dades mòbils per connectar a la xarxa"</string>
   <string name="network_roaming_exception_tips">"No podeu utilitzar dades mòbils mentre estigui connectat en itinerància a la xarxa."</string>
   <string name="network_route_exception_detail">"Hi pot haver un problema amb l\'encaminador que esteu connectat a:
@@ -821,7 +797,6 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="networkchanged_exception_title">Connexió canviada</string>
   <string name="never">1 cop</string>
   <string name="news_change">Canvia</string>
-  <string name="next_step_button">Següent</string>
   <string name="no_network">"No s'ha pogut connectar a la xarxa, torneu-ho a provar més tard"</string>
   <string name="no_network_btn">Torna a provar-ho</string>
   <string name="none_mi_service_app_detail">Buit</string>
@@ -1107,9 +1082,9 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="privacy_declare_dialog_message">"En utilitzar aquest servei, accepta els &lt;a href=%s&gt; Termes de Servei&lt;/a&gt; d'Opera."</string>
   <string name="privacy_declare_dialog_title">Términos de Servicio</string>
   <string name="privacy_mode_dialog_title">Mode convidat</string>
-  <string name="privacy_prompt_tc_sms_report_message">"El seu número de telèfon i detalls de l'operador s'han d'encriptar i pujaran als servidors de Xiaomi per tal d'actualitzar la informació de la seva utilització de les dades."</string>
-  <string name="privacy_prompt_traffic_adjust_message">"Aquesta característica ha de xifrar i enviar el IMEI del dispositiu, número de telèfon i informació de l'operador als servidors Mi amb la finalitat d'obtenir estadístiques d'ús de les dades del seu operador."</string>
-  <string name="privacy_prompt_traffic_purchase_message">"Tu número de teléfono y detalles del operador serán encriptados y subidos a los servidores de Mi para obtener más información de las opciones de compra de datos."</string>
+  <string name="privacy_prompt_tc_sms_report_message">El seu número de telèfon i detalls de l\'operador s\'han d\'encriptar i pujaran als servidors de Xiaomi per tal d\'actualitzar la informació de la seva utilització de les dades.</string>
+  <string name="privacy_prompt_traffic_adjust_message">Aquesta característica ha de xifrar i enviar el IMEI del dispositiu, número de telèfon i informació de l\'operador als servidors Mi amb la finalitat d\'obtenir estadístiques d\'ús de les dades del seu operador.</string>
+  <string name="privacy_prompt_traffic_purchase_message">Tu número de teléfono y detalles del operador serán encriptados y subidos a los servidores de Mi para obtener más información de las opciones de compra de datos.</string>
   <string name="privacy_prompt_upload">Pujar</string>
   <string name="process_kernel_label">Android</string>
   <string name="process_mediaserver_label">Servidor de mitjans</string>
@@ -1263,13 +1238,12 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="signal_exception_summary">"No es pot connectar a la xarxa en aquesta àrea."</string>
   <string name="signal_exception_title">Senyal de xarxa feble</string>
   <string name="sim_location_diagnostic">Diagnòstic d\'ubicació</string>
-  <string name="sim_location_error_dialog_message">"La targeta SIM que utilitzeu és de %1$s. Això és diferent de la ubicació establerta manualment (%2$s). Canviar l'ubicació de la SIM a %3$s?"</string>
+  <string name="sim_location_error_dialog_message">La targeta SIM que utilitzeu és de %1$s. Això és diferent de la ubicació establerta manualment (%2$s). Canviar l\'ubicació de la SIM a %3$s?</string>
   <string name="sim_location_error_notify_message">Premi per canviar d\'ubicació SIM.</string>
   <string name="sim_location_error_notify_title">Error de la targeta SIM</string>
   <string name="sim_state_exception_summary">Estat de la SIM indica que alguna cosa pot estar malament amb la targeta SIM.</string>
   <string name="skin_change_close_btn_text">Estableix com a fons per defecte</string>
   <string name="skin_change_close_toast">Els canvis s\'aplicaran la propera vegada que executeu Seguretat</string>
-  <string name="sorted_button">Ordenar per</string>
   <string name="sorted_dialog_title">Ordenar per</string>
   <string name="sp_back_title_text_zero">Segur</string>
   <string name="sp_background_risk_dialog_summary">, feu un control detallat i corregiu els riscos de pagament</string>
@@ -1306,14 +1280,12 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="sp_settings_root_title_omit">Comprovar ROOT</string>
   <string name="sp_settings_title_input_method">IME Segur</string>
   <string name="sp_toast_removed_from_sign_white_list">S\'ha eliminat de les excepcions. L\'element serà escanejat la propera vegada.</string>
-  <string name="spinner_title">%1$s - Dades mòbils: %2$s</string>
   <string name="sponsored">Patrocinat</string>
   <string name="sponsored_sec_fb">Patrocinat</string>
   <string name="st_title_mode_choose_group">Escollir perfil</string>
   <string name="start_diagnostic_botton">Iniciar</string>
   <string name="start_downloading_app">S\'està iniciant la baixada: %1$s</string>
   <string name="start_install">Instal·la ara</string>
-  <string name="stop_app_button">Atura</string>
   <string name="suffix_pay_risk_count_bottom">riscos</string>
   <string name="suffix_pay_risk_count_top">pagament</string>
   <string name="suffix_virus_count_bottom">total</string>
@@ -1413,7 +1385,7 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="tc_diagnostic_upload_success">Gràcies pels vostres comentaris!</string>
   <string name="tc_sms_report_direction">Sol·licitar codi (SMS)</string>
   <string name="tc_sms_report_do_report">Envia</string>
-  <string name="tc_sms_report_get_default">"No incorrerà en càrrecs per missatges SMS que s'utilitzen per obtenir el saldo d'utilització de les dades del seu operador."</string>
+  <string name="tc_sms_report_get_default">No incorrerà en càrrecs per missatges SMS que s\'utilitzen per obtenir el saldo d\'utilització de les dades del seu operador.</string>
   <string name="tc_sms_report_get_sms">Obtenir SMS</string>
   <string name="tc_sms_report_get_sms2">Obtenir SMS</string>
   <string name="tc_sms_report_get_sms_again">Refrescar SMS</string>
@@ -1422,13 +1394,13 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="tc_sms_report_get_sms_failure">"No s'ha pogut aconseguir ús de dades en format SMS"</string>
   <string name="tc_sms_report_get_sms_successs">Ús de dades en format SMS actualitzat</string>
   <string name="tc_sms_report_get_sms_timeout">No s\'ha pogut aconseguir dades en format SMS: temps d\'espera finalitzat</string>
-  <string name="tc_sms_report_get_success">"Rebut informe SMS de l'operador sobre ús de dades. Assegureu-vos que les dades són fiables i remeti'l"</string>
+  <string name="tc_sms_report_get_success">Rebut informe SMS de l\'operador sobre ús de dades. Assegureu-vos que les dades són fiables i remeti\'l</string>
   <string name="tc_sms_report_get_success_notify_body">Assegureu-vos que l\'informe és fiable i remeti\'l a MIUI.</string>
   <string name="tc_sms_report_get_success_notify_title">Rebut informe SMS d\'ús de dades</string>
   <string name="tc_sms_report_geting_sms">Obtenint informe SMS d\'ús de dades</string>
   <string name="tc_sms_report_notify_correction_body">Anar a aplicació d\'ús de dades al Centre de Seguretat i intentar-ho de nou manualment.</string>
   <string name="tc_sms_report_notify_correction_failure_title">"No s'ha pogut actualitzar la informació d'ús de dades"</string>
-  <string name="tc_sms_report_notify_get_failure_body">"No s'ha pogut remetre l'informe d'ús de dades. Assegureu-vos que està connectat a una xarxa Mòbil."</string>
+  <string name="tc_sms_report_notify_get_failure_body">No s\'ha pogut remetre l\'informe d\'ús de dades. Assegureu-vos que està connectat a una xarxa Mòbil.</string>
   <string name="tc_sms_report_notify_get_failure_title">"No es pot obtenir l'informe d'ús de dades"</string>
   <string name="tc_sms_report_notify_get_timeout_body">El procés va excedir el temps d\'espera. Confirmeu amb el seu operador que el codi de sol·licitud SMS que va introduir és correcte.</string>
   <string name="tc_sms_report_notify_get_timeout_title">"No s'ha pogut obtenir l'informe d'ús de dades"</string>
@@ -1437,7 +1409,7 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="tc_sms_report_receive_num">Número del receptor</string>
   <string name="tc_sms_report_send_num">Número de l\'operador</string>
   <string name="tc_sms_report_summary">Ajudeu-nos a millorar aquesta característica, enviant-nos un informe quan la informació del seu ús de dades és incorrecta o no s\'actualitza.</string>
-  <string name="tc_sms_report_tips_dialog_message">"L'ús de dades utilitza un SMS especialment formatat per obtenir del seu operador seus números d'ús de dades més recents. Si aquesta característica no funciona correctament intenti actualitzar el format SMS d'ús de dades. El nou format actualitzat serà llavors enviat als nostres servidors."</string>
+  <string name="tc_sms_report_tips_dialog_message">L\'ús de dades utilitza un SMS especialment formatat per obtenir del seu operador seus números d\'ús de dades més recents. Si aquesta característica no funciona correctament intenti actualitzar el format SMS d\'ús de dades. El nou format actualitzat serà llavors enviat als nostres servidors.</string>
   <string name="tc_sms_report_tips_dialog_title">SMS d\'ús de dades</string>
   <string name="tc_sms_report_title">Error en informe d\'ús de dades</string>
   <string name="tc_sms_report_title_bill">Error en l\'informe d\'ús de dades</string>
@@ -1574,11 +1546,6 @@ Dades extres en ús"</string>
   <string name="traffic_purchase_body">Premi per recarregar el seu saldo.</string>
   <string name="traffic_purchse_suggestion">Límit de dades excedit</string>
   <string name="traffic_setting_app_count">%d aplicacions</string>
-  <string name="traffic_setting_completed">D\'acord</string>
-  <string name="traffic_setting_extra_pkg_oversea_summary">Estableix el pla de dades i límits d\'ús</string>
-  <string name="traffic_setting_extra_pkg_summary">Estableix el pla de dades i límits d\'ús</string>
-  <string name="traffic_setting_extra_pkg_title">Configuració addicional</string>
-  <string name="traffic_setting_extra_traffic_title">Configuració addicional</string>
   <string name="traffic_setting_fragment_area">Local</string>
   <string name="traffic_setting_fragment_area_dual">%s Local</string>
   <string name="traffic_setting_fragment_brand">Marca</string>
@@ -1596,8 +1563,6 @@ Dades extres en ús"</string>
   <string name="traffic_setting_fragment_sms_content_tips">Introduïu el missatge aquí</string>
   <string name="traffic_setting_fragment_template">Plantilla de missatge</string>
   <string name="traffic_setting_fragment_title">Configuració de consulta d\'ús de dades</string>
-  <string name="traffic_setting_open">Ences</string>
-  <string name="traffic_setting_step_num">Configuració pla de dades</string>
   <string name="traffic_warning_purchase_title">Avís d\'ús de dades mòbils</string>
   <string name="try_recommended_function">Protegiu el dispositiu amb les noves funcions de seguretat</string>
   <string name="unable_connect_internet">No hi ha connexió a internet</string>
@@ -1627,9 +1592,9 @@ Dades extres en ús"</string>
   <string name="usb_adb_input_apply_step_2">Això pot donar lloc a fuites d\'informació privada, com ara comptes o missatges</string>
   <string name="usb_adb_input_apply_step_3">Assegureu-vos que comprèn els riscos relacionats abans de permetre. Permetre ara?</string>
   <string name="usb_install_desc">Voleu instal·lar aquesta aplicació a través d\'USB?</string>
-  <string name="usbsharenet_exception_summary">"No es pot comprovar la xarxa si està sent compartida per Mi PC Suite."</string>
+  <string name="usbsharenet_exception_summary">No es pot comprovar la xarxa si està sent compartida per Mi PC Suite.</string>
   <string name="usbsharenet_exception_title">Comprovar xarxa compartida per USB</string>
-  <string name="usbsharenet_pc_exception_summary">"No es pot connectar a Internet mitjançant connexió USB compartida. Comproveu la connexió a Internet de l'ordinador."</string>
+  <string name="usbsharenet_pc_exception_summary">No es pot connectar a Internet mitjançant connexió USB compartida. Comproveu la connexió a Internet de l\'ordinador.</string>
   <string name="use_immediately">Utilitza</string>
   <string name="virus_ad_icon_text">Anunci</string>
   <string name="virus_already_update">Les definicions estan actualitzades</string>
