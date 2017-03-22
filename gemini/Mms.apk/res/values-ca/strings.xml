@@ -73,7 +73,6 @@
   <string name="cloud_state_disabled">La sincronització amb Mi Cloud està desactivada</string>
   <string name="cloud_state_sync_finished">Sincronitzat amb Mi Cloud</string>
   <string name="cloud_state_syncing">S\'està sincronitzant amb Mi Cloud&#8230;</string>
-  <string name="cmcc_key">43a489fcb42b4372b10f0586fe6dbf88</string>
   <string name="compressing">Imatge massa gran. S\'està comprimint&#8230;</string>
   <string name="confirm">D\'acord</string>
   <string name="confirm_add_blacklist_dialog_dspt">Voleu afegir aquest número a la vostra llista de bloqueig?</string>
