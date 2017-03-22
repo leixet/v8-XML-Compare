@@ -50,6 +50,7 @@
   <string name="APKTOOL_DUMMY_85a">fals</string>
   <string name="APKTOOL_DUMMY_85b">fals</string>
   <string name="APKTOOL_DUMMY_85c">fals</string>
+  <string name="APKTOOL_DUMMY_85d">fals</string>
   <string name="SMS_and_MMS">SMS i MMS</string>
   <string name="Setting_lock">Configuració</string>
   <string name="Settings_title_anti_spam">Configuració de llista de bloqueig</string>
@@ -1049,6 +1050,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_about_traffic_title">Configuració d\'ús de dades</string>
   <string name="pref_add_traffic_pkg">Dades addicionals comprades</string>
   <string name="pref_adjust_data_usage">Plantilla de missatge d\'operador</string>
+  <string name="pref_adjust_data_usage_value">Modifica</string>
   <string name="pref_adjust_traffic_data">Establir ús de dades</string>
   <string name="pref_allow_connect_network_title">Dades en itinerància internacional</string>
   <string name="pref_allow_connect_network_whitelist_title">Utilitzar dades mòbils a permeses</string>
@@ -1057,6 +1059,8 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_auto_adjust_traffic">Estadístiques d\'ús de dades per Auto sincronitzar</string>
   <string name="pref_automatic_adjust">Configuració</string>
   <string name="pref_avaible_traffic">Pla de dades</string>
+  <string name="pref_category_daily_package_tile">Pla de dades diàries</string>
+  <string name="pref_category_half_year_package_tile">Paquet de dades semestral</string>
   <string name="pref_category_title_lock_screen_memory_clean">Neteja quan la pantalla estigui bloquejada</string>
   <string name="pref_category_title_module_settings">Configuració de regles</string>
   <string name="pref_category_title_other">Configuració addicional</string>
@@ -1065,11 +1069,14 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_category_title_virus_lib_auto_update">Actualització automàtica de definicions</string>
   <string name="pref_category_title_virus_white_list">Excepcions</string>
   <string name="pref_check_network_diagnostics">"Comproveu si la vostra connexió de dades està funcionant normalment"</string>
+  <string name="pref_confirm_operator_setting">Assegureu-vos que la informació que heu introduït es correcte</string>
   <string name="pref_connect_settings_enable_background">Permet dades en segon pla</string>
   <string name="pref_connect_settings_enable_background_hint">"Permet a les aplicacions utilitzar dades mòbils quan no les utilitzeu"</string>
   <string name="pref_connect_settings_exceed_limit">Restringeix ús de dades després del límit</string>
   <string name="pref_connect_settings_exceed_limit_hint">Desactiva la connexió de dades quan l\'ús de dades arriba el seu límit</string>
   <string name="pref_content_virus_white_list_none">Cap element</string>
+  <string name="pref_correction_setting">Configuració de la plantilla de configuració</string>
+  <string name="pref_correction_sms_content">Plantilla de configuració</string>
   <string name="pref_daily_adjust">Establir límit de dades en hora punta</string>
   <string name="pref_daily_traffic">Límit de dades en hora punta</string>
   <string name="pref_data_usage_ignore_settings">Ignora ús de dades</string>
