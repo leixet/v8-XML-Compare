@@ -2214,6 +2214,8 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
 Heu iniciat la sessió als següents comptes:
 »</string>
   <string name="master_clear_all">"Voleu eliminar totes les dades de l'emmagatzematge intern del telèfon? No podreu recuperar-los!"</string>
+  <string name="master_clear_apply_step_1">&lt;b&gt;&amp;#8220;El restabliment de fàbrica&amp;#8221; esborrarà totes les dades del telèfon&lt;/b&gt;, incloent fotos, cançons, notes i altres dades personals. Assegureu-vos de fer còpies de seguretat de tots els elements importants a l\'ordinador.</string>
+  <string name="master_clear_apply_step_2">Assegureu-vos que tots els elements importants es copien a l\'ordinador. Totes les dades sobre aquest dispositiu s\'esborraran durant el restabliment. &lt;b&gt;No podreu restaurar els elements si no existeix una còpia de seguretat.&lt;/b&gt;</string>
   <string name="master_clear_apply_title">Atenció</string>
   <string name="master_clear_button_text">Restableix el telèfon</string>
   <string name="master_clear_confirm_title">Voleu reinicialitzar-lo?</string>
@@ -2438,6 +2440,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="mvno_match_data">Valor de MVNO</string>
   <string name="mvno_type">Tipus de MVNO</string>
   <string name="my_device">El meu dispositiu</string>
+  <string name="my_device_disclaimer">Nota: la informació de maquinari, incloent la CPU, capacitat de la bateria, mida de pantalla, resolució i la càmera, és proporcionada pels laboratoris de Xiaomi, dissenyadors i proveïdors.</string>
   <string name="n_cacrts">%d certificats de CA</string>
   <string name="nearby_wifi">Xarxes disponibles</string>
   <string name="need_reboot_now">Reinicieu per aplicar l\'actualització.</string>
@@ -4544,6 +4547,8 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="vpn_save_login">Desa la informació del compte</string>
   <string name="vpn_search_domains">Dominis de cerca DNS</string>
   <string name="vpn_server">Adreça del servidor</string>
+  <string name="vpn_set_screen_lock_content">Estableix una contrasenya de bloqueig de pantalla per desar la configuració VPN</string>
+  <string name="vpn_set_screen_lock_title">Estableix una contrasenya de bloqueig de pantalla</string>
   <string name="vpn_settings_not_available">Configuració de VPN no està disponible per aquest usuari</string>
   <string name="vpn_settings_password">Afegeix una contrasenya per a la VPN</string>
   <string name="vpn_settings_summary">Protegeix la configuració VPN amb la contrasenya del bloqueig de pantalla</string>
