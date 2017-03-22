@@ -540,6 +540,8 @@ o introdueixi la seva contrasenya"</string>
   <string name="guide_operator_text">"Operador actual: "</string>
   <string name="guide_primary_text">"Activeu l\'assistent de xarxa per gestionar l\'ús de les dades mòbils"</string>
   <string name="guide_quck_open">Activa</string>
+  <string name="guide_second_text">"Una vegada configurat l'operador, MIUI controlarà l'ús de dades mòbils diàriament enviant un SMS de franc. Quan MIUI detecti que ha superat el límit de dades, es desconnectarà de la xarxa i li notificarà."</string>
+  <string name="guide_wait_setting">Ara no</string>
   <string name="handle_bar_summary_wifi_unknown">Desconeguda</string>
   <string name="handle_bar_title_apps">Aplicacions</string>
   <string name="handle_bar_title_paysms">Missatges</string>
@@ -701,13 +703,22 @@ o introdueixi la seva contrasenya"</string>
   <string name="main_alert_message_no_imsi">SIM no detectada</string>
   <string name="main_alert_message_no_mobile_package">Establir límit de dades</string>
   <string name="main_alert_message_open_traffic_ctrl">Li recomanem la restricció de l\'ús de dades</string>
+  <string name="main_bill_remained">Saldo del telèfon</string>
   <string name="main_button_usage_adjust">Establir límit d\'ús de dades</string>
   <string name="main_button_usage_adjust_manual">Establir límit d\'ús de dades</string>
   <string name="main_button_usage_adjusting">Canviant&#8230;</string>
   <string name="main_button_usage_package_setting">Establir límit d\'ús de dades</string>
+  <string name="main_month_total_used">Usats aquest mes</string>
+  <string name="main_month_used">Usats aquest mes</string>
+  <string name="main_no_info">Sense dades</string>
+  <string name="main_normal_data_usage">Dades mòbils utilitzades</string>
   <string name="main_open_traffic_ctrl_button">Restricció d\'ús de dades</string>
   <string name="main_primary_message_traffic_overlimit">Límit d\'ús de dades excedit</string>
+  <string name="main_primary_message_traffic_remain">Dades mòbils</string>
   <string name="main_primary_message_traffic_warning">A prop del límit d\'ús de dades</string>
+  <string name="main_purchase_tips">Promoció</string>
+  <string name="main_tc_over">S\'ha calibrat amb èxit</string>
+  <string name="main_tc_send_sms">"Envia SMS per calibrar"</string>
   <string name="main_toolbar_firewall">Restricció d\'ús de dades a aplicació</string>
   <string name="main_toolbar_internet_by_mobiledata">Dades mòbils</string>
   <string name="main_toolbar_internet_by_pc_brige">Internet USB</string>
@@ -756,6 +767,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="menu_text_power_manager">Ús de bateria</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Bateria %s</string>
+  <string name="menu_text_power_percent_title_default">Bateria</string>
   <string name="mi_service_app_detail">Detalls d\'ús de dades</string>
   <string name="mi_service_framework">Estructura de Mi Service</string>
   <string name="mi_service_traffic_detail">Detalls de Marc</string>
@@ -1047,6 +1059,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_content_virus_white_list_none">Cap element</string>
   <string name="pref_correction_setting">Configuració de la plantilla de configuració</string>
   <string name="pref_correction_sms_content">Plantilla de configuració</string>
+  <string name="pref_correction_sms_number">Envia SMS de calibratge a</string>
   <string name="pref_daily_adjust">Establir límit de dades en hora punta</string>
   <string name="pref_daily_traffic">Límit de dades en hora punta</string>
   <string name="pref_data_usage_ignore_settings">Ignora ús de dades</string>
@@ -1056,6 +1069,14 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_free_traffic_exceed_limit">Notificar quan l\'ús de dades arribi al límit</string>
   <string name="pref_free_traffic_limit_warn">Avís d\'ús de dades en hora vall</string>
   <string name="pref_free_traffic_settings">Configuració d\'ús de dades en hora vall </string>
+  <string name="pref_key_daily_package_switch">Pla de dades diari</string>
+  <string name="pref_key_daily_package_value">Pla de dades diari</string>
+  <string name="pref_key_direction_traffic">Dades mòbils designades</string>
+  <string name="pref_key_extra_package_switch">Paquet de recàrrega mensual</string>
+  <string name="pref_key_extra_package_value">Mida del paquet</string>
+  <string name="pref_key_half_year_package_start">Data d\'inici</string>
+  <string name="pref_key_half_year_package_switch">Paquet de dades semestral</string>
+  <string name="pref_key_half_year_package_value">Mida del paquet</string>
   <string name="pref_leisure_no_overlay">Activat</string>
   <string name="pref_leisure_not_opened">Desactivat</string>
   <string name="pref_manual_adjust">Establir manualment les estadístiques d\'ús de dades</string>
@@ -1065,6 +1086,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_more_traffic_settings">Configuració addicional</string>
   <string name="pref_new_installed_preconfig_title">"Configuració per defecte per a noves aplicacions"</string>
   <string name="pref_open_adjust_traffic">Sincronitza les estadístiques d\'ús de dades amb els servidors del seu operador</string>
+  <string name="pref_operator_not_set">"No s'ha configurat l'operador"</string>
   <string name="pref_package_traffic_leisure">%1$s | Hora vall: %2$s</string>
   <string name="pref_package_traffic_normal">Hora punta: %s</string>
   <string name="pref_package_traffic_overlay">%1$s | Addicional: %2$s</string>
@@ -1075,6 +1097,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_roaming_setting_gategory">Itinerància internacional</string>
   <string name="pref_setting_operators_message">Edita el missatge que el seu dispositiu envia al seu operador per sincronitzar les seves estadístiques d\'ús de dades</string>
   <string name="pref_show_mobile_traffic">Quan desbloqueja el telèfon, mostrar estadístiques d\'ús de dades durant el període en què el seu dispositiu ha estat bloquejat (ha de ser major de 5 minuts)</string>
+  <string name="pref_special_package_setting">Pla de dades personalitzat</string>
   <string name="pref_special_traffic_exceed_limit">Avisar quan l\'ús de dades arribi al límit</string>
   <string name="pref_special_traffic_limit_warn">Establir avís d\'ús de dades</string>
   <string name="pref_specified_adjust">Establir límit de dades personal</string>
@@ -1312,6 +1335,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="start_diagnostic_botton">Iniciar</string>
   <string name="start_downloading_app">S\'està iniciant la baixada: %1$s</string>
   <string name="start_install">Instal·la ara</string>
+  <string name="start_tc_button">Calibra</string>
   <string name="suffix_pay_risk_count_bottom">riscos</string>
   <string name="suffix_pay_risk_count_top">pagament</string>
   <string name="suffix_virus_count_bottom">total</string>
