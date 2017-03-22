@@ -216,6 +216,8 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="another_migration_already_in_progress">Ja hi ha una migració en curs.</string>
   <string name="anr_record_interval_title">Gravació d\'intervals ANR</string>
   <string name="anti_spam">Llista de bloqueig</string>
+  <string name="aod_mode_summary">Amb la pantalla apagada mostra sempre l\'hora, data i missatges.</string>
+  <string name="aod_mode_title">Sempre engegat</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Tipus d\'autenticació</string>
   <string name="apn_auth_type_chap">CHAP</string>
@@ -326,6 +328,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="apply_now_button_text">Actualitza</string>
   <string name="apply_password_to_category_title">Cal una contrasenya</string>
   <string name="apply_update_fail">"No s'ha pogut actualitzar"</string>
+  <string name="approve_title">Verificació</string>
   <string name="apps_storage">Magatzem d\'aplicacions</string>
   <string name="apps_summary">%1$d aplicacions instal·lades</string>
   <string name="apps_summary_example">24 aplicacions instal·lades</string>
@@ -776,9 +779,12 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="button_light_timeout">Durada de la llum dels botons</string>
   <string name="button_text_accept">D\'acord</string>
   <string name="button_text_accept_timer">D\'acord (%d)</string>
+  <string name="button_text_cancel">Cancel·la</string>
   <string name="button_text_login">Inicia la sessió</string>
   <string name="button_text_next_step">Següent</string>
   <string name="button_text_next_step_timer">Següent pas (%d)</string>
+  <string name="button_text_ok">D’acord</string>
+  <string name="button_text_ok_timer">D\'acord(%d)</string>
   <string name="button_text_reboot_now">Reinicia</string>
   <string name="button_text_reject">Rebutja</string>
   <string name="cache_header_label">Memòria cau</string>
@@ -2208,6 +2214,7 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
 Heu iniciat la sessió als següents comptes:
 »</string>
   <string name="master_clear_all">"Voleu eliminar totes les dades de l'emmagatzematge intern del telèfon? No podreu recuperar-los!"</string>
+  <string name="master_clear_apply_title">Atenció</string>
   <string name="master_clear_button_text">Restableix el telèfon</string>
   <string name="master_clear_confirm_title">Voleu reinicialitzar-lo?</string>
   <string name="master_clear_desc">S\'esborraran totes les dades de &lt;b&gt;emmagatzematge intern&lt;/b&gt;\" del telèfon, incloent-hi:
