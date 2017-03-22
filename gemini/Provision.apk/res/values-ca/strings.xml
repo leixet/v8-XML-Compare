@@ -16,6 +16,7 @@
   <string name="desc_fingerprint">Utilitzeu la empremta per desbloquejar el dispositiu, comprovar les transaccions de Mi Pay o per connectar-vos a aplicacions i serveis.</string>
   <string name="desc_international_fingerprint">Utilitzeu l\'empremta per desbloquejar el dispositiu o per iniciar sessió en aplicacions i serveis.</string>
   <string name="disagree">Cancel·la</string>
+  <string name="enable_accessibility_dialog_message">Vau activar TalkBack prement la pantalla amb 2 dits durant més de 10 segons. TalkBack proporciona comentaris de veu per a persones amb impediments visuals. Si ho va activar per accident, toqueu el botó Cancel·la i a continuació, toqueu dues vegades la pantalla.</string>
   <string name="enable_accessibility_dialog_negative_btn">Cancel·la</string>
   <string name="enable_accessibility_dialog_positive_btn">Confirma</string>
   <string name="ime_privacy_policy">Política de Privadesa del teclat seleccionat</string>
