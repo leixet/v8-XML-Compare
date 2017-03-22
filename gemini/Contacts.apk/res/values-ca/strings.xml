@@ -128,6 +128,7 @@
   <string name="callrecordview_menu_edit_call_note">Edita nota de trucada</string>
   <string name="callrecordview_menu_ip">Auto marcació d\'IP</string>
   <string name="callrecordview_menu_livetalk">Paquet de recàrrega</string>
+  <string name="callrecordview_menu_misim">SIM Mi</string>
   <string name="callrecordview_menu_mobiledata">Dades de compra</string>
   <string name="callrecordview_menu_paste">Enganxar</string>
   <string name="callrecordview_menu_recharge">Recarregar</string>
@@ -1112,6 +1113,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="sim_export_loading">Llegint targeta SIM&#8230;</string>
   <string name="sim_indexed_contact_not_exist">La posició %1$d en la targeta SIM no és vàlida. Aquesta posició ha d\'estar entre %2$d i %3$d.</string>
   <string name="sim_no_contact">No hi ha contactes a la targeta SIM</string>
+  <string name="sim_unloaded">La targeta SIM no està posada</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">No hi ha membres en el grup</string>
   <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
