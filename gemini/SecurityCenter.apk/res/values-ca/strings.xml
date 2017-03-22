@@ -172,6 +172,8 @@ o introdueixi la seva contrasenya"</string>
   <string name="auto_task_notify_task_cancel_do">Cancel·la l\'acció</string>
   <string name="auto_task_notify_task_canceled_summary">Podreu fer i rebre trucades</string>
   <string name="auto_task_notify_task_canceled_summary2">"Sembla que esteu jugant a un joc."</string>
+  <string name="auto_task_notify_task_canceled_summary3">Cancel·lat pel segon espai</string>
+  <string name="auto_task_notify_task_canceled_summary4">Cancel·lat pel primer espai</string>
   <string name="auto_task_notify_task_canceled_title">Acció cancel·lada</string>
   <string name="auto_task_notify_task_continue_do">Inicia l\'acció</string>
   <string name="auto_task_notify_task_count_down">L\'acció automatitzada s\'iniciarà en 5 segons</string>
@@ -279,6 +281,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="btn_text_start_check">Escanejar</string>
   <string name="btn_text_stop">Atura</string>
   <string name="btn_text_virus_scan">Escaneja</string>
+  <string name="button_look_up">Toqueu per veure-ho</string>
   <string name="button_text_accept">D\'acord</string>
   <string name="button_text_accept_timer">D\'acord (%d)</string>
   <string name="button_text_cancel">Cancel·la</string>
@@ -348,6 +351,8 @@ o introdueixi la seva contrasenya"</string>
   <string name="card_main_xspace_action">Crea</string>
   <string name="card_main_xspace_summary">Creeu comptes duals per a qualsevol aplicació</string>
   <string name="card_main_xspace_title">Aplicacions duals</string>
+  <string name="card_sms_report">Notifica via SMS</string>
+  <string name="card_tc_failed">"No s'ha pogut calibrar"</string>
   <string name="celcius_symbol">℃</string>
   <string name="charging_text_battery_full_time">"Última càrrega "</string>
   <string name="charging_text_battery_nearly_full">Quasi carregada</string>
