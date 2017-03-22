@@ -290,6 +290,7 @@
   <string name="unit_data_display_weight_qian">Qian</string>
   <string name="unit_data_display_weight_st">Tona curta</string>
   <string name="unit_data_display_weight_t">Tona</string>
+  <string name="unit_data_display_weight_taijin">Jin(Taiwan)</string>
   <string name="unit_data_display_weight_ug">Microgram</string>
   <string name="unit_data_display_weight_uk.cwt">Quintal britànic</string>
   <string name="unit_data_display_weight_uk.st">Pedra</string>
