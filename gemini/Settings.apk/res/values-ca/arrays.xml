@@ -808,7 +808,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>1 minut</item>
     <item>2 minuts</item>
     <item>5 minuts</item>
-    <item>Never</item>
+    <item>Mai</item>
   </string-array>
   <string-array name="fluency_mode_entries">
     <item>Amaga les animacions del sistema</item>
