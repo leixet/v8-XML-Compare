@@ -75,6 +75,7 @@
   <string name="cloud_state_disabled">La sincronització amb Mi Cloud està desactivada</string>
   <string name="cloud_state_sync_finished">Sincronitzat amb Mi Cloud</string>
   <string name="cloud_state_syncing">S\'està sincronitzant amb Mi Cloud&#8230;</string>
+  <string name="cmcc_key">43a489fcb42b4372b10f0586fe6dbf88</string>
   <string name="compressing">Imatge massa gran. S\'està comprimint&#8230;</string>
   <string name="confirm">D\'acord</string>
   <string name="confirm_add_blacklist_dialog_dspt">Voleu afegir aquest número a la vostra llista de bloqueig?</string>
@@ -423,6 +424,7 @@
   <string name="pref_summary_send_delivery_reports">Envia missatge de confirmació de lliurament al remitent quan rebi un missatge multimèdia</string>
   <string name="pref_summary_show_recent_contacts">Mostra els contactes recents en crear un nou missatge</string>
   <string name="pref_summary_wake_up_screen">Activa la pantalla cada vegada que es rep un nou missatge</string>
+  <string name="pref_switch_sdk_setting">Canvia al sistema sms inteligent</string>
   <string name="pref_system_title">Sistema</string>
   <string name="pref_time_auto_group_disabled_summary">"No està suportat en la mida de font actual"</string>
   <string name="pref_time_auto_group_summary">Agrupa els missatges rebuts en menys d\'un minut dins el mateix fil</string>
