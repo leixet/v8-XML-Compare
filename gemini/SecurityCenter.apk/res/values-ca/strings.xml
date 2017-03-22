@@ -353,6 +353,12 @@ o introdueixi la seva contrasenya"</string>
   <string name="card_main_xspace_title">Aplicacions duals</string>
   <string name="card_sms_report">Notifica via SMS</string>
   <string name="card_tc_failed">"No s'ha pogut calibrar"</string>
+  <string name="card_tc_failed_content">"Possibles raons:
+1. Els operadors responen més lentament al principi i al final d\'un mes. Intenteu-ho de nou en un parell de dies.
+2. Es requereix una plantilla de sol·licitud de xarxa quan es calibra per primera vegada. Connecteu-vos a la xarxa i torneu-ho a provar.
+3. Es possible que l\'operador no admeti l\'enviament d\'SMS amb les dades restants i el saldo del telèfon. Poseu-vos en contacte amb l\'operador per obtenir més informació.
+4. Hi pot haver un error en les dades de l\'operador. Proveu el diagnòstic de l\'operador per resoldre això.
+5. Res d\'això li ha ajudat? Toqueu «Informa via SMS» per enviar els comentaris a Xiaomi en un SMS."</string>
   <string name="celcius_symbol">℃</string>
   <string name="charging_text_battery_full_time">"Última càrrega "</string>
   <string name="charging_text_battery_nearly_full">Quasi carregada</string>
@@ -389,6 +395,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="cta_dialog_title">Termes i condicions.</string>
   <string name="cta_settings">Permet la connexió a internet</string>
   <string name="current_network_state_not_need_diagnose">Normal</string>
+  <string name="customize_limit_pkg">%s (personalitzat)</string>
   <string name="daily_limit_and_lock_screen">Límit de dades i notificacions</string>
   <string name="daily_limit_network_available_body">Toqui per veure les estadístiques d\'ús de dades.</string>
   <string name="daily_limit_over_message">"Ha superat el límit de dades diàri."</string>
@@ -410,7 +417,9 @@ o introdueixi la seva contrasenya"</string>
   <string name="data_usage_restricted_body">Toqui per activar dades en segon pla</string>
   <string name="data_usage_restricted_title">Dades en segon pla restringides</string>
   <string name="data_usage_warning_body">Toqui per veure detalls sobre ús de dades.</string>
+  <string name="data_usage_warning_body_notify">Toqueu per veure els detalls</string>
   <string name="data_usage_warning_title">Alerta d\'ús de dades</string>
+  <string name="data_usage_warning_title_notify">Heu superat el limit de dades</string>
   <string name="datausage_ignore_app_list_count">"Ignorant %d ús de dades d'aplicacions"</string>
   <string name="declaration_dialog_msg">Aquesta característica pot ajudar a vigilar el seu ús, però no li garanteix evitar càrrecs addicionals. Per obtenir millors resultats, estableixi un límit conservador.</string>
   <string name="deep_clean_disconnect_data_title">Desactiva les dades mòbils quan el dispositiu està bloquejat</string>
@@ -493,11 +502,13 @@ o introdueixi la seva contrasenya"</string>
   <string name="fingerprint_verify_succeed">Comprovació correcta</string>
   <string name="fingerprint_verify_try_agin">"No s'ha pogut escanejar,tornar a provar"</string>
   <string name="firewall_activity_lable">Restringir l\'ús de dades per a l\'aplicació</string>
+  <string name="firewall_allow_network">Permès</string>
   <string name="firewall_applist">Aplicacions</string>
   <string name="firewall_fragment_nonesys_listempty">Buit</string>
   <string name="firewall_fragment_sys_listempty">Buit</string>
   <string name="firewall_fragment_tab_title_nonsys">Instal·lat</string>
   <string name="firewall_fragment_tab_title_sys">Sistema</string>
+  <string name="firewall_network_allow">S\'ha permès a %1$s a utilitzar la connexió %2$s</string>
   <string name="firewall_network_restrict_notify_message">Tocar per canviar la configuració.</string>
   <string name="firewall_network_restrict_notify_mobile">dades mòbils</string>
   <string name="firewall_network_restrict_notify_title">"%1$s no pot utilitzar %2$s."</string>
@@ -525,6 +536,10 @@ o introdueixi la seva contrasenya"</string>
   <string name="go_to">Endavant</string>
   <string name="go_to_setting_fingerprint">Configuració</string>
   <string name="goto_set">Estableix</string>
+  <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Operador incorrecte?&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="guide_operator_text">"Operador actual: "</string>
+  <string name="guide_primary_text">"Activeu l\'assistent de xarxa per gestionar l\'ús de les dades mòbils"</string>
+  <string name="guide_quck_open">Activa</string>
   <string name="handle_bar_summary_wifi_unknown">Desconeguda</string>
   <string name="handle_bar_title_apps">Aplicacions</string>
   <string name="handle_bar_title_paysms">Missatges</string>
