@@ -9,7 +9,6 @@
   <string name="altitude_uncalibrate_refresh">Torna a provar-ho</string>
   <string name="altitude_uncalibrate_tip">"No es pot calibrar l'altitud"</string>
   <string name="altitude_unit">M</string>
-  <string name="angle">%.0f</string>
   <string name="app_label">Brúixola</string>
   <string name="calibrate_failed">Ha fallat el calibratge d\'altitud</string>
   <string name="calibrate_failed_no_location">"No es pot calibrar"</string>
