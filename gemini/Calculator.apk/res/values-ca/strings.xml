@@ -356,6 +356,7 @@
   <string name="unit_data_short_weight_lt">l.t</string>
   <string name="unit_data_short_weight_qian">qian</string>
   <string name="unit_data_short_weight_st">sh.t</string>
+  <string name="unit_data_short_weight_taijin">jin(tw)</string>
   <string name="unit_data_short_weight_ug">μg</string>
   <string name="unit_data_short_weight_uk.cwt">quintal</string>
   <string name="unit_data_short_weight_us.cwt">quintal</string>
