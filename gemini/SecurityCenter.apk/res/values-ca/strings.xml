@@ -719,6 +719,8 @@ o introdueixi la seva contrasenya"</string>
   <string name="main_purchase_tips">Promoció</string>
   <string name="main_tc_over">S\'ha calibrat amb èxit</string>
   <string name="main_tc_send_sms">"Envia SMS per calibrar"</string>
+  <string name="main_tc_wait_result">"S\'està esperant la resposta de l\'operador"</string>
+  <string name="main_today_used">Usat avui</string>
   <string name="main_toolbar_firewall">Restricció d\'ús de dades a aplicació</string>
   <string name="main_toolbar_internet_by_mobiledata">Dades mòbils</string>
   <string name="main_toolbar_internet_by_pc_brige">Internet USB</string>
@@ -1032,6 +1034,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_about_traffic_title">Configuració d\'ús de dades</string>
   <string name="pref_add_traffic_pkg">Dades addicionals comprades</string>
   <string name="pref_adjust_data_usage">Plantilla de missatge d\'operador</string>
+  <string name="pref_adjust_data_usage_summary">Després de canviar la plantilla de calibratge, MIUI la farà servir per obtenir estadístiques d\'ús de dades del vostre operador</string>
   <string name="pref_adjust_data_usage_value">Modifica</string>
   <string name="pref_adjust_traffic_data">Establir ús de dades</string>
   <string name="pref_allow_connect_network_title">Dades en itinerància internacional</string>
@@ -1042,6 +1045,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_automatic_adjust">Configuració</string>
   <string name="pref_avaible_traffic">Pla de dades</string>
   <string name="pref_category_daily_package_tile">Pla de dades diàries</string>
+  <string name="pref_category_extra_package_tile">Paquet de recàrrega</string>
   <string name="pref_category_half_year_package_tile">Paquet de dades semestral</string>
   <string name="pref_category_title_lock_screen_memory_clean">Neteja quan la pantalla estigui bloquejada</string>
   <string name="pref_category_title_module_settings">Configuració de regles</string>
@@ -1058,6 +1062,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_connect_settings_exceed_limit_hint">Desactiva la connexió de dades quan l\'ús de dades arriba el seu límit</string>
   <string name="pref_content_virus_white_list_none">Cap element</string>
   <string name="pref_correction_setting">Configuració de la plantilla de configuració</string>
+  <string name="pref_correction_setting_switch">Utilitza una plantilla de calibratge personalitzada</string>
   <string name="pref_correction_sms_content">Plantilla de configuració</string>
   <string name="pref_correction_sms_number">Envia SMS de calibratge a</string>
   <string name="pref_daily_adjust">Establir límit de dades en hora punta</string>
