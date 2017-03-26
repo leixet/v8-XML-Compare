@@ -413,7 +413,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="data_usage_mobile_limit_title"> Dades mòbils apagades</string>
   <string name="data_usage_no_total_package_body">Toqui per establir el límit de dades</string>
   <string name="data_usage_no_total_package_body_dual">No hi ha límit de dades establert per %s.</string>
-  <string name="data_usage_no_total_package_title">Límit d\'ús de dades</string>
+  <string name="data_usage_no_total_package_title">Estableix un límit d\'ús de dades</string>
   <string name="data_usage_restricted_body">Toqui per activar dades en segon pla</string>
   <string name="data_usage_restricted_title">Dades en segon pla restringides</string>
   <string name="data_usage_warning_body">Toqui per veure detalls sobre ús de dades.</string>
@@ -607,7 +607,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="hot_today">Popular avui</string>
   <string name="info_and_call">Trucades i missatges</string>
   <string name="information_setting">Configuració del canal de notícies</string>
-  <string name="input_aviable_traffic">Establir límit d\'ús de dades</string>
+  <string name="input_aviable_traffic">Estableix límit d\'ús de dades</string>
   <string name="input_traffic_pkg">Introduïu dades addicionals</string>
   <string name="input_used_hint">Introdueixi ús de dades</string>
   <string name="input_used_max_hint">Introdueixi ús de dades (menys de %s)</string>
@@ -704,10 +704,10 @@ o introdueixi la seva contrasenya"</string>
   <string name="main_alert_message_no_mobile_package">Establir límit de dades</string>
   <string name="main_alert_message_open_traffic_ctrl">Li recomanem la restricció de l\'ús de dades</string>
   <string name="main_bill_remained">Saldo del telèfon</string>
-  <string name="main_button_usage_adjust">Establir límit d\'ús de dades</string>
-  <string name="main_button_usage_adjust_manual">Establir límit d\'ús de dades</string>
+  <string name="main_button_usage_adjust">Sincronitza l\'ús de dades mòbils</string>
+  <string name="main_button_usage_adjust_manual">Estableix límit d\'ús de dades</string>
   <string name="main_button_usage_adjusting">Canviant&#8230;</string>
-  <string name="main_button_usage_package_setting">Establir límit d\'ús de dades</string>
+  <string name="main_button_usage_package_setting">Estableix límit d\'ús de dades</string>
   <string name="main_month_total_used">Usats aquest mes</string>
   <string name="main_month_used">Usats aquest mes</string>
   <string name="main_no_info">Sense dades</string>
@@ -957,7 +957,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="permission_with_call_and_contact">Permisos relatius a trucades de telèfon, informació de contactes i registre de trucades.</string>
   <string name="permit_running_network">Dades en segon pla</string>
   <string name="person_hotpot">Punt d\'accés mòbil</string>
-  <string name="pkg_traffic">Establir límit d\'ús de dades</string>
+  <string name="pkg_traffic">Estableix límit d\'ús de dades</string>
   <string name="pm_auto_start_by_other">Triggered start</string>
   <string name="pm_auto_start_by_other_app">\"Permetre a l\'aplicació iniciï altres apps</string>
   <string name="pm_auto_start_by_system">Iniciar aplicacions</string>
