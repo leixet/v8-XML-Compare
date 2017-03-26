@@ -1109,7 +1109,7 @@ Alguns comptes també poden copiar automàticament els canvis que feu des del te
 
 Quan el consum de dades comptabilitzat pel telèfon i el subministrat per l\'operador són diferents, recomanem que utilitzeu el límit de dades més conservador.»</string>
   <string name="data_usage_limit_dialog_title">S\'està limitant l\'ús de dades</string>
-  <string name="data_usage_limit_editor_title">Estableix un límit d\'ús de dades</string>
+  <string name="data_usage_limit_editor_title">Estableix límit d\'ús de dades</string>
   <string name="data_usage_list_mobile">Mòbil</string>
   <string name="data_usage_list_none">Cap</string>
   <string name="data_usage_menu_allow_background">Permet dades en segon pla</string>
