@@ -214,7 +214,6 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="android_beam_witch_label">Transmissió Android</string>
   <string name="animator_duration_scale_title">Durada de l\'animació</string>
   <string name="another_migration_already_in_progress">Ja hi ha una migració en curs.</string>
-  <string name="anr_record_interval_title">Gravació d\'intervals ANR</string>
   <string name="anti_spam">Llista de bloqueig</string>
   <string name="aod_mode_summary">Amb la pantalla apagada mostra sempre l\'hora, data i missatges.</string>
   <string name="aod_mode_title">Sempre engegat</string>
@@ -2356,7 +2355,6 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="move_app_to_sdcard">Desplaça-ho a l\'emmagatzematge USB</string>
   <string name="move_error_device_admin">No es poden instal·lar administradors de dispositius en suports externs.</string>
   <string name="moving">S\'està desplaçant</string>
-  <string name="mqsas_settings_category">MQSAS</string>
   <string name="msd_driver_download">Baixa el controlador</string>
   <string name="msd_driver_download_mac">OSX: Baixeu el controlador i instal·leu AndroidFileTransfer.dmg.</string>
   <string name="msd_driver_download_mac_url">Baixeu els controladors des d\'http://www.android.com/filetransfer/</string>
@@ -2606,7 +2604,6 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="online_resource_entry">Recursos en línia</string>
   <string name="only_one_home_message">La configuració d\'inici s\'amagarà fins que no instal·leu una altra aplicació d\'inici.</string>
   <string name="onscreen_keyboard_settings_summary">Configuració del teclat de pantalla</string>
-  <string name="open_anr_debug">Activa la depuració ANR</string>
   <string name="open_miui_optimization_title">Activa l\'optimització MIUI</string>
   <string name="open_miui_optimization_warning_message">El dispositiu tornarà a arrencar per aplicar els canvis.</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Cancel·la</string>
@@ -3012,7 +3009,6 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="recommend_item_4">Auriculars</string>
   <string name="recommend_item_title">Recomanacions</string>
   <string name="recompute_size">S\'està tornant a calcular la mida&#8230;</string>
-  <string name="record_anr_in_background">Registra l\'ANR en segon pla</string>
   <string name="regulatory_information">Informació de regulació</string>
   <string name="remaining_length_format">Resten %1$s</string>
   <string name="remove_account_failed">L\'administrador no permet aquest canvi</string>
