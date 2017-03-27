@@ -830,12 +830,6 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Segon espai</item>
     <item>Segon espai</item>
   </string-array>
-  <string-array name="anr_record_interval_entries">
-    <item>10 seg</item>
-    <item>20 seg</item>
-    <item>30 seg</item>
-    <item>1 min</item>
-  </string-array>
   <string-array name="screen_button_style">
     <item>Per a esquerrans</item>
     <item>Per a dretans</item>
