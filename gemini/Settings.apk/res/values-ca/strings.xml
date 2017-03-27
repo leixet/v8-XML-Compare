@@ -1047,6 +1047,7 @@ Per seguir utilitzant el telèfon, cal una reinicialització de fàbrica. Quan e
   <string name="current_use_hce_wallet">"Esteu utilitzant el Mi Wallet"</string>
   <string name="current_use_uicc_se">S\'està utilitzant un element segur a la targeta SIM</string>
   <string name="current_use_uicc_wallet">"Esteu utilitzant el SIM%1$s Wallet"</string>
+  <string name="current_zone">(actual)</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (vermell-verd)</string>
   <string name="daltonizer_mode_disabled">Desactivat</string>
   <string name="daltonizer_mode_monochromacy">Monocromatisme</string>
