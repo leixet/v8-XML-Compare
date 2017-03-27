@@ -104,6 +104,9 @@
   <string name="click_to_refresh">Premeu aquí per actualitzar</string>
   <string name="click_to_switch_volume">Toqui per canviar entre l\'emmagatzematge intern i la targeta SD</string>
   <string name="click_to_switch_volume_pad">Toqueu per canviar entre l\'emmagatzematge intern i la targeta SD</string>
+  <string name="clockin_failed">"No s'ha pogut comprovar, torneu-ho a provar"</string>
+  <string name="clockin_success">S\'ha comprovat amb èxit</string>
+  <string name="clockin_use">Obtén un premi</string>
   <string name="comment_added">S\'ha afegit correctament</string>
   <string name="comment_added_tip">"Esteu afegint molts comentaris. Voleu seguir a aquesta persona?"</string>
   <string name="comment_delete_message">El comentari se suprimirà permanentment.</string>
@@ -123,6 +126,7 @@
   <string name="confirm_know">D\'acord</string>
   <string name="connecting">Connectant&#8230;</string>
   <string name="connection_error">"No s'ha pogut connectar"</string>
+  <string name="contain_sensitive_words">Elimineu les paraules inapropiades i torneu-ho a provar</string>
   <string name="copied">Copiat</string>
   <string name="copy_failed">"No s'ha pogut copiar, sembla que l'emmagatzematge és ple"</string>
   <string name="copy_text">Copia el text</string>
