@@ -1069,7 +1069,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_daily_traffic">Límit de dades en hora punta</string>
   <string name="pref_data_usage_ignore_settings">Ignora ús de dades</string>
   <string name="pref_data_usage_ignore_settings_summary">"No fer seguiment de l'ús de dades d'un grup d'aplicacions seleccionades"</string>
-  <string name="pref_data_usage_not_set">Establir límit d\'ús de dades</string>
+  <string name="pref_data_usage_not_set">Pla de dades desconegut</string>
   <string name="pref_free_adjust">Establir límit de dades en hora vall</string>
   <string name="pref_free_traffic_exceed_limit">Notificar quan l\'ús de dades arribi al límit</string>
   <string name="pref_free_traffic_limit_warn">Avís d\'ús de dades en hora vall</string>
