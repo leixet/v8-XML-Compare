@@ -17,10 +17,6 @@
     <item quantity="other">%1$d seleccionats</item>
     <item quantity="one">%1$d seleccionat</item>
   </plurals>
-  <plurals name="items_file">
-    <item quantity="other">&#160;(%1$d elements)</item>
-    <item quantity="one">&#160;(%1$d element)</item>
-  </plurals>
   <plurals name="items_picture">
     <item quantity="other">&#160;(%1$d elements)</item>
     <item quantity="one">&#160;(%1$d element)</item>
@@ -108,14 +104,6 @@
   <plurals name="video_play_num">
     <item quantity="other">%1$s vistes</item>
     <item quantity="one">%1$s vista</item>
-  </plurals>
-  <plurals name="video_num">
-    <item quantity="other">%1$s vídeos</item>
-    <item quantity="one">%1$s vídeo</item>
-  </plurals>
-  <plurals name="follower_num">
-    <item quantity="other">seguidors</item>
-    <item quantity="one">seguidor</item>
   </plurals>
   <plurals name="video_count">
     <item quantity="other">%1$s vídeos</item>
