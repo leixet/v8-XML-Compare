@@ -655,6 +655,10 @@ o introdueixi la seva contrasenya"</string>
   <string name="legal_workday_invalidate">Dll-Dv (informació de feiners caducada)</string>
   <string name="legal_workday_invalidate_message">Premi per actualitzar la informació de dies laborables.</string>
   <string name="legal_workday_message">(Omet els festius)</string>
+  <string name="leisure_usage_dialog_message">"Heu arribat al límit de dades en horari vall.
+
+L\'operadora podria carregar-li costos addicionals si feu servir la connexió de dades altra vegada."</string>
+  <string name="leisure_usage_dialog_title">Heu excedit el límit de dades en horari vall, s\'ha desactivat la connexió de dades</string>
   <string name="list_empty_text">Buit</string>
   <string name="load_fail">"No s'ha pogut carregar"</string>
   <string name="load_only_under_wlan">Carrega notícies quan es connecta al Wi-Fi</string>
@@ -709,11 +713,15 @@ o introdueixi la seva contrasenya"</string>
   <string name="main_button_usage_adjust_manual">Estableix límit d\'ús de dades</string>
   <string name="main_button_usage_adjusting">Canviant&#8230;</string>
   <string name="main_button_usage_package_setting">Estableix límit d\'ús de dades</string>
+  <string name="main_leisure_remained">Dades restants en horari vall</string>
   <string name="main_month_total_used">Usats aquest mes</string>
   <string name="main_month_used">Usats aquest mes</string>
   <string name="main_no_info">Sense dades</string>
   <string name="main_normal_data_usage">Dades mòbils utilitzades</string>
   <string name="main_open_traffic_ctrl_button">Restricció d\'ús de dades</string>
+  <string name="main_primary_message_leisure_alert">Avís de dades en horari vall</string>
+  <string name="main_primary_message_leisure_overlimit">S\'ha excedit el límit de dades en horari vall</string>
+  <string name="main_primary_message_leisure_remain">Dades en horari vall</string>
   <string name="main_primary_message_traffic_overlimit">Límit d\'ús de dades excedit</string>
   <string name="main_primary_message_traffic_remain">Dades mòbils</string>
   <string name="main_primary_message_traffic_warning">A prop del límit d\'ús de dades</string>
