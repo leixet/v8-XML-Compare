@@ -57,6 +57,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="activity_title_virus_detail">Detalls de virus</string>
   <string name="activity_title_virus_settings">Configuració</string>
   <string name="activity_title_white_list">Excepcions</string>
+  <string name="ad_btn_default_text">Més informació</string>
   <string name="adb_install_no_network">Connectat a la xarxa i torna-ho a provar</string>
   <string name="adb_install_open">S\'està permetent&#8230;</string>
   <string name="adb_install_open_error">"No s'ha pogut permetre, comprovi la seva connexió a la xarxa"</string>
