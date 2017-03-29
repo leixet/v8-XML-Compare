@@ -217,4 +217,24 @@
     <item quantity="other">S\'han afegit %d jocs</item>
     <item quantity="one">S\'ha afegit %d joc</item>
   </plurals>
+  <plurals name="app_manager_apps_generation_title">
+    <item quantity="other">Hi ha actualitzacions per a %d aplicacions</item>
+    <item quantity="one">Hi ha actualitzacions per a %d aplicació</item>
+  </plurals>
+  <plurals name="app_manager_permission_read_contact">
+    <item quantity="other">Va accedir als contactes %d vegades</item>
+    <item quantity="one">Va accedir als contactes %d vegada</item>
+  </plurals>
+  <plurals name="app_manager_permission_call_phone">
+    <item quantity="other">Va fer %d trucades</item>
+    <item quantity="one">Va fer %d trucada</item>
+  </plurals>
+  <plurals name="app_manager_permission_send_mms">
+    <item quantity="other">Va enviar %d SMS</item>
+    <item quantity="one">Va enviar %d SMS</item>
+  </plurals>
+  <plurals name="app_manager_permission_read_mms">
+    <item quantity="other">Va llegir SMS %d vegades</item>
+    <item quantity="one">Va llegir SMS %d vegada</item>
+  </plurals>
 </resources>
