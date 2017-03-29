@@ -1097,7 +1097,6 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_mi_sim_settings">Configuració de la Mi SIM</string>
   <string name="pref_month_begin_date">Restablir la data d\'ús</string>
   <string name="pref_month_first_day">1</string>
-  <string name="pref_more_traffic_settings">Configuració addicional</string>
   <string name="pref_new_installed_preconfig_title">"Configuració per defecte per a noves aplicacions"</string>
   <string name="pref_open_adjust_traffic">Sincronitza les estadístiques d\'ús de dades amb els servidors del seu operador</string>
   <string name="pref_operator_not_set">"No s'ha configurat l'operador"</string>
