@@ -2865,6 +2865,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="privacy_password_remind_bind_notlogin_account">Fes que el compte Mi pugui restablir la contrasenya.</string>
   <string name="privacy_password_remind_bindaccount_title">Afegeix un compte Mi</string>
   <string name="privacy_password_settings">Utilitza la contrasenya de privacitat</string>
+  <string name="privacy_password_settings_next">Següent</string>
   <string name="privacy_password_settings_titles">La contrasenya de privacitat protegeix els vostres missatges, fotos, fitxers, notes i aplicacions.</string>
   <string name="privacy_password_settings_titles_elder_mode">La contrasenya de privacitat protegeix les vostres fotos, fitxers i notes.</string>
   <string name="privacy_password_settings_titles_second_space">La contrasenya de privacitat protegeix els vostres missatges, fotos, fitxers i notes.</string>
