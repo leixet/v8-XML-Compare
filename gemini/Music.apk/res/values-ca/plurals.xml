@@ -17,17 +17,13 @@
     <item quantity="other">%d dies restants</item>
     <item quantity="one">%d dia restant</item>
   </plurals>
-  <plurals name="NTrackstoDownload">
-    <item quantity="other">Es baixaran %d cançons</item>
-    <item quantity="one">Es baixarà 1 cançó</item>
-  </plurals>
   <plurals name="NPlaylist_delete_confirm">
     <item quantity="other">Voleu eliminar %d llistes de reproducció?</item>
     <item quantity="one">Voleu eliminar %d llista de reproducció?</item>
   </plurals>
   <plurals name="Nnew_tracks_count">
-    <item quantity="other">%d noves</item>
     <item quantity="one">1 nova</item>
+    <item quantity="other">%d noves</item>
   </plurals>
   <plurals name="Ntracks_count">
     <item quantity="other">%d cançons</item>
