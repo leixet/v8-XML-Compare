@@ -237,4 +237,24 @@
     <item quantity="other">Va llegir SMS %d vegades</item>
     <item quantity="one">Va llegir SMS %d vegada</item>
   </plurals>
+  <plurals name="app_manager_permission_read_record">
+    <item quantity="other">Va llegir l\'historial de trucades %d vegades</item>
+    <item quantity="one">Va llegir l\'historial de trucades %d vegada</item>
+  </plurals>
+  <plurals name="app_manager_permission_read">
+    <item quantity="other">Va accedir %d vegades</item>
+    <item quantity="one">Va accedir %d vegada</item>
+  </plurals>
+  <plurals name="app_manager_permission_manager_summary">
+    <item quantity="other">Va donar %d permisos</item>
+    <item quantity="one">Va donar %d permís</item>
+  </plurals>
+  <plurals name="app_manager_start_count">
+    <item quantity="other">%d vegades</item>
+    <item quantity="one">%d vegada</item>
+  </plurals>
+  <plurals name="app_manager_reject_count">
+    <item quantity="other">Bloquejat %d vegades</item>
+    <item quantity="one">Bloquejat %d vegada</item>
+  </plurals>
 </resources>
