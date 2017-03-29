@@ -153,7 +153,6 @@
   <string name="keep_wait_call_back">Segueix esperant</string>
   <string name="livetalk_dial">Utilitza paquet de recàrrega</string>
   <string name="livetalk_hangup">Penja</string>
-  <string name="livetalk_left_minute">%s mins restants</string>
   <string name="manageConferenceLabel">Gestiona la trucada de conferència</string>
   <string name="miprofile_stranger_card">Desconeguda</string>
   <string name="modify_call_failure_str">"Petició de modificació de trucada fallida
