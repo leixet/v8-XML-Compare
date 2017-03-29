@@ -36,6 +36,10 @@
   <string name="game_net_text2">Accelera la xarxa del joc i limita la velocitat de baixada de fons, redueix el retard de la xarxa</string>
   <string name="game_net_title">Protecció de xarxa</string>
   <string name="game_setting">Configuració del joc</string>
+  <string name="gamebooster_network_dialog_message">Voleu permetre a la seguretat connectar-se a la xarxa per poder utilitzar totes les funcions de l\'augment de velocitat del joc?</string>
+  <string name="gamebooster_network_dialog_title">"Algunes característiques no estan disponibles"</string>
+  <string name="get_sys_info">S\'està obtenint informació&#8230;</string>
+  <string name="gs_anto_clean_memory_whitelist">Excepcions</string>
   <string name="gs_app_back_self_start">Estalvi de bateria</string>
   <string name="gs_auto_clean_memory">Neteja la memòria cau</string>
   <string name="gs_auto_clean_memory_detail">Neteja la memòria cau automàticament per optimitzar els jocs</string>
@@ -46,11 +50,14 @@
   <string name="gs_game_net_priority">Prioritat de connexió</string>
   <string name="gs_game_net_priority_detail">Limita la velocitat de baixada per tenir prou ample de banda per jugar</string>
   <string name="gs_game_performance">Rendimient</string>
+  <string name="gs_game_shortcut">Gaudiu d\'una experiència de joc més fluida</string>
   <string name="gs_only_self_start_for_list">Restringeix els processos en segon pla per estalviar bateria per jugar</string>
   <string name="gs_open_game_booster">Accelera la velocitat</string>
   <string name="gs_performance_mode">Mode rendiment</string>
   <string name="gs_performance_mode_detail">Incrementa l\'ús de la CPU per garantir el millor rendiment</string>
+  <string name="i_know">Ho sé</string>
   <string name="install_game_count">S\'han afegit %d jocs</string>
+  <string name="intro_improve">Basat en el nivell de sistema per millorar la totalitat de l\'experiència de joc</string>
   <string name="loading">Un moment&#8230;</string>
   <string name="main_toolbar_purchase">Recàrrega</string>
   <string name="man_add_application">Afegeix manualment aplicacions d\'arrencada automàtica</string>
@@ -75,7 +82,9 @@
   <string name="month_report_warning_dialog_description">"Per veure l'informe mensual, activeu aquesta característica a la configuració de l'aplicació de seguretat."</string>
   <string name="month_report_warning_dialog_positive">Activa</string>
   <string name="month_report_warning_dialog_title">Informe de seguretat mensual</string>
+  <string name="net_delay_title">Retard</string>
   <string name="network_not_available">"No es pot connectar a la xarxa"</string>
+  <string name="no_game">No s\'ha trobat cap joc</string>
   <string name="no_network_btn">Torna-ho a provar</string>
   <string name="ok_button">D\'acord</string>
   <string name="open_browser">Obre al navegador</string>
@@ -86,6 +95,7 @@
   <string name="privacy_declare_dialog_title">Condicions del servei</string>
   <string name="privacy_prompt_traffic_purchase_message">"Per obtenir més informació sobre les opcions de compra de dades, es xifraran i es pujaran als servidors de Mi el vostre número de telèfon i els detalls de l'operador."</string>
   <string name="release_memory">Neteja la memòria cau</string>
+  <string name="save_energy_title">Optimització de l\'energia</string>
   <string name="scan_installed_games">S\'està comprovant els jocs instal·lats&#8230;</string>
   <string name="setting">Configuració</string>
   <string name="share">Comparteix</string>
@@ -94,8 +104,12 @@
   <string name="start">Inicia</string>
   <string name="start_game">Inicia</string>
   <string name="support_game_booster_tips">Accelera la velocitat i millora l\'experiència de joc</string>
+  <string name="sys_cpu_title">Ús de CPU</string>
+  <string name="sys_freememory_title">Disponible</string>
   <string name="title_share_link">URL de compartició</string>
   <string name="top_game">Jocs destacats</string>
+  <string name="top_load_fail_detail">"No s'ha pogut carregar, toqueu per tornar-ho a provar"</string>
+  <string name="top_no_network_detial">"No s'ha pogut carregar. Comproveu la connexió de xarxa i torneu-ho a provar"</string>
   <string name="uninstall_game_count">"No s'han afegit %d jocs"</string>
   <string name="usage_sorted_loading_text">Un moment&#8230;</string>
   <string name="wlan_change_protection_detail">"No canviïs a Wi-Fi automàticament quan estigui connectat a una xarxa de dades"</string>
