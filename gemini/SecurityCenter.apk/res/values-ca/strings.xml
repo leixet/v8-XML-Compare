@@ -143,10 +143,15 @@ o introdueixi la seva contrasenya"</string>
   <string name="app_manager_perm_monitor_read_sms">Llegir missatges SMS</string>
   <string name="app_manager_perm_monitor_send_sms">Enviar missatges SMS</string>
   <string name="app_manager_permission">Permisos relacionats amb la privacitat (darrers 7 dies)</string>
+  <string name="app_manager_permission_call_phone_over">Va fer trucades 100000+ vegades</string>
   <string name="app_manager_permission_manager_title">Permisos</string>
+  <string name="app_manager_permission_notify_summary">Insígnies, flotants i notificacions a la pantalla de bloqueig</string>
   <string name="app_manager_permission_notify_title">Notificacions</string>
   <string name="app_manager_permission_power_saving_summary">Estalvi de bateria MIUI</string>
   <string name="app_manager_permission_power_saving_title">Estalvi de bateria</string>
+  <string name="app_manager_permission_read_contact_over">Va accedir als contactes 100000+ vegades</string>
+  <string name="app_manager_permission_read_mms_over">Va llegir SMS 100000+ vegades</string>
+  <string name="app_manager_permission_read_record_over">Va llegir l\'historial de trucades 100000+ vegades</string>
   <string name="app_manager_power">Permisos</string>
   <string name="app_manager_rebide_wakepath">Limita</string>
   <string name="app_manager_show_detail_infos">Mostra-ho tot</string>
