@@ -174,7 +174,10 @@ o introdueixi la seva contrasenya"</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">Voleu desinstal·lar l\'aplicació dual?</string>
   <string name="app_manager_unstall_application">Desinstal·la</string>
   <string name="app_manager_update_label_text">Nou</string>
+  <string name="app_manager_wake_path_card_title">Historial d\'inici de la cadena (2 dies)</string>
   <string name="app_manager_wakepath_dialog_buttontext">Entesos</string>
+  <string name="app_manager_wakepath_dialog_summary">L\'inici de la cadena succeïx quan una aplicació inicia un altre aplicació de fons. Pot drenar la bateria i baixar el rendiment del sistema. MIUI normalment bloquejaria l\'inici de la cadena.</string>
+  <string name="app_manager_wakepath_dialog_title">Quant a l\'inici de la cadena</string>
   <string name="app_mobile">Mòbil</string>
   <string name="app_name">Bloquejador d\'aplicacions</string>
   <string name="app_name_na">Ús de dades</string>
@@ -1155,12 +1158,15 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_key_half_year_package_value">Mida del paquet</string>
   <string name="pref_leisure_no_overlay">Activat</string>
   <string name="pref_leisure_not_opened">Desactivat</string>
+  <string name="pref_leisure_traffic_limit">Quan s\'utilitzin dades fora del màxim</string>
   <string name="pref_manual_adjust">Establir manualment les estadístiques d\'ús de dades</string>
   <string name="pref_mi_sim_settings">Configuració de la Mi SIM</string>
   <string name="pref_month_begin_date">Restablir la data d\'ús</string>
   <string name="pref_month_first_day">1</string>
+  <string name="pref_month_traffic_limit">Límit d\'ús de dades mensuals</string>
   <string name="pref_more_settings">Configuració avançada</string>
   <string name="pref_new_installed_preconfig_title">"Configuració per defecte per a noves aplicacions"</string>
+  <string name="pref_normal_traffic_limit">Quan reviseu el pla de dades</string>
   <string name="pref_open_adjust_traffic">Sincronitza les estadístiques d\'ús de dades amb els servidors del seu operador</string>
   <string name="pref_operator_not_set">"No s'ha configurat l'operador"</string>
   <string name="pref_package_traffic_leisure">%1$s | Hora vall: %2$s</string>
