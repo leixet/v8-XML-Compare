@@ -95,6 +95,7 @@
   <string name="privacy_declare_dialog_title">Condicions del servei</string>
   <string name="privacy_prompt_traffic_purchase_message">"Per obtenir més informació sobre les opcions de compra de dades, es xifraran i es pujaran als servidors de Mi el vostre número de telèfon i els detalls de l'operador."</string>
   <string name="release_memory">Neteja la memòria cau</string>
+  <string name="save_energy_text">Prohibeix a las aplicacions de fons iniciar-se automàticament i sincronitzar dades, controlar la memòria d\'operació i reduir el consum d\'energia que no sigui de jocs</string>
   <string name="save_energy_title">Optimització de l\'energia</string>
   <string name="scan_installed_games">S\'està comprovant els jocs instal·lats&#8230;</string>
   <string name="setting">Configuració</string>
