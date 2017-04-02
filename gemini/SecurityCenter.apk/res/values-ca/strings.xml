@@ -675,8 +675,8 @@ o introdueixi la seva contrasenya"</string>
   <string name="information_setting">Configuració del canal de notícies</string>
   <string name="input_aviable_traffic">Estableix límit d\'ús de dades</string>
   <string name="input_traffic_pkg">Introduïu dades addicionals</string>
-  <string name="input_used_hint">Introdueixi ús de dades</string>
-  <string name="input_used_max_hint">Introdueixi ús de dades (menys de %s)</string>
+  <string name="input_used_hint">Introduïu l\'ús de dades</string>
+  <string name="input_used_max_hint">Introduïu l\'ús de dades (menys de %s)</string>
   <string name="install_sucess">%s s\'ha instal·lat amb èxit</string>
   <string name="install_title">Instal·lació a través d\'USB</string>
   <string name="installed">S\'ha instal·lat</string>
