@@ -4144,7 +4144,7 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="tts_status_title">Estat de l\'idioma predeterminat</string>
   <string name="turn_off_common_password_confirm_msg">També es desactivarà el bloqueig de pantalla.</string>
   <string name="turn_off_keyguard_password_alert_title">Desactiva</string>
-  <string name="turn_off_keyguard_password_confirm_msg">Voleu desactivar la contrasenya de la pantalla de bloqueig?</string>
+  <string name="turn_off_keyguard_password_confirm_msg">"Voleu desactivar la contrasenya de la pantalla de bloqueig?"</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"No podreu desbloquejar el dispositiu amb l'empremta si desactiveu la contrasenya de la pantalla de bloqueig"</string>
   <string name="turn_off_security_lock">Desactiva el bloqueig</string>
   <string name="turn_on_keyguard_password">Activa la contrasenya de la pantalla de bloqueig</string>
