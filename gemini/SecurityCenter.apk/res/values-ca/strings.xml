@@ -1545,8 +1545,6 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="tc_sms_report_tips_dialog_message">L\'ús de dades utilitza un SMS especialment formatat per obtenir del seu operador seus números d\'ús de dades més recents. Si aquesta característica no funciona correctament intenti actualitzar el format SMS d\'ús de dades. El nou format actualitzat serà llavors enviat als nostres servidors.</string>
   <string name="tc_sms_report_tips_dialog_title">SMS d\'ús de dades</string>
   <string name="tc_sms_report_title">Error en informe d\'ús de dades</string>
-  <string name="tc_sms_report_title_bill">Error en l\'informe d\'ús de dades</string>
-  <string name="tc_sms_report_title_calltime">Error en l\'informe d\'ús de dades</string>
   <string name="tc_sms_report_toast_text">Obtenint informació&#8230;</string>
   <string name="tc_sms_report_upload_success">"Informe SMS d'ús de dades remès. Ens posem amb això!"</string>
   <string name="tc_sms_report_upload_when_net">Gràcies per la seva col·laboració!</string>
