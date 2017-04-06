@@ -45,7 +45,6 @@
   <string name="audio_sim_card_mismatching">No hi ha connexió de xarxa o s\'ha instal·lat la SIM incorrecta. Instal·leu la targeta SIM des de la qual es va enviar el missatge i connecteu-vos a la xarxa.</string>
   <string name="back_to_message_list">Torna a la llista de missatges</string>
   <string name="batch_adding_progress_message">S\'està afegint&#8230;</string>
-  <string name="batch_delete_confirm_dialog_message">Voleu eliminar %1$s missatges?</string>
   <string name="batch_deleting_message_progress_message">S\'està eliminant&#8230;</string>
   <string name="batch_deleting_progress_message">S\'està eliminant&#8230;</string>
   <string name="bcc_label">"C/o: "</string>
