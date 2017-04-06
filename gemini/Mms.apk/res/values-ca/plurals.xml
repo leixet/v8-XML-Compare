@@ -34,7 +34,7 @@
     <item quantity="one">%1$s missatge</item>
   </plurals>
   <plurals name="custom_select_title_items_selected">
-    <item quantity="one">%d seleccionat</item>
     <item quantity="other">%d seleccionats</item>
+    <item quantity="one">%d seleccionat</item>
   </plurals>
 </resources>
