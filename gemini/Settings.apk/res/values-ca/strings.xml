@@ -4149,6 +4149,7 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="turn_off_keyguard_password_alert_title">Desactiva</string>
   <string name="turn_off_keyguard_password_confirm_msg">"Voleu desactivar la contrasenya de la pantalla de bloqueig?"</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"No podreu desbloquejar el dispositiu amb l'empremta si desactiveu la contrasenya de la pantalla de bloqueig"</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">"Després de desactivar la contrasenya de la pantalla de bloqueig, se suprimiran les empremtes registrades. No podreu desbloquejar el dispositiu amb l'empremta."</string>
   <string name="turn_off_security_lock">Desactiva el bloqueig</string>
   <string name="turn_on_keyguard_password">Activa la contrasenya de la pantalla de bloqueig</string>
   <string name="turn_on_security_lock">Tria un bloqueig de pantalla</string>
@@ -5052,6 +5053,7 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="wrong_pin_code_pukked">El codi PIN de la SIM no és correcte. Heu de contactar amb l\'operador de telefonia mòbil per a desbloquejar el dispositiu.</string>
   <string name="xiaomi_account">Compte Mi</string>
   <string name="xiaomi_cloud_service">Cloud Mi</string>
+  <string name="xiaomi_cloud_service_description">El Mi Cloud sincronitza contactes i fotos, fa una còpia de seguretat de les aplicacions i configuracions i li ajuda a trobar el telèfon amb Cerca el dispositiu.</string>
   <string name="xiaomi_cloud_service_disabled">Desactivat</string>
   <string name="xiaomi_cloud_service_unknown">Desconegut</string>
   <string name="xiaomi_money_service">Credit Mi</string>
