@@ -203,6 +203,7 @@ Els missatges només apareixeran en el Segon espai."</string>
   <string name="show_private_msg">Mostrar els missatges privats</string>
   <string name="show_private_msg_summary">Mostrar els missatges privats en el Segon espai</string>
   <string name="spaceSetting">Configuració</string>
+  <string name="space_deleted">Aquest espai s\'ha suprimit</string>
   <string name="space_des_default">Espai aïllat amb dades xifrades</string>
   <string name="space_name_default">Espai de treball</string>
   <string name="startSet">Aplicar</string>
