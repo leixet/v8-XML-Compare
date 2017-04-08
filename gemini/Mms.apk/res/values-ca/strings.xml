@@ -394,6 +394,7 @@
   <string name="pref_delivery_ringtone">So de notificació</string>
   <string name="pref_edit_smsc_address">Centre de servei de missatges curts (SMSC)</string>
   <string name="pref_forward_title">Reenvia</string>
+  <string name="pref_hide_verification_code_summary">Amaga automàticament les contrasenyes úniques en les notificacions de missatges a la pantalla de bloqueig protegida</string>
   <string name="pref_messages_to_save">Estableix el número de missatges que es desaran</string>
   <string name="pref_mms_settings_title">Missatges multimèdia (MMS)</string>
   <string name="pref_msg_trash_bin_title">Missatges esborrats recentment</string>
@@ -625,6 +626,7 @@
   <string name="timed_message_to">per</string>
   <string name="title_allow_network_access">Actualitza la informació automàticament</string>
   <string name="title_collapse_sp_messages">Grup de notificacions</string>
+  <string name="title_hide_verification_code">Amaga automàticament l\'OTP a la pantalla de bloqueig</string>
   <string name="title_show_blocked_messages">Mostra els SMS bloquejats</string>
   <string name="title_show_sms_template">Comproveu els SMS per als codis de verificació</string>
   <string name="title_show_sms_template_in">Comproveu l\'SMS per OTP</string>
