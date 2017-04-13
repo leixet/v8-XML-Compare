@@ -2685,6 +2685,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="page_layout_page2_small_title">Molt petita</string>
   <string name="page_layout_page2_title">Previsualització</string>
   <string name="page_layout_small_title">XS</string>
+  <string name="palm_enabled">Gran àrea coberta fora de la pantalla</string>
   <string name="paper_mode_end_time_title">Hora de finalització</string>
   <string name="paper_mode_start_time_title">Hora d\'inici</string>
   <string name="passpoint_content">%1$s certificats</string>
@@ -3978,6 +3979,7 @@ Per a un millor rendiment, us recomanem que utilitzeu un ^1 més ràpid."</strin
   <string name="summary_range_verbal_combination">%1$s a %2$s</string>
   <string name="supl_not_set">&lt;No s\'ha configurat&gt;</string>
   <string name="supplicant_state_label">Mode suplicant:</string>
+  <string name="suspend_gesture_enabled">Gira la pantalla</string>
   <string name="suspension_ball_enable">Drecera d\'inici ràpid</string>
   <string name="suspension_ball_enable_desc">Activa o desactiva el Quick ball des de la drecera</string>
   <string name="suw_back_button_label">Enrere</string>
