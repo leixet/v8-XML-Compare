@@ -2438,6 +2438,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="music_mi_effect_summary">Utilitza el potenciador de so Mi en utilitzar auriculars</string>
   <string name="music_mi_effect_title">Potenciador de so Mi</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
+  <string name="music_unsupport_effect_summary">"Els auriculars USB no són compatibles"</string>
   <string name="musicfx_title">Efectes musicals</string>
   <string name="mvno_match_data">Valor de MVNO</string>
   <string name="mvno_type">Tipus de MVNO</string>
@@ -3920,6 +3921,7 @@ Un cop formatat, aquest ^1 només funcionarà en aquest dispositiu.
 
 \"&lt;b&gt;La formatació esborrarà totes les dades emmagatzemades actualment al ^1.&lt;/b&gt;\" Per evitar la pèrdua de les dades, feu-ne una còpia.»</string>
   <string name="storage_wizard_format_confirm_public_title">Formatació com a emmagatzematge extraïble</string>
+  <string name="storage_wizard_format_confirm_third_body">La ^1 is serà formatada</string>
   <string name="storage_wizard_format_confirm_title">Formatació com a emmagatzematge intern</string>
   <string name="storage_wizard_format_progress_body">No traieu ^1 mentre s\'està formatant.</string>
   <string name="storage_wizard_format_progress_title">S\'està formatant ^1&#8230;</string>
