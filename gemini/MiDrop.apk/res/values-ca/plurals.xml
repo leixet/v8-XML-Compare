@@ -53,4 +53,8 @@
     <item quantity="other">%1$s fitxers no transferits</item>
     <item quantity="one">%1$s fitxer no transferit</item>
   </plurals>
+  <plurals name="notif_receive_success">
+    <item quantity="other">Fitxers rebuts de %1$s</item>
+    <item quantity="one">Fitxer rebut de %1$s</item>
+  </plurals>
 </resources>
