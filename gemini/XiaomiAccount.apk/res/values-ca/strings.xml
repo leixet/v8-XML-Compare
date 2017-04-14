@@ -26,6 +26,9 @@
   <string name="account_none_binded_info">Cap</string>
   <string name="account_none_user_name">Cap</string>
   <string name="account_protection">Protecció del compte</string>
+  <string name="account_secure_info_pref_title">Informació del compte</string>
+  <string name="account_security">Compte de seguretat</string>
+  <string name="account_security_info_pref_title">Informació de seguretat</string>
   <string name="account_user_avatar">Foto del perfil</string>
   <string name="account_user_avatar_from_album">Trieu una foto</string>
   <string name="account_user_avatar_from_camera">Fes-te una fotografia</string>
@@ -37,6 +40,7 @@
   <string name="account_user_gender">Sexe</string>
   <string name="account_user_id">Identificador de compte de Mi</string>
   <string name="account_user_income">Ingressos</string>
+  <string name="account_user_info">Informació de l\'usuari</string>
   <string name="account_user_location">Ubicació</string>
   <string name="account_user_location_title">Selecciona la ubicació actual</string>
   <string name="account_user_name">Nom</string>
@@ -139,8 +143,11 @@
   <string name="login_check_find_device_failed_title">"No s'ha pogut comprovar l'estat de Troba el dispositiu"</string>
   <string name="login_find_device_bind">Aquest dispositiu està associat amb l\'ID del compte Mi existent (%s).</string>
   <string name="login_guard_prompt">Demana la verificació del número de telèfon el primer cop que inicieu la sessió del vostre compte Mi a un dispositiu o a una aplicació desconeguts.</string>
+  <string name="logout_account">Tanca sessió</string>
   <string name="logout_failed">"No s'ha pogut tancar sessió"</string>
   <string name="mi_account_identity_title">Verifiqueu la vostra identitat</string>
+  <string name="mipay">Paga</string>
+  <string name="mipay_balance">Saldo</string>
   <string name="multi_user_not_show_sync_activity_message_1">"Sembla que esteu utilitzant el vostre compte Mi del primer espai."</string>
   <string name="multi_user_not_show_sync_activity_message_2">"Ara mateix, totes les dades es sincronitzaran al vostre segon espai. Per evitar-ho, no activeu la sincronització amb Mi Cloud."</string>
   <string name="multi_user_not_show_sync_activity_title">"No activis la sincronització amb Mi Cloud"</string>
@@ -333,6 +340,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="restart_phone_bind_message">Pot trigar algun temps en rebre el SMS. Comencem de nou de tota manera?</string>
   <string name="restart_phone_bind_title">Modifica el telèfon de recuperació</string>
   <string name="scan_barcode_title">Per iniciar la sessió al compte Mi, escanegeu el codi QR</string>
+  <string name="search_account_security_path">Configuració/Compte Mi/Configuració del compte</string>
   <string name="search_app_name">Compte Mi</string>
   <string name="search_logout_account">Tanca la sessió</string>
   <string name="search_logout_account_desc">Compte Mi</string>
@@ -372,4 +380,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="verified_devices">Dispositius verificats</string>
   <string name="verify_phone_prompt">Seleccioneu el número de telèfon a verificar</string>
   <string name="verify_phone_title">Verifica el número de telèfon</string>
+  <string name="vip_account_settings">Configuració VIP</string>
+  <string name="vip_more_info">Més informació Vip</string>
+  <string name="xiao_mi_vip">Mi VIP</string>
 </resources>
