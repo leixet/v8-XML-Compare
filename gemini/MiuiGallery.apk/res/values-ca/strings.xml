@@ -941,7 +941,6 @@ Feu més fotos als vostres amics!"</string>
   <string name="picker_full_format">Podeu seleccionar fins a %d fotos</string>
   <string name="picker_image_need_download">"%d de les fotos seleccionades no són al dispositiu. Voleu baixar-les utilitzant les dades mòbils?"</string>
   <string name="picker_image_will_download">"%d de les fotos seleccionades no són al dispositiu. Es baixaran."</string>
-  <string name="picker_mobile_data_video">"No es poden baixar vídeos utilitzant les dades mòbils. S'ha omès %d."</string>
   <string name="picker_no_network_message">Connecteu a la xarxa per baixar</string>
   <string name="picker_origin_need_download">"%1$d de les fotos seleccionades (%2$dMB) no són al dispositiu. Voleu baixar-les utilitzant les dades mòbils?"</string>
   <string name="picker_title_format">Podeu seleccionar %d fotos</string>
