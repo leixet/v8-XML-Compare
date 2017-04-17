@@ -200,7 +200,7 @@ Premeu \'Esborra i converteix&#8230;\' per continuar"</string>
 Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</string>
   <string name="data_usage_disabled_dialog_3g_title">Dades 2G-3G desactivades</string>
   <string name="data_usage_disabled_dialog_4g_title">Dades 4G desactivades</string>
-  <string name="data_usage_disabled_dialog_enable">Reactivar dades</string>
+  <string name="data_usage_disabled_dialog_enable">Reactiva les dades</string>
   <string name="data_usage_disabled_dialog_mobile_title">Dades mòbils desactivades</string>
   <string name="data_usage_disabled_dialog_title">Dades desactivades</string>
   <string name="data_usage_uninstalled_apps">Aplicacions eliminades</string>
