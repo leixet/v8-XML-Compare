@@ -1069,7 +1069,7 @@ Per seguir utilitzant el telèfon, cal una reinicialització de fàbrica. Quan e
   <string name="data_usage_app_info_label">INFORMACIÓ DE L\'APLICACIÓ</string>
   <string name="data_usage_app_items_header_text">Ús de l\'aplicació</string>
   <string name="data_usage_app_restrict_background">Restringeix l\'ús de dades en segon pla</string>
-  <string name="data_usage_app_restrict_background_summary">Desactiva les dades en segon pla per a xarxes mòbils.</string>
+  <string name="data_usage_app_restrict_background_summary">Activa l\'ús de les dades mòbils en segon pla</string>
   <string name="data_usage_app_restrict_background_summary_disabled">Per restringir l\'ús de dades en segon pla d\'aquesta aplicació, primer heu de configurar-ne el límit.</string>
   <string name="data_usage_app_restrict_dialog">«Aquesta característica pot fer que una aplicació que depengui de l\'ús de dades en segon pla deixi de funcionar quan només hi ha disponibles xarxes de dades mòbils.
 
