@@ -1333,7 +1333,7 @@ Queden %d intents."</string>
   <string name="stk_cc_ss_to_ussd_error">La sol·licitud SS s\'ha transformat en una sol·licitud USSD.</string>
   <string name="stock_quotes_disable">Cotitzacions de borsa desactivades</string>
   <string name="stock_quotes_enable">Cotitzacions de borsa activades</string>
-  <string name="strict_mode">S\'ha activat el mode estricte</string>
+  <string name="strict_mode">Mode estricte activat</string>
   <string name="strict_mode_summary">Il·lumina la pantalla si les aplicacions fan tasques llargues en el procés principal</string>
   <string name="sum_carrier_select">Trieu un operador de xarxa</string>
   <string name="sum_cdma_call_settings">Configuració addicional de trucades només per CDMA</string>
