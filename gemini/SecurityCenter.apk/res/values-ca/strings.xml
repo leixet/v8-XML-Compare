@@ -524,7 +524,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="dialog_msg_auto_start_declare">Algunes aplicacions de seguretat poden indicar incorrectament que MIUI els ha prohibit iniciar. Per comprovar els permisos que han estat concedits a les aplicacions individualment, aneu a Configuració i Aplicacions.</string>
   <string name="dialog_msg_stop_paysafety_scan">Voleu aturar la comprovació de seguretat del pagament?</string>
   <string name="dialog_msg_stop_virus_scan">"Voleu aturar l'anàlisi de virus abans que acabi?"</string>
-  <string name="dialog_roaming_apps_sorted_title">Ordenar per</string>
+  <string name="dialog_roaming_apps_sorted_title">Ordena per</string>
   <string name="dialog_roaming_message">Voleu permetre a aquesta aplicació usar dades mòbils en itinerància en ultramar?</string>
   <string name="dialog_roaming_title">Itinerància en ultramar</string>
   <string name="dialog_title_attention">Atenció</string>
@@ -537,8 +537,8 @@ o introdueixi la seva contrasenya"</string>
   <string name="domestic_roaming_setting">Itinerància nacional</string>
   <string name="download">Baixa</string>
   <string name="downloading">S\'està baixant</string>
-  <string name="dual_setting_simcard1">SIM 1</string>
-  <string name="dual_setting_simcard2">SIM 2</string>
+  <string name="dual_setting_simcard1">SIM 1 </string>
+  <string name="dual_setting_simcard2">SIM 2 </string>
   <string name="empty_app">No hi ha aplicacions</string>
   <string name="empty_title_auto_start_list">No hi ha aplicacions amb inici automàtic</string>
   <string name="empty_title_garbage_virus_white_list">Mantingueu els resultats a la llista per ometre\'ls durant el següent anàlisi</string>
@@ -1114,8 +1114,8 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_adjust_data_usage_summary">Després de canviar la plantilla de calibratge, MIUI la farà servir per obtenir estadístiques d\'ús de dades del vostre operador</string>
   <string name="pref_adjust_data_usage_value">Modifica</string>
   <string name="pref_adjust_traffic_data">Establir ús de dades</string>
-  <string name="pref_allow_connect_network_title">Dades en itinerància internacional</string>
-  <string name="pref_allow_connect_network_whitelist_title">Utilitzar dades mòbils a permeses</string>
+  <string name="pref_allow_connect_network_title">Dades en itinerància en ultramar</string>
+  <string name="pref_allow_connect_network_whitelist_title">Permet a les excepcions utilitzar les dades mòbils en itinerància</string>
   <string name="pref_app_traffic_managent">Restricció d\'ús de dades per aplicacions</string>
   <string name="pref_auto_adjust_settings">Configuració d\'estadístiques d\'ús de dades per Auto-sincronitzar</string>
   <string name="pref_auto_adjust_traffic">Estadístiques d\'ús de dades per Auto sincronitzar</string>
@@ -1179,7 +1179,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_pkg_begin_date">Restablir la data d\'ús</string>
   <string name="pref_roaming_daily_limit_setting">Establiu el límit de dades diari en itinerància</string>
   <string name="pref_roaming_daily_limit_setting_cat_title">Límit diari de dades</string>
-  <string name="pref_roaming_setting_gategory">Itinerància internacional</string>
+  <string name="pref_roaming_setting_gategory">Configuració</string>
   <string name="pref_setting_operators_message">Edita el missatge que el seu dispositiu envia al seu operador per sincronitzar les seves estadístiques d\'ús de dades</string>
   <string name="pref_show_mobile_traffic">Quan desbloqueja el telèfon, mostrar estadístiques d\'ús de dades durant el període en què el seu dispositiu ha estat bloquejat (ha de ser major de 5 minuts)</string>
   <string name="pref_special_package_setting">Pla de dades personalitzat</string>
@@ -1203,7 +1203,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_traffic_manage_title">Ús de dades</string>
   <string name="pref_version">Versió %s</string>
   <string name="pref_warning_values">Nivell d\'avís d\'ús de dades</string>
-  <string name="pref_whitelist_setting">Administrar llista de permeses</string>
+  <string name="pref_whitelist_setting">Excepcions d\'itinerància de dades</string>
   <string name="preference_category_information_setting">category_information_setting</string>
   <string name="preferred_app_entries_browser">Navegador</string>
   <string name="preferred_app_entries_camera">Càmera</string>
@@ -1280,12 +1280,12 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="right_precent">100%</string>
   <string name="roaming_allow_network_dialog_title">Voleu permetre la itinerància de dades mòbils?</string>
   <string name="roaming_limit_dialog_message">S\'ha assolit el límit diari de dades en itinerància.</string>
-  <string name="roaming_limit_network_notification_body">Premi per veure les xarxes de dades disponibles</string>
+  <string name="roaming_limit_network_notification_body">Premeu per veure les xarxes de dades disponibles</string>
   <string name="roaming_limit_notification_title">S\'ha assolit el límit diari de dades en itinerància</string>
-  <string name="roaming_limit_warning_notification_body">Premi per veure l\'ús de dades.</string>
-  <string name="roaming_not_start_body">Toqueu per veure els paràmetres d\'itinerància de dades.</string>
+  <string name="roaming_limit_warning_notification_body">Premeu per veure l\'ús de dades.</string>
+  <string name="roaming_not_start_body">Premeu per veure els paràmetres d\'itinerància de dades.</string>
   <string name="roaming_not_start_title">Itinerància en ultramar</string>
-  <string name="roaming_start_body">Toqueu per veure les excepcions d\'itinerància de dades.</string>
+  <string name="roaming_start_body">Premeu per veure les excepcions d\'itinerància de dades.</string>
   <string name="roaming_start_title">Itinerància en ultramar</string>
   <string name="root">Accés root</string>
   <string name="root_apply_step_1">Concedir accés root a %s?</string>
