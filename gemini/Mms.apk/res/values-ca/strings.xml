@@ -413,7 +413,7 @@
   <string name="pref_summary_manage_sim_messages">Administra els missatges emmagatzemats en la targeta SIM</string>
   <string name="pref_summary_mms_auto_retrieval">Baixa automàticament les fotos i vídeos dels missatges</string>
   <string name="pref_summary_mms_read_reports">Mostra una notificació a la vista de conversa quan el destinatari baixi continguts MMS</string>
-  <string name="pref_summary_mms_retrieval_during_roaming">Baixa automàticament les fotos i vídeos en els missatges en itinerància</string>
+  <string name="pref_summary_mms_retrieval_during_roaming">Baixa automàticament fotos i vídeos dels missatges en itinerància</string>
   <string name="pref_summary_notification_body_enabled">Mostra missatges a la pantalla de bloqueig i en l\'àrea de notificacions</string>
   <string name="pref_summary_notification_body_enabled_when_secure">"No podeu previsualitzar missatges en el mode convidat"</string>
   <string name="pref_summary_off_system_mms_priority">Utilitza una aplicació de tercers per a enviar i rebre MMS</string>
@@ -438,7 +438,7 @@
   <string name="pref_title_mms_auto_retrieval">Baixa automaticament el contingut de l\'MMS</string>
   <string name="pref_title_mms_delete">Límit de missatge multimèdia</string>
   <string name="pref_title_mms_read_reports">Llegir informes</string>
-  <string name="pref_title_mms_retrieval_during_roaming">Baixa el contingut de l\'MMS en itinerància</string>
+  <string name="pref_title_mms_retrieval_during_roaming">Baixa el contingut dels MMS en itinerància</string>
   <string name="pref_title_mms_validity_period">Caducitat de l\'MMS</string>
   <string name="pref_title_notification_body_enabled">Mostra missatges a la pantalla de bloqueig</string>
   <string name="pref_title_ringtone_repeat">So de notificació</string>
