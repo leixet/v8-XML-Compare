@@ -520,13 +520,13 @@ o introdueixi la seva contrasenya"</string>
   <string name="details_subtitle">Utilitza detalls</string>
   <string name="diagnostic_attention_dialog_message">"El diagnòstic per %1$s està en curs. Espereu que acabi i torneu a provar."</string>
   <string name="dialog_app_roaming_message">"%1$s no pot usar dades mòbils en itinerància. Quan està en itinerància internacional, només les aplicacions que ha afegit a la llista de permeses poden utilitzar les dades mòbils."</string>
-  <string name="dialog_app_roaming_title">"Itinerància internacional no s'ha activat per %1$s"</string>
+  <string name="dialog_app_roaming_title">"La itinerància en ultramar no s'ha activat per a %1$s"</string>
   <string name="dialog_msg_auto_start_declare">Algunes aplicacions de seguretat poden indicar incorrectament que MIUI els ha prohibit iniciar. Per comprovar els permisos que han estat concedits a les aplicacions individualment, aneu a Configuració i Aplicacions.</string>
   <string name="dialog_msg_stop_paysafety_scan">Voleu aturar la comprovació de seguretat del pagament?</string>
   <string name="dialog_msg_stop_virus_scan">"Voleu aturar l'anàlisi de virus abans que acabi?"</string>
   <string name="dialog_roaming_apps_sorted_title">Ordenar per</string>
   <string name="dialog_roaming_message">Permet a aquesta aplicació usar dades mòbils en itinerància internacional?</string>
-  <string name="dialog_roaming_title">Itinerància internacional</string>
+  <string name="dialog_roaming_title">Itinerància en ultramar</string>
   <string name="dialog_title_attention">Atenció</string>
   <string name="dialog_title_auto_start_declare">Quant a inici automàtic</string>
   <string name="dialog_title_stop_paysafety_scan">Atura</string>
@@ -584,7 +584,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="firewall_restrict_android_dialog_content">Per assegurar que el dispositiu funciona amb normalitat, alguna aplicacions d\'Android es connectaran a internet de totes formes. Aquestes aplicacions faran servir la teva connexió de dades i poden ocasionar lleugeres despeses amb el teu proveïdor.</string>
   <string name="firewall_restrict_android_dialog_title">Atenció</string>
   <string name="firewall_rule_group_title_mobile">Mòbil</string>
-  <string name="firewall_rule_group_title_roaming">Itinerància internacional</string>
+  <string name="firewall_rule_group_title_roaming">Itinerància en ultramar</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
   <string name="firewall_service_network_blocked">%1$s està restringit per utilitzar %2$s xarxes</string>
   <string name="five_percent_total_pkg">%s (5%% de les dades mensuals)</string>
@@ -684,7 +684,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="install_title">Instal·lació a través d\'USB</string>
   <string name="installed">S\'ha instal·lat</string>
   <string name="installing">S\'està instal·lant</string>
-  <string name="international_roaming_setting">Itinerància internacional</string>
+  <string name="international_roaming_setting">Itinerància en ultramar</string>
   <string name="international_roaming_whitelist_count">%d aplicacions poden utilitzar dades mòbils en itinerància</string>
   <string name="ip_address_exception_summary">No s\'ha pogut obtenir l\'adreça IP. Si tornes a tenir aquest problema, prova a utilitzar una IP estàtica.</string>
   <string name="item_app_permission">Permisos d\'aplicació</string>
@@ -1279,9 +1279,9 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="result_wifi_header">Riscos Wi-Fi detectats</string>
   <string name="right_precent">100%</string>
   <string name="roaming_allow_network_dialog_title">Permet itinerància de dades mòbils?</string>
-  <string name="roaming_limit_dialog_message">Assolit el limit diari de dades roaming</string>
+  <string name="roaming_limit_dialog_message">S\'ha assolit el límit diari de dades en itinerància.</string>
   <string name="roaming_limit_network_notification_body">Premi per veure les xarxes de dades disponibles</string>
-  <string name="roaming_limit_notification_title">Assolit el limit diari de dades roaming</string>
+  <string name="roaming_limit_notification_title">S\'ha assolit el límit diari de dades en itinerància</string>
   <string name="roaming_limit_warning_notification_body">Premi per veure l\'ús de dades.</string>
   <string name="roaming_not_start_body">Aplicacions a la llista de permeses podran utilitzar dades mòbils en itinerància internacional..</string>
   <string name="roaming_not_start_title">Itinerància internacional</string>
