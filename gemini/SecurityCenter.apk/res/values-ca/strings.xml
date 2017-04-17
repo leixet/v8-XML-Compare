@@ -509,7 +509,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="descx_quick_scan_cancel">Escaneig cancel·lat</string>
   <string name="descx_quick_scan_done">Escaneig finalitzat</string>
   <string name="descx_quick_scan_preparation">Un moment&#8230;</string>
-  <string name="descx_scanning_item">Escanejant %s</string>
+  <string name="descx_scanning_item">S\'està escanejant %s</string>
   <string name="descx_start_cleanup_cache">S\'està iniciant l\'optimització de la memòria cau</string>
   <string name="descx_start_cleanup_memory">S\'està iniciant l\'optimització de la memòria</string>
   <string name="descx_start_cleanup_system">S\'està iniciant l\'optimització de la protecció del sistema</string>
@@ -560,7 +560,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="examination_score_80_60">Es poden optimitzar alguns elements</string>
   <string name="examination_score_has_virus">S\'han detectat algunes aplicacions sospitoses.</string>
   <string name="finger_remind_message">Bloqueig d\'aplicació suporta desbloqueig per empremta. Afegir empremta?</string>
-  <string name="fingerprint_identify_msg">Escanejant empremta…</string>
+  <string name="fingerprint_identify_msg">Escanegeu l\'empremta</string>
   <string name="fingerprint_not_identified_msg">"Per desbloquejar el dispositiu, introduïu la contrasenya."</string>
   <string name="fingerprint_not_remind">"No preguntar de nou"</string>
   <string name="fingerprint_remind_dialog_title">Desbloqueig per empremta</string>
@@ -660,7 +660,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="hints_scan_result_safe">Segur</string>
   <string name="hints_scan_result_virus">Virus detectats</string>
   <string name="hints_scanning">S\'està escanejant&#8230;</string>
-  <string name="hints_scanning_text">Escanejant&#8230;</string>
+  <string name="hints_scanning_text">S\'està escanejant&#8230;</string>
   <string name="hints_scanning_virus_by_cloud">Escaneig del núvol en curs&#8230;</string>
   <string name="hints_unknown_virus_name">Desconegut</string>
   <string name="hints_virus_apk_list_item_summary">Virus (apk)</string>
@@ -1324,11 +1324,11 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="sc_allow_network_dialog_tiltle">"No es pot fer servir l'Estalvi de dades"</string>
   <string name="scan_status_risk">Arriscat</string>
   <string name="scan_status_safe">Segur</string>
-  <string name="scanning_bar_cache_title">Escanejant paperera&#8230;</string>
-  <string name="scanning_bar_memory_title">Escanejant la memòria cau&#8230;</string>
+  <string name="scanning_bar_cache_title">S\'està escanejant la brossa&#8230;</string>
+  <string name="scanning_bar_memory_title">S\'està escanejant la memòria cau&#8230;</string>
   <string name="scanning_bar_number">%d%%</string>
   <string name="scanning_bar_system_text">Permisos d\'aplicacions</string>
-  <string name="scanning_bar_system_title">Escanejant sistema&#8230;</string>
+  <string name="scanning_bar_system_title">S\'està escanejant el sistema&#8230;</string>
   <string name="score_pts">%</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="search_result_text">"No s'ha trobat cap aplicació"</string>
