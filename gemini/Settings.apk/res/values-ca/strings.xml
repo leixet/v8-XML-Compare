@@ -3090,7 +3090,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="roaming_reenable_message">S\'ha perdut la connexió de dades perquè heu deixat la xarxa d\'origen amb la itinerància de dades desactivada.</string>
   <string name="roaming_reenable_title">Voleu permetre l\'ús de dades en itinerància?</string>
   <string name="roaming_turn_it_on_button">Activa-la</string>
-  <string name="roaming_warning">Si permeteu la itinerància de dades, és possible que us facturin càrrecs d\'itinerància elevats!</string>
+  <string name="roaming_warning">És possible que us facturin càrrecs elevats.</string>
   <string name="roaming_warning_multiuser">«Si permeteu la itinerància de dades, és possible que us facturin càrrecs d\'itinerància elevats!
 
 Aquesta configuració afecta tots els usuaris del telèfon.»</string>
@@ -3398,7 +3398,7 @@ Per fer-ho:
   <string name="search_settings">Cerca</string>
   <string name="search_settings_summary">Gestiona la configuració i l\'historial de cerca</string>
   <string name="search_silent_mode_title">Mode en silenci;silenci;silenci;mut</string>
-  <string name="search_sim_management_title">Xarxes mòbils;Dades mòbils;Dades mòbils;Dades;Itinerància a l\'estranger;Itinerància;Recepció de MMS;Xarxes mòbils;</string>
+  <string name="search_sim_management_title">Xarxes mòbils;Dades mòbils;Dades mòbils;Dades;Itinerància en ultramar;Itinerància;Recepció de MMS;Xarxes mòbils;</string>
   <string name="search_sim_status_title">Estat de la SIM;SIM</string>
   <string name="search_slot_status_title">Informació de l\'IMEI</string>
   <string name="search_sms_delivered_sound_title">Missatge lliurat</string>
@@ -3431,7 +3431,7 @@ Per fer-ho:
   <string name="search_vibrate_in_silent_title">Vibra en silenci</string>
   <string name="search_vibrate_on_touch_title">Vibra en prèmer</string>
   <string name="search_vibrate_when_ringing_title">Vibra també per a les trucades</string>
-  <string name="search_virtual_sim">Dades mòbils internacionals</string>
+  <string name="search_virtual_sim">Dades mòbils internacionals;Itinerància de dades;Itinerància de dades mòbils</string>
   <string name="search_vpn_enable">VPN</string>
   <string name="search_vpn_settings_password">Contrasenya VPN</string>
   <string name="search_vpn_settings_title">VPN;Afegeix VPN;Inicia VPN</string>
