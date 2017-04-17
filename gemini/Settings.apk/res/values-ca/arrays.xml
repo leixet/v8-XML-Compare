@@ -785,7 +785,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Alt</item>
   </string-array>
   <string-array name="agps_network_entries">
-    <item>Xarxa domèstica</item>
+    <item>Xarxa d\'origen</item>
     <item>Totes les xarxes</item>
   </string-array>
   <string-array name="agps_si_mode_entries">
