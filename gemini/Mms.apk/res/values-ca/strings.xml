@@ -100,7 +100,7 @@
   <string name="context_menu_add_calendar">Afegeix al Calendari</string>
   <string name="context_menu_add_contact">Afegeix als Contactes</string>
   <string name="context_menu_add_to_browser_favorite">Afegeix als marcadors del navegador</string>
-  <string name="context_menu_browse_web">Examina</string>
+  <string name="context_menu_browse_web">Obre l\'enllaç</string>
   <string name="context_menu_call">Trucada</string>
   <string name="context_menu_contact">Contacte: %1$s</string>
   <string name="context_menu_copy">Copia</string>
