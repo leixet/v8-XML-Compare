@@ -764,7 +764,7 @@ Proveu a canviar a un compte de correu diferent."</string>
   <string name="policy_password_expiration">Exigir que les contrasenyes caduquin</string>
   <string name="policy_password_history">Restringeix la reutilització de contrasenyes recents</string>
   <string name="policy_require_encryption">Requerir xifrat de dispositiu</string>
-  <string name="policy_require_manual_sync_roaming">Només permet sincronització manual en itinerància</string>
+  <string name="policy_require_manual_sync_roaming">Permet només la sincronització manual en itinerància</string>
   <string name="policy_require_password">Requerir contrasenya del dispositiu</string>
   <string name="policy_require_sd_encryption">Requerir xifrat de targeta SD</string>
   <string name="policy_require_smime">Requerir missatges SMIME</string>
