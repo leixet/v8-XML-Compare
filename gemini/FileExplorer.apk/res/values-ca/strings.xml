@@ -521,7 +521,7 @@
   <string name="rlv_loading_more">Un moment&#8230;</string>
   <string name="rlv_pull_to_close">Llisca avall per tancar</string>
   <string name="rlv_pull_to_refresh">Tira avall per recarregar</string>
-  <string name="rlv_refreshing">Escanejant fitxers&#8230;</string>
+  <string name="rlv_refreshing">S\'està actualitzant&#8230;</string>
   <string name="rlv_release_to_close">Deixeu anar per tancar</string>
   <string name="rlv_release_to_refresh">Deixar anar per recarregar</string>
   <string name="save">Desa</string>
