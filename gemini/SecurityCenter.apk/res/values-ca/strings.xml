@@ -1628,7 +1628,7 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="toast_add_virus_white_list_no_need_repeat">L\'excepció del virus ja existeix</string>
   <string name="toast_add_virus_white_list_success">S\'ha afegit a excepcions. Mostra els elements a la configuració.</string>
   <string name="toast_auto_traffic_correct">L\'ús de dades s\'ajusta automàticament</string>
-  <string name="toast_cleaner_cloudscan">Netejador farà servir definicions en línia</string>
+  <string name="toast_cleaner_cloudscan">El netejador farà servir definicions en línia</string>
   <string name="toast_default_app">"%1$s establert com a %2$s per defecte del sistema"</string>
   <string name="toast_flow_notification">Activades les notificacions d\'ús de dades</string>
   <string name="toast_garbage_lib">Activades les actualitzacions automàtiques de Netejador</string>
