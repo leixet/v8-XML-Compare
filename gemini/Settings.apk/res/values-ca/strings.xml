@@ -1904,7 +1904,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="keywords_wifi">wifi wi-fi connexió xarxa</string>
   <string name="keywords_wifi_calling">wifi, wi-fi, trucada, trucar</string>
   <string name="keywords_write_settings">escriptura modificació configuració del sistema</string>
-  <string name="label_global_roaming_settings">Configuració de l\'itinerància</string>
+  <string name="label_global_roaming_settings">Configuració d\'itinerància</string>
   <string name="language_keyboard_settings_title">Idioma i introducció de text</string>
   <string name="language_picker_title">Idioma</string>
   <string name="language_settings">Idioma i introducció de text</string>
@@ -1987,7 +1987,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="location_agps_reset_type">Tipus de reinici</string>
   <string name="location_agps_reset_type_choose_dialog_title">Tipus de reinici</string>
   <string name="location_agps_reset_type_summary">Tria el tipus de reinici preferit</string>
-  <string name="location_agps_roaming_help">"Escollint totes les xarxes pot augmentar l'ús de dades en itinerància. Si us passeu del límit d'ús dels plans de dades, l'operadora pot cobrar despeses addicionals."</string>
+  <string name="location_agps_roaming_help">"Si escolliu totes les xarxes l'ús de dades en itinerància pot augmentar. Si excediu el límit d'ús del vostre pla de dades l'operadora us pot cobrar càrrecs adicionals."</string>
   <string name="location_agps_si_mode">Mode AGPS SI</string>
   <string name="location_agps_si_mode_dialog_title">Mètode AGPS</string>
   <string name="location_agps_si_mode_summary">Tria el mètode preferit per a l\'AGPS</string>
@@ -2962,7 +2962,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="radioInfo_phone_idle">Inactiu</string>
   <string name="radioInfo_phone_offhook">Trucada en curs</string>
   <string name="radioInfo_phone_ringing">S\'està trucant</string>
-  <string name="radioInfo_roaming_in">Itinerància</string>
+  <string name="radioInfo_roaming_in">En itinerància</string>
   <string name="radioInfo_roaming_not">No és en itinerància</string>
   <string name="radioInfo_service_emergency">Només trucades d\'emergència</string>
   <string name="radioInfo_service_in">En servei</string>
