@@ -181,10 +181,10 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="advanced_security_title">Avançat</string>
   <string name="advanced_settings">Configuració avançada</string>
   <string name="advanced_settings_summary">Habilita més opcions avançades</string>
-  <string name="agps_roaming">A-GPS quan és en itinerància</string>
-  <string name="agps_roaming_dia">"L'ús d'A-GPS en itinerància pot augmentar l'ús de dades mòbils. Si passeu del límit contractat podria ser que l'operadora ho cobri apart."</string>
-  <string name="agps_roaming_dia_title">Utilitzeu l\'A-GPS en itinerància</string>
-  <string name="agps_roaming_summary">Utilitza dades mòbils quan el GPS és en itinerància</string>
+  <string name="agps_roaming">A-GPS en itinerància</string>
+  <string name="agps_roaming_dia">"L'ús d'A-GPS en itinerància pot augmentar l'ús de dades mòbils. Si excediu el límit contractat, el vostre operador us pot cobrar càrrecs addicionals."</string>
+  <string name="agps_roaming_dia_title">Ús de l\'A-GPS en itinerància</string>
+  <string name="agps_roaming_summary">Utilitza dades mòbils per ajudar al GPS quan esteu en itinerància</string>
   <string name="airplane_mode">Mode avió</string>
   <string name="alarm_ringtone_title">So d\'alarma predeterminat</string>
   <string name="alarm_sound_dialog_title">Tria el so de l\'alarma</string>
