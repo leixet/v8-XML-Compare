@@ -1187,7 +1187,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="debug_intent_sender_label">Depura els intents d\'enviament</string>
   <string name="debug_layout">Mostra les vores de la disposició</string>
   <string name="debug_layout_summary">Mostra els límits del clip, marges, etc.</string>
-  <string name="debug_monitoring_category">S\'està fent un seguiment</string>
+  <string name="debug_monitoring_category">Monitoratge</string>
   <string name="debug_networking_category">Xarxes</string>
   <string name="debug_view_attributes">Habilita l\'inspecció d\'atributs de visualització</string>
   <string name="decline_remote_bugreport_action">Rebutja-ho</string>
@@ -3965,7 +3965,7 @@ Podeu continuar, però les aplicacions aniran a batzegades i les transferències
 Per a un millor rendiment, us recomanem que utilitzeu un ^1 més ràpid."</string>
   <string name="storageuse_settings_summary">Mostra l\'emmagatzematge que utilitzen les aplicacions</string>
   <string name="storageuse_settings_title">Ús de l\'emmagatzematge</string>
-  <string name="strict_mode">S\'ha activat el mode estricte</string>
+  <string name="strict_mode">Mode estricte activat</string>
   <string name="strict_mode_summary">Il·lumina la pantalla si les aplicacions fan tasques llargues en el procés principal</string>
   <string name="suggested_fingerprint_lock_settings_summary">Desbloqueig amb empremta</string>
   <string name="suggested_lock_settings_summary">Protegeix el dispositiu</string>
