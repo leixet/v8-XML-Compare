@@ -309,6 +309,7 @@
   <string name="mx_activate_int_hint_malformed_info">El vostre operador pot aplicar despeses extra per missatge internacional usat per reactivar Missatge Mi.</string>
   <string name="mx_activate_int_hint_server">El vostre operador pot aplicar despeses extra per missatge internacional usat per reactivar Missatge Mi.</string>
   <string name="mx_activate_int_hint_sim_change">"Sembla que heu canviat les targetes SIM. El vostre operador pot cobrar per missatge de reactivació de Missatge Mi."</string>
+  <string name="mx_activate_network_allow_notice">Aquest servei farà servir la xarxa.</string>
   <string name="mx_activate_status_desc_activating_now">S\'està activant&#8230;</string>
   <string name="mx_activate_status_desc_check_net_connection">"No s'ha pogut connectar a la xarxa"</string>
   <string name="mx_activate_status_desc_fail">"No s'ha pogut activar Missatge Mi"</string>
