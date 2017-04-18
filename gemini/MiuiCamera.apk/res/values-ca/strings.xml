@@ -297,7 +297,7 @@
   <string name="pref_camera_tilt_shift_entry_parallel">Paral·lel</string>
   <string name="pref_camera_tilt_shift_entryvalue_circle">cercle</string>
   <string name="pref_camera_tilt_shift_entryvalue_parallel">paral·lel</string>
-  <string name="pref_camera_tilt_shift_title">Efecte diorama</string>
+  <string name="pref_camera_tilt_shift_title">Efecte maqueta</string>
   <string name="pref_camera_touchafaec_entry_off">Apagat</string>
   <string name="pref_camera_touchafaec_entry_on">Activat</string>
   <string name="pref_camera_ubifocus_title">Reenfocament</string>
@@ -405,7 +405,7 @@
   <string name="simple_mode_button_text_slow_video">Desactiva la càmera ràpida</string>
   <string name="simple_mode_button_text_square">Desactiva el mode quadrat</string>
   <string name="simple_mode_button_text_stereo_mode">Desactiva el mode estèreo</string>
-  <string name="simple_mode_button_text_tilt_shift">Desactiva l\'efecte diorama</string>
+  <string name="simple_mode_button_text_tilt_shift">Desactiva l\'efecte maqueta</string>
   <string name="simple_mode_button_text_ubifocus">Desactiva el reenfocament</string>
   <string name="snap_cancel">Cancel·la</string>
   <string name="snap_confirmed">Confirma</string>
