@@ -348,6 +348,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="scan_barcode_title">Per iniciar la sessió al compte Mi, escanegeu el codi QR</string>
   <string name="search_account_security">Compte de seguretat</string>
   <string name="search_account_security_desc">Configuració del compte</string>
+  <string name="search_account_security_key_words">Canvia el telèfon,Canvia el correu electrònic,Protecció del comptes,Comptes,Sina Weibo,QQ,Autorització,Dispositius</string>
   <string name="search_account_security_path">Configuració/Compte Mi/Configuració del compte</string>
   <string name="search_app_name">Compte Mi</string>
   <string name="search_logout_account">Tanca la sessió</string>
