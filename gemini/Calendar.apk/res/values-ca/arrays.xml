@@ -266,6 +266,21 @@
     <item>Virgo</item>
     <item>8/23 - 9/22</item>
   </string-array>
+  <string-array name="libra_info">
+    <item>balança</item>
+    <item>Balança</item>
+    <item>9/23 - 10/23</item>
+  </string-array>
+  <string-array name="scorpio_info">
+    <item>escorpió</item>
+    <item>Escorpió</item>
+    <item>10/24 - 11/22</item>
+  </string-array>
+  <string-array name="sagittarius_info">
+    <item>sagitari</item>
+    <item>Sagitari</item>
+    <item>11/23 - 12/21</item>
+  </string-array>
   <string-array name="capricorn_info">
     <item>capricorn</item>
     <item>Capricorn</item>
