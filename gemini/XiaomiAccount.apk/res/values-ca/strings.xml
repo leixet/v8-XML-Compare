@@ -26,6 +26,8 @@
   <string name="account_none_binded_info">Cap</string>
   <string name="account_none_user_name">Cap</string>
   <string name="account_protection">Protecció del compte</string>
+  <string name="account_protection_off">Desactivat</string>
+  <string name="account_protection_on">Activat</string>
   <string name="account_secure_info_pref_title">Informació del compte</string>
   <string name="account_security">Compte de seguretat</string>
   <string name="account_security_info_pref_title">Informació de seguretat</string>
@@ -148,6 +150,10 @@
   <string name="mi_account_identity_title">Verifiqueu la vostra identitat</string>
   <string name="mipay">Paga</string>
   <string name="mipay_balance">Saldo</string>
+  <string name="mipay_bank_card">Targeta bancària</string>
+  <string name="mipay_identity">Identitat</string>
+  <string name="mipay_others">Altres</string>
+  <string name="mipay_transit_card">Targeta de transport</string>
   <string name="multi_user_not_show_sync_activity_message_1">"Sembla que esteu utilitzant el vostre compte Mi del primer espai."</string>
   <string name="multi_user_not_show_sync_activity_message_2">"Ara mateix, totes les dades es sincronitzaran al vostre segon espai. Per evitar-ho, no activeu la sincronització amb Mi Cloud."</string>
   <string name="multi_user_not_show_sync_activity_title">"No activis la sincronització amb Mi Cloud"</string>
@@ -340,6 +346,8 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="restart_phone_bind_message">Pot trigar algun temps en rebre el SMS. Comencem de nou de tota manera?</string>
   <string name="restart_phone_bind_title">Modifica el telèfon de recuperació</string>
   <string name="scan_barcode_title">Per iniciar la sessió al compte Mi, escanegeu el codi QR</string>
+  <string name="search_account_security">Compte de seguretat</string>
+  <string name="search_account_security_desc">Configuració del compte</string>
   <string name="search_account_security_path">Configuració/Compte Mi/Configuració del compte</string>
   <string name="search_app_name">Compte Mi</string>
   <string name="search_logout_account">Tanca la sessió</string>
