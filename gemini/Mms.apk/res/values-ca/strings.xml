@@ -17,7 +17,7 @@
   <string name="add_private_contact">Afegeix contacte privat</string>
   <string name="add_slide">Afegeix diapositiva (després)</string>
   <string name="add_slide_before">Afegeix diapositiva d\'introducció</string>
-  <string name="add_slide_hint">Toqueu per crear una nova diapositiva</string>
+  <string name="add_slide_hint">Premeu per crear una nova diapositiva</string>
   <string name="add_smiley">Emoticona</string>
   <string name="add_timing">Programat</string>
   <string name="add_to_browser_favorite_failed">"No s'ha pogut afegir"</string>
