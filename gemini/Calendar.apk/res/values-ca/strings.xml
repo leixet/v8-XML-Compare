@@ -311,7 +311,6 @@
   <string name="recommend_card_add">立即订阅</string>
   <string name="recommend_card_adding">添加中</string>
   <string name="recommend_card_close_hint">将为您减少类似订阅推荐</string>
-  <string name="recommend_card_from">De la subscripció:</string>
   <string name="refresh">Actualitza</string>
   <string name="repeat_activity_label">Repeteix</string>
   <string name="repeat_custom_activity_label">Personalitzada</string>
