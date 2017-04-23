@@ -113,6 +113,19 @@
     <item>男</item>
     <item>女</item>
   </string-array>
+  <string-array name="fortune_random_birthday">
+    <item>01-01-1992</item>
+    <item>04-02-2013</item>
+    <item>05-04-1995</item>
+    <item>06-08-1999</item>
+    <item>21-06-1996</item>
+    <item>18-01-2014</item>
+    <item>2006-01-23</item>
+    <item>2012-01-13</item>
+    <item>1993-01-17</item>
+    <item>1980-01-08</item>
+    <item>1982-01-10</item>
+  </string-array>
   <string-array name="widget_style_list">
     <item>Transparent</item>
     <item>Fons blanc</item>
