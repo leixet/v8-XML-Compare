@@ -274,6 +274,7 @@ Comproveu el número de seguiment."</string>
   <string name="miuishare_app_name">MIUI Share</string>
   <string name="miuishare_no_network">No s\'ha pogut connectar a la xarxa</string>
   <string name="miuishare_publish">Envia</string>
+  <string name="miuishare_qzone_title">Qzone</string>
   <string name="miuishare_share_done">S\'ha enviat correctament</string>
   <string name="miuishare_share_editor_title">Comparteix</string>
   <string name="miuishare_title_more">Més</string>
