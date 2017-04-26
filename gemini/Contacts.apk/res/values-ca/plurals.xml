@@ -102,12 +102,12 @@
     <item quantity="one">%1$d contacte afegit</item>
   </plurals>
   <plurals name="btn_delete_multi_contacts">
-    <item quantity="other">Elimina %d contactes</item>
-    <item quantity="one">Elimina %d contacte</item>
+    <item quantity="other">Elimina %1$d contactes</item>
+    <item quantity="one">Elimina %1$d contacte</item>
   </plurals>
   <plurals name="smart_group_member_count">
-    <item quantity="other">%d persones</item>
-    <item quantity="one">%d persona</item>
+    <item quantity="other">%1$d persones</item>
+    <item quantity="one">%1$d persona</item>
   </plurals>
   <plurals name="device_import_done_toast">
     <item quantity="other">%1$d contactes importats</item>
