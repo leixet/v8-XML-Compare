@@ -51,6 +51,15 @@
   <string name="from_unit">km/h</string>
   <string name="from_unit_en">Quilòmetres per hora</string>
   <string name="from_unit_short">km/h</string>
+  <string name="global_search_key_area_convertion">Àrea;Conversor de àrea;Conversió d\'àrea</string>
+  <string name="global_search_key_calculation">Calcula;Conversió d\'unitats;Conversor;Conversor d\'unitats</string>
+  <string name="global_search_key_date_convertion">Conversor de temps;Unitats de temps;Temps de conversió;Temps</string>
+  <string name="global_search_key_exchange_rate">Tipus de canvi;Conversió del tipus de canvi;Conversor de moneda;Moneda;Tipus de canvi</string>
+  <string name="global_search_key_length_convertion">Longitud;Conversor de longitud;Conversió de longitud</string>
+  <string name="global_search_key_mortgage">Càlcul d\'hipoteca;Calculadora d\'hipoteca;Hipoteca</string>
+  <string name="global_search_key_personal_tax">Impost sobre la renda de les persones físiques;Ingrés després d\'impostos;Calculadora d\'impostos;Càlcul d\'ingressos personals;Càlcul d\'ingressos;Càlcul d\'ingressos després d\'impostos;impost sobre la renda personal;Impostos</string>
+  <string name="global_search_key_scientific_convertion">Calculadora científica;Càlcul de funcions:Matemàtiques;Àlgebra</string>
+  <string name="global_search_key_speed_convertion">Conversió de velocitat;Velocitat</string>
   <string name="home_title_calculator">Calculadora</string>
   <string name="item_title_aa_payment">Pagament a escot</string>
   <string name="item_title_area_conversion">Àrea</string>
