@@ -31,7 +31,7 @@
   <string name="camera_setting">Càmera</string>
   <string name="camera_settings_label">Càmera</string>
   <string name="camera_snap_mode_title">Mode disparar ràpid</string>
-  <string name="camera_snap_mode_title_detail">Tocar per veure detalls</string>
+  <string name="camera_snap_mode_title_detail">Premeu per mostrar detalls</string>
   <string name="cannot_connect_camera_once">"No es pot accedir a la càmera"</string>
   <string name="cannot_connect_camera_twice">"Encara no es pot accedir a la càmera. Proveu de reiniciar el telèfon."</string>
   <string name="cannot_connect_camera_volte_call">Trucada de vídeo en curs, si us plau intenteu-ho més tard.</string>
@@ -80,7 +80,7 @@
   <string name="face_beauty_smart">Intel·ligent</string>
   <string name="groupshot_mode_use_hint">"Es prendran diverses fotos per seleccionar la millor expressió facial per sintetitzar-la en una foto"</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
-  <string name="message_snap_double_confirm">Mantenir premut el botó de volum és el mode NFC, confirmeu el canvi?</string>
+  <string name="message_snap_double_confirm">Si es manté premut el botó de volum actualment s\'activa l\'NFC. Voleu canviar-ho?</string>
   <string name="no_storage">Inseriu la targeta SD abans d\'usar la càmera</string>
   <string name="not_enough_space">L\'emmagatzematge intern és ple</string>
   <string name="object_track_enable_toast">Per seleccionar un objecte, toqueu dos punts diagonals simultàniament en la seva vora.</string>
@@ -106,7 +106,7 @@
   <string name="pref_camera_asd_night_title">Millorar fotos amb poca llum automàticament</string>
   <string name="pref_camera_asd_popup_title">Notifica quan es necessiti flaix</string>
   <string name="pref_camera_audio_capture_title">Veu</string>
-  <string name="pref_camera_auto_capture_when_stable_summary">Per seleccionar un objecte, toqui dos punts diagonals al voltant de la seva vora. Quan l\'objecte estigui immòbil la càmera farà una foto automàticament.</string>
+  <string name="pref_camera_auto_capture_when_stable_summary">Per seleccionar un objecte, toqueu dos punts en diagonal al voltant seu. Quan l\'objecte estigui quiet la càmera es dispararà automàticament.</string>
   <string name="pref_camera_auto_capture_when_stable_title">Capturar objectes seleccionats quan estan fixos</string>
   <string name="pref_camera_auto_chroma_flash_title">Flash chroma</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Ponderada al centre</string>
@@ -283,9 +283,9 @@
   <string name="pref_camera_show_gender_age_title">Edat i gènere</string>
   <string name="pref_camera_snap_enable_title">Mode disparar ràpid</string>
   <string name="pref_camera_snap_entry_off">Desactivat</string>
-  <string name="pref_camera_snap_entry_take_movie">Quan la pantalla està apagada, premi i mantingui el botó de baixar el volum per iniciar la gravació de vídeo. Deixeu anar per aturar.</string>
-  <string name="pref_camera_snap_entry_take_picture">Quan la pantalla està apagada, premeu i mantingueu el botó de baixar el volum per començar la ràfega de fotos. Deixeu-lo anar per aturar.</string>
-  <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"No es pot utilitzar el mode Quick snap mentre \"Activa amb els botons de volum\" estigui actiu."</string>
+  <string name="pref_camera_snap_entry_take_movie">Dispara vídeo</string>
+  <string name="pref_camera_snap_entry_take_picture">Dispara foto</string>
+  <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"No es pot utilitzar el mode disparar ràpid mentre \"Activa amb els botons de volum\" estigui actiu."</string>
   <string name="pref_camera_snap_value_take_movie">Pel·lícula</string>
   <string name="pref_camera_snap_value_take_picture">Foto</string>
   <string name="pref_camera_sound_title">Sons de càmera</string>
@@ -408,14 +408,14 @@
   <string name="simple_mode_button_text_tilt_shift">Desactiva l\'efecte maqueta</string>
   <string name="simple_mode_button_text_ubifocus">Desactiva el reenfocament</string>
   <string name="snap_cancel">Cancel·la</string>
-  <string name="snap_confirmed">Confirma</string>
+  <string name="snap_confirmed">Reemplaça</string>
   <string name="spaceIsLow_content_external_storage_priority">La targeta SD s\'està quedant sense espai disponible</string>
   <string name="spaceIsLow_content_primary_storage_priority">L\'emmagatzematge USB s\'està quedant sense espai disponible</string>
   <string name="start_capture">D\'acord</string>
   <string name="tap_to_exposure">Premeu per ajustar manualment l\'exposició</string>
   <string name="tap_to_focus">Toqueu per enfocar</string>
   <string name="time_lapse_error">"No es pot fer servir aquesta mida de vídeo en un enregistrament a càmera ràpida"</string>
-  <string name="title_snap_double_confirm">Si us plau, confirmeu</string>
+  <string name="title_snap_double_confirm">Torneu-ho a confirmar</string>
   <string name="toast_burst_snap_finished_end">Fotos</string>
   <string name="toast_burst_snap_finished_start">Dispar en ràfega acabat:</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">"No es pot disparar en ràfega amb el disparador per veu activat"</string>
