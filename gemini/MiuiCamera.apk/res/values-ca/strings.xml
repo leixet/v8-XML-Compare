@@ -208,7 +208,7 @@
   <string name="pref_camera_jpegquality_entry_low">Baixa</string>
   <string name="pref_camera_jpegquality_entry_normal">Estàndard</string>
   <string name="pref_camera_jpegquality_title">Qualitat d\'imatge</string>
-  <string name="pref_camera_long_press_shutter_feature_title">Pressionar i mantenir l\'obturador</string>
+  <string name="pref_camera_long_press_shutter_feature_title">Quan es manté premut el disparador</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Ràfega</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Enfocament</string>
   <string name="pref_camera_long_pressing_shutter_title">Feu clic i mantingui l\'obturador per fixar AE/AF/AWB</string>
