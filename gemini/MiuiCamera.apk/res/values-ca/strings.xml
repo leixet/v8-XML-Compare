@@ -216,12 +216,12 @@
   <string name="pref_camera_manual_mode_title">Manual</string>
   <string name="pref_camera_mono_mode_title">Blanc i negre</string>
   <string name="pref_camera_movie_solid_title">Estabilitzador d\'imatge</string>
-  <string name="pref_camera_multilevel_entry_high">Alta</string>
-  <string name="pref_camera_multilevel_entry_higher">Superior</string>
-  <string name="pref_camera_multilevel_entry_highest">Més alt</string>
-  <string name="pref_camera_multilevel_entry_low">Baixa</string>
-  <string name="pref_camera_multilevel_entry_lower">Inferior</string>
-  <string name="pref_camera_multilevel_entry_lowest">Més baix</string>
+  <string name="pref_camera_multilevel_entry_high">Alt</string>
+  <string name="pref_camera_multilevel_entry_higher">Més alt</string>
+  <string name="pref_camera_multilevel_entry_highest">Màxim</string>
+  <string name="pref_camera_multilevel_entry_low">Baix</string>
+  <string name="pref_camera_multilevel_entry_lower">Més baix</string>
+  <string name="pref_camera_multilevel_entry_lowest">Mínim</string>
   <string name="pref_camera_multilevel_entry_middle">Mitjà (per defecte)</string>
   <string name="pref_camera_multilevel_entry_normal">Normal</string>
   <string name="pref_camera_panoramamode_title">Panoràmica</string>
@@ -309,7 +309,7 @@
   <string name="pref_camera_volumekey_function_entry_shutter">Obturador</string>
   <string name="pref_camera_volumekey_function_entry_volume">Volum</string>
   <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
-  <string name="pref_camera_volumekey_function_title">Funcions dels botons de volum</string>
+  <string name="pref_camera_volumekey_function_title">Funció dels botons de volum</string>
   <string name="pref_camera_watermark_title">Marca de temps</string>
   <string name="pref_camera_whitebalance_entry_auto">Automàtic</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Ennuvolat</string>
