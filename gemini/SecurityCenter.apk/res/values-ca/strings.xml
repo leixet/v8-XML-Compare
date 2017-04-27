@@ -1166,12 +1166,10 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_key_half_year_package_value">Mida del paquet</string>
   <string name="pref_leisure_no_overlay">Activat</string>
   <string name="pref_leisure_not_opened">Desactivat</string>
-  <string name="pref_leisure_traffic_limit">Quan s\'utilitzin dades fora del màxim</string>
   <string name="pref_manual_adjust">Estableix manualment les estadístiques d\'ús de dades</string>
   <string name="pref_mi_sim_settings">Configuració de la Mi SIM</string>
   <string name="pref_month_begin_date">Restablir la data d\'ús</string>
   <string name="pref_month_first_day">1</string>
-  <string name="pref_month_traffic_limit">Límit d\'ús de dades mensuals</string>
   <string name="pref_more_settings">Configuració avançada</string>
   <string name="pref_new_installed_preconfig_title">"Configuració per defecte per a noves aplicacions"</string>
   <string name="pref_normal_traffic_limit">Quan reviseu el pla de dades</string>
