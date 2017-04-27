@@ -102,7 +102,7 @@
   <string name="pref_camera_antibanding_entry_1">50 Hz</string>
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
   <string name="pref_camera_antibanding_entry_3">Automàtic</string>
-  <string name="pref_camera_antibanding_title">Desentrellaçat</string>
+  <string name="pref_camera_antibanding_title">Antiparpelleig</string>
   <string name="pref_camera_asd_night_title">Millora les fotos fosques automàticament</string>
   <string name="pref_camera_asd_popup_title">Notifica quan es necessiti flaix</string>
   <string name="pref_camera_audio_capture_title">Veu</string>
