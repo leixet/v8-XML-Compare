@@ -72,7 +72,7 @@
   <string name="face_beauty_age_alias_male_45_60">Home 45-60</string>
   <string name="face_beauty_age_alias_male_60_m">Home Més de 60</string>
   <string name="face_beauty_age_alias_male_8_17">Home 8-17</string>
-  <string name="face_beauty_close">Desactivat</string>
+  <string name="face_beauty_close">Apagat</string>
   <string name="face_beauty_intelligent_level_0">Apagat</string>
   <string name="face_beauty_intelligent_level_1">Baix</string>
   <string name="face_beauty_intelligent_level_2">Mitjà</string>
@@ -124,7 +124,7 @@
   <string name="pref_camera_beautify_entry_7">7</string>
   <string name="pref_camera_beautify_entry_8">8</string>
   <string name="pref_camera_beautify_entry_9">9</string>
-  <string name="pref_camera_beautify_entry_auto">Desactivat</string>
+  <string name="pref_camera_beautify_entry_auto">Apagat</string>
   <string name="pref_camera_beautify_entry_high">Alt</string>
   <string name="pref_camera_beautify_entry_low">Baix</string>
   <string name="pref_camera_beautify_entry_normal">Mitjà</string>
