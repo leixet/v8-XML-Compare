@@ -211,7 +211,7 @@
   <string name="pref_camera_long_press_shutter_feature_title">Quan es manté premut el disparador</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Ràfega</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Enfocament</string>
-  <string name="pref_camera_long_pressing_shutter_title">Feu clic i mantingui l\'obturador per fixar AE/AF/AWB</string>
+  <string name="pref_camera_long_pressing_shutter_title">Mantingueu premut el disparador per fixar AE/AF/AWB</string>
   <string name="pref_camera_magic_mirror_title">Mirall màgic</string>
   <string name="pref_camera_manual_mode_title">Manual</string>
   <string name="pref_camera_mono_mode_title">Blanc i negre</string>
