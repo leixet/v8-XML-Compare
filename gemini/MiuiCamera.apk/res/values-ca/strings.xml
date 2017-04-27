@@ -20,7 +20,7 @@
   <string name="accessibility_video_module_picker">VideoModulePicker</string>
   <string name="accessibility_video_pause_button">Botó de pausar vídeo</string>
   <string name="audio_focus_exit_button_text">Tancar enfocament d\'àudio</string>
-  <string name="burst_shoot_exit_button_text">Tanca disparar en ràfega</string>
+  <string name="burst_shoot_exit_button_text">Tanca el mode ràfega</string>
   <string name="button_fisheye_camera_title">Ull de peix</string>
   <string name="button_front_camera_title">Fer una selfie</string>
   <string name="button_normal_video_title">Enregistrar Vídeo</string>
@@ -95,7 +95,7 @@
   <string name="pref_audio_focus_entry_general">Normal</string>
   <string name="pref_audio_focus_entry_rear">Darrere</string>
   <string name="pref_audio_focus_title">Focus d\'àudio</string>
-  <string name="pref_burst_shoot_title">Disparar en ràfega</string>
+  <string name="pref_burst_shoot_title">Ràfega</string>
   <string name="pref_camcorder_settings">Vídeo</string>
   <string name="pref_camcorder_settings_category">Configuració de la càmera</string>
   <string name="pref_camera_antibanding_entry_0">Apagat</string>
@@ -103,7 +103,7 @@
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
   <string name="pref_camera_antibanding_entry_3">Automàtic</string>
   <string name="pref_camera_antibanding_title">Desentrellaçat</string>
-  <string name="pref_camera_asd_night_title">Millorar fotos amb poca llum automàticament</string>
+  <string name="pref_camera_asd_night_title">Millora les fotos fosques automàticament</string>
   <string name="pref_camera_asd_popup_title">Notifica quan es necessiti flaix</string>
   <string name="pref_camera_audio_capture_title">Veu</string>
   <string name="pref_camera_auto_capture_when_stable_summary">Per seleccionar un objecte, toqueu dos punts en diagonal al voltant seu. Quan l\'objecte estigui quiet la càmera es dispararà automàticament.</string>
@@ -170,7 +170,7 @@
   <string name="pref_camera_exposuretime_entry_8">1/8s</string>
   <string name="pref_camera_exposuretime_entry_8s">8s</string>
   <string name="pref_camera_exposuretime_entry_auto">Automàtic</string>
-  <string name="pref_camera_face_info_watermark_title">Afegir segell d\'edat a la foto</string>
+  <string name="pref_camera_face_info_watermark_title">Segell d\'edat</string>
   <string name="pref_camera_facedetection_title">Detecció facial</string>
   <string name="pref_camera_flashmode_entry_auto">Auto</string>
   <string name="pref_camera_flashmode_entry_off">Apagat</string>
@@ -209,7 +209,7 @@
   <string name="pref_camera_jpegquality_entry_normal">Estàndard</string>
   <string name="pref_camera_jpegquality_title">Qualitat d\'imatge</string>
   <string name="pref_camera_long_press_shutter_feature_title">Pressionar i mantenir l\'obturador</string>
-  <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Disparar en ràfega</string>
+  <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Ràfega</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Enfocament</string>
   <string name="pref_camera_long_pressing_shutter_title">Feu clic i mantingui l\'obturador per fixar AE/AF/AWB</string>
   <string name="pref_camera_magic_mirror_title">Mirall màgic</string>
@@ -337,7 +337,7 @@
   <string name="pref_manual_exposure_title">Temps d\'exposició</string>
   <string name="pref_priority_storage_title">Desa a la targeta SD</string>
   <string name="pref_qc_focus_position_title">Enfocament</string>
-  <string name="pref_scan_qrcode_title">Escaneja el codi QR</string>
+  <string name="pref_scan_qrcode_title">Escaneig de codis QR</string>
   <string name="pref_setting_title">Configuració</string>
   <string name="pref_simple_hdr_entry_off">Apagat</string>
   <string name="pref_simple_hdr_entry_on">Activat</string>
@@ -417,7 +417,7 @@
   <string name="time_lapse_error">"No es pot fer servir aquesta mida de vídeo en un enregistrament a càmera ràpida"</string>
   <string name="title_snap_double_confirm">Torneu-ho a confirmar</string>
   <string name="toast_burst_snap_finished_end">Fotos</string>
-  <string name="toast_burst_snap_finished_start">Dispar en ràfega acabat:</string>
+  <string name="toast_burst_snap_finished_start">Ràfega</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">"No es pot disparar en ràfega amb el disparador per veu activat"</string>
   <string name="toast_saving">S\'estan desant les fotos&#8230;</string>
   <string name="toast_start_audio_capture">Feu un so per fer una fota</string>
