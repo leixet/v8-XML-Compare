@@ -1703,7 +1703,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="getConfiguredNetworks">xarxes configurades</string>
   <string name="getConnectionInfo">informació de la connexió</string>
   <string name="global_change_warning">Aquesta configuració afecta tots els usuaris del telèfon.</string>
-  <string name="global_locale_change_title">Canvia d\'idioma</string>
+  <string name="global_locale_change_title">Canvi d\'idioma</string>
   <string name="go_back_button_label">Torna enrere</string>
   <string name="google_backup_enable">Activa la còpia de seguretat</string>
   <string name="google_backup_section_title">Còpia de seguretat i restauració de Google</string>
