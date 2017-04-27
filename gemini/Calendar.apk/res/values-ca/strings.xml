@@ -53,8 +53,6 @@
   <string name="birthday_event_description_today">Avui és</string>
   <string name="birthday_event_description_tomorrow">Demà és</string>
   <string name="birthday_event_description_yesterday">Ahir va ser</string>
-  <string name="birthday_metric">anys</string>
-  <string name="birthday_notification_age_term">%1$s%2$s</string>
   <string name="birthday_notification_text_days_later">Falten %1$s dies per %4$s (%5$s)</string>
   <string name="birthday_notification_text_today">"No us oblideu de felicitar-lo."</string>
   <string name="birthday_notification_title_days_later">"Aviat serà el %2$s de %1$s."</string>
@@ -345,7 +343,6 @@
   <string name="repeat_end_label">Es deixa de repetir després de</string>
   <string name="repeat_end_times_unit">" vegades"</string>
   <string name="repeat_interval_dialog_title">Cada %1$s</string>
-  <string name="repeat_interval_frequency">%1$d %2$s</string>
   <string name="repeat_label_choose_day">Trieu el dia</string>
   <string name="repeat_label_choose_month">Trieu el mes</string>
   <string name="repeat_label_choose_time">Trieu l\'hora per al recordatori</string>
