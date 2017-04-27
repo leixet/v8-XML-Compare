@@ -36,9 +36,9 @@
   <string name="cannot_connect_camera_twice">"Encara no es pot accedir a la càmera. Proveu de reiniciar el telèfon."</string>
   <string name="cannot_connect_camera_volte_call">Trucada de vídeo en curs, si us plau intenteu-ho més tard.</string>
   <string name="cannot_move_warning_message">Fotografia en procés, no mogui el dispositiu</string>
-  <string name="confirm_location_alert">Desar localització</string>
+  <string name="confirm_location_alert">Recorda la ubicació de les fotos</string>
   <string name="confirm_location_message">Etiquetar les teves fotos i vídeos amb les localitzacions on van ser presos? Altres aplicacions podran accedir a aquesta informació juntament amb les imatges desades.</string>
-  <string name="confirm_location_title">Desar localització?</string>
+  <string name="confirm_location_title">Voleu que es desi la ubicació de les fotos?</string>
   <string name="confirm_recording_fail_calling_alert">"No es pot enregistrar durant una trucada."</string>
   <string name="confirm_recording_fail_recorder_busy_alert">"Una altra aplicació pot estar ja usant el micròfon per enregistrar."</string>
   <string name="confirm_recording_fail_title">"No es pot gravar"</string>
@@ -74,9 +74,9 @@
   <string name="face_beauty_age_alias_male_8_17">Home 8-17</string>
   <string name="face_beauty_close">Desactivat</string>
   <string name="face_beauty_intelligent_level_0">Apagat</string>
-  <string name="face_beauty_intelligent_level_1">Baixa</string>
-  <string name="face_beauty_intelligent_level_2">Mitjana</string>
-  <string name="face_beauty_intelligent_level_3">Alta</string>
+  <string name="face_beauty_intelligent_level_1">Baix</string>
+  <string name="face_beauty_intelligent_level_2">Mitjà</string>
+  <string name="face_beauty_intelligent_level_3">Alt</string>
   <string name="face_beauty_smart">Intel·ligent</string>
   <string name="groupshot_mode_use_hint">"Es prendran diverses fotos per seleccionar la millor expressió facial per sintetitzar-la en una foto"</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
@@ -256,7 +256,7 @@
   <string name="pref_camera_raw_title">RAW</string>
   <string name="pref_camera_recordlocation_entry_off">Apagat</string>
   <string name="pref_camera_recordlocation_entry_on">Activat</string>
-  <string name="pref_camera_recordlocation_title">Desar localització</string>
+  <string name="pref_camera_recordlocation_title">Desa la informació d\'ubicació</string>
   <string name="pref_camera_referenceline_title">Línia de referència</string>
   <string name="pref_camera_saturation_title">Saturació</string>
   <string name="pref_camera_scenemode_entry_auto">Automàtic</string>
@@ -281,7 +281,7 @@
   <string name="pref_camera_show_gender_age_entry_off">Apagat</string>
   <string name="pref_camera_show_gender_age_entry_on">Mostra l\'edat i el gènere quan l\'embellidor està activat</string>
   <string name="pref_camera_show_gender_age_title">Edat i gènere</string>
-  <string name="pref_camera_snap_enable_title">Mode dispar ràpid</string>
+  <string name="pref_camera_snap_enable_title">Mode disparar ràpid</string>
   <string name="pref_camera_snap_entry_off">Desactivat</string>
   <string name="pref_camera_snap_entry_take_movie">Quan la pantalla està apagada, premi i mantingui el botó de baixar el volum per iniciar la gravació de vídeo. Deixeu anar per aturar.</string>
   <string name="pref_camera_snap_entry_take_picture">Quan la pantalla està apagada, premeu i mantingueu el botó de baixar el volum per començar la ràfega de fotos. Deixeu-lo anar per aturar.</string>
@@ -335,7 +335,7 @@
   <string name="pref_front_mirror_title">Càmera frontal mirall</string>
   <string name="pref_groupshot_with_primitive_title">Desa també les fotos originals</string>
   <string name="pref_manual_exposure_title">Temps d\'exposició</string>
-  <string name="pref_priority_storage_title">Desar a la targeta SD</string>
+  <string name="pref_priority_storage_title">Desa a la targeta SD</string>
   <string name="pref_qc_focus_position_title">Enfocament</string>
   <string name="pref_scan_qrcode_title">Escaneja el codi QR</string>
   <string name="pref_setting_title">Configuració</string>
@@ -388,7 +388,7 @@
   <string name="see_qrcode_detals">Mostra els detalls</string>
   <string name="simple_mode_button_asd_flash">Tanca la captura flash</string>
   <string name="simple_mode_button_asd_hdr">Tancar captura HDR</string>
-  <string name="simple_mode_button_text_audio_capture">Desactiva el disparador de veu</string>
+  <string name="simple_mode_button_text_audio_capture">Desactiva el disparador per veu</string>
   <string name="simple_mode_button_text_color_effect">Desactiva el filtre</string>
   <string name="simple_mode_button_text_delay_capture">Desactiva el compte enrere</string>
   <string name="simple_mode_button_text_face_beauty">Desactiva l\'embellidor</string>
