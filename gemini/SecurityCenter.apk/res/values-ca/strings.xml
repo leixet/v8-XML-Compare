@@ -1687,7 +1687,25 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="st_title_backsound_group">Missatge d\'absència</string>
   <string name="st_title_blacklist_numbers">Números bloquejats</string>
   <string name="st_title_call_wait">Notificació de trucada en espera</string>
+  <string name="st_title_call_wait_setting">Trucada en espera</string>
+  <string name="st_title_editblacklist">Edita la llista de bloqueig</string>
+  <string name="st_title_editwhitelist">Edita les excepcions</string>
+  <string name="st_title_keywords_blacklist">Filtre de paraules clau</string>
+  <string name="st_title_man_addblacklist">Afegeix el número a la llista de bloqueig</string>
+  <string name="st_title_man_addwhitelist">Afegeix el número de telèfon a les excepcions</string>
+  <string name="st_title_man_editblacklist">Trieu un codi d\'àrea per afegir a la llista de bloqueig</string>
+  <string name="st_title_man_editwhitelist">Trieu un codi d\'àrea per afegir a les excepcions</string>
+  <string name="st_title_man_head_addblacklist">Afegeix un prefix de número de telèfon a la llista de bloqueig</string>
+  <string name="st_title_man_head_addwhitelist">Afegeix un prefix de número de telèfon a les excepcions</string>
+  <string name="st_title_markednumber_group">Bloqueja els números notificats</string>
   <string name="st_title_mode_choose_group">Escollir perfil</string>
+  <string name="st_title_not_sim">Buit</string>
+  <string name="st_title_open_antispam">Llista de bloqueig</string>
+  <string name="st_title_other_group">Altres</string>
+  <string name="st_title_settings_other_group">Configuració avançada</string>
+  <string name="st_title_show_antispamnotification">Notificacions de la llista de bloqueig</string>
+  <string name="st_title_sim_card">%1$s - SIM %2$s</string>
+  <string name="st_title_whitelist_numbers">Excepcions</string>
   <string name="start_diagnostic_botton">Iniciar</string>
   <string name="start_downloading_app">S\'està iniciant la baixada: %1$s</string>
   <string name="start_install">Instal·la ara</string>
@@ -1750,6 +1768,11 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="system_check_content_none">Segur</string>
   <string name="system_header_title">Elimina %1$d processos per alliberar %2$s de memòria</string>
   <string name="system_info_remind">Afegeix bloquejos per evitar l\'accés no autoritzat a les seves aplicacions</string>
+  <string name="tab_blacklist">Llista de bloqueig</string>
+  <string name="tab_block_log_unKnowNumber">Número privat</string>
+  <string name="tab_call">Trucades</string>
+  <string name="tab_sms">SMS</string>
+  <string name="tab_title">Llista de bloqueig</string>
   <string name="tc_diagnostic_all_error_notification_summary">Premi per informar d\'algun problema</string>
   <string name="tc_diagnostic_all_error_notification_title">"No s'ha pogut fer un diagnòstic complet"</string>
   <string name="tc_diagnostic_brand_error_notification_summary">Premi per ajustar el tipus de xarxa</string>
@@ -1902,6 +1925,9 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="toast_default_app">"%1$s establert com a %2$s per defecte del sistema"</string>
   <string name="toast_flow_notification">Activades les notificacions d\'ús de dades</string>
   <string name="toast_garbage_lib">Activades les actualitzacions automàtiques de Netejador</string>
+  <string name="toast_keyword_blank">És necessari introduir una paraula clau</string>
+  <string name="toast_keyword_exist">S\'ha afegit la paraula clau</string>
+  <string name="toast_keyword_invalid">Paraula clau no vàlida</string>
   <string name="toast_lockscreen_glogin_empty_password">Es requereix contrasenya</string>
   <string name="toast_network_eror">"No s'ha pogut connectar a la xarxa"</string>
   <string name="toast_network_switch">Aquesta aplicació pot connectar-se a internet</string>
@@ -1970,6 +1996,7 @@ Dades extres en ús"</string>
   <string name="traffic_setting_fragment_title">Configuració de consulta d\'ús de dades</string>
   <string name="traffic_warning_purchase_title">Avís d\'ús de dades mòbils</string>
   <string name="try_recommended_function">Protegiu el dispositiu amb les noves funcions de seguretat</string>
+  <string name="two_address_choose_hint">%1$s i %2$s</string>
   <string name="unable_connect_internet">No hi ha connexió a internet</string>
   <string name="uninstall_app_dialog_msg">Si ho desinstal·leu, es suprimiran totes les dades de l\'aplicació.</string>
   <string name="uninstall_app_dialog_title">Voleu desinstal·lar-ho ara?</string>
@@ -2001,6 +2028,7 @@ Dades extres en ús"</string>
   <string name="usbsharenet_exception_title">Comprovar xarxa compartida per USB</string>
   <string name="usbsharenet_pc_exception_summary">No es pot connectar a Internet mitjançant connexió USB compartida. Comproveu la connexió a Internet de l\'ordinador.</string>
   <string name="use_immediately">Utilitza</string>
+  <string name="user_define_title">Afegeix regles</string>
   <string name="virus_ad_icon_text">Anunci</string>
   <string name="virus_already_update">Les definicions estan actualitzades</string>
   <string name="virus_dp_update_title">Actualitzacions de les definicions</string>
@@ -2013,8 +2041,10 @@ Dades extres en ús"</string>
   <string name="voltage_symbol">V</string>
   <string name="wakepath_confirm_start_activity">Permetre a %1$s obrir %2$s?</string>
   <string name="warning_open_mi_sim">Activar Mi SIM</string>
+  <string name="website">Pàgina web</string>
   <string name="white_list_risk_app_header">Aplicacions perilloses: %d</string>
   <string name="white_list_trojan_header">Troians: %d</string>
+  <string name="whitelist_prefix_add_hint">Afegeix tots els números amb prefix a les excepcions</string>
   <string name="wifi_exception_summary">Comprovar connexions de xarxa Wi-Fi disponibles</string>
   <string name="wifi_exception_title">Comprovar xarxa Wi-Fi</string>
   <string name="wifi_item_status_connection_no">No connectat</string>
@@ -2025,4 +2055,6 @@ Dades extres en ús"</string>
   <string name="wifi_item_title_encryption">Encriptació Wi-Fi</string>
   <string name="wifi_item_title_fake">Detectada Wi-Fi falsa</string>
   <string name="wifi_network_blocked_notification_title">No hi ha connexió a internet</string>
+  <string name="wl_no_whitelist">No hi ha excepcions.</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
