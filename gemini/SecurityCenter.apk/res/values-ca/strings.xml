@@ -514,6 +514,10 @@ o introdueixi la seva contrasenya"</string>
   <string name="daily_limit_network_available_body">Toqui per veure les estadístiques d\'ús de dades.</string>
   <string name="daily_limit_over_message">"Ha superat el límit de dades diàri."</string>
   <string name="daily_pkg_traffic">Límit màxim de dades</string>
+  <string name="daily_sim_over_limit_dialog_message">"Ja heu fet servir %s del límit de dades diàries.
+
+Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li per les dades addicionals."</string>
+  <string name="daily_sim_over_limit_notify_title">"Ja heu fet servir %s del límit de dades diàries."</string>
   <string name="data_network_blocked_notification_title">No hi ha connexió a internet</string>
   <string name="data_usage_correction_timeout_body">Toqui per actualitzar manualment.</string>
   <string name="data_usage_correction_timeout_title">Esgotat el temps per sincronitzar ús de dades</string>
@@ -577,6 +581,9 @@ o introdueixi la seva contrasenya"</string>
   <string name="dialog_title_stop_paysafety_scan">Atura</string>
   <string name="dialog_title_stop_virus_scan">Atura l\'anàlisi de virus</string>
   <string name="disable_air_mode">Desactivar mode avió</string>
+  <string name="dlg_add_blacklist">Voleu bloquejar aquest número?</string>
+  <string name="dlg_add_blacklist_title">Afegeix a la llista de bloqueig</string>
+  <string name="dlg_add_blacklist_warn_conflict_content">%1$s i %2$s altres contactes ja són a la llista d\'excepcions.</string>
   <string name="dlg_add_blacklist_warn_conflict_title">Conflicte d\'excepcions</string>
   <string name="dlg_add_keyword">Afegeix paraules clau</string>
   <string name="dlg_antispam_mode_delete_message">"No es poden recuperar les regles després d'haver-les eliminat."</string>
@@ -905,6 +912,18 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="manual_item_white_list_summary">Eviteu que s\'optimitzin les aplicacions seleccionades</string>
   <string name="manual_item_white_list_title">Excepcions</string>
   <string name="manual_white_list_header">%d excepcions</string>
+  <string name="mark_agent">Bloqueja les agències notificades</string>
+  <string name="mark_agent_block">Notificat com a agència</string>
+  <string name="mark_agent_block_large">Agències</string>
+  <string name="mark_agent_time_setting">Bloqueja els números que hagin estat notificats com agències un determinat nombre de vegades</string>
+  <string name="mark_fraud">Bloqueja els fraus notificats</string>
+  <string name="mark_fraud_block">Notificat com a frau</string>
+  <string name="mark_fraud_block_large">Fraus</string>
+  <string name="mark_fraud_time_setting">Bloqueja els números que hagin estat notificats com a frau un determinat nombre de vegades</string>
+  <string name="mark_harass">Bloqueja els assetjaments notificats</string>
+  <string name="mark_harass_block">Notificat com a assetjament</string>
+  <string name="mark_harass_block_large">Assetjaments</string>
+  <string name="mark_harass_time_setting">Bloqueja els números que hagin estat notificats com a assetjaments un determinat nombre de vegades</string>
   <string name="megabyteShort">MB</string>
   <string name="megabyte_per_second">MB/s</string>
   <string name="memory_check_content">Alliberats %s</string>
