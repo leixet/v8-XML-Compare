@@ -72,9 +72,19 @@
   <string name="daily_forecast_detail_date_format">del %1$s al %2$s</string>
   <string name="daily_forecast_no_data">"No s\'ha pogut obtenir la informació meteorològica
 Tireu cap avall per actualitzar o comproveu la configuració de la xarxa"</string>
+  <string name="data_provided_by">Dades proporcionades per</string>
   <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_alert_city_title">Gestioneu les alertes</string>
   <string name="edit_city">Edita la ciutat</string>
+  <string name="feedback_heavy_rain">Pluja forta</string>
+  <string name="feedback_heavy_snow">Neu</string>
+  <string name="feedback_light_rain">Pluja feble</string>
+  <string name="feedback_overcast">Cobert</string>
+  <string name="feedback_result_fail_no_choice">Trieu el temps que veieu</string>
+  <string name="feedback_result_interval_time_too_short">%1$s segons després dels comentaris</string>
+  <string name="feedback_result_success">S\'ha enviat amb èxit, gràcies pels vostres comentaris</string>
+  <string name="feedback_sand">Sorra</string>
+  <string name="feedback_sunny">Serè</string>
   <string name="first_start_network_msg">Aquesta aplicació necessita connectar-se a Internet i accedir a la vostra ubicació per funcionar correctament.</string>
   <string name="first_start_network_title">Accés a la connexió a Internet i a la ubicació</string>
   <string name="global_aqi">IQA: %1$s %2$s</string>
@@ -122,8 +132,13 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="location_tag">Ubica</string>
   <string name="menu_add_city">Edita les ubicacions</string>
   <string name="menu_location">Ubicacions</string>
+  <string name="menu_minute_rain">Previsió de dues hores de precipitació</string>
   <string name="menu_speeker">Difusió de veu</string>
   <string name="mi_pad2">latte</string>
+  <string name="minute_rain_after_an_hour">Una hora més tard</string>
+  <string name="minute_rain_after_two_hour">Dues hores més tard</string>
+  <string name="minute_rain_feedback_subtitle">Només digueu-me com és el temps</string>
+  <string name="minute_rain_feedback_text">Comentaris</string>
   <string name="more_details">Més detalls</string>
   <string name="network_not_available">"No es pot connectar a la xarxa"</string>
   <string name="network_unavailable">"No es pot connectar a la xarxa."</string>
