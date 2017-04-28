@@ -139,6 +139,12 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="minute_rain_after_two_hour">Dues hores més tard</string>
   <string name="minute_rain_feedback_subtitle">Només digueu-me com és el temps</string>
   <string name="minute_rain_feedback_text">Comentaris</string>
+  <string name="minute_rain_feedback_title">"El temps no sembla correcte."</string>
+  <string name="minute_rain_let_go_refresh">Permet refrescar</string>
+  <string name="minute_rain_no_data">Sense dades</string>
+  <string name="minute_rain_now">Ara</string>
+  <string name="minute_rain_progress_indicator_original_time">- -</string>
+  <string name="minute_rain_pull_down_refresh">Feu lliscar cap avall per actualitzar</string>
   <string name="more_details">Més detalls</string>
   <string name="network_not_available">"No es pot connectar a la xarxa"</string>
   <string name="network_unavailable">"No es pot connectar a la xarxa."</string>
