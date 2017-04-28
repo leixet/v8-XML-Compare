@@ -145,6 +145,7 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="minute_rain_now">Ara</string>
   <string name="minute_rain_progress_indicator_original_time">- -</string>
   <string name="minute_rain_pull_down_refresh">Feu lliscar cap avall per actualitzar</string>
+  <string name="minute_rain_refreshing_now">S\'està refrescant</string>
   <string name="more_details">Més detalls</string>
   <string name="network_not_available">"No es pot connectar a la xarxa"</string>
   <string name="network_unavailable">"No es pot connectar a la xarxa."</string>
@@ -155,7 +156,13 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="open_browser">Obre al navegador</string>
   <string name="open_now">Obre\'l ara</string>
   <string name="other">Altres</string>
+  <string name="precipitation_degree_five">tempesta</string>
+  <string name="precipitation_degree_four">intensa</string>
+  <string name="precipitation_degree_one">sense pluja</string>
+  <string name="precipitation_degree_three">moderada</string>
+  <string name="precipitation_degree_two">lleugera</string>
   <string name="pressure_connect">%1$s mbar</string>
+  <string name="radar_cloud_image_title">Mapa de radar</string>
   <string name="realtime_aqi_title">Índex de qualitat de l\'aire</string>
   <string name="realtime_humidity_title">Humitat relativa</string>
   <string name="realtime_temperature_no_data">N/D</string>
@@ -180,6 +187,7 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="share_weather_desc_alert">%1$s %2$s</string>
   <string name="share_weather_desc_split">,</string>
   <string name="share_weather_save_pic_fail">"No s'ha pogut realitzar la captura"</string>
+  <string name="some_where_on_earth">En algun lloc de la Terra</string>
   <string name="sunrise">Alba</string>
   <string name="sunset">Ocàs</string>
   <string name="temperature_unit">%1$s°</string>
