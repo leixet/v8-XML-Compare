@@ -1882,7 +1882,9 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="keywords_do_not_disturb">No molesteu:Mode no molesteu;No molestar;Dormir;Nit;Ocupat</string>
   <string name="keywords_emergency_app">aplicació predeterminada en cas d\'emergència de gelada</string>
   <string name="keywords_factory_data_reset">esborrar, suprimir, restaurar, eliminar, suprimir</string>
+  <string name="keywords_gps">GPS;Ubicació;Serveis d\'ubicació;Satèl·lit</string>
   <string name="keywords_home">llançador</string>
+  <string name="keywords_hotspot">Punt d\'accés;Connexió compartida;Punt d\'accés personal;Punt d\'accés portàtil</string>
   <string name="keywords_ignore_optimizations">ignorar les optimitzacions, migdiada, aplicacions inactives</string>
   <string name="keywords_keyboard_and_ime">correcció de text, corregir, so, vibració, automàtic, idioma, gest, suggerir, suggeriment, tema, ofensiu, paraula, tipus, emoji, internacional</string>
   <string name="keywords_location">a prop, ubicació, historial, informes</string>
@@ -1892,9 +1894,12 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="keywords_more_mobile_networks">mòbil, operador de telefonia mòbil, sense fil, dades, 4g, 3g, 2g, lte</string>
   <string name="keywords_network_name_display">es mostra el nom de la xarxa</string>
   <string name="keywords_network_reset">restablir, restaurar, fàbrica</string>
+  <string name="keywords_paper_mode">Flux;Llegir;Mode lectura;Llum blava;protegeix els ulls</string>
   <string name="keywords_printing">impressora</string>
   <string name="keywords_profile_challenge">desafiament per accedir a contingut de feina, feina, perfil</string>
+  <string name="keywords_quick_ball">Menú de dreceres;drecera;dreceres;commutadors;commutador</string>
   <string name="keywords_reset_apps">reinicialitza les preferències prederminades</string>
+  <string name="keywords_silent">Silenci;Silencia;Desactiva el so</string>
   <string name="keywords_sounds">bip de l\'altaveu</string>
   <string name="keywords_sounds_and_notifications_interruptions">no molesteu, interromp, interrupció, pausa</string>
   <string name="keywords_spell_checker">ortografia, diccionari, corrector ortogràfic, correcció automàtica</string>
