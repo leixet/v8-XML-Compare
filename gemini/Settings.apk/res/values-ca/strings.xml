@@ -1861,12 +1861,15 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="keyguard_shortcut_summary">Defineix la drecera per a 2 aplicacions a la pantalla de bloqueig</string>
   <string name="keyguard_shortcut_title">Dreceres a la pantalla de bloqueig</string>
   <string name="keywords_accounts">compte</string>
+  <string name="keywords_airplane">Avió;Mode avió;Vol;Mode vol</string>
   <string name="keywords_all_apps">aplicacions baixada aplicacions sistema</string>
   <string name="keywords_app">RAM</string>
   <string name="keywords_app_permissions">aplicacions permisos seguretat</string>
+  <string name="keywords_auto_rotate">Gira;Gira la pantalla;Orientació;Orientació de la pantalla;Mode vertical;Mode horitzontal;vertical;horitzontal</string>
   <string name="keywords_battery">ús de la bateria, càrrega</string>
   <string name="keywords_color_mode">vibrant, RGB, sRGB, color, natural, estàndard</string>
   <string name="keywords_color_temperature">temperatura del color D65 D73 blanc groc blau càlid fred</string>
+  <string name="keywords_data">4G;3G;Dades;Dades mòbils;Tràfic;Internet mòbil</string>
   <string name="keywords_date_and_time">rellotge, 24 hores</string>
   <string name="keywords_default_apps">aplicacions, predeterminades</string>
   <string name="keywords_default_phone_app">marcador del telèfon predeterminat</string>
@@ -1876,6 +1879,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="keywords_display_cast_screen">projecta, emissió</string>
   <string name="keywords_display_font_size">mida del text</string>
   <string name="keywords_display_wallpaper">personalització del segon pla de la pantalla</string>
+  <string name="keywords_do_not_disturb">No molesteu:Mode no molesteu;No molestar;Dormir;Nit;Ocupat</string>
   <string name="keywords_emergency_app">aplicació predeterminada en cas d\'emergència de gelada</string>
   <string name="keywords_factory_data_reset">esborrar, suprimir, restaurar, eliminar, suprimir</string>
   <string name="keywords_home">llançador</string>
