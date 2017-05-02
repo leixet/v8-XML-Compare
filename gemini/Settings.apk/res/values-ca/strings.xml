@@ -519,6 +519,15 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="bind_xiaomi_account_dialog_summery">"Esteu a punto d'afegir el Compte Mi %s. Si oblideu la contrasenya, podeu utilitzar aquesta compte per restablir-la."</string>
   <string name="bind_xiaomi_account_success">El Compte Mi s\'afegit correctament</string>
   <string name="ble_scan_notify_text">Per millorar la precisió de la ubicació, les aplicacions i serveis encara poden detectar els dispositius Bluetooth. Es pot configurar des de LINK_BEGINscanning settingsLINK_END.</string>
+  <string name="block_list_connected_devices">Dispositius connectats</string>
+  <string name="block_list_diaglog_cancle">Cancel·la</string>
+  <string name="block_list_diaglog_ok">D\'acord</string>
+  <string name="block_list_dialog_content">Aquesta acció desconnectarà a «%s» d\'aquest dispositiu i el afegirà a la llista de bloqueig</string>
+  <string name="block_list_no_device">No hi ha dispositius connectats a la llista de bloqueig</string>
+  <string name="block_list_remove_dialog_content">Aquest dispositiu «%s» serà capaç de connectar-se a aquest punt d\'accés</string>
+  <string name="block_list_remove_dialog_title">Elimina a «%s» de la llista de bloqueig</string>
+  <string name="block_list_summary">Visualitza els dispositius que no estan autoritzats a connectar-se a aquest punt d\'accés</string>
+  <string name="block_list_title">Llista de bloqueig</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">S\'ha connectat a un dispositiu d\'àudio</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Per a dispositius d\'àudio</string>
@@ -2702,6 +2711,10 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="page_layout_page2_title">Previsualització</string>
   <string name="page_layout_small_title">XS</string>
   <string name="palm_enabled">Gran àrea coberta fora de la pantalla</string>
+  <string name="paper_mode_auto_twilight_summary">mode de lectura en mode penombra</string>
+  <string name="paper_mode_auto_twilight_title">Mode penombra</string>
+  <string name="paper_mode_customize_time_summary">planifica de mode de lectura com a temps personalitzat</string>
+  <string name="paper_mode_customize_time_title">personalitza el temps</string>
   <string name="paper_mode_end_time_title">Hora de finalització</string>
   <string name="paper_mode_start_time_title">Hora d\'inici</string>
   <string name="passpoint_content">%1$s certificats</string>
