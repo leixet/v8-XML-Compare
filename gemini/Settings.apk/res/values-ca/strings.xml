@@ -2716,6 +2716,10 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="paper_mode_customize_time_summary">planifica de mode de lectura com a temps personalitzat</string>
   <string name="paper_mode_customize_time_title">personalitza el temps</string>
   <string name="paper_mode_end_time_title">Hora de finalització</string>
+  <string name="paper_mode_get_location_dlg_msg">Obtén hores exactes de l\'alba i de la posta de sol necessita obtenir la seva ubicació d\'acord a la xarxa, Voleu obrir la configuració de la ubicació?</string>
+  <string name="paper_mode_get_location_dlg_negative_btn_text">Cancel·la</string>
+  <string name="paper_mode_get_location_dlg_positive_btn_text">Configuració</string>
+  <string name="paper_mode_get_location_dlg_title">Estableix la ubicació</string>
   <string name="paper_mode_start_time_title">Hora d\'inici</string>
   <string name="passpoint_content">%1$s certificats</string>
   <string name="passpoint_label">S\'ha desat mitjançant</string>
@@ -3195,6 +3199,7 @@ Aquesta configuració afecta tots els usuaris del telèfon.»</string>
   <string name="screen_paper_mode_range_title">Configuració</string>
   <string name="screen_paper_mode_set_apps_title">Aplicacions en mode lectura</string>
   <string name="screen_paper_mode_summary">"Redueix l'enlluernament del fons de la pantalla"</string>
+  <string name="screen_paper_mode_time_summary">mode de lectura programada amb el vostre temps establert</string>
   <string name="screen_paper_mode_time_title">Programat</string>
   <string name="screen_paper_mode_title">Mode lectura</string>
   <string name="screen_paper_mode_turn_off">Apagat</string>
@@ -4071,6 +4076,7 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="testing_wifi_info">Informació del senyal Wi-Fi</string>
   <string name="tether_and_hotspot_title">Connexió compartida d\'Internet</string>
   <string name="tether_devices_management_title">Gestió de dispositius</string>
+  <string name="tether_devices_max_number">Límit de dispositius connectats</string>
   <string name="tether_settings_disabled">S\'ha desactivat el punt d\'accés personal</string>
   <string name="tether_settings_disabled_on_data_saver">No es pot compartir la xarxa ni utilitzar punts d\'accés Wi-Fi mentre l\'estalvi de dades està activat</string>
   <string name="tether_settings_launch_title">Punt d\'accés mòbil</string>
