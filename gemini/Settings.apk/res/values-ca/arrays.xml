@@ -822,6 +822,24 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Voleu reiniciar el dispositiu per aplicar els canvis?</item>
     <item>Voleu reiniciar el dispositiu per aplicar els canvis?</item>
   </string-array>
+  <string-array name="max_number_titles">
+    <item>6</item>
+    <item>5</item>
+    <item>4</item>
+    <item>3</item>
+    <item>2</item>
+    <item>1</item>
+    <item>Il·limitat</item>
+  </string-array>
+  <string-array name="max_number_values">
+    <item>6</item>
+    <item>5</item>
+    <item>4</item>
+    <item>3</item>
+    <item>2</item>
+    <item>1</item>
+    <item>2007</item>
+  </string-array>
   <string-array name="common_password_business_names">
     <item>Bloqueig de pantalla</item>
     <item>Mode d\'infants</item>
