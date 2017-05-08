@@ -549,6 +549,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="block_list_diaglog_cancle">Cancel·la</string>
   <string name="block_list_diaglog_ok">D\'acord</string>
   <string name="block_list_dialog_content">Aquesta acció desconnectarà a «%s» d\'aquest dispositiu i el afegirà a la llista de bloqueig</string>
+  <string name="block_list_dialog_title">Voleu desconnectar?</string>
   <string name="block_list_no_device">No hi ha dispositius connectats a la llista de bloqueig</string>
   <string name="block_list_remove_dialog_content">Aquest dispositiu «%s» serà capaç de connectar-se a aquest punt d\'accés</string>
   <string name="block_list_remove_dialog_title">Elimina a «%s» de la llista de bloqueig</string>
@@ -2933,6 +2934,9 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="privacy_password_settings_titles_elder_mode">La contrasenya de privacitat protegeix les vostres fotos, fitxers i notes.</string>
   <string name="privacy_password_settings_titles_second_space">La contrasenya de privacitat protegeix els vostres missatges, fotos, fitxers i notes.</string>
   <string name="privacy_password_title">Contrasenya de privacitat</string>
+  <string name="privacy_password_use_finger_dialog_open">Configuració</string>
+  <string name="privacy_password_use_finger_dialog_title">Desblocatge amb empremta</string>
+  <string name="privacy_password_use_finger_success">Activat</string>
   <string name="privacy_password_visible_pattern">Mostra el patró</string>
   <string name="privacy_protect_title">Protecció de privacitat</string>
   <string name="privacy_relative">Privadesa</string>
