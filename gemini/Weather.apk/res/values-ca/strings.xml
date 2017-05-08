@@ -91,6 +91,7 @@ Tireu cap avall per actualitzar o comproveu la configuració de la xarxa"</strin
   <string name="gps_hint">Ubicació actual</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">Ara</string>
+  <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
   <string name="hourly_forecast_date">d/M</string>
   <string name="hourly_forecast_title">Previsió per hores</string>
   <string name="index_item_experience_now">Instal·la-ho ara</string>
