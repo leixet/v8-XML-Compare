@@ -212,6 +212,8 @@ o introdueixi la seva contrasenya"</string>
   <string name="app_not_installed_toast">"L'aplicació no està instal·lada al dispositiu."</string>
   <string name="app_version">Versió</string>
   <string name="app_wifi">Wi-Fi</string>
+  <string name="applock_add_account_info">"Fes que el Compte Mi pugui restablir la contrasenya en cas d\'oblit"</string>
+  <string name="applock_add_account_setting">Compte i privadesa</string>
   <string name="apps_item_sign_dialog_content">"\"%s\"signatura és diferent de la versió de l'App Store. Eliminar aquesta aplicació i instal·lar la versió oficial? Nota: la instal·lació d'una aplicació amb una signatura en conflicte pot conduir a la pèrdua de dades de l'aplicació."</string>
   <string name="apps_item_sign_dialog_title">Instal·lar versió oficial de l\'aplicació</string>
   <string name="apps_item_sign_install_button_text">Reemplaçar</string>
