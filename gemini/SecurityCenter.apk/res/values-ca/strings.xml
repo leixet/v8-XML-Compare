@@ -214,6 +214,12 @@ o introdueixi la seva contrasenya"</string>
   <string name="app_wifi">Wi-Fi</string>
   <string name="applock_add_account_info">"Fes que el Compte Mi pugui restablir la contrasenya en cas d\'oblit"</string>
   <string name="applock_add_account_setting">Compte i privadesa</string>
+  <string name="applock_close_dialog_summary">Les aplicacions ja no estaran protegides i la contrasenya s\'eliminarà després de desactivar el Bloqueig d\'aplicació.</string>
+  <string name="applock_close_dialog_title">Voleu desactivar el Bloqueig d\'aplicacions?</string>
+  <string name="applock_exit_account_info">El compte s\'eliminarà automàticament en tancar la sessió</string>
+  <string name="applock_login_and_add_account">Inicia la sessió i afegeix</string>
+  <string name="applock_not_add_account">Ara no</string>
+  <string name="applock_not_login_account">"No heu iniciat sessió"</string>
   <string name="apps_item_sign_dialog_content">"\"%s\"signatura és diferent de la versió de l'App Store. Eliminar aquesta aplicació i instal·lar la versió oficial? Nota: la instal·lació d'una aplicació amb una signatura en conflicte pot conduir a la pèrdua de dades de l'aplicació."</string>
   <string name="apps_item_sign_dialog_title">Instal·lar versió oficial de l\'aplicació</string>
   <string name="apps_item_sign_install_button_text">Reemplaçar</string>
