@@ -149,30 +149,6 @@
     <item quantity="other">%d aplicacions contenen riscos de privacitat</item>
     <item quantity="one">%d aplicació conté riscos de privacitat</item>
   </plurals>
-  <plurals name="lockpassword_password_requires_letters">
-    <item quantity="other">La contrasenya ha de contenir almenys %d lletres.</item>
-    <item quantity="one">"La contrasenya ha de tenir almenys 1 lletra."</item>
-  </plurals>
-  <plurals name="lockpassword_password_requires_lowercase">
-    <item quantity="other">La contrasenya ha de contenir almenys %d lletres minúscules.</item>
-    <item quantity="one">La contrasenya ha de contenir almenys 1 lletra minúscula.</item>
-  </plurals>
-  <plurals name="lockpassword_password_requires_uppercase">
-    <item quantity="other">La contrasenya ha de contenir almenys %d lletres en majúscules.</item>
-    <item quantity="one">La contrasenya ha de contenir almenys 1 lletra majúscula.</item>
-  </plurals>
-  <plurals name="lockpassword_password_requires_numeric">
-    <item quantity="other">La contrasenya ha de contenir almenys %d números.</item>
-    <item quantity="one">La contrasenya ha de contenir almenys 1 número.</item>
-  </plurals>
-  <plurals name="lockpassword_password_requires_symbols">
-    <item quantity="other">La contrasenya ha de contenir almenys %d símbols especials.</item>
-    <item quantity="one">La contrasenya ha de contenir almenys 1 símbol especial.</item>
-  </plurals>
-  <plurals name="lockpassword_password_requires_nonletter">
-    <item quantity="other">La contrasenya ha de contenir almenys %d caràcters que no siguin lletres.</item>
-    <item quantity="one">La contrasenya ha de contenir almenys 1 caràcter que no sigui cap lletra.</item>
-  </plurals>
   <plurals name="number_locked">
     <item quantity="other">%d aplicacions bloquejades</item>
     <item quantity="one">%d aplicació bloquejada</item>
