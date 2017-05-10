@@ -5,15 +5,11 @@
   <string name="APKTOOL_DUMMY_140e">fals</string>
   <string name="APKTOOL_DUMMY_140f">false</string>
   <string name="APKTOOL_DUMMY_1410">false</string>
-  <string name="APKTOOL_DUMMY_1417">false</string>
-  <string name="APKTOOL_DUMMY_1418">false</string>
-  <string name="APKTOOL_DUMMY_1419">false</string>
   <string name="APKTOOL_DUMMY_141a">false</string>
   <string name="APKTOOL_DUMMY_1442">false</string>
   <string name="APKTOOL_DUMMY_1443">false</string>
   <string name="APKTOOL_DUMMY_1444">false</string>
   <string name="APKTOOL_DUMMY_1445">false</string>
-  <string name="APKTOOL_DUMMY_144f">false</string>
   <string name="APKTOOL_DUMMY_1450">false</string>
   <string name="APKTOOL_DUMMY_1451">false</string>
   <string name="APKTOOL_DUMMY_1452">false</string>
@@ -24,9 +20,6 @@
   <string name="APKTOOL_DUMMY_150d">false</string>
   <string name="APKTOOL_DUMMY_150e">false</string>
   <string name="APKTOOL_DUMMY_150f">false</string>
-  <string name="APKTOOL_DUMMY_1522">false</string>
-  <string name="APKTOOL_DUMMY_1523">false</string>
-  <string name="APKTOOL_DUMMY_1524">false</string>
   <string name="APN_NAME_CMMMS">CMMMS</string>
   <string name="APN_NAME_CMNET">CMNET</string>
   <string name="APN_NAME_CMWAP">CMWAP</string>
@@ -2739,7 +2732,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="page_layout_small_title">XS</string>
   <string name="palm_enabled">Gran àrea coberta fora de la pantalla</string>
   <string name="paper_mode_auto_twilight_summary">mode de lectura en mode penombra</string>
-  <string name="paper_mode_auto_twilight_title">Mode penombra</string>
+  <string name="paper_mode_auto_twilight_title">"Mode penombra"</string>
   <string name="paper_mode_customize_time_summary">planifica de mode de lectura com a temps personalitzat</string>
   <string name="paper_mode_customize_time_title">personalitza el temps</string>
   <string name="paper_mode_end_time_title">Hora de finalització</string>
@@ -2934,6 +2927,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="privacy_password_settings_titles_elder_mode">La contrasenya de privacitat protegeix les vostres fotos, fitxers i notes.</string>
   <string name="privacy_password_settings_titles_second_space">La contrasenya de privacitat protegeix els vostres missatges, fotos, fitxers i notes.</string>
   <string name="privacy_password_title">Contrasenya de privacitat</string>
+  <string name="privacy_password_use_finger_dialog_mess">També podeu utilitzar l\'empremta conjuntament amb la contrasenya de protecció.</string>
   <string name="privacy_password_use_finger_dialog_open">Configuració</string>
   <string name="privacy_password_use_finger_dialog_title">Desblocatge amb empremta</string>
   <string name="privacy_password_use_finger_success">Activat</string>
