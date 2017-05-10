@@ -159,10 +159,12 @@ o introdueixi la seva contrasenya"</string>
   <string name="app_manager_dlg_ok">D\'acord</string>
   <string name="app_manager_force_stop_dlg_text">Si forceu el tancament d\'una aplicació, és possible que no funcioni correctament.</string>
   <string name="app_manager_force_stop_dlg_title">Voleu forçar el tancament?</string>
+  <string name="app_manager_go_to_manger_app">Gestiona</string>
   <string name="app_manager_loading_data">S\'estan carregant les dades&#8230;</string>
   <string name="app_manager_more_times">Va accedir 100000+ vegades</string>
   <string name="app_manager_my_app">Les meves aplicacions</string>
   <string name="app_manager_not_record">"No hi ha elements aquí"</string>
+  <string name="app_manager_perm">Permisos</string>
   <string name="app_manager_perm_monitor_make_calls">Fer trucades telefòniques</string>
   <string name="app_manager_perm_monitor_read_call_history">Llegir el registre de trucades</string>
   <string name="app_manager_perm_monitor_read_contacts">Llegir els contactes</string>
@@ -199,6 +201,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">Voleu desinstal·lar l\'aplicació dual?</string>
   <string name="app_manager_unstall_application">Desinstal·la</string>
   <string name="app_manager_update_label_text">Nou</string>
+  <string name="app_manager_usage_record_title">Ús de l\'aplicació</string>
   <string name="app_manager_wake_path_card_title">Historial d\'inici de la cadena (2 dies)</string>
   <string name="app_manager_wakepath_dialog_buttontext">Entesos</string>
   <string name="app_manager_wakepath_dialog_summary">L\'inici de la cadena succeïx quan una aplicació inicia un altre aplicació de fons. Pot drenar la bateria i baixar el rendiment del sistema. MIUI normalment bloquejaria l\'inici de la cadena.</string>
@@ -209,8 +212,11 @@ o introdueixi la seva contrasenya"</string>
   <string name="app_name_na">Ús de dades</string>
   <string name="app_name_securitycenter">Seguretat</string>
   <string name="app_not_installed_toast">"L'aplicació no està instal·lada al dispositiu."</string>
+  <string name="app_usage_never">No utilitzada recentment</string>
+  <string name="app_usage_recently">Utilitzada recentment</string>
   <string name="app_version">Versió</string>
   <string name="app_wifi">Wi-Fi</string>
+  <string name="applock_add_account">Afegeix</string>
   <string name="applock_add_account_info">"Fes que el Compte Mi pugui restablir la contrasenya en cas d\'oblit"</string>
   <string name="applock_add_account_setting">Compte i privadesa</string>
   <string name="applock_close_dialog_summary">Les aplicacions ja no estaran protegides i la contrasenya s\'eliminarà després de desactivar el Bloqueig d\'aplicació.</string>
