@@ -3068,6 +3068,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="receiver_clean">Allibera espai</string>
   <string name="recent_location_requests_summary">Veure aplicacions que han demanat accés a la ubicació</string>
   <string name="recent_location_requests_title">Accés a la ubicació</string>
+  <string name="recents_config_title">Configuració del panell de tasques recents</string>
   <string name="recommend_item_1">Funda per al mòbil</string>
   <string name="recommend_item_2">Mi Band</string>
   <string name="recommend_item_3">Bateria externa</string>
@@ -3664,6 +3665,7 @@ Per fer-ho:
   <string name="show_ime">Mostra el teclat virtual</string>
   <string name="show_ime_summary">El deixa a la pantalla mentre el teclat físic està actiu</string>
   <string name="show_magnifier_when_input">Lupa</string>
+  <string name="show_mem_info_title">Mostra informació de la memòria</string>
   <string name="show_non_rect_clip">Depura les operacions de retall no rectangulars</string>
   <string name="show_owner_info_on_lockscreen_label">Mostra informació del propietari a la pantalla de bloqueig</string>
   <string name="show_password">Mostra les contrasenyes</string>
@@ -4469,6 +4471,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="user_restrictions_controlled_by">Controlat per %1$s</string>
   <string name="user_restrictions_title">Accés a contingut i a aplicacions</string>
   <string name="user_set_lock_button">Configura el bloqueig</string>
+  <string name="user_settings_forbidden">"No es pot canviar la configuració de l'administrador en l'espai actual. Torneu al primer espai."</string>
   <string name="user_settings_title">Usuaris</string>
   <string name="user_setup_button_setup_later">Més tard</string>
   <string name="user_setup_button_setup_now">Configura\'l ara</string>
