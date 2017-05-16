@@ -68,9 +68,9 @@
   <string name="add_shortcut">Afegeix una drecera</string>
   <string name="add_shortcut_success">S\'ha afegit la drecera</string>
   <string name="add_to_bookmark">Marcadors</string>
-  <string name="add_to_desk">Posa-ho a la pantalla d\'inici</string>
+  <string name="add_to_desk">Afegeix-ho a la pantalla d\'inici</string>
   <string name="add_to_desk_lite_mode_toast">"No s'ha pogut afegir a la pantalla d'inici en el mode bàsic"</string>
-  <string name="add_to_desk_success">S\'ha posat a la pantalla d\'inici</string>
+  <string name="add_to_desk_success">Afegeix-ho a la pantalla d\'inici</string>
   <string name="add_to_quicklink">Pàgina d\'inici</string>
   <string name="added_to_bookmarks">S\'ha afegit als marcadors</string>
   <string name="adjust_text_zoom_toast">Si es canvia la mida del text algunes pàgines poden visualitzar-se incorrectament</string>
@@ -107,8 +107,8 @@
   <string name="bookmark_cannot_save_url">"Aquest URL no es pot afegir als marcadors."</string>
   <string name="bookmark_folder_needs_title">Introduïu un nom de grup</string>
   <string name="bookmark_group_lable">Grup</string>
-  <string name="bookmark_needs_title">El marcador ha de tenir un nom.</string>
-  <string name="bookmark_needs_url">El marcador ha de contenir un URL.</string>
+  <string name="bookmark_needs_title">El marcador ha de tenir un nom</string>
+  <string name="bookmark_needs_url">El marcador ha de contenir un URL</string>
   <string name="bookmark_not_saved">"No s'ha pogut desar el marcador"</string>
   <string name="bookmark_rename_group">Canvia el nom del grup</string>
   <string name="bookmark_saved">S\'ha desat als marcadors</string>
@@ -118,7 +118,7 @@
   <string name="bookmark_url_already_exisit">"Ja heu desat als marcadors aquest URL"</string>
   <string name="bookmark_url_can_not_null">Introduïu l\'adreça.</string>
   <string name="bookmark_url_lable">URL</string>
-  <string name="bookmark_url_not_valid">"Aquest URL no és vàlid."</string>
+  <string name="bookmark_url_not_valid">"Aquest URL no és vàlid"</string>
   <string name="bookmarks_content_is_null">Sense marcadors</string>
   <string name="bookmarks_management">Marcadors</string>
   <string name="bookmarks_root_folder">Carpeta arrel</string>
@@ -291,7 +291,7 @@ Les pàgines que visiteu no apareixeran a l\'historial.»</string>
   <string name="empty_bookmark">Buit</string>
   <string name="empty_history_hint">L\'historial és buit</string>
   <string name="empty_snapshot_hint">Buit</string>
-  <string name="enable_geolocation_confirm_message">Si apagueu aquesta característica podríeu provocar que alguns llocs web funcionin malament.</string>
+  <string name="enable_geolocation_confirm_message">Si desactiveu els serveis de localització es veuran afectades les recomanacions que rebeu.</string>
   <string name="enter_developer_mode">Entra al mode programador</string>
   <string name="enter_incongnito_mode">Entra al mode incògnit</string>
   <string name="error_console_eval_button_text">Avalua</string>
@@ -712,9 +712,9 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="senddesktop">Pantalla d\'inici</string>
   <string name="sendstartpage">Pàgina d\'inici</string>
   <string name="share_page_text">"Estic gaudint 【%1$s】 | %2$s"</string>
-  <string name="show_check_security_url_check_tip_dialog_description">L\'URL d\'aquest web s\'enviarà als servidors de Xiaomi per verificar la seva seguretat. Podeu desactivar aquesta funció en qualsevol moment a Configuració.</string>
+  <string name="show_check_security_url_check_tip_dialog_description">Per millorar-ne la seguretat i rebre recomanacions rellevants, permeteu al navegador accedir a aquests elements:</string>
   <string name="show_security_tip_dialog_title">Condicions del servei</string>
-  <string name="show_weather_location_getter_tip_dialog_description">Els serveis meteorològics necessiten la vostra ubicació per donar-vos informació del temps actualitzada al navegador. Podeu desactivar aquesta característica a Configuració.</string>
+  <string name="show_weather_location_getter_tip_dialog_description">Per qüestions de seguretat local i per proporcionar informació basada en la ubicació en els serveis de referència i meteorològics, el navegador necessita accés a la informació següent:</string>
   <string name="sign_in_to" formatted="false">Inicia una sessió al %s1 \"%s2\"</string>
   <string name="skip_button_label">Omet</string>
   <string name="skip_current_version">Omet aquesta versió</string>
