@@ -387,7 +387,6 @@
   <string name="download_confirm_title">Baixa els adjunts</string>
   <string name="download_message_failed_for_too_large">El missatge és massa gran per baixar-lo.</string>
   <string name="drawer_bank_bill">Extractes bancaris</string>
-  <string name="drawer_bill_title">Factures</string>
   <string name="drawer_close">Tancar el calaix de navegació</string>
   <string name="drawer_contacts">Contactes</string>
   <string name="drawer_open">Obre calaix de navegació</string>
