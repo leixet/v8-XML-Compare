@@ -1019,10 +1019,6 @@ Feu més fotos als vostres amics!"</string>
   <string name="search_error_and_retry">Alguna cosa va sortir malament, toqueu per tornar-ho a provar</string>
   <string name="search_hint">Cerca d\'imatges</string>
   <string name="search_image_result_title">Resultats de la cerca</string>
-  <string name="search_load_complete">No hi ha més elements aquí</string>
-  <string name="search_load_failed">"No s'ha pogut carregar la infirmació, toqueu per tornar-ho a provar"</string>
-  <string name="search_loading">Un moment</string>
-  <string name="search_loading_dots">Un moment&#8230;</string>
   <string name="search_login_now">Inicia la sessió</string>
   <string name="search_login_sub_title">Inicieu sessió per trobar més fotos</string>
   <string name="search_login_title">Compte Mi</string>
