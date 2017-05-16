@@ -103,6 +103,7 @@
     <item>Pobre</item>
     <item>Molt pobre</item>
     <item>Greu</item>
+    <item>Beyond index</item>
   </string-array>
   <string-array name="wind_unit_simple">
     <item>Escala de Beaufort</item>
