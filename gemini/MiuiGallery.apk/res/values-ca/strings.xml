@@ -787,7 +787,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="hybrid_service_unavailiable">Servei no disponible</string>
   <string name="hybrid_try_again">Torneu a provar-ho</string>
   <string name="ignore_album">"No el mostris"</string>
-  <string name="ignore_alert_title">"Voleu deixar de mostrar aquest àlbum?"</string>
+  <string name="ignore_alert_title">"Voleu deixar de mostrar aquest àlbum? Premeu a dalt a la dreta per mostrar les fotos que heu ignorat."</string>
   <string name="ignore_face">Ignora aquesta persona</string>
   <string name="image_decode_failed">"No es pot descodificar la imatge"</string>
   <string name="image_download_item_title">Baixa la foto (%s)</string>
