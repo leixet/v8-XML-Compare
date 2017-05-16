@@ -606,8 +606,6 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="pref_ua_string">Cadena d\'agent d\'usuari</string>
   <string name="pref_version_info">Informació de la versió</string>
   <string name="pref_volume_key_action">Desplaça utilitzant els botons de volum</string>
-  <string name="pref_weather_location_summary">"Ho utilitza el connector metereològic del navegador"</string>
-  <string name="pref_weather_location_title">Localització metereològica</string>
   <string name="private_browsing_warning">Aquesta funció no està implementada en aquesta versió d\'Android.</string>
   <string name="profiler_error_toast">No s\'ha pogut iniciar el gestor de perfils</string>
   <string name="profiler_no_storage_toast">"No es pot iniciar el gestor de perfils perquè l'emmagatzematge extern no està a punt"</string>
@@ -714,7 +712,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="senddesktop">Pantalla d\'inici</string>
   <string name="sendstartpage">Pàgina d\'inici</string>
   <string name="share_page_text">"Estic gaudint 【%1$s】 | %2$s"</string>
-  <string name="show_check_security_url_check_tip_dialog_description">"L'URL d'aquest web s'enviarà als servidors de Xiaomi per verificar la seva seguretat. Podeu desactivar aquesta funció en qualsevol moment a Configuració."</string>
+  <string name="show_check_security_url_check_tip_dialog_description">L\'URL d\'aquest web s\'enviarà als servidors de Xiaomi per verificar la seva seguretat. Podeu desactivar aquesta funció en qualsevol moment a Configuració.</string>
   <string name="show_security_tip_dialog_title">Condicions del servei</string>
   <string name="show_weather_location_getter_tip_dialog_description">Els serveis meteorològics necessiten la vostra ubicació per donar-vos informació del temps actualitzada al navegador. Podeu desactivar aquesta característica a Configuració.</string>
   <string name="sign_in_to" formatted="false">Inicia una sessió al %s1 \"%s2\"</string>
@@ -738,7 +736,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="ssl_warnings_header">Hi ha problemes amb el certificat de seguretat d\'aquest lloc.</string>
   <string name="start_save_page_capture">Desant captura pantalla&#8230;</string>
   <string name="storage_internal">Emmagatzematge intern</string>
-  <string name="storage_permission_request_toast">Baixades necessita permís d\'emmagatzematge, obriu-lo</string>
+  <string name="storage_permission_request_toast">"Baixades necessita permís d'emmagatzematge, obriu-lo"</string>
   <string name="storage_sd_card">Targeta SD</string>
   <string name="storage_usb">Emmagatzematge USB</string>
   <string name="suggest_access_appstore">Botiga d\'aplicacions Mi</string>
