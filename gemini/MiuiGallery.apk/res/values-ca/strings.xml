@@ -980,6 +980,8 @@ Feu més fotos als vostres amics!"</string>
   <string name="recommanded_face_added_tip">Afegit a \"%s\"</string>
   <string name="recovery_merge">Combina</string>
   <string name="recovery_merge_or_rename">Fusiona àlbums</string>
+  <string name="recovery_merge_or_rename_message">"Hi ha un àlbum amb aquest nom. Voleu combinar-lo?"</string>
+  <string name="recovery_rename">Reanomena</string>
   <string name="relation_text_empty_alert">Afegiu la informació de la relació</string>
   <string name="relation_text_family">Membre de la família</string>
   <string name="relation_text_father">Pare</string>
@@ -1027,6 +1029,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="search_backup_now">Activa</string>
   <string name="search_backup_sub_title">Activeu per trobar més imatges</string>
   <string name="search_backup_title">Sincronitza amb Mi Cloud</string>
+  <string name="search_clear_histories">Esborra</string>
   <string name="search_connection_error">"No es pot connectar a la xarxa"</string>
   <string name="search_connection_error_and_set">Toqueu per comprovar la configuració de xarxa</string>
   <string name="search_error">S\'ha produït un error</string>
@@ -1041,6 +1044,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="search_result_empty">"No hi ha resultats"</string>
   <string name="search_retry">Torna-ho a provar</string>
   <string name="search_set_network_connection">Configuració de xarxa</string>
+  <string name="search_title_history">Historial de cerca</string>
   <string name="search_title_location">Ubicacions</string>
   <string name="search_title_others">Tots els resultats</string>
   <string name="search_title_people">Persones</string>
@@ -1060,6 +1064,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="secret_reason_too_large">El fitxer és massa gran</string>
   <string name="secret_reason_type_not_support">"Aquest tipus de fitxer no és compatible"</string>
   <string name="secret_reason_unknow_reasons">Error desconegut</string>
+  <string name="see_ignore_faces">"Veure les persones que heu ignorat"</string>
   <string name="select_item_face">"És '%s'?"</string>
   <string name="select_origin_tip">Fitxer original (%s)</string>
   <string name="send_multiple_files_hint_format">Envia (%s)</string>
