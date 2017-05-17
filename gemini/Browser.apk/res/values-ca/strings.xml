@@ -131,6 +131,8 @@
   <string name="browserFrameNetworkErrorLabel">Problema de connexió</string>
   <string name="cancel">Cancel·la</string>
   <string name="cannot_download">Només podeu baixar URLs «http» o «https»</string>
+  <string name="check_permission_of_current_location">Informació d\'ubicació actual</string>
+  <string name="check_permission_of_current_url">URL dels llocs web que visiteu</string>
   <string name="choosertitle_sharevia">Comparteix mitjançant</string>
   <string name="clear_history">Esborra l\'historial</string>
   <string name="clear_most_visited">Historial recent</string>
@@ -193,6 +195,7 @@
   <string name="contextmenu_savelink">Desa l\'enllaç</string>
   <string name="contextmenu_send_mail">Envia un correu electrònic</string>
   <string name="contextmenu_set_wallpaper">Estableix com a fons de pantalla</string>
+  <string name="contextmenu_share_image">Comparteix la imatge</string>
   <string name="contextmenu_sharelink">Comparteix l\'enllaç</string>
   <string name="contextmenu_view_image">Mostra la imatge</string>
   <string name="contextmenu_webpage_capture">Desa com a captura de pantalla</string>
@@ -492,6 +495,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="older">Més antic</string>
   <string name="open_app_confirm_message">Voleu permetre que aquesta pàgina obri %s?</string>
   <string name="open_file_explorer_failed">"No es pot obrir l'Explorador de fitxers"</string>
+  <string name="open_voice_permission">Permís per obrir la xarxa de veu</string>
   <string name="opening_file_error">No es pot obrir el fitxer seleccionat</string>
   <string name="page_info">Informació de la pàgina</string>
   <string name="page_info_address">Adreça:</string>
