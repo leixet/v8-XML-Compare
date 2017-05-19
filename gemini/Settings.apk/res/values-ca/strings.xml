@@ -3232,7 +3232,6 @@ Per fer-ho:
   <string name="screen_pinning_unlock_password">Demana el codi PIN per anul·lar el fixat</string>
   <string name="screen_pinning_unlock_pattern">Demana el patró de desbloqueig per anul·lar el fixat</string>
   <string name="screen_pinning_unlock_pin">Demana el codi PIN per anul·lar el fixat</string>
-  <string name="screen_recorder">Enregistrador de pantalla</string>
   <string name="screen_resolution_dialog_title">Canvia la resolució</string>
   <string name="screen_resolution_high_format">Alta (%1$s)</string>
   <string name="screen_resolution_normal_format">Normal (%1$s)</string>
