@@ -8,14 +8,6 @@
   <string name="default_lockscreen_unlock_hint_text">Feu lliscar cap amunt per desbloquejar</string>
   <string name="delete">Elimina</string>
   <string name="emergency_call_string">Trucada d\'emergència</string>
-  <string name="experimental_try_string">Prova-ho</string>
-  <string name="experimental_validate">Valida</string>
-  <string name="experimental_validate_fail">"No s'ha pogut iniciar sessió"</string>
-  <string name="experimental_validate_password">Contrasenya</string>
-  <string name="experimental_validate_progress">S\'està iniciant sessió&#8230;</string>
-  <string name="experimental_validate_thanks">Gràcies!</string>
-  <string name="experimental_validate_username">Nom d\'usuari</string>
-  <string name="experimental_validate_warning">Gràcies per ajudar a millorar MIUI!</string>
   <string name="find_device_turn_off_flight_mode">Desactiveu el mode avió</string>
   <string name="fingerprint_add_text">S\'ha actualitzat la interfície d\'empremta digital. Afegiu altre cop la vostra empremta.</string>
   <string name="fingerprint_add_title">Afegeix una empremta digital</string>
@@ -62,7 +54,6 @@ Torneu a provar-ho d\'aquí %d segons."</string>
   <string name="lockscreen_glogin_password_hint">Contrasenya</string>
   <string name="lockscreen_glogin_submit_button">Inicia la sessió</string>
   <string name="login_website_in_case_forget_password">Per restablir la contrasenya, aneu a www.mi.com/micloud</string>
-  <string name="missed_call_text">%d trucades perdudes</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloquejat per un dispositiu Bluetooth</string>
   <string name="open_camera_hint_text">Feu lliscar cap a l\'esquerra per obrir %s</string>
   <string name="open_remote_center_hint_text">Feu lliscar cap a la dreta per obrir %s</string>
@@ -77,7 +68,6 @@ Inicieu sessió a i.mi.com, aneu a \"Troba el dispositiu\", seleccioneu el dispo
   <string name="phone_locked_timeout_minutes_string">Torneu a provar-ho d\'aquí %s minuts</string>
   <string name="phone_locked_timeout_seconds_string">Torneu a provar-ho d\'aquí %s segons</string>
   <string name="symbol_colon">:</string>
-  <string name="unlock_sim_string">Desbloqueja</string>
   <string name="unlock_string">Desbloqueja</string>
   <string name="unlocking_sim_card">S\'està desbloquejant la SIM</string>
   <string name="unlockscreen_low_battery">Connecteu el carregador</string>
