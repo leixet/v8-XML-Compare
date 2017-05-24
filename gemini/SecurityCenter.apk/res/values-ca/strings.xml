@@ -440,7 +440,6 @@ o introdueixi la seva contrasenya"</string>
   <string name="cancal_to_setting_fingerprint">Cancel·la</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_button">Cancel·la</string>
-  <string name="cancle">Cancel·la</string>
   <string name="card_main_applock_action">Activa</string>
   <string name="card_main_applock_summary">Protegiu els elements privats amb el bloquejador d\'aplicacions</string>
   <string name="card_main_applock_title">Bloquejador d\'aplicacions</string>
@@ -579,7 +578,6 @@ o introdueixi la seva contrasenya"</string>
   <string name="dialog_msg_auto_start_declare">Algunes aplicacions de seguretat poden indicar incorrectament que MIUI els ha prohibit iniciar. Per comprovar els permisos que han estat concedits a les aplicacions individualment, aneu a Configuració i Aplicacions.</string>
   <string name="dialog_msg_stop_paysafety_scan">Voleu aturar la comprovació de seguretat del pagament?</string>
   <string name="dialog_msg_stop_virus_scan">"Voleu aturar l'anàlisi de virus abans que acabi?"</string>
-  <string name="dialog_roaming_apps_sorted_title">Ordena per</string>
   <string name="dialog_roaming_message">Voleu permetre a aquesta aplicació usar dades mòbils en itinerància en ultramar?</string>
   <string name="dialog_roaming_title">Itinerància en ultramar</string>
   <string name="dialog_title_attention">Atenció</string>
@@ -729,8 +727,6 @@ o introdueixi la seva contrasenya"</string>
   <string name="hints_handle_item_text_safe">Segur</string>
   <string name="hints_handle_item_text_virus">Virus: %d</string>
   <string name="hints_input_roaming_daily_limit">Introduïu el límit d\'ús de dades</string>
-  <string name="hints_install_apps_new">Mai usat</string>
-  <string name="hints_install_apps_today">Usat avui</string>
   <string name="hints_last_virus_scan_none">Mai s\'ha escanejat abans</string>
   <string name="hints_last_virus_scan_risk">Escanejat fa %d dies: Sospitós</string>
   <string name="hints_last_virus_scan_safe">Escanejat fa %d dies: Segur</string>
@@ -1653,8 +1649,6 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="st_other_setting_group">Altres configuracions</string>
   <string name="st_settings_name">Configuració de la llista de bloqueig</string>
   <string name="st_show_block_notification">Mostra la notificació de bloqueig</string>
-  <string name="st_show_num_keyword">" paraules clau"</string>
-  <string name="st_show_num_number">" números"</string>
   <string name="st_sms_group">Missatges</string>
   <string name="st_sub_title_customize_mode_name">Nom</string>
   <string name="st_sub_title_whiteblack_list_group">Llista de bloqueig</string>
