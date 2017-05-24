@@ -37,10 +37,6 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
 
 Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li per les dades addicionals."</item>
   </plurals>
-  <plurals name="hints_install_apps_interval">
-    <item quantity="other">Usat fa %d dies</item>
-    <item quantity="one">Usat ahir</item>
-  </plurals>
   <plurals name="search_app_count_txt_na">
     <item quantity="other">Cerca %d aplicacions</item>
     <item quantity="one">Cerca %d aplicació</item>
@@ -252,10 +248,6 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
   <plurals name="app_manager_permission_read">
     <item quantity="other">Va accedir %d vegades</item>
     <item quantity="one">Va accedir %d vegada</item>
-  </plurals>
-  <plurals name="app_manager_permission_manager_summary">
-    <item quantity="other">Va donar %d permisos</item>
-    <item quantity="one">Va donar %d permís</item>
   </plurals>
   <plurals name="app_manager_start_count">
     <item quantity="other">%d vegades</item>
