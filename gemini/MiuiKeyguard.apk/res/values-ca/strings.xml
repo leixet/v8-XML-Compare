@@ -55,6 +55,7 @@
   <string name="keyguard_charging_info_tip_text2">"No sobrecarregueu el dispositiu. Múltiples càrregues breus són millors que una càrrega durant la nit."</string>
   <string name="keyguard_charging_info_tip_text3">Eviteu carregar el dispositiu quan la temperatura ambient és inferior a 0 ℃.</string>
   <string name="keyguard_charging_info_tip_text4">"No utilitzeu el dispositiu activament mentre s'està carregant per evitar el sobreescalfament."</string>
+  <string name="keyguard_charging_info_tip_text5">Les bateries triguen més temps en carregar-se quan quan s\'escalfen més del que és habitual.</string>
   <string name="keyguard_charging_info_tip_text6">Apagueu la pantalla i deixeu el dispositiu lluny per refrescar-lo.</string>
   <string name="keyguard_torch_cover_text">Per mantenir la llanterna encesa, mantingueu premut el botó d\'engegada</string>
   <string name="left_action_default_hint_text">Control Mi</string>
