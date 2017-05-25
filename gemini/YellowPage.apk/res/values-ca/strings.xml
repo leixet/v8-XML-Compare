@@ -149,6 +149,7 @@ Comproveu el número de seguiment."</string>
   <string name="express_inquiry_untrace">"No facis cap seguiment"</string>
   <string name="express_inquiry_untrace_success">S\'ha aturat el seguiment</string>
   <string name="express_install_cainiao_description_1">La comprovació del detall de les mercaderies necessita descarregar l\'aplicació Cainiao, voleu baixar-la?</string>
+  <string name="express_install_cainiao_description_2">Per comprovar codi d\'extracció necessiteu baixar l\'aplicació Cainiao, voleu baixar-la?</string>
   <string name="express_install_cainiao_description_3">Hi ha més serveis necessiten baixar l\'aplicació Cainiao, voleu baixar-la?</string>
   <string name="express_install_cainiao_ok">Baixa</string>
   <string name="express_install_cainiao_title">Instal·la l\'aplicació Cainiao</string>
@@ -197,6 +198,8 @@ Comproveu el número de seguiment."</string>
   <string name="express_setting_authorized_number_delete">Elimina</string>
   <string name="express_setting_authorized_number_description">Política de privacitat: el número de telèfon autoritzat només s\'utilitza per al seguiment exprés de Cainiao, no per a altres finalitats.</string>
   <string name="express_setting_authorized_number_empty">Cap número autoritzat</string>
+  <string name="express_setting_code_invalid">Introduïu el codi de verificació correctament!</string>
+  <string name="express_setting_count_down_time">Reenvia %ds més tard</string>
   <string name="express_shortcut_name">Consulta o enviament exprés</string>
   <string name="express_show_all_inquiry_history">Mostra tot l\'historial de consultes</string>
   <string name="express_submit_order">Confirma</string>
