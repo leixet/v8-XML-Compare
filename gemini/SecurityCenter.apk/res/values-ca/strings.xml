@@ -1376,6 +1376,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_title_traffic_limit_number">Mida</string>
   <string name="pref_title_traffic_speed_state">Mostra la velocitat de la xarxa</string>
   <string name="pref_title_update_notification">Notificacions d\'ús de dades</string>
+  <string name="pref_title_upload_data_usage">Informeu sobre les estadístiques d\'ús de dades</string>
   <string name="pref_title_virus_white_list">Excepcions</string>
   <string name="pref_traffic_manage_title">Ús de dades</string>
   <string name="pref_warning_values">Nivell d\'avís d\'ús de dades</string>
