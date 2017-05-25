@@ -220,6 +220,7 @@ Comproveu el número de seguiment."</string>
   <string name="express_setting_verification_code_acquire">Adquireix el codi</string>
   <string name="express_setting_verification_code_failed">Ha fallat l\'adquisició del codi!</string>
   <string name="express_setting_verification_code_hint">Codi de missatge</string>
+  <string name="express_setting_verification_code_success">S\'ha adquirit el codi correctament!</string>
   <string name="express_setting_verify_failed">Verificació fallida!</string>
   <string name="express_setting_verify_success">Verificació correcta!</string>
   <string name="express_shortcut_name">Consulta o enviament exprés</string>
@@ -228,6 +229,9 @@ Comproveu el número de seguiment."</string>
   <string name="express_tail_number">Número de cua</string>
   <string name="express_track_order">Fes el seguiment</string>
   <string name="express_tracking_number">Número de seguiment</string>
+  <string name="express_update_cainiao_description">La versió de l\'aplicació Cainiao és massa vella, voleu actualitzar-la?</string>
+  <string name="express_update_cainiao_ok">Vés a l\'actualització</string>
+  <string name="express_update_cainiao_title">Actualitza l\'aplicació Cainiao</string>
   <string name="express_urge_order">És urgent</string>
   <string name="express_view_order">Mostra les comandes</string>
   <string name="express_view_status">Seguiment</string>
