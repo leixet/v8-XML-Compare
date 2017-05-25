@@ -148,6 +148,10 @@ o introdueixi la seva contrasenya"</string>
   <string name="app_manager_appupdate_remind">Notifica quant a les actualitzacions</string>
   <string name="app_manager_bipartition">Aplicacions duals</string>
   <string name="app_manager_card_permission_title">Permisos</string>
+  <string name="app_manager_clear_data_dlg_message">Totes aquestes aplicacions es suprimiran permanentment. Inclou tots els fitxers, configuracions, comptes, bases de dades, etc.</string>
+  <string name="app_manager_clear_data_dlg_title">Voleu eliminar les dades de l\'aplicació?</string>
+  <string name="app_manager_clear_failed_dlg_message">No s\'han pogut suprimir les dades de l\'aplicació.</string>
+  <string name="app_manager_clear_failed_dlg_title">Suprimeix les dades</string>
   <string name="app_manager_default_close_summary">No s\'ha establert els predeterminats.</string>
   <string name="app_manager_default_open">Obre de manera predeterminada</string>
   <string name="app_manager_default_open_summary">S\'ha definit aquesta aplicació com a predeterminada per fer algunes accions.</string>
@@ -161,6 +165,8 @@ o introdueixi la seva contrasenya"</string>
   <string name="app_manager_force_stop_dlg_title">Voleu forçar el tancament?</string>
   <string name="app_manager_go_to_manger_app">Gestiona</string>
   <string name="app_manager_loading_data">S\'estan carregant les dades&#8230;</string>
+  <string name="app_manager_manage_space">Gestiona l\'espai</string>
+  <string name="app_manager_menu_clear_data">Suprimeix les dades</string>
   <string name="app_manager_more_times">Va accedir 100000+ vegades</string>
   <string name="app_manager_my_app">Les meves aplicacions</string>
   <string name="app_manager_not_record">"No hi ha elements aquí"</string>
@@ -183,6 +189,11 @@ o introdueixi la seva contrasenya"</string>
   <string name="app_manager_permission_send_mms_over">Va enviar SMS 100000+ vegades</string>
   <string name="app_manager_permission_startself_summary">Les aplicacions que s\'inicien automàticament ocupen RAM i drenen la bateria més ràpidament</string>
   <string name="app_manager_permission_startself_title">Inici automàtic</string>
+  <string name="app_manager_permission_summary_reject">Restringeix-ho tot</string>
+  <string name="app_manager_powerkeeper_miui_auto">Estalvi de bateria MIUI</string>
+  <string name="app_manager_powerkeeper_no_bg">Restringeix l\'activitat en segon pla</string>
+  <string name="app_manager_powerkeeper_no_restrict">Sense restriccions</string>
+  <string name="app_manager_powerkeeper_restrict_bg">Restringeix les aplicacions en segon pla</string>
   <string name="app_manager_rebide_wakepath">Limita</string>
   <string name="app_manager_reduce_wakepath_dialog">Minimitza l\'inici de la cadena</string>
   <string name="app_manager_reduce_wakepath_summary">La restricció de l\'inici automàtic minimitzarà l\'inici de la cadena. Voleu restringir l\'inici automàtic de %s?</string>
@@ -872,6 +883,13 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="log_count"> (%d)</string>
   <string name="long_click_dialog_summary">Mantingueu els resultats a la llista per afegir-los a les excepcions</string>
   <string name="long_click_dialog_title">Atenció</string>
+  <string name="low_memory_clean_dialog_msg">Abans esborreu com a mínim 100MB de fitxers</string>
+  <string name="low_memory_clean_dialog_ok_button">D\'acord</string>
+  <string name="low_memory_clean_dialog_title">No hi ha prou espai</string>
+  <string name="low_memory_warning_dialog_cancel_button">Cancel·la</string>
+  <string name="low_memory_warning_dialog_msg">Allibereu espai al dispositiu per continuar</string>
+  <string name="low_memory_warning_dialog_ok_button">Neteja</string>
+  <string name="low_memory_warning_dialog_title">No hi ha prou espai</string>
   <string name="main_activity_content_summary_root">Accés de superusuari</string>
   <string name="main_activity_content_summary_update">Actualitzar sistema</string>
   <string name="main_activity_content_title_scanning">S\'està escanejant&#8230;</string>
@@ -1347,6 +1365,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_specified_adjust">Establir límit de dades personal</string>
   <string name="pref_specified_traffic_settings">Configuració de límit de dades</string>
   <string name="pref_summary_lock_screen_memory_clean">Neteja automàtica amb el dispositiu bloquejat</string>
+  <string name="pref_summary_upload_data_usage">Informeu de les vostres estadístiques d\'ús de dades per ajudar-nos a millorar MIUI. Els informes es realitzen d\'acord amb la nostra política de privacitat.</string>
   <string name="pref_summary_virus_white_list">Eviteu que es netegin les aplicacions seleccionades</string>
   <string name="pref_title_declaration">Clàusula important</string>
   <string name="pref_title_diagnostics_show_float_notification">Notificacions flotants</string>
