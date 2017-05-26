@@ -542,7 +542,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="data_usage_correction_timeout_title">Esgotat el temps per sincronitzar ús de dades</string>
   <string name="data_usage_disabled_dialog">"Ha arribat al límit d'ús de dades. L'ús excessiu de la seva tarifa de dades pot ocasionar despeses addicionals"</string>
   <string name="data_usage_disabled_dialog_enable">Activa les dades</string>
-  <string name="data_usage_leisure_warning_body">Toqui per veure detalls de l\'ús de dades.</string>
+  <string name="data_usage_leisure_warning_body">Premeu per veure els detalls de l\'ús de dades.</string>
   <string name="data_usage_leisure_warning_title">Límit d\'ús de dades</string>
   <string name="data_usage_limit_body">Premeu per activar les dades mòbils.</string>
   <string name="data_usage_mobile_limit_title"> Dades mòbils apagades</string>
@@ -551,8 +551,8 @@ o introdueixi la seva contrasenya"</string>
   <string name="data_usage_no_total_package_title">Estableix un límit d\'ús de dades</string>
   <string name="data_usage_restricted_body">Premeu per activar les dades en segon pla.</string>
   <string name="data_usage_restricted_title">Dades en segon pla restringides</string>
-  <string name="data_usage_warning_body">Toqui per veure detalls sobre ús de dades.</string>
-  <string name="data_usage_warning_body_notify">Toqueu per veure els detalls</string>
+  <string name="data_usage_warning_body">Premeu per veure els detalls de l\'ús de dades.</string>
+  <string name="data_usage_warning_body_notify">Premeu per veure els detalls</string>
   <string name="data_usage_warning_title">Alerta d\'ús de dades</string>
   <string name="data_usage_warning_title_notify">Heu superat el limit de dades</string>
   <string name="declaration_dialog_msg">Aquesta característica pot ajudar a vigilar el seu ús, però no li garanteix evitar càrrecs addicionals. Per obtenir millors resultats, estableixi un límit conservador.</string>
@@ -1101,7 +1101,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="notification_mask_title">Amaga el contingut</string>
   <string name="notification_quick_charging_title">Càrrega ràpida</string>
   <string name="notification_subtitle">Tocar per activar</string>
-  <string name="notification_summary_cmcc_app_check">Toqui per veure els detalls.</string>
+  <string name="notification_summary_cmcc_app_check">Toqueu per veure els detalls.</string>
   <string name="notification_sysapp_cracked_text">S\'ha modificat la versió actual de MIUI</string>
   <string name="notification_sysapp_cracked_title">S\'ha detectat un risc per a la seguretat</string>
   <string name="notification_title_cmcc_app_check">%d dies des de l\'última comprovació</string>
@@ -1862,7 +1862,7 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="timeshow_m">%dm</string>
   <string name="timeshow_s">%ds</string>
   <string name="tips_dialog_title">"No coneix el seu límit?"</string>
-  <string name="tips_message">"Si no té clars els detalls del seu pla de dades pot veure'ls trucant al %2$s (%1$s)."</string>
+  <string name="tips_message">"Per veure els detalls del vostre pla, marqueu %2$s (%1$s)."</string>
   <string name="tips_of_app_manage">Elimineu aplicacions poc utilitzades per estalviar espai d\'emmagatzematge</string>
   <string name="tips_of_auto_launch_manage">Evita que aplicacions que es fan servir poc s\'iniciïn automàticament</string>
   <string name="tips_of_operators_set">Ajusteu automàticament les estadístiques d\'ús de dades</string>
@@ -1970,12 +1970,12 @@ Dades extres en ús"</string>
   <string name="traffic_correction_start_correction">"Connectant amb els servidors de l'operador…"</string>
   <string name="traffic_correction_start_correction_failed">"Ha fallat la sol·licitud, siusplau comproveu els paràmetres de l'operador"</string>
   <string name="traffic_correction_success">Ús de dades actualitzat</string>
-  <string name="traffic_correction_success_notify_message">Toca per veure els detalls.</string>
+  <string name="traffic_correction_success_notify_message">Premeu per veure els detalls.</string>
   <string name="traffic_limit_error_alert_body">La comptabilitat de la seva companyia mostra que vostè té %1$s restants aquest mes. Això és més dels %2$s límit que ha configurat manualment.</string>
   <string name="traffic_limit_error_alert_package">Dades restants inclouen dades que s\'han passat del mes anterior.</string>
   <string name="traffic_limit_error_alert_title">Recordatori límit de dades %s</string>
   <string name="traffic_none">Cap</string>
-  <string name="traffic_over_purchase_body">Toqui per veure els detalls.</string>
+  <string name="traffic_over_purchase_body">Premeu per veure els detalls.</string>
   <string name="traffic_over_purchase_link">"Ha arribat al límit d'ús del pla de dades mòbils.&lt;br/&gt;Si sobrepassa el límit d'ús del pla de dades mòbils, el seu operador podria cobrar despeses addicionals.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;u&gt;Premi per recarregar el seu saldo.&lt;/u&gt;&amp;lt;/font&amp;gt;"</string>
   <string name="traffic_over_purchase_title">Límit de dades excedit</string>
   <string name="traffic_purchase_body">Premi per recarregar el seu saldo.</string>
