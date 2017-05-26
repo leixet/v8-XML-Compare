@@ -2641,7 +2641,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="open_personal_assistant_dialog_desc">"No podreu fer servir l'assistent intel·ligent i rebre les seves actualitzacions. Voleu desactivar-lo ara?"</string>
   <string name="open_personal_assistant_dialog_title">Desactiva l\'assistent intel·ligent</string>
   <string name="open_personal_assistant_title">Activa l\'assistent intel·ligent</string>
-  <string name="open_wifi_connect_summary">Toca per veure detalls.</string>
+  <string name="open_wifi_connect_summary">Premeu per veure els detalls.</string>
   <string name="open_wifi_connect_title">Connecta amb %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">L\'administrador d\'aquest perfil professional és:</string>
   <string name="operator_warning">El recompte de dades de l\'operador de telefonia mòbil pot ser diferent del calculat pel dispositiu</string>
@@ -3861,7 +3861,7 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="status_sim">Estat de la targeta SIM</string>
   <string name="status_sim_1">SIM 1</string>
   <string name="status_sim_2">SIM 2</string>
-  <string name="status_summary">Premeu per a visualitzar els detalls.</string>
+  <string name="status_summary">Premeu per veure els detalls.</string>
   <string name="status_tag_not_writable">No es pot escriure a l\'etiqueta NFC. Feu-ne servir una altra.</string>
   <string name="status_unavailable">No disponible</string>
   <string name="status_up_time">Temps actiu</string>
@@ -3874,9 +3874,9 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="storage_detail_dialog_other">"A l\'apartat Altres s\'inclouen fitxers compartits desats per les aplicacions, fitxers baixats d\'Internet o per Bluetooth i fitxers d\'Android, entre d\'altres. 
 
 Per veure tot el contingut de ^1, toqueu Explora."</string>
-  <string name="storage_detail_dialog_user">"^1 pot tenir desades les fotos, música, pel·lícules, aplicacions o altres dades que s\'estan movent a l\'emmagatzematge ^2
+  <string name="storage_detail_dialog_user">"^1 pot tenir desades fotos, música, pel·lícules, aplicacions o altres dades que s\'estan movent a l\'emmagatzematge ^2
 
-Per veure els detalls, canvieu a ^1."</string>
+Per veure els detalls, aneu a ^1."</string>
   <string name="storage_detail_explore">Explora ^1</string>
   <string name="storage_detail_images">Imatges</string>
   <string name="storage_detail_other">Altres</string>
