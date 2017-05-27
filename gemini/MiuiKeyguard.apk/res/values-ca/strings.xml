@@ -45,7 +45,7 @@
   <string name="keyguard_charging_info_could_use_min_time_text">Resten %dmin</string>
   <string name="keyguard_charging_info_could_use_time_text" formatted="false">Resten %dh %dmin</string>
   <string name="keyguard_charging_info_current_now_text">Monitor en temps real</string>
-  <string name="keyguard_charging_info_drained_power_percent_text">Drenat</string>
+  <string name="keyguard_charging_info_drained_power_percent_text">Descarregada</string>
   <string name="keyguard_charging_info_finished_charging_text">Càrrega completa</string>
   <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
   <string name="keyguard_charging_info_last_charge_today_time">Avui %s</string>
