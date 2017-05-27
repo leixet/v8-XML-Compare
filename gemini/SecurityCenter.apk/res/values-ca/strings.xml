@@ -1089,8 +1089,8 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="note_keyword_none">Sense paraules clau</string>
   <string name="note_list_none">La llista és buida</string>
   <string name="note_sms_none">Sense missatges</string>
-  <string name="notification_battery_consume_abnormal_summary">S\'ha consumit un %2$s de la bateria en els últims %1$d minuts</string>
-  <string name="notification_battery_consume_abnormal_title">La bateria està sent drenada massa ràpid</string>
+  <string name="notification_battery_consume_abnormal_summary">La bateria s\'ha descarregat un %2$s de en els darrers %1$d minuts</string>
+  <string name="notification_battery_consume_abnormal_title">La bateria s\'està descarregant massa ràpid</string>
   <string name="notification_battery_over_heat_summary">Trobeu què causa el sobreescalfament i refredeu el dispositiu.</string>
   <string name="notification_battery_over_heat_title">La temperatura actual és de %d℃</string>
   <string name="notification_charging_title">"S'està carregant "</string>
@@ -1533,7 +1533,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="seton_immediately">Activa</string>
   <string name="setting_privacy_password">Estableix la contrasenya de protecció de la privacitat</string>
   <string name="settings">Configuració d\'ús de dades</string>
-  <string name="settings_battery_consume_abnormal_summary">Rebreu notificacions quan el consum de bateria sigui més alt que l\'habitual</string>
+  <string name="settings_battery_consume_abnormal_summary">Rep notificacions quan la bateria es descarregui ràpidament</string>
   <string name="settings_battery_consume_abnormal_title">Notificacions de consum excessiu de bateria</string>
   <string name="settings_battery_over_heat_summary">Rebreu notificacions quan el dispositiu se sobreescalfi més del normal</string>
   <string name="settings_battery_over_heat_title">Notificacions de sobreescalfament</string>
