@@ -421,13 +421,13 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="battery_desc_bluetooth">Bateria utilitzada pel Bluetooth</string>
   <string name="battery_desc_camera">Bateria utilitzada per la càmera</string>
   <string name="battery_desc_display">Bateria utilitzada per la pantalla i la retroil·luminació</string>
-  <string name="battery_desc_flashlight">Bateria utilitzada per la llanterna</string>
+  <string name="battery_desc_flashlight">Bateria utilitzada pel flaix</string>
   <string name="battery_desc_overcounted">Consum de l\'energia comptabilitzat més d\'un cop</string>
-  <string name="battery_desc_radio">Bateria utilitzada pel sistema de telefonia</string>
-  <string name="battery_desc_standby">Bateria utilitzada en repòs</string>
+  <string name="battery_desc_radio">Bateria utilitzada per la ràdio del mòbil</string>
+  <string name="battery_desc_standby">Bateria utilitzada quan el telèfon està inactiu</string>
   <string name="battery_desc_unaccounted">Diversos usos de l\'energia</string>
   <string name="battery_desc_users">Bateria utilitzada per l\'usuari</string>
-  <string name="battery_desc_voice">Bateria utilitzada amb trucades</string>
+  <string name="battery_desc_voice">Bateria utilitzada per les trucades de veu</string>
   <string name="battery_desc_wifi">Bateria utilitzada pel Wi-Fi</string>
   <string name="battery_history_days">%1$dd %2$dh %3$dm %4$ds</string>
   <string name="battery_history_days_no_seconds">%1$dd %2$dh %3$dm</string>
