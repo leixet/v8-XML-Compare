@@ -129,7 +129,7 @@
   <string name="backup_automatically_summary">Feu una còpia de seguretat de les fotos i vídeos de tots els dispositius a Mi Cloud. D\'aquesta manera podeu buscar, classificar, editar i compartir fotos i vídeos a tots els vostres dispositius.</string>
   <string name="backup_automatically_title">Còpia de seguretat automàtica</string>
   <string name="backup_battery_low_desc">Encara podeu optar por continuar copiant elements</string>
-  <string name="backup_battery_low_title">Copia de seguretat pausada a causa de la bateria baixa</string>
+  <string name="backup_battery_low_title">Còpia de seguretat pausada pel baix nivell de la bateria</string>
   <string name="backup_close">Tanca la còpia de seguretat</string>
   <string name="backup_cloud_space_low_btn_text">Obtén més</string>
   <string name="backup_cloud_space_low_desc">%1$s al Mi Cloud | Disponible %2$s</string>
