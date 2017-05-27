@@ -255,7 +255,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="auto_atsk_condition_battery_level_text_down">Quan la bateria arribi al %s</string>
   <string name="auto_atsk_condition_battery_level_text_up">Quan la bateria es carregui fins al %s</string>
   <string name="auto_handle_title">GENERAL</string>
-  <string name="auto_task_condition_choose_battery_level_down">Quan la bateria arribi a un cert nivell</string>
+  <string name="auto_task_condition_choose_battery_level_down">Quan la bateria assoleixi un nivell determinat</string>
   <string name="auto_task_condition_choose_battery_level_up">Quan la bateria es carrega fins a un cert nivell</string>
   <string name="auto_task_condition_choose_end_time">Hora de finalització</string>
   <string name="auto_task_condition_choose_ontime">Temporitzador</string>
