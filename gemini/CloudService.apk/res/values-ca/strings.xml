@@ -178,7 +178,7 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_confusion_toast_deny">Inicia sessió amb el vostre compte Mi</string>
   <string name="micloud_confusion_yes">Sí</string>
   <string name="micloud_detail_battery_low">Bateria baixa</string>
-  <string name="micloud_detail_battery_low_message">La bateria està baixa. Si us plau carregui el telèfon per realitzar la sincronització.</string>
+  <string name="micloud_detail_battery_low_message">La bateria està baixa. Carregueu el vostre telèfon per sincronitzar.</string>
   <string name="micloud_detail_battery_low_title">La bateria està baixa</string>
   <string name="micloud_detail_depend_wifi_message">Si us plau connecta\'t al Wi-Fi o comprova la configuració de sincronització.</string>
   <string name="micloud_detail_depend_wifi_title">Es necessita xarxa Wi-Fi</string>
@@ -242,7 +242,7 @@ Quan el vostre núvol estigui ple, les dades antigues es mantindran. No obstant,
 
 Per solucionar això, podeu netejar alguns fitxers antics per deixar espai als nous, o podeu comprar espai d\'emmagatzematge addicional."</string>
   <string name="micloud_full_influence_title">Quan el seu Mi Cloud está ple&#8230;</string>
-  <string name="micloud_main_battery_low">Sense bateria suficient per sincronitzar</string>
+  <string name="micloud_main_battery_low">No hi ha prou bateria per sincronitzar</string>
   <string name="micloud_main_battery_message">Connecta el dispositiu a una font d\'energia per a sincronitzar</string>
   <string name="micloud_main_cancel_sync">Cancel·la la sincronització</string>
   <string name="micloud_main_clear_now">Esborra</string>
@@ -305,7 +305,7 @@ Toca el botó de configuració de sincronització per veure més opcions\"</stri
   <string name="micloud_member_webload_fail_toast_4xx">"No s'ha pogut carregar la pàgina"</string>
   <string name="micloud_member_webload_fail_toast_5xx">Error del servidor</string>
   <string name="micloud_more">Saber més</string>
-  <string name="micloud_notif_content_battery_low">Bateria massa baixa.</string>
+  <string name="micloud_notif_content_battery_low">La bateria està massa buida.</string>
   <string name="micloud_notif_content_clipboard_push">Es pot enganxar a qualsevol lloc.</string>
   <string name="micloud_notif_content_depend_wifi">Connectar a Wi-Fi per sincronitzar.</string>
   <string name="micloud_notif_content_dirty_data">Detalls</string>
