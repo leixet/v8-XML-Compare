@@ -352,7 +352,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="notification_header_title">Notificacions</string>
   <string name="notification_hidden_text">Contingut ocult</string>
   <string name="notification_low_battery_action_btn">Activa</string>
-  <string name="notification_low_battery_need_charge">Bateria baixa. Carregeu el dispositiu.</string>
+  <string name="notification_low_battery_need_charge">Bateria baixa. Carregeu el vostre dispositiu.</string>
   <string name="notification_low_battery_open_save_mode">Activa l\'estalvi de bateria</string>
   <string name="notification_low_battery_title">Bateria baixa: %d%%</string>
   <string name="notification_manager">Gestiona les notificacions</string>
