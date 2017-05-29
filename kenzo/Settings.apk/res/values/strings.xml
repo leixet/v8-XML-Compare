@@ -532,8 +532,8 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_dock_settings_headset">As speaker phone</string>
   <string name="bluetooth_dock_settings_remember">Remember settings</string>
   <string name="bluetooth_dock_settings_title">Use dock for audio</string>
-  <string name="bluetooth_dun_profile_summary_connected">Connected to Dun Server</string>
-  <string name="bluetooth_dun_profile_summary_use_for">Use for Dial-up Network access</string>
+  <string name="bluetooth_dun_profile_summary_connected">Connected to DUN Server</string>
+  <string name="bluetooth_dun_profile_summary_use_for">Use for dial-up network access</string>
   <string name="bluetooth_empty_list_bluetooth_off">When Bluetooth is turned on, your device can communicate with other nearby Bluetooth devices.</string>
   <string name="bluetooth_empty_list_user_restricted">You don’t have permission to change Bluetooth settings.</string>
   <string name="bluetooth_enable">Bluetooth</string>
@@ -555,7 +555,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_lock_voice_dialing_summary">Prevent use of the bluetooth dialer when the screen is locked</string>
   <string name="bluetooth_map_acceptance_dialog_text">%1$s wants to access your messages. Give access to %2$s?</string>
   <string name="bluetooth_map_profile_summary_connected">Connected to MAP</string>
-  <string name="bluetooth_map_profile_summary_use_for">Use for map</string>
+  <string name="bluetooth_map_profile_summary_use_for">Use for MAP</string>
   <string name="bluetooth_map_request">Message access request</string>
   <string name="bluetooth_menu_advanced">Advanced</string>
   <string name="bluetooth_name_not_set">No name set, using account name</string>
@@ -607,16 +607,16 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_preference_scan_title">Scan for devices</string>
   <string name="bluetooth_profile_a2dp">Media audio</string>
   <string name="bluetooth_profile_details">Profile settings</string>
-  <string name="bluetooth_profile_dun">Dial-up Network Access</string>
+  <string name="bluetooth_profile_dun">Used for accessing dial-up networks</string>
   <string name="bluetooth_profile_headset">Phone audio</string>
   <string name="bluetooth_profile_hid">Input device</string>
-  <string name="bluetooth_profile_map">Message Access</string>
+  <string name="bluetooth_profile_map">Used for accessing messages</string>
   <string name="bluetooth_profile_opp">File transfer</string>
   <string name="bluetooth_profile_pan">Internet access</string>
-  <string name="bluetooth_profile_pan_nap">Internet connection sharing</string>
+  <string name="bluetooth_profile_pan_nap">Used for sharing internet connection</string>
   <string name="bluetooth_profile_pbap">Contact sharing</string>
-  <string name="bluetooth_profile_pbap_summary">Use for contact sharing</string>
-  <string name="bluetooth_profile_sap">SIM Access</string>
+  <string name="bluetooth_profile_pbap_summary">Used for sharing contacts</string>
+  <string name="bluetooth_profile_sap">Used for accessing SIM</string>
   <string name="bluetooth_quick_toggle_summary">Turn on Bluetooth</string>
   <string name="bluetooth_quick_toggle_title">Bluetooth</string>
   <string name="bluetooth_remember_choice">Don’t ask again</string>
@@ -868,7 +868,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="confirm_reset_aaid">OK</string>
   <string name="connect_to_internet">Connect to network</string>
   <string name="connected_via_passpoint">Connected via %1$s</string>
-  <string name="connected_via_wfa">Connected via Wi‑Fi assistant</string>
+  <string name="connected_via_wfa">Connected via WLAN assistant</string>
   <string name="connected_wifi">Connected</string>
   <string name="connecting_to_vpn">Connecting to VPN</string>
   <string name="contributors_title">Contributors</string>
@@ -1027,7 +1027,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="data_usage_pick_cycle_day">Day of month to reset data usage cycle:</string>
   <string name="data_usage_received_sent">%1$s received, %2$s sent</string>
   <string name="data_usage_restrict_background">"If you restrict background cellular data, some apps and services won't work unless you're connected to WLAN."</string>
-  <string name="data_usage_restrict_background_multiuser">"If you restrict background cellular data, some apps and services won’t work unless you’re connected to Wi‑Fi.
+  <string name="data_usage_restrict_background_multiuser">"If you restrict background cellular data, some apps and services won’t work unless you’re connected to WLAN.
 
 This setting affects all users on this phone."</string>
   <string name="data_usage_restrict_background_title">Restrict background data?</string>
@@ -1887,8 +1887,8 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="location_scanning_bluetooth_always_scanning_description">Improve location by allowing system apps and services to detect Bluetooth devices at any time.</string>
   <string name="location_scanning_bluetooth_always_scanning_title">Bluetooth scanning</string>
   <string name="location_scanning_screen_title">Scanning</string>
-  <string name="location_scanning_wifi_always_scanning_description">Improve location by allowing system apps and services to detect Wi‑Fi networks at any time.</string>
-  <string name="location_scanning_wifi_always_scanning_title">Wi‑Fi scanning</string>
+  <string name="location_scanning_wifi_always_scanning_description">Improve location by allowing system apps and services to detect WLAN networks at any time.</string>
+  <string name="location_scanning_wifi_always_scanning_title">WLAN scanning</string>
   <string name="location_settings_title">Location</string>
   <string name="location_sources_heading">Location sources</string>
   <string name="location_street_level">Let apps use GPS on your phone to pinpoint your location</string>
@@ -2166,7 +2166,7 @@ There are other users present on this device.
   <string name="mms_privacy_password_role_instruction">Your conversations with private contacts will be stored here.</string>
   <string name="mobile_connect_to_internet">Please connect to the internet</string>
   <string name="mobile_data_always_on">Cellular data always active</string>
-  <string name="mobile_data_always_on_summary">Always keep mobile data active, even when Wi‑Fi is active (for fast network switching).</string>
+  <string name="mobile_data_always_on_summary">Always keep mobile data active, even when WLAN is active (for fast network switching).</string>
   <string name="mobile_insert_sim_card">Please insert SIM card and restart</string>
   <string name="mobile_no_provisioning_url">%1$s has no known provisioning website</string>
   <string name="mobile_unknown_sim_operator">Unknown SIM operator</string>
@@ -2827,11 +2827,7 @@ Select your operating system:"</string>
   <string name="reset_network_button_text">Reset settings</string>
   <string name="reset_network_complete_toast">Network settings have been reset</string>
   <string name="reset_network_confirm_title">Reset?</string>
-  <string name="reset_network_desc">"This will reset all network settings, including:
-
-"&lt;li&gt;Wi&amp;#8209;Fi&lt;/li&gt;"
-"&lt;li&gt;Cellular data&lt;/li&gt;"
-"&lt;li&gt;Bluetooth&lt;/li&gt;</string>
+  <string name="reset_network_desc">This will reset all network settings</string>
   <string name="reset_network_final_button_text">Reset settings</string>
   <string name="reset_network_final_desc">Reset all network settings? You can’t undo this action!</string>
   <string name="reset_network_title">Network settings reset</string>
@@ -4281,13 +4277,7 @@ Tap the plus to add words."</string>
   <string name="wifi_alert_lockdown_by_device_owner">%1$s manages your device and doesn’t allow modifying or deleting this WLAN network. For more information, contact your administrator.</string>
   <string name="wifi_allow_scan_with_traffic">Always allow WLAN Roam Scans</string>
   <string name="wifi_allow_scan_with_traffic_summary">Allow/Disallow WLAN Roam Scans based on the amount of data traffic present at the interface</string>
-  <string name="wifi_and_mobile_skipped_message">"If you skip Wi‑Fi:
-
-"&lt;li&gt;Your phone won&amp;#8217;t have an Internet connection.&lt;/li&gt;"
-
-"&lt;li&gt;You won&amp;#8217;t get software updates until you connect to the Internet.&lt;/li&gt;"
-
-"&lt;li&gt;You can&amp;#8217;t activate device protection features at this time.&lt;/li&gt;</string>
+  <string name="wifi_and_mobile_skipped_message">The phone will not be able to verify that your software is up to date</string>
   <string name="wifi_ap_band_config">Select AP Band</string>
   <string name="wifi_ap_choose_2G">2.4 GHz Band</string>
   <string name="wifi_ap_choose_5G">5 GHz Band</string>
@@ -4304,8 +4294,8 @@ WLAN Assistant"</string>
   <string name="wifi_assistant_title_message">Google WLAN Assistant automatically connects you to the best available WLAN</string>
   <string name="wifi_assistant_vpn_message">To help protect your data, Google WLAN Assistant may provide a secure VPN connection through Google servers.</string>
   <string name="wifi_auto_connect">Auto connect</string>
-  <string name="wifi_automatically_connect_summary">Let a Wi‑Fi assistant automatically connect to open networks determined to be high quality</string>
-  <string name="wifi_automatically_connect_title">Use open Wi‑Fi automatically</string>
+  <string name="wifi_automatically_connect_summary">Let a WLAN assistant automatically connect to open networks determined to be high quality</string>
+  <string name="wifi_automatically_connect_title">Use open WLAN automatically</string>
   <string name="wifi_automatically_manage_summary">Let a WLAN assistant manage your WLAN connection</string>
   <string name="wifi_automatically_manage_title">Automatically manage WLAN</string>
   <string name="wifi_available_title">Connect to WLAN</string>
@@ -4327,7 +4317,7 @@ WLAN Assistant"</string>
   <string name="wifi_connect_cmcc_dialog_content">"Connected to mobile data network. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">"Don't show again"</string>
   <string name="wifi_connect_cmcc_dialog_title">CMCC connected</string>
-  <string name="wifi_connect_failed_message">The phone was unable to connect to this Wi‑Fi network.</string>
+  <string name="wifi_connect_failed_message">The phone was unable to connect to this WLAN network.</string>
   <string name="wifi_connected_no_internet">Connected, no Internet</string>
   <string name="wifi_context_menu_change_password">Change password</string>
   <string name="wifi_context_menu_change_wapi_certificate">Change WAPI certificate</string>
@@ -4337,9 +4327,9 @@ WLAN Assistant"</string>
   <string name="wifi_dialog_remind_type_title">Mobile data network</string>
   <string name="wifi_disabled_generic">Disabled</string>
   <string name="wifi_disabled_help">WLAN was disconnected due to poor connection</string>
-  <string name="wifi_disabled_network_failure">IP Configuration Failure</string>
+  <string name="wifi_disabled_network_failure">"Couldn't configure IP"</string>
   <string name="wifi_disabled_password_failure">Authentication problem</string>
-  <string name="wifi_disabled_wifi_failure">WLAN Connection Failure</string>
+  <string name="wifi_disabled_wifi_failure">"Couldn't connect to WLAN"</string>
   <string name="wifi_disconnected_notification_summary">"You're not connected to WLAN."</string>
   <string name="wifi_disconnected_notification_title">WLAN disconnected</string>
   <string name="wifi_display_autonomous_go">Enable autonomous GO</string>
@@ -4433,7 +4423,7 @@ WLAN Assistant"</string>
   <string name="wifi_more">More</string>
   <string name="wifi_network_prefix_length">Prefix length</string>
   <string name="wifi_network_prefix_length_hint">24</string>
-  <string name="wifi_no_internet">"No Internet Access Detected, won't automatically reconnect."</string>
+  <string name="wifi_no_internet">"No internet access, won't reconnect automatically."</string>
   <string name="wifi_not_in_range">Not in range</string>
   <string name="wifi_notify_cmcc_connected_summary">Show notification when connected to CMCC network</string>
   <string name="wifi_notify_cmcc_connected_title">CMCC network notification</string>
@@ -4490,7 +4480,7 @@ WLAN Assistant"</string>
 
 Allow this for all apps that want to scan?"</string>
   <string name="wifi_scan_notify_remember_choice">Don’t show again</string>
-  <string name="wifi_scan_notify_text">To improve location accuracy, system apps and services can still scan for Wi‑Fi networks. You can change this in LINK_BEGINscanning settingsLINK_END.</string>
+  <string name="wifi_scan_notify_text">To improve location accuracy, system apps and services can still scan for WLAN networks. You can change this in LINK_BEGINscanning settingsLINK_END.</string>
   <string name="wifi_scan_notify_text_location_off">"Apps may scan for nearby networks, even when WLAN is off. If you don't want this to happen, go to Advanced &gt; Scanning always available."</string>
   <string name="wifi_scan_notify_text_location_on">"To improve location accuracy and for other purposes, Google and other apps may scan for nearby networks, even when WLAN is off. If you don't want this to happen, go to Advanced &gt; Scanning always available."</string>
   <string name="wifi_security">Security</string>
@@ -4592,7 +4582,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="wifi_signal">Signal strength</string>
   <string name="wifi_signal_found_msg">Connect to WLAN AP?</string>
   <string name="wifi_skip_anyway">Skip anyway</string>
-  <string name="wifi_skipped_message">WARNING: if you skip Wi‑Fi, your phone will only use cellular data for initial downloads and updates. To avoid possible data charges, connect to Wi‑Fi.</string>
+  <string name="wifi_skipped_message">WARNING: if you skip WLAN, your phone will only use cellular data for initial downloads and updates. To avoid possible data charges, connect to WLAN.</string>
   <string name="wifi_speed">Link speed</string>
   <string name="wifi_ssid">SSID</string>
   <string name="wifi_ssid_hint">Enter the SSID</string>
@@ -4610,7 +4600,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="wifi_suspend_efficiency_title">Improve efficiency</string>
   <string name="wifi_suspend_optimizations">WLAN optimization</string>
   <string name="wifi_suspend_optimizations_summary">Minimize battery usage when WLAN is on</string>
-  <string name="wifi_switch_away_when_unvalidated">Switch to cellular data if Wi‑Fi loses Internet access.</string>
+  <string name="wifi_switch_away_when_unvalidated">Switch to cellular data if WLAN loses Internet access.</string>
   <string name="wifi_switch_to_gsm_message">Lost connection to WLAN. Use mobile data connection instead?</string>
   <string name="wifi_switch_to_gsm_title">Use GSM?</string>
   <string name="wifi_tether_checkbox_text">Portable WLAN hotspot</string>
