@@ -4719,9 +4719,9 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_dialog_remind_type_title">Xarxa de dades mòbils</string>
   <string name="wifi_disabled_generic">Desactivat</string>
   <string name="wifi_disabled_help">El Wi-Fi s\'ha desconnectat. Mala qualitat del senyal</string>
-  <string name="wifi_disabled_network_failure">Error de configuració d\'IP</string>
+  <string name="wifi_disabled_network_failure">"Error de configuració d'IP"</string>
   <string name="wifi_disabled_password_failure">Error d\'autenticació</string>
-  <string name="wifi_disabled_wifi_failure">Error de connexió Wi-Fi</string>
+  <string name="wifi_disabled_wifi_failure">"Error de connexió Wi-Fi"</string>
   <string name="wifi_disconnected_notification_summary">"S'ha desconnectat el Wi-Fi."</string>
   <string name="wifi_disconnected_notification_title">S\'ha desconnectat el Wi-Fi</string>
   <string name="wifi_display_autonomous_go">Activa GO autònom</string>
