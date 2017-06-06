@@ -442,7 +442,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="share_weibo_not_installed">Weibo no està instal·lat.</string>
   <string name="share_weixin_not_installed">WeChat no està instal·lat.</string>
   <string name="short_cut_desc">Voleu afegir una icona de Mi Cloud a la pantalla inicial?</string>
-  <string name="sina_share_fail">No s\'ha pogut enviar</string>
+  <string name="sina_share_fail">"No s'ha pogut enviar"</string>
   <string name="sina_share_fail_content_repeat">"No es pot compartir, el contingut ja existeix…"</string>
   <string name="sina_share_pendding">Enviant&#8230;</string>
   <string name="sina_share_success">Enviat</string>
