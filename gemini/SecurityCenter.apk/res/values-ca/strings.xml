@@ -1083,7 +1083,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="note_keyword_none">Sense paraules clau</string>
   <string name="note_list_none">La llista és buida</string>
   <string name="note_sms_none">Sense missatges</string>
-  <string name="notification_battery_consume_abnormal_summary">La bateria s\'ha descarregat un %2$s de en els darrers %1$d minuts</string>
+  <string name="notification_battery_consume_abnormal_summary">La bateria s\'ha descarregat un %2$s en els darrers %1$d minuts</string>
   <string name="notification_battery_consume_abnormal_title">La bateria s\'està descarregant massa ràpid</string>
   <string name="notification_battery_over_heat_summary">Trobeu què causa el sobreescalfament i refredeu el dispositiu.</string>
   <string name="notification_battery_over_heat_title">La temperatura actual és de %d℃</string>
