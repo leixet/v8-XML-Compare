@@ -441,7 +441,6 @@ o introdueixi la seva contrasenya"</string>
   <string name="buy_immediately">Compra</string>
   <string name="buy_traffic_pack">Compra més dades</string>
   <string name="byteShort">B</string>
-  <string name="cache_header_title">Elimina %1$d fitxers escorcollats per alliberar %2$s d\'espai</string>
   <string name="call_and_contact">Trucades i contactes</string>
   <string name="call_delete_hint">Voleu eliminar totes les trucades bloquejades d\'aquest número?</string>
   <string name="call_delete_title">Elimina la trucada</string>
@@ -656,10 +655,8 @@ o introdueixi la seva contrasenya"</string>
   <string name="enable_network">Activa xarxa primer</string>
   <string name="every_day">Cada dia</string>
   <string name="examination_score_100">Tot sembla correcte!</string>
-  <string name="examination_score_100_with_recommend">%d elements es poden optimitzar</string>
   <string name="examination_score_60_0">Analitza-ho ara</string>
   <string name="examination_score_80_100">Es poden optimitzar pocs elements</string>
-  <string name="examination_score_80_100_with_recommend">%d elements es poden optimitzar</string>
   <string name="examination_score_80_60">Es poden optimitzar alguns elements</string>
   <string name="examination_score_has_virus">S\'han detectat algunes aplicacions sospitoses.</string>
   <string name="finger_remind_message">Bloqueig d\'aplicació suporta desbloqueig per empremta. Afegir empremta?</string>
@@ -829,8 +826,6 @@ o introdueixi la seva contrasenya"</string>
   <string name="last_check_date_today">"Escanejat avui "</string>
   <string name="last_check_date_yesterday">"Escanejat ahir "</string>
   <string name="last_check_never_checked">Escanejar ara</string>
-  <string name="last_checked_date2">Escanejat fa %d dies</string>
-  <string name="last_checked_default">Escanejat fa %d dies</string>
   <string name="left_precent">60%</string>
   <string name="legal_workday">Feiners</string>
   <string name="legal_workday_invalidate">Dll-Dv (informació de feiners caducada)</string>
@@ -930,7 +925,6 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="manual_input_traffic">Establir ús de dades</string>
   <string name="manual_item_white_list_summary">Eviteu que s\'optimitzin les aplicacions seleccionades</string>
   <string name="manual_item_white_list_title">Excepcions</string>
-  <string name="manual_white_list_header">%d excepcions</string>
   <string name="mark_agent">Bloqueja les agències notificades</string>
   <string name="mark_agent_block">Notificat com a agència</string>
   <string name="mark_agent_block_large">Agències</string>
@@ -1104,7 +1098,6 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="notification_summary_cmcc_app_check">Toqueu per veure els detalls.</string>
   <string name="notification_sysapp_cracked_text">S\'ha modificat la versió actual de MIUI</string>
   <string name="notification_sysapp_cracked_title">S\'ha detectat un risc per a la seguretat</string>
-  <string name="notification_title_cmcc_app_check">%d dies des de l\'última comprovació</string>
   <string name="notification_title_firewall_blocked">Bloquejada</string>
   <string name="notify_daily_data_usage_body">Per limitar l\'ús de dades automàticament, establir el pla de dades mensual.</string>
   <string name="notify_daily_limit_body">Tocar per establir el límit de dades.</string>
@@ -1737,7 +1730,6 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="summary_flow_notification">Mostra les estadístiques mensuals d\'ús de dades en l\'àrea de notificacions</string>
   <string name="summary_flow_purchase">"Sembla que no queden gaires dades. Comprar dades per mantenir-se connectat."</string>
   <string name="summary_flow_purchase_beyond">"Ha excedit el límit mensual del seu pla de dades en %sMB"</string>
-  <string name="summary_flow_verify">"No s'han sincronitzat les estadístiques d'ús de dades amb el proveïdor de telefonia des de fa %d dies"</string>
   <string name="summary_flow_verify_failed">Ajust automàtic d\'ús de dades per evitar càrrecs addicionals</string>
   <string name="summary_garbage_clean">Esborra la memòria cau per alliberar espai</string>
   <string name="summary_garbage_lib">Utilitza les definicions més recents per eliminar spyware, adware i un altre programari no sol·licitat</string>
@@ -1772,7 +1764,6 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="system_app">Aplicacions de Sistema</string>
   <string name="system_application">Aplicacions del Sistema</string>
   <string name="system_check_content_none">Segur</string>
-  <string name="system_header_title">Elimina %1$d processos per alliberar %2$s de memòria</string>
   <string name="system_info_remind">Afegeix bloquejos per evitar l\'accés no autoritzat a les seves aplicacions</string>
   <string name="tab_blacklist">Llista de bloqueig</string>
   <string name="tab_block_log_unKnowNumber">Número privat</string>
@@ -1878,7 +1869,6 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="title_cloud_space_almost_full">Emmagatzematge en el núvol gairebé ple, pot ser que no es puguin sincronitzar alguns elements</string>
   <string name="title_cloud_space_full">Emmagatzematge en el núvol ple, no es poden sincronitzar les fotos</string>
   <string name="title_cmcc_app_check">"La verificació no ha estat completada"</string>
-  <string name="title_consume_power">Problemes de la bateria trobats</string>
   <string name="title_consume_power_rank">Ús de la bateria</string>
   <string name="title_data_flow">Establir un avís d\'ús de dades</string>
   <string name="title_default_app">"%s MIUI no s'ha establert per defecte"</string>
