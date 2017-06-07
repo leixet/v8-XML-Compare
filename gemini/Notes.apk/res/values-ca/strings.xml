@@ -46,6 +46,7 @@
   <string name="dlg_title_use_privacy_password">Utilitza la contrasenya de privacitat</string>
   <string name="dlg_unhide_message">S\'està mostrant&#8230;</string>
   <string name="done">Fet</string>
+  <string name="edit_header_done_description">Fet</string>
   <string name="enable_sync">Sincronització</string>
   <string name="enable_sync_desc">Sincronitza les teves notes amb el teu compte de Mi (%1$s)?</string>
   <string name="error_contact_not_exist">"No existeix el contacte"</string>
