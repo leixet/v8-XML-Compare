@@ -551,7 +551,7 @@
   <string name="sms_content">Contingut:</string>
   <string name="sms_full_body">"Missatge entrant rebutjat: no hi ha prou espai en aquest dispositiu."</string>
   <string name="sms_full_title">Memòria de missatges de text completa</string>
-  <string name="sms_rejected_body">Missatge entrant rebutjat.</string>
+  <string name="sms_rejected_body">Un missatge entrant s\'ha rebutjat.</string>
   <string name="sms_rejected_title">Missatge de text rebutjat</string>
   <string name="sms_report_failed">"No s'ha pogut enviar l'informe"</string>
   <string name="sms_report_success">Informe enviat</string>
