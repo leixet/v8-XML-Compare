@@ -173,6 +173,10 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <item quantity="other">Actualitzacions disponibles per %d aplicacions.</item>
     <item quantity="one">Actualització disponible per %d aplicació.</item>
   </plurals>
+  <plurals name="notification_title_cmcc_app_check">
+    <item quantity="other">%d dies des de l\'última comprovació</item>
+    <item quantity="one">%d dia des de l\'última comprovació</item>
+  </plurals>
   <plurals name="hints_handle_item_text_risk_number">
     <item quantity="other">%d riscos,</item>
     <item quantity="one">%d risc,</item>
