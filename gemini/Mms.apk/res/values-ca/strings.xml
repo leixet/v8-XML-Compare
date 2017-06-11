@@ -554,6 +554,9 @@
   <string name="sms_full_title">Memòria de missatges de text completa</string>
   <string name="sms_rejected_body">Un missatge entrant s\'ha rebutjat.</string>
   <string name="sms_rejected_title">Missatge de text rebutjat</string>
+  <string name="sms_report_dialog_content">"No s'ha pogut enviar l'informe, torna-ho a provar."</string>
+  <string name="sms_report_dialog_retry">Torna-ho a provar</string>
+  <string name="sms_report_dialog_title">Torna-ho a provar</string>
   <string name="sms_report_failed">"No s'ha pogut enviar l'informe"</string>
   <string name="sms_report_success">Informe enviat</string>
   <string name="snippet_audio">[àudio]</string>
@@ -589,6 +592,8 @@
   <string name="storage_unavailable">No hi ha espai disponible</string>
   <string name="subject_hint">Assumpte</string>
   <string name="subject_label">"Assumpte: "</string>
+  <string name="switch_to_editor">Mode d\'edició</string>
+  <string name="switch_to_menu">Mode de menú</string>
   <string name="text_in_popup_saved_to_clipboard">Copiat al porta-retalls</string>
   <string name="text_message">Missatge de text</string>
   <string name="timed_message_expired_title">"%d missatges programats no van ser enviats"</string>
