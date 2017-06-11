@@ -921,6 +921,7 @@ S\'utilitza en el seu lloc la xarxa preferida."</string>
   <string name="new_pin_label">Nou PIN</string>
   <string name="no_application">Cap</string>
   <string name="no_change">No es van realitzar canvis.</string>
+  <string name="no_checked_network">"No podreu connectar-vos a la xarxa mòbil i fer trucades. Voleu seleccioneu una altra xarxa?"</string>
   <string name="no_internet_available">Per establir una trucada per internet, primer comproveu la connexió a Internet.</string>
   <string name="no_mobile_data">Les dades mòbils no estan disponibles</string>
   <string name="no_mobile_data_roaming">La itinerància de dades no està disponible</string>
