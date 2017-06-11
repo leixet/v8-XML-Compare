@@ -79,6 +79,7 @@
   <string name="card_detail_hint">订阅后，内容会展示到首页，每日更新</string>
   <string name="card_detail_title">Detalls</string>
   <string name="card_manager">Administrador de targeta</string>
+  <string name="card_manager_no_data">Sense subscripcions</string>
   <string name="card_title_change">Canvia el títol de la targeta</string>
   <string name="change_response_title">Canvia la resposta</string>
   <string name="check_reminded_text">Comproveu els recordatoris</string>
