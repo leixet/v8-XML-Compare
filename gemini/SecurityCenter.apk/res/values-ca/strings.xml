@@ -98,6 +98,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="adjust_traffic_data">Establir ús de dades</string>
   <string name="after_the_lock_screen">"L'aplicació serà bloquejada juntament amb la pantalla, pot canviar això a la configuració del bloquejador d'aplicacions."</string>
   <string name="all_address_choose_hint">Tots els números d\'aquesta província</string>
+  <string name="antispam_mode_details">Detalls de llista de bloqueig</string>
   <string name="antispam_notificaiton_type_show_all">Tots els números</string>
   <string name="antispam_notificaiton_type_show_except_blacklist">Números no bloquejats</string>
   <string name="antispam_notificaiton_type_show_none">Mai</string>
@@ -282,6 +283,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="auto_task_main_title">Tasques automatitzades</string>
   <string name="auto_task_mamange_activity_title">Configuració</string>
   <string name="auto_task_manage_delete_prompt">Voleu eliminar les tasques seleccionades?</string>
+  <string name="auto_task_manage_new_task">Nova tasca automatitzada</string>
   <string name="auto_task_manager_group_title">Tasques automatitzades</string>
   <string name="auto_task_notify_do_task_title">Tasques automatitzades iniciades</string>
   <string name="auto_task_notify_exit_task_title">Tasques automatitzades finalitzades</string>
@@ -659,6 +661,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="examination_score_80_100">Es poden optimitzar pocs elements</string>
   <string name="examination_score_80_60">Es poden optimitzar alguns elements</string>
   <string name="examination_score_has_virus">S\'han detectat algunes aplicacions sospitoses.</string>
+  <string name="exit">Surt</string>
   <string name="finger_remind_message">Bloqueig d\'aplicació suporta desbloqueig per empremta. Afegir empremta?</string>
   <string name="fingerprint_identify_msg">Escanegeu l\'empremta</string>
   <string name="fingerprint_not_identified_msg">"Per desbloquejar el dispositiu, introduïu la contrasenya."</string>
@@ -1019,6 +1022,8 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="mi_service_traffic_detail">Detalls de Marc</string>
   <string name="mian_page_primary_txt">Itinerància en ultramar</string>
   <string name="modifypassword">Canvia la contrasenya</string>
+  <string name="monitor_app_add">afegeix</string>
+  <string name="monitor_app_more">més</string>
   <string name="monitor_requests_from_pc">Gestionar la instal·lació d\'aplicacions mitjançant USB</string>
   <string name="month_report_month_report_switch">Mostra informe mensual</string>
   <string name="msg_update_error_code_success">Fet</string>
