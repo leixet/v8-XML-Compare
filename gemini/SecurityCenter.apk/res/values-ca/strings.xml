@@ -1193,6 +1193,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="password_promotion_not_login_xiaomi_account_message">El bloquejador d\'aplicacions està actualitzant la contrasenya de protecció de privacitat. Pot utilitzar el seu compte Mi per restablir-la. Afegeix el seu compte Mi per a poder fer-ho.</string>
   <string name="password_promotion_postbutton_text">Vés a la Configuració</string>
   <string name="password_promotion_title">Contrasenya de protecció de la privacitat</string>
+  <string name="password_xspace_forget_pattern_message">Per canviar la contrasenya de segon espai, cal que elimineu el segon espai actual i crear un de nou.</string>
   <string name="path_antispam">Aplicacions del sistema/Seguretat/Llista de bloqueig</string>
   <string name="path_antivirus">Aplicacions del sistema/Seguretat/Escaneig de virus</string>
   <string name="path_app_permissions">Aplicacions del sistema/Seguretat/Permisos/Permisos de l\'aplicació</string>
