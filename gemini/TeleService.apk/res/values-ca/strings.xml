@@ -137,7 +137,6 @@
   <string name="auto_answer_scenario_enteries_headset_only">Només auriculars</string>
   <string name="auto_answer_scenario_title">Configuració de resposta automàtica</string>
   <string name="auto_answer_setting_title">Configuració de resposta automàtica</string>
-  <string name="auto_answer_summary_delay"> (retard: %s segons)</string>
   <string name="auto_answer_summary_not_enabled">Desactivat</string>
   <string name="auto_record_yellowpage">Directori</string>
   <string name="auto_redial_pref_summary">Tornar a trucar automàticament si la línia està ocupada</string>
@@ -334,8 +333,6 @@
   <string name="call_record_auto_unknown_number">Números desconeguts</string>
   <string name="call_record_auto_whitelist">Llista personalitzada</string>
   <string name="call_record_auto_whitelist_no_item">Afegiu un número tocant el botó més (+)</string>
-  <string name="call_record_auto_whitelist_summary">%d números</string>
-  <string name="call_record_auto_whitelist_summary_for_one">1 número</string>
   <string name="call_record_loading_content">Carregant&#8230;</string>
   <string name="call_record_off_summary">Desactivat</string>
   <string name="call_record_on_summary">Activat</string>
@@ -349,7 +346,6 @@
   <string name="call_recording_notification_title_error">"No s'ha pogut gravar la trucada"</string>
   <string name="call_recording_notification_toggle_title">Notificació de gravació de trucades</string>
   <string name="call_recording_setting">Enregistrament de trucades</string>
-  <string name="call_remove_exception_numbers_confirm">S\'esborraran %d números.</string>
   <string name="call_settings">Telèfon</string>
   <string name="call_settings_admin_user_only">Només l\'administrador pot canviar la configuració de trucades.</string>
   <string name="call_settings_primary_user_only">Només l\'usuari principal pot canviar la configuració de trucades.</string>
@@ -1063,8 +1059,6 @@ Torneu a provar-ho o truqueu al servei d\'atenció al client per a més opcions.
 Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent fallit"</string>
   <string name="pin2_or_fdn_invalid">"Els NMP no es va actualitzar. El PIN2 era incorrecte o es va rebutjar el número de telèfon."</string>
   <string name="pin2_unblocked">El PIN2 ja no està bloquejat</string>
-  <string name="pin_attempts">"
-Queden %d intents."</string>
   <string name="pin_changed">El PIN s\'ha actualitzat</string>
   <string name="pin_failed">El PIN no és correcte</string>
   <string name="pin_lock_warning">"El vostre telèfon es bloquejarà automàticament després d\'un altre intent incorrecte"</string>
