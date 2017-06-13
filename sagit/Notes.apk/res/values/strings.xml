@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_bd">false</string>
-  <string name="APKTOOL_DUMMY_be">false</string>
   <string name="APKTOOL_DUMMY_bf">false</string>
   <string name="APKTOOL_DUMMY_c0">false</string>
   <string name="APKTOOL_DUMMY_c1">false</string>
@@ -25,6 +23,8 @@
   <string name="APKTOOL_DUMMY_d3">false</string>
   <string name="APKTOOL_DUMMY_d4">false</string>
   <string name="APKTOOL_DUMMY_d5">false</string>
+  <string name="APKTOOL_DUMMY_d6">false</string>
+  <string name="APKTOOL_DUMMY_d7">false</string>
   <string name="action_folder_description">View folders</string>
   <string name="action_mode_switcher_grid_description">Grid view</string>
   <string name="action_mode_switcher_list_description">List view</string>
@@ -119,6 +119,8 @@
   <string name="micloud_state_total_count">%1$s</string>
   <string name="not_now">Not now</string>
   <string name="note_alert_expired">Expired</string>
+  <string name="note_description_content">The Notes app is a great tool for recording your ideas. It has built-in reminders and syncs your items to Mi Cloud so you can access them anywhere, anytime. Make sure you can do without these features before you delete the app.</string>
+  <string name="note_description_title">About Notes</string>
   <string name="note_link_email">Compose email</string>
   <string name="note_link_other">Open using map app</string>
   <string name="note_link_select">Select text</string>
@@ -151,12 +153,12 @@
   <string name="search_title_notes">@string/app_name</string>
   <string name="select_account_prompt">Sync notes</string>
   <string name="set_alarm_description">Set alarm</string>
-  <string name="sina_share_fail">Failed to send</string>
-  <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
+  <string name="sina_share_fail">"Couldn't send"</string>
+  <string name="sina_share_fail_content_repeat">"You've already shared this."</string>
   <string name="sina_share_pendding">Sending…</string>
   <string name="sina_share_success">Sent</string>
-  <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
-  <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
+  <string name="sina_token_expired_warning">Weibo account expired, add the account again.</string>
+  <string name="sina_token_invalid_warning">Weibo account is invalid, add the account again.</string>
   <string name="snippet_image_stub">[Image]</string>
   <string name="snippet_image_template">[Image %1$s]</string>
   <string name="sns_action_send">Send</string>
