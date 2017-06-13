@@ -319,8 +319,8 @@
   <string name="contextmenu_feedback">Envia els comentaris</string>
   <string name="contextmenu_help">Ajuda</string>
   <string name="contextmenu_map">Mapa</string>
-  <string name="contextmenu_open">Obrir</string>
-  <string name="contextmenu_openlink">Obrir al navegador</string>
+  <string name="contextmenu_open">Obre</string>
+  <string name="contextmenu_openlink">Obre al navegador</string>
   <string name="contextmenu_send_mail">Envia el correu</string>
   <string name="contextmenu_sharelink">Compartir enllaç</string>
   <string name="contextmenu_sms_dot">SMS&#8230;</string>
