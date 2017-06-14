@@ -2071,5 +2071,4 @@ Dades extres en ús"</string>
   <string name="wifi_item_title_fake">Detectada Wi-Fi falsa</string>
   <string name="wifi_network_blocked_notification_title">No hi ha connexió a internet</string>
   <string name="wl_no_whitelist">No hi ha excepcions.</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
