@@ -149,6 +149,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="debug_drawing_category">Dibuix</string>
   <string name="debug_hw_drawing_category">Renderització accelerada per maquinari</string>
   <string name="debug_hw_overdraw">Depura els conflictes de la GPU</string>
+  <string name="debug_input_category">Entrada</string>
   <string name="debug_layout">Mostra les vores de la disposició</string>
   <string name="debug_layout_summary">Mostra els límits del clip, marges, etc.</string>
   <string name="debug_monitoring_category">Monitoratge</string>
