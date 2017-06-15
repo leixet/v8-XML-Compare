@@ -695,6 +695,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="firewall_restrict_android_dialog_content">Per assegurar que el dispositiu funciona amb normalitat, alguna aplicacions d\'Android es connectaran a internet de totes formes. Aquestes aplicacions faran servir la teva connexió de dades i poden ocasionar lleugeres despeses amb el teu proveïdor.</string>
   <string name="firewall_restrict_android_dialog_title">Atenció</string>
   <string name="firewall_restrict_data">Restringeix ús de dades mòbils</string>
+  <string name="firewall_restrict_notify_title">"%s no pot utilitzar la xarxa"</string>
   <string name="firewall_restrict_wlan">Restringeix l\'ús de la connexió Wi-Fi</string>
   <string name="firewall_rule_group_title_mobile">Mòbil</string>
   <string name="firewall_rule_group_title_roaming">Itinerància en ultramar</string>
