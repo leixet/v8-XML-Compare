@@ -8,7 +8,6 @@
   <string name="default_lockscreen_unlock_hint_text">Feu lliscar cap amunt per desbloquejar</string>
   <string name="delete">Elimina</string>
   <string name="emergency_call_string">Trucada d\'emergència</string>
-  <string name="find_device_turn_off_flight_mode">Desactiveu el mode avió</string>
   <string name="fingerprint_add_text">S\'ha actualitzat la interfície d\'empremta digital. Afegiu altre cop la vostra empremta.</string>
   <string name="fingerprint_add_title">Afegeix una empremta digital</string>
   <string name="fingerprint_again_identified_msg">L\'empremta digital està activa. Utilitzeu-la per desbloquejar el dispositiu o introduïu la contrasenya.</string>
@@ -73,15 +72,9 @@
 
 Torneu a provar-ho d\'aquí %d segons."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Heu intentat desbloquejar el telèfon sense èxit %d vegades. El telèfon es reiniciarà als valors de fàbrica.</string>
-  <string name="lockscreen_glogin_checking_password">S\'està comprovant&#8230;</string>
-  <string name="lockscreen_glogin_invalid_input">Contrasenya o nom d\'usuari incorrecte.</string>
-  <string name="lockscreen_glogin_password_hint">Contrasenya</string>
-  <string name="lockscreen_glogin_submit_button">Inicia la sessió</string>
-  <string name="login_website_in_case_forget_password">Per restablir la contrasenya, aneu a www.mi.com/micloud</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloquejat per un dispositiu Bluetooth</string>
   <string name="open_camera_hint_text">Feu lliscar cap a l\'esquerra per obrir %s</string>
   <string name="open_remote_center_hint_text">Feu lliscar cap a la dreta per obrir %s</string>
-  <string name="open_wifi_settings">Connexió de xarxa oberta</string>
   <string name="phone_locked_foget_password">Heu oblidat la contrasenya?</string>
   <string name="phone_locked_foget_password_content">"Podeu iniciar la sessió a i.mi.com amb el compte Mi associat a aquest dispositiu i esborrar totes les dades. Això esborrarà totes les dades personals emmagatzemades en aquest dispositiu. Després de fer-ho, podeu reiniciar el dispositiu i restaurar els contactes, missatges, fotografies i altres elements des del Mi Cloud. 
 
