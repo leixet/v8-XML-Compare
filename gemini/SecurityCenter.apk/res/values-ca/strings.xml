@@ -690,7 +690,6 @@ o introdueixi la seva contrasenya"</string>
   <string name="firewall_network_allow">S\'ha permès a %1$s a utilitzar la connexió %2$s</string>
   <string name="firewall_network_restrict_notify_message">Tocar per canviar la configuració.</string>
   <string name="firewall_network_restrict_notify_mobile">dades mòbils</string>
-  <string name="firewall_network_restrict_notify_title">"%1$s no pot utilitzar %2$s."</string>
   <string name="firewall_partial">Permet que algunes aplicacions es connectin utilitzant el següent mètode</string>
   <string name="firewall_restrict_all">Restringeix la connexió per a totes les aplicacions utilitzant el següent mètode</string>
   <string name="firewall_restrict_android_dialog_content">Per assegurar que el dispositiu funciona amb normalitat, alguna aplicacions d\'Android es connectaran a internet de totes formes. Aquestes aplicacions faran servir la teva connexió de dades i poden ocasionar lleugeres despeses amb el teu proveïdor.</string>
