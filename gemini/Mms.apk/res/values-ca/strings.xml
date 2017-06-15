@@ -126,6 +126,7 @@
   <string name="delivery_report_activity">Informe de lliurament</string>
   <string name="delivery_toast_body">Missatge rebut de %s</string>
   <string name="disable_notifications_dialog_message">Voleu deixar de duplicar les notificacions d\'SMS de l\'aplicació de Missatgeria per defecte?</string>
+  <string name="disabled">Desactivat</string>
   <string name="discard">Descarta</string>
   <string name="discard_message">Descarta</string>
   <string name="discard_message_reason">El missatge es descartarà perquè no té cap destinatari vàlid.</string>
@@ -140,10 +141,12 @@
   <string name="duration_sec">Durada (%s segs)</string>
   <string name="duration_selector_title">"Durada de la presentació "</string>
   <string name="duration_zero">La durada ha de ser més gran que 0 segons</string>
+  <string name="earlier">Abans</string>
   <string name="edit">Edita</string>
   <string name="edit_phrase">Edita les respostes ràpides</string>
   <string name="edit_slide_activity">Edita la diapositiva</string>
   <string name="edit_slideshow_activity">Edita la presentació</string>
+  <string name="enabled">Activat</string>
   <string name="english_subject_limit">límit de 40 caràcters</string>
   <string name="enter_edit_mode">Edita els missatges</string>
   <string name="error_code_label">"Codi d'error: "</string>
@@ -187,6 +190,8 @@
   <string name="group_message">Missatge de grup</string>
   <string name="group_message_failed_title">"No es pot enviar a %d contactes"</string>
   <string name="group_resend_message">Reenvia (%d)</string>
+  <string name="group_verification_codes_summary">Agrupa automàticament les contrasenyes úniques</string>
+  <string name="group_verification_codes_title">Grup de missatges OTP</string>
   <string name="guild_add_attachments">Toqueu per afegir emoticones i altre contingut</string>
   <string name="guild_add_recipients">Toqueu per afegir destinataris de la llibreta d\'adreces</string>
   <string name="guild_msim_switcher">Toqueu per intercanviar les targetes SIM</string>
@@ -377,6 +382,7 @@
   <string name="pref_other_title">Configuració addicional</string>
   <string name="pref_show_blocked_messages_summary">Mostra els SMS bloquejats a la llista de converses</string>
   <string name="pref_show_list_avatar_summary">Mostra imatges i altra informació de contacte a la vista de llista</string>
+  <string name="pref_show_sms_template_entry_summary">Detecta les contrasenyes úniques als SMS</string>
   <string name="pref_show_sms_template_in_summary">Detecta automàticament contrasenya d\'ús únic en missatges SMS</string>
   <string name="pref_show_sms_template_summary">Activa per utilitzar les funcions intel·ligents de Missatge Mi, com ara còpia de codis, consulta de saldo, etc.</string>
   <string name="pref_smart_messages_settings">Missatges intel·ligents</string>
@@ -444,6 +450,7 @@
   <string name="prvate_contact">Contactes privats</string>
   <string name="quick_reply">Respon</string>
   <string name="rate_limit_surpassed">D\'acord</string>
+  <string name="received_at_time">Rebut a les: %1s</string>
   <string name="received_label">"Rebut: "</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">"Destinatari: "</string>
@@ -518,6 +525,7 @@
   <string name="send_to">Per:</string>
   <string name="send_to_count">Enviats %1$s missatges</string>
   <string name="send_to_index_contact">%1$s/%2$s</string>
+  <string name="sent_at_time">Enviat a les %1s</string>
   <string name="sent_label">"Enviat: "</string>
   <string name="service_message_not_found">El missatge ha caducat o no està disponible</string>
   <string name="service_network_problem">"No s'ha pogut enviar a causa d'un problema de xarxa"</string>
@@ -607,6 +615,7 @@
   <string name="to_count">%d destinataris</string>
   <string name="to_label">"Per "</string>
   <string name="to_send_wrapper">Seran enviats a %s</string>
+  <string name="today">Avui</string>
   <string name="too_many_attachments">"Hi ha un límit de %1$s per als adjunts. Només el primer %2$s s'afegirà."</string>
   <string name="too_many_recipients">"El missatge té massa destinataris (%1$s). No pot tenir més de %2$s destinataris."</string>
   <string name="too_many_unsent_mms">"No es pot enviar el missatge. Hi ha massa missatges multimèdia no enviats."</string>
@@ -640,6 +649,8 @@ Intents realitzats: %s"</string>
   <string name="user_agreement3">" i "</string>
   <string name="user_agreement4">Política de privacitat</string>
   <string name="user_agreement5">En pressionar «D\'acord», accepteu els nostres Termes d\'ús i Política de privacitat.</string>
+  <string name="verification_code_icon_name">V</string>
+  <string name="verification_code_list_title">Codis de verificació</string>
   <string name="view">Mostra</string>
   <string name="view_bookmark">Mostra el missatge original</string>
   <string name="view_message_details">Mostra els detalls</string>
@@ -652,4 +663,5 @@ Intents realitzats: %s"</string>
   <string name="wild_msg_title">Trieu els números de telèfon per sincronitzar-los</string>
   <string name="yellowpage_recommend_msg">"Proveu les característiques noves dels missatges MIUI"</string>
   <string name="yes">D\'acord</string>
+  <string name="yesterday">Ahir</string>
 </resources>
