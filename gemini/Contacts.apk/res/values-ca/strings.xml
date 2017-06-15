@@ -1274,7 +1274,7 @@ Trieu una de les següents opcions: "</string>
   <string name="yellowpage_navigation_search_history">Historial</string>
   <string name="yellowpage_navigation_search_offline_hint">"Sense connexió"</string>
   <string name="yellowpage_navigation_search_result_average_price">Mitjana %d RMB</string>
-  <string name="yellowpage_navigation_search_result_network_error">No es pot connectar a la xarxa. Comprova la teva connexió de dades i intenta de nou.</string>
+  <string name="yellowpage_navigation_search_result_network_error">"No es pot connectar a la xarxa. Comprova la teva connexió de dades i intenta de nou."</string>
   <string name="yellowpage_navigation_search_result_no_more">No hi ha més resultats</string>
   <string name="yellowpage_navigation_search_result_service_error">Servei no disponible</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Error desconegut</string>
