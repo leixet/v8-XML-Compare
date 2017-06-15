@@ -7,9 +7,6 @@
   <string name="btn_title_force">Força</string>
   <string name="choice_no">No</string>
   <string name="choice_yes">Sí</string>
-  <string name="dialog_download_space_cancel">Cancel·la</string>
-  <string name="dialog_download_space_create">D’acord</string>
-  <string name="dialog_download_space_title">Voleu baixar l\'espai?</string>
   <string name="dialog_password_expired_button">Actualitza la contrasenya</string>
   <string name="dialog_password_expired_message">La vostra contrasenya ha caducat o ja no és vàlida en les condicions actuals. Actualitzeu-la.</string>
   <string name="dialog_password_expired_title">Contrasenya caducada</string>
