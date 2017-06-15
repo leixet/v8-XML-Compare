@@ -120,6 +120,8 @@
   <string name="delete_message">Elimina</string>
   <string name="delete_phrase">Elimina la resposta</string>
   <string name="delete_unlocked">Elimina els missatges bloquejats</string>
+  <string name="delete_verification_code_sms_message">Voleu suprimir les contrasenyes úniques?</string>
+  <string name="delete_verification_code_sms_title">Neteja les contrasenyes úniques</string>
   <string name="delete_wild_sims">Elimina els números</string>
   <string name="delete_wild_sims_confirm">Tots els missatges que pertanyen als números seleccionats s\'eliminaran d\'aquest telèfon. Podreu restaurar-los a i.mi.com.</string>
   <string name="delete_wild_sims_title">Elimina els números seleccionats</string>
@@ -168,6 +170,7 @@
   <string name="fake_cell_detection_entry">Detecció d\'estació base falsa</string>
   <string name="fake_cell_safe_hint">Aquest missatge és segur</string>
   <string name="fake_cell_timeout_hint">"No s'ha pogut comprovar la seguretat"</string>
+  <string name="favorite_at_time">Destacat a les: %1s</string>
   <string name="fdn_check_failure">Només podeu enviar missatges als números de marcatge fix.</string>
   <string name="festival_sms_loading">S\'està carregant&#8230;</string>
   <string name="fetion_prefix">[Fetion]</string>
