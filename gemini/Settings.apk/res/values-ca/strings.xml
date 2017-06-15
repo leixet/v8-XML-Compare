@@ -514,7 +514,6 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="billing_cycle">Cicle de facturació</string>
   <string name="billing_cycle_fragment_summary">Mensualment, començant el %1$s</string>
   <string name="billing_cycle_summary">El cicle de facturació mensual comença el %1$s</string>
-  <string name="bind_xiaomi_account_cancel">Cancel·la</string>
   <string name="bind_xiaomi_account_confirm">Afegeix</string>
   <string name="bind_xiaomi_account_dialog_summery">"Esteu a punto d'afegir el Compte Mi %s. Si oblideu la contrasenya, podeu utilitzar aquesta compte per restablir-la."</string>
   <string name="bind_xiaomi_account_success">El Compte Mi s\'afegit correctament</string>
