@@ -48,7 +48,7 @@
   <string name="blacklist">Bloquejar</string>
   <string name="bluetooth_connection_failed_toast">Connexió Bluetooth interrompuda</string>
   <string name="blurbJoinContactDataWith">Seleccioneu el contacte que voleu combinar amb %s:</string>
-  <string name="btn_rotation">Girar</string>
+  <string name="btn_rotation">Gira</string>
   <string name="btn_split_contact">Separar</string>
   <string name="button_cancel_scan">Aturar</string>
   <string name="button_join_service_number">Voleu afegir el número de servei</string>
