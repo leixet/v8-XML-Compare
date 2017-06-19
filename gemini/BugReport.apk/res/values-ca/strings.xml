@@ -28,7 +28,7 @@
   <string name="dialog_ask_quit">Tanca</string>
   <string name="discard_draft_dialog_button_cancel">Roman aquí</string>
   <string name="discard_draft_dialog_button_discard">Descarta</string>
-  <string name="discard_draft_dialog_content">"Qualsevol canvi que hagueu fet en aquest document es perdrà."</string>
+  <string name="discard_draft_dialog_content">"Qualsevol canvi que hàgiu fet en aquest informe es perdrà."</string>
   <string name="discard_draft_dialog_title">Voleu descartar l\'esborrany?</string>
   <string name="err_type">Tipus d\'error</string>
   <string name="err_type_app">Aplicacions</string>
