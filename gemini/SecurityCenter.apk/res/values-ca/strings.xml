@@ -1719,7 +1719,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="st_title_man_head_addblacklist">Afegeix un prefix de número de telèfon a la llista de bloqueig</string>
   <string name="st_title_man_head_addwhitelist">Afegeix un prefix de número de telèfon a les excepcions</string>
   <string name="st_title_markednumber_group">Bloqueja els números notificats</string>
-  <string name="st_title_mode_choose_group">Escollir perfil</string>
+  <string name="st_title_mode_choose_group">Triar perfil</string>
   <string name="st_title_not_sim">Buit</string>
   <string name="st_title_open_antispam">Llista de bloqueig</string>
   <string name="st_title_other_group">Altres</string>
@@ -1750,7 +1750,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="summary_dev">Evitar malware i protegir les dades personals</string>
   <string name="summary_find_device">Localitzar i bloquejar el dispositiu des de qualsevol part</string>
   <string name="summary_flow_notification">Mostra les estadístiques mensuals d\'ús de dades en l\'àrea de notificacions</string>
-  <string name="summary_flow_purchase">"Sembla que no queden gaires dades. Comprar dades per mantenir-se connectat."</string>
+  <string name="summary_flow_purchase">"Sembla que no queden gaires dades. Compreu dades per mantenir-vos connectat."</string>
   <string name="summary_flow_purchase_beyond">"Ha excedit el límit mensual del seu pla de dades en %sMB"</string>
   <string name="summary_flow_verify_failed">Ajust automàtic d\'ús de dades per evitar càrrecs addicionals</string>
   <string name="summary_garbage_clean">Esborra la memòria cau per alliberar espai</string>
