@@ -527,7 +527,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="continue_install">Instal·lar</string>
   <string name="convenient_mode">Desbloqueja totes les aplicacions alhora</string>
   <string name="convenient_summary">No demanar la contrasenya després d\'haver desbloquejat 1 aplicació</string>
-  <string name="correction_attention_dialog_message">S\'estan aplicant els ajustos. Espereu fins que acabi el procés i torneu a provar.</string>
+  <string name="correction_attention_dialog_message">S\'estan aplicant els ajustaments. Espereu fins que acabi el procés i torneu a provar.</string>
   <string name="cta_button_text_agree">D\'acord</string>
   <string name="cta_button_text_cancel">Cancel·la</string>
   <string name="cta_checkbox_title">"No mostrar de nou"</string>
