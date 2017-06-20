@@ -319,7 +319,7 @@ Les pàgines que visiteu no apareixeran a l\'historial.»</string>
   <string name="find_on_page_prev">Anterior</string>
   <string name="find_previous">Cerca l\'anterior</string>
   <string name="firstUsingSearchEngineTips">Si voleu canviar la cerca</string>
-  <string name="fling_on_border_gesture_hint">Podeu escollir la funció d\'aquest gest a la Configuració</string>
+  <string name="fling_on_border_gesture_hint">Podeu triar la funció d\'aquest gest a la Configuració</string>
   <string name="force_quick_search_title">Cerca</string>
   <string name="force_touch_bookmark_history_title">Marcadors i historial</string>
   <string name="force_touch_infoflow_title">Notícies</string>
