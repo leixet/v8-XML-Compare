@@ -67,7 +67,7 @@
   <string name="call_charge">Recàrrega</string>
   <string name="call_company_main">Truca al telèfon principal de l\'empresa</string>
   <string name="call_custom">Trucar %s</string>
-  <string name="call_disambig_title">Escolliu el número</string>
+  <string name="call_disambig_title">Seleccioneu el número</string>
   <string name="call_fax_home">Trucada al fax de casa</string>
   <string name="call_fax_work">Trucada al fax de la feina</string>
   <string name="call_home">Trucada a casa</string>
@@ -221,7 +221,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="contact_detail_miprofile_save">Tocar per obtenir targeta de contacte</string>
   <string name="contact_detail_miprofile_save_fail_toast">"No s'ha pogut obtenir la targeta de contacte"</string>
   <string name="contact_detail_miprofile_save_success_toast">Targeta de contacte rebuda</string>
-  <string name="contact_detail_miprofile_settings_header">AJUSTOS ADDICIONALS</string>
+  <string name="contact_detail_miprofile_settings_header">AJUSTAMENTS ADDICIONALS</string>
   <string name="contact_detail_miprofile_subtitle">Ja s\'han intercanviat les targetes </string>
   <string name="contact_detail_profile_switch_fail_network_toast">"No s'ha pogut connectar a la xarxa"</string>
   <string name="contact_detail_profile_switch_fail_toast">Alguna cosa va anar malament amb el nostre servidor</string>
@@ -917,8 +917,8 @@ Per afegir un contacte a la llista de favorits:
   <string name="pref_key_sim_manage">Configura la targeta SIM</string>
   <string name="pref_key_sim_manage1">Configura SIM 1</string>
   <string name="pref_key_sim_manage2">Configura SIM 2</string>
-  <string name="pref_rcs_backup_restore_title">Còpia de seguretat &amp; Ajustos de recuperació</string>
-  <string name="pref_rcs_fetion_entry_title">Ajustos Fetion</string>
+  <string name="pref_rcs_backup_restore_title">Còpia de seguretat &amp; Ajustaments de recuperació</string>
+  <string name="pref_rcs_fetion_entry_title">Ajustaments Fetion</string>
   <string name="pref_summary_import_from_account">Transferència de contactes des de comptes de Google i Exchange al meu compte Mi</string>
   <string name="pref_title_account_import">Importa contactes</string>
   <string name="pref_title_import_from_account">Importa a compte Mi</string>
@@ -1141,7 +1141,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="sms_car">Auto text</string>
   <string name="sms_company_main">Empresa principal de text</string>
   <string name="sms_custom">Text %s</string>
-  <string name="sms_disambig_title">Escolliu el nombre</string>
+  <string name="sms_disambig_title">Seleccioneu el número</string>
   <string name="sms_fax_home">Text del fax de casa</string>
   <string name="sms_fax_work">Text del fax de treball</string>
   <string name="sms_home">Text de casa</string>
