@@ -636,7 +636,7 @@
   <string name="mibill_privacy_policy_link">D\'acord &lt;a href=\"https://www.mipay.com/res/doc/eula/email.html\"&gt;Acord Servei Usuari de Comptes de Targetes de Crèdit&lt;/a&gt;</string>
   <string name="mibill_privacy_policy_title">Mi Wallet analitza declaracions email</string>
   <string name="min_payment_text">Pagament mínim</string>
-  <string name="more_atts_remaining">Resten %1$d més</string>
+  <string name="more_atts_remaining">Falten %1$d més</string>
   <string name="more_context">Més</string>
   <string name="more_string">+ %1$s</string>
   <string name="move_to_selection_dialog_title">Es va mudar a una altra carpeta</string>
@@ -720,7 +720,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="password_expire_warning_ticker_fmt">"\"%s\" requereix que canviïs el teu PIN de pantalla de 
             bloqueig o contrasenya."</string>
   <string name="password_expired_content_title">Contrasenya de pantalla de bloqueig expirada</string>
-  <string name="password_expired_dialog_content_fmt">Les dades de %s s\'estan esborrant del dispositiu. Podeu restaurar-les en canviar el vostre PIN o contrasenya de bloqueig de pantalla. Voleu fer-lo ara?</string>
+  <string name="password_expired_dialog_content_fmt">Les dades de %s s\'estan esborrant del dispositiu. Podeu restaurar-les en canviar el vostre PIN o contrasenya de bloqueig de pantalla. Voleu fer-ho ara?</string>
   <string name="password_expired_dialog_title">Contrasenya de pantalla de bloqueig expirada</string>
   <string name="password_expired_ticker">El PIN de la pantalla de bloqueig o contrasenya ha expirat.</string>
   <string name="path_about_account_setting">Correu/Configuració/Comptes</string>
