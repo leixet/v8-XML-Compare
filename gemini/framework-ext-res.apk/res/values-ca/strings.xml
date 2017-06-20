@@ -96,7 +96,7 @@
   <string name="screen_on_proximity_sensor_summary">"No tapeu l'àrea taronja de la pantalla"</string>
   <string name="screen_on_proximity_sensor_title">Evita trucades accidentals</string>
   <string name="screen_paper_mode_enter_toast">El mode lectura està activat. Podeu desactivar aquesta funció a Configuració &gt; Pantalla &gt; Mole lectura.</string>
-  <string name="screen_rotation_freeze_message">Gir automàtic desactivada.</string>
+  <string name="screen_rotation_freeze_message">Gir automàtic desactivat.</string>
   <string name="screenshot_gesture_detect_alert_button">Activa-ho a la Configuració</string>
   <string name="screenshot_gesture_detect_alert_dont_again">"No tornis a mostrar-ho"</string>
   <string name="screenshot_gesture_detect_alert_msg">En lliscar cap avall amb tres dits, voleu que es prengui una captura de pantalla?</string>
