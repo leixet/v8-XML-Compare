@@ -422,7 +422,7 @@
   <string name="toast_delete_select_image_succeed">Esborrada</string>
   <string name="toast_garbage_cleanup_success">Neteja correcta</string>
   <string name="toast_garbage_list_empty">Tot sembla correcte!</string>
-  <string name="toast_must_select_before_restore">Escolliu fotos a restaurar</string>
+  <string name="toast_must_select_before_restore">Seleccioneu fotos a restaurar</string>
   <string name="toast_network_eror">"No es pot connectar a la xarxa"</string>
   <string name="toast_network_switch">Aquesta aplicació es pot connectar a internet</string>
   <string name="toast_removed_from_white_list"> tret de les excepcions</string>
