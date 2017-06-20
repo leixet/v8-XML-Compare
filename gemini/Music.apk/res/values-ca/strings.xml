@@ -482,7 +482,7 @@
   <string name="metered_play_toast">Utilitzant la connexió de dades mòbils per transmetre</string>
   <string name="metered_play_toast_with_beyond_data">S\'estan utilitzant les dades mòbils per reproduir cançons. S\'ha excedit el límit per %s</string>
   <string name="metered_play_toast_with_data">S\'estan utilitzant les dades mòbils per reproduir cançons, %s restants</string>
-  <string name="metered_serious_alert">Resten molt poques dades mòbils</string>
+  <string name="metered_serious_alert">Falten molt poques dades mòbils</string>
   <string name="metered_serious_alert_msg_with_beyond_data">"Heu superat el límit de dades mòbils un %s. Voleu utilitzar dades mòbils per reproduir cançons?"</string>
   <string name="metered_serious_alert_msg_with_data">Només li queden %s de dades mòbils. Voleu utilitzar dades per reproduir cançons?</string>
   <string name="metered_serious_allow">Reprodueix de totes maneres</string>
