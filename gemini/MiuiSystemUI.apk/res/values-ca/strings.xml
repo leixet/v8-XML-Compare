@@ -392,7 +392,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
   <string name="power_charging_duration_wireless">%1$s - %2$s fins carregar-la per sense fils</string>
   <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
-  <string name="power_discharging_duration">%1$s - aprox. resten %2$s</string>
+  <string name="power_discharging_duration">%1$s - aprox. falten %2$s</string>
   <string name="power_discharging_duration_short">Resten %1$s - %2$s</string>
   <string name="power_remaining_duration_only">Resten uns %1$s</string>
   <string name="power_remaining_duration_only_short">Resten %1$s</string>
