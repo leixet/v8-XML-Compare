@@ -2012,7 +2012,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="location_agps_reset_type">Tipus de reinici</string>
   <string name="location_agps_reset_type_choose_dialog_title">Tipus de reinici</string>
   <string name="location_agps_reset_type_summary">Tria el tipus de reinici preferit</string>
-  <string name="location_agps_roaming_help">"Si escolliu totes les xarxes l'ús de dades en itinerància pot augmentar. Si excediu el límit d'ús del vostre pla de dades l'operadora us pot cobrar càrrecs adicionals."</string>
+  <string name="location_agps_roaming_help">"Si trieu totes les xarxes l'ús de dades en itinerància pot augmentar. Si excediu el límit d'ús del vostre pla de dades l'operadora us pot cobrar càrrecs addicionals."</string>
   <string name="location_agps_si_mode">Mode AGPS SI</string>
   <string name="location_agps_si_mode_dialog_title">Mètode AGPS</string>
   <string name="location_agps_si_mode_summary">Tria el mètode preferit per a l\'AGPS</string>
@@ -2791,7 +2791,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="power_checker">Comprovador d\'energia</string>
   <string name="power_discharge_remaining">%1$d restants</string>
   <string name="power_discharging_duration">%1$s - aprox. queda %2$s</string>
-  <string name="power_discharging_duration_short">Resten %1$s - %2$s</string>
+  <string name="power_discharging_duration_short">Falten %1$s - %2$s</string>
   <string name="power_flashlight">Llanterna</string>
   <string name="power_hide_mode_summary">"Estalvieu bateria restringint els processos en segon pla, el Wi-Fi, les connexions mòbils i el GPS de les aplicacions"</string>
   <string name="power_hide_mode_title">Administra l\'ús de bateria de les aplicacions</string>
@@ -2802,8 +2802,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="power_optimize">Estalvi de bateria</string>
   <string name="power_overcounted">Comptabilitzada més d\'una vegada</string>
   <string name="power_phone">Trucades de veu</string>
-  <string name="power_remaining_duration_only">Resten uns %1$s</string>
-  <string name="power_remaining_duration_only_short">Resten %1$s</string>
+  <string name="power_remaining_duration_only">Falten uns %1$s</string>
+  <string name="power_remaining_duration_only_short">Falten %1$s</string>
   <string name="power_screen">Pantalla</string>
   <string name="power_settings_title">Rendiment del sistema</string>
   <string name="power_unaccounted">Miscel·lània</string>
@@ -3071,7 +3071,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="recommend_item_title">Recomanacions</string>
   <string name="recompute_size">S\'està tornant a calcular la mida&#8230;</string>
   <string name="regulatory_information">Informació de regulació</string>
-  <string name="remaining_length_format">Resten %1$s</string>
+  <string name="remaining_length_format">Falten %1$s</string>
   <string name="remove_account_failed">L\'administrador no permet aquest canvi</string>
   <string name="remove_account_label">Suprimeix el compte</string>
   <string name="remove_and_uninstall_device_admin">Desactiva i desinstal·la</string>
