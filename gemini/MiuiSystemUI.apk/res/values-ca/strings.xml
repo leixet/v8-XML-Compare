@@ -594,7 +594,7 @@ d MMMM"</string>
   <string name="verify_apps_over_usb_summary">Comprova les aplicacions instal·lades mitjançant ADB/ADT per detectar possibles comportaments perillosos.</string>
   <string name="verify_apps_over_usb_title">Verificació d\'aplicacions per USB</string>
   <string name="vpn_settings_not_available">La configuració de la VPN no està disponible per a aquest usuari</string>
-  <string name="vpn_text">Toqui per veure ajustos.</string>
+  <string name="vpn_text">Toqui per veure els ajustaments.</string>
   <string name="vpn_text_long">Connectat a %s. Premeu per veure els detalls.</string>
   <string name="vpn_title">VPN activat</string>
   <string name="vpn_title_long">Connectant a VPN usant %s</string>
