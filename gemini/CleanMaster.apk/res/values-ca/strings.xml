@@ -379,7 +379,7 @@
   <string name="summary_auto_cleaner">Voleu netejar el sistema automàticament cada 3 dies?</string>
   <string name="summary_delete_apk">Voleu esborrar les APK seleccionades permanentment?</string>
   <string name="summary_delete_cache">Voleu esborrar la memòria cau de les aplicacions seleccionades?</string>
-  <string name="summary_delete_large_file">Voleu esborrar els fitxers seleccionades permanentment?</string>
+  <string name="summary_delete_large_file">Voleu esborrar els fitxers seleccionats permanentment?</string>
   <string name="summary_delete_video">&gt;Voleu eliminar els vídeos seleccionats de forma permanent?</string>
   <string name="summary_optimizer">"Aquesta característica puja noms de carpetes per actualitzar la base de dades en línia de Cheetah Mobile's i requereix la identitat del seu dispositiu."</string>
   <string name="terabyteShort">TB</string>
