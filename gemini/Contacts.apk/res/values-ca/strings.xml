@@ -17,9 +17,9 @@
   <string name="addPeopleToGroup">Per afegir algú més, editeu el grup.</string>
   <string name="add_2sec_pause">Afegeix 2 segons de pausa</string>
   <string name="add_account">Afegeix un compte</string>
-  <string name="add_blacklist">Bloquejar</string>
-  <string name="add_blacklist_dialog_message">Bloquejar trucades i missatges des d\'aquest número?</string>
-  <string name="add_blacklist_dialog_title">Bloquejar aquest número?</string>
+  <string name="add_blacklist">Bloca</string>
+  <string name="add_blacklist_dialog_message">Voleu blocar trucades i missatges des d\'aquest número?</string>
+  <string name="add_blacklist_dialog_title">Voleu blocar aquest número de telèfon?</string>
   <string name="add_connection_button">Afegeix connexió</string>
   <string name="add_contact_dlg_message_fmt">Voleu afegir \"%s\" a contactes?</string>
   <string name="add_display_photo_entry">Afegeix foto del perfil</string>
@@ -45,7 +45,7 @@
   <string name="auto_set_nickname">Automàtic</string>
   <string name="back_view_description">Anar enrere</string>
   <string name="batch_delete">Elimina el lot</string>
-  <string name="blacklist">Bloquejar</string>
+  <string name="blacklist">Bloca</string>
   <string name="bluetooth_connection_failed_toast">Connexió Bluetooth interrompuda</string>
   <string name="blurbJoinContactDataWith">Seleccioneu el contacte que voleu combinar amb %s:</string>
   <string name="btn_rotation">Gira</string>
@@ -98,7 +98,7 @@
   <string name="call_work">Trucar a la feina</string>
   <string name="call_work_mobile">Trucar al mòbil de la feina</string>
   <string name="call_work_pager">Trucar al cercapersones de la feina</string>
-  <string name="calllog_menu_blacklist">Bloquejar</string>
+  <string name="calllog_menu_blacklist">Bloca</string>
   <string name="calllog_menu_edit_before_call">Edita</string>
   <string name="calllog_menu_send_sms">Enviar un missatge</string>
   <string name="callrecordview_item_newcontact">Nou contacte</string>
@@ -1019,9 +1019,9 @@ Per afegir un contacte a la llista de favorits:
   <string name="refresh">Actualitza</string>
   <string name="relationLabelsGroup">Relació</string>
   <string name="removePhoto">Eliminar foto</string>
-  <string name="remove_blacklist">Desbloquejar</string>
-  <string name="remove_blacklist_dialog_message">Desbloquejar aquest número?</string>
-  <string name="remove_blacklist_dialog_title">Desbloquejar</string>
+  <string name="remove_blacklist">Desbloca</string>
+  <string name="remove_blacklist_dialog_message">Voleu mostrar trucades i missatges des d\'aquest número?</string>
+  <string name="remove_blacklist_dialog_title">Voleu desblocar aquest número de telèfon?</string>
   <string name="remove_duplicate">"MIUI t\'ajudarà a trobar i combinar contactes duplicats.
   
   Per començar, toqueu la icona de fusió en la part inferior de la pantalla."</string>
