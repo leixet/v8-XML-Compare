@@ -90,7 +90,7 @@
   <string name="account_setup_failed_dlg_certificate_message">"No es pot connectar segurament amb el servidor."</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"No es pot connectar segurament amb el servidor.
 (%s)"</string>
-  <string name="account_setup_failed_dlg_device_locked">"\"No s'ha pogut iniciar la sessió. Aquest compte ha estat bloquejat.\"​"</string>
+  <string name="account_setup_failed_dlg_device_locked">"\"No s'ha pogut iniciar la sessió. Aquest compte ha estat blocat.\"​"</string>
   <string name="account_setup_failed_dlg_edit_details_action">Edita els detalls</string>
   <string name="account_setup_failed_dlg_error_code">Codi d\'error: %s</string>
   <string name="account_setup_failed_dlg_server_message">"No es pot connectar al servidor."</string>
@@ -776,7 +776,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="policy_require_password">Requerir contrasenya del dispositiu</string>
   <string name="policy_require_sd_encryption">Requerir xifrat de targeta SD</string>
   <string name="policy_require_smime">Requerir missatges SMIME</string>
-  <string name="policy_screen_timeout">Bloquejar la pantalla del dispositiu quan estigui inactiu</string>
+  <string name="policy_screen_timeout">Espera que el dispositiu estigui inactiu per blocar la pantalla</string>
   <string name="policy_text_truncation">Restringeix la mida del text email</string>
   <string name="pop3_name">POP3</string>
   <string name="preference_eas_tips">La següent pàgina d\'activació és requerida pel servidor de correus, si us plau, permeti que s\'activi.</string>
