@@ -413,7 +413,7 @@
   <string name="operation_move">Retalla</string>
   <string name="operation_moving">Movent&#8230;</string>
   <string name="operation_other_apps">Obre en una altra aplicació</string>
-  <string name="operation_paste">Enganxar</string>
+  <string name="operation_paste">Enganxa</string>
   <string name="operation_pasting">Copiant&#8230;</string>
   <string name="operation_refresh">Actualitzar</string>
   <string name="operation_rename">Canvia el nom</string>
@@ -685,7 +685,7 @@
   <string name="upload_avatar_failed">"No s'ha pogut pujar, intenteu-ho de nou"</string>
   <string name="upload_avatar_loading">S\'està pujant&#8230;</string>
   <string name="upload_avatar_local">Galeria</string>
-  <string name="upload_external_action_hint">Enganxar URL</string>
+  <string name="upload_external_action_hint">Enganxa l\'enllaç de vídeo</string>
   <string name="upload_external_notification_failed">"No es va poder publicar"</string>
   <string name="upload_external_notification_success">Publicat amb èxit</string>
   <string name="upload_external_notification_title">Publicació, esperi un moment</string>
