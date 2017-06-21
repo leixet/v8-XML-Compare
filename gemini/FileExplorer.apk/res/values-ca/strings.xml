@@ -52,7 +52,7 @@
   <string name="bind_phone_failed_tip">"No hem pogut afegir el teu número de telèfon"</string>
   <string name="bind_phone_success_tip">Número de telèfon afegit correctament</string>
   <string name="bind_success_tip">Agregat amb èxit</string>
-  <string name="black_list">"Esteu bloquejats. Envieu els vostres comentaris al fòrum de MIUI per conèixer el motiu."</string>
+  <string name="black_list">"Esteu blocat. Envieu el vostre comentari al fòrum de MIUI per conèixer el motiu."</string>
   <string name="byteShort">B</string>
   <string name="can_not_send_with_too_many">"No es poden enviar tots aquests elements"</string>
   <string name="cancel">Cancel·la</string>
@@ -489,7 +489,7 @@
   <string name="private_toast_hint3">Tira per obrir les carpetes ocultes</string>
   <string name="prize_result_tip">Intercanvia</string>
   <string name="prize_result_tip2">Les gemes van al vostre tresor</string>
-  <string name="promot_enctypt_password">Introdueix la contrasenya utilitzada per desbloquejar el dispositiu o apagar el Mode nen</string>
+  <string name="promot_enctypt_password">Introduïu la contrasenya utilitzada per desblocar el vostre dispositiu</string>
   <string name="qq_btn_bind">QQ</string>
   <string name="qq_login_btn_str">QQ</string>
   <string name="qq_not_installed">"QQ no està instal·lat"</string>
