@@ -307,7 +307,7 @@ Toca el botó de configuració de sincronització per veure més opcions\"</stri
   <string name="micloud_member_webload_fail_toast_5xx">Error del servidor</string>
   <string name="micloud_more">Saber més</string>
   <string name="micloud_notif_content_battery_low">La bateria està massa buida.</string>
-  <string name="micloud_notif_content_clipboard_push">Es pot enganxar a qualsevol lloc.</string>
+  <string name="micloud_notif_content_clipboard_push">Ho podeu enganxar a qualsevol lloc.</string>
   <string name="micloud_notif_content_depend_wifi">Connectar a Wi-Fi per sincronitzar.</string>
   <string name="micloud_notif_content_dirty_data">Detalls</string>
   <string name="micloud_notif_content_master_depend_wifi">Connectar a Wi-Fi primer.</string>
