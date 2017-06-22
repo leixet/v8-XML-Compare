@@ -570,10 +570,7 @@
   <string name="sp_category_bank">Missatges de notificació del banc</string>
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Notificacions</string>
-  <string name="sp_mark_as_read">Voleu marca tots els missatges com a llegits?</string>
   <string name="sp_mark_as_read_menu_title">Marca com a llegit</string>
-  <string name="sp_mark_as_read_progress">S\'està treballant&#8230;</string>
-  <string name="sp_mark_as_read_title">Voleu marcar totes les notificacions com a llegides?</string>
   <string name="status_failed">Sense èxit</string>
   <string name="status_label">"Estat: "</string>
   <string name="status_pending">Pendent</string>
