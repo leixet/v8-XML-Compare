@@ -236,6 +236,11 @@
     <item>Els darrers 30 dies</item>
     <item>Defineix el cicle d\'ús...</item>
   </string-array>
+  <string-array name="wifi_frequency_band_entries">
+    <item>Automàtic</item>
+    <item>Només 5 GHz</item>
+    <item>Només 2,4 GHz</item>
+  </string-array>
   <string-array name="usage_stats_display_order_types">
     <item>Temps d\'ús</item>
     <item>Darrera vegada que es va fer servir</item>
@@ -1007,11 +1012,6 @@ Nota: Només per a Ubuntu 8.04!"</item>
   <string-array name="screen_button_style">
     <item>Per a esquerrans</item>
     <item>Per a dretans</item>
-  </string-array>
-  <string-array name="wifi_frequency_band_entries">
-    <item>Automàtic</item>
-    <item>Només 5 GHz</item>
-    <item>Només 2,4 GHz</item>
   </string-array>
   <string-array name="edge_touch_volume_action">
     <item>Feu clic en ajusta - Doble clic en el disparador</item>
