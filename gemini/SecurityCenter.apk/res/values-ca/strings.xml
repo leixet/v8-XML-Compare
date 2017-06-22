@@ -553,8 +553,6 @@ o introdueixi la seva contrasenya"</string>
   <string name="data_usage_no_total_package_body">Toqui per establir el límit de dades</string>
   <string name="data_usage_no_total_package_body_dual">No hi ha límit de dades establert per %s.</string>
   <string name="data_usage_no_total_package_title">Estableix un límit d\'ús de dades</string>
-  <string name="data_usage_restricted_body">Premeu per activar les dades en segon pla.</string>
-  <string name="data_usage_restricted_title">Dades en segon pla restringides</string>
   <string name="data_usage_warning_body">Premeu per veure els detalls de l\'ús de dades.</string>
   <string name="data_usage_warning_body_notify">Premeu per veure els detalls</string>
   <string name="data_usage_warning_title">Alerta d\'ús de dades</string>
@@ -751,15 +749,6 @@ o introdueixi la seva contrasenya"</string>
   <string name="hints_handle_item_text_virus">Virus: %d</string>
   <string name="hints_input_roaming_daily_limit">Introduïu el límit d\'ús de dades</string>
   <string name="hints_last_virus_scan_none">Mai s\'ha escanejat abans</string>
-  <string name="hints_last_virus_scan_risk">Escanejat fa %d dies: Sospitós</string>
-  <string name="hints_last_virus_scan_safe">Escanejat fa %d dies: Segur</string>
-  <string name="hints_last_virus_scan_today_risk">Escanejat avui: Sospitós</string>
-  <string name="hints_last_virus_scan_today_safe">Escanejat avui Segur</string>
-  <string name="hints_last_virus_scan_today_virus">Escanejat avui Perillós</string>
-  <string name="hints_last_virus_scan_virus">Escanejat fa %d dies: Perillós</string>
-  <string name="hints_last_virus_scan_yesterday_risk">Escanejat ahir: Sospitós</string>
-  <string name="hints_last_virus_scan_yesterday_safe">Escanejat ahir: Segur</string>
-  <string name="hints_last_virus_scan_yesterday_virus">Escanejat ahir: Perillós</string>
   <string name="hints_loading_text">S\'està carregant&#8230;</string>
   <string name="hints_need_quick_clean">Cercar i eliminar fitxers perillosos</string>
   <string name="hints_need_quick_scan">Es recomana escaneig ràpid</string>
@@ -1329,8 +1318,6 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_category_title_virus_lib_auto_update">Actualització automàtica de definicions</string>
   <string name="pref_category_title_virus_white_list">Excepcions</string>
   <string name="pref_confirm_operator_setting">Assegureu-vos que la informació que heu introduït es correcte</string>
-  <string name="pref_connect_settings_enable_background">Permet dades en segon pla</string>
-  <string name="pref_connect_settings_enable_background_hint">"Permet a les aplicacions utilitzar dades mòbils quan no les utilitzeu"</string>
   <string name="pref_connect_settings_exceed_limit">Restringeix ús de dades després del límit</string>
   <string name="pref_connect_settings_exceed_limit_hint">Desactiva la connexió de dades quan l\'ús de dades arriba el seu límit</string>
   <string name="pref_content_virus_white_list_none">Cap element</string>
@@ -2049,7 +2036,7 @@ Dades extres en ús"</string>
   <string name="virus_dp_update_title">Actualitzacions de les definicions</string>
   <string name="virus_scan">Cerca virus</string>
   <string name="virus_scan_process_pre">%</string>
-  <string name="virus_update_fail">"No s'ha pogut actualitzar"</string>
+  <string name="virus_update_fail">No s\'ha pogut actualitzar</string>
   <string name="virus_update_success">S\'ha actualitzat correctament</string>
   <string name="virus_update_tips_title">Connecteu-vos a la Wi-Fi</string>
   <string name="virus_wait_network_dialog_message">Les actualitzacions són grans. Connecteu-vos a la Wi-Fi per baixar-les</string>
@@ -2057,8 +2044,6 @@ Dades extres en ús"</string>
   <string name="wakepath_confirm_start_activity">Permetre a %1$s obrir %2$s?</string>
   <string name="warning_open_mi_sim">Activar Mi SIM</string>
   <string name="website">Pàgina web</string>
-  <string name="white_list_risk_app_header">Aplicacions perilloses: %d</string>
-  <string name="white_list_trojan_header">Troians: %d</string>
   <string name="whitelist_prefix_add_hint">Afegeix tots els números amb prefix a les excepcions</string>
   <string name="wifi_exception_summary">Comprovar connexions de xarxa Wi-Fi disponibles</string>
   <string name="wifi_exception_title">Comprovar xarxa Wi-Fi</string>
