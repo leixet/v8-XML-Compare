@@ -178,7 +178,6 @@ http://zhushou.xiaomi.com"</string>
   <string name="recovery_failed_notification_msg">"No es pot entrar al mode de recuperació"</string>
   <string name="recovery_failed_title">Utilitzeu la Mi PC Suite per a actualitzar el sistema</string>
   <string name="recovery_power_not_enough_msg">Connecteu el carregador per a poder actualitzar si queda menys del 30% de bateria</string>
-  <string name="recovery_power_not_enough_msg_plugged">Ha de quedar més del 30% de bateria per a poder actualitzar el dispositiu</string>
   <string name="recovery_power_not_enough_title">Bateria baixa</string>
   <string name="repeat">Intenta-ho de nou</string>
   <string name="root_acquired">Permet l\'accés root</string>
