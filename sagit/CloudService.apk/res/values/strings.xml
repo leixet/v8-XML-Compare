@@ -1,28 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_1f0">false</string>
-  <string name="APKTOOL_DUMMY_1f1">false</string>
-  <string name="APKTOOL_DUMMY_1f2">false</string>
-  <string name="APKTOOL_DUMMY_1f3">false</string>
-  <string name="APKTOOL_DUMMY_1f4">false</string>
-  <string name="APKTOOL_DUMMY_1f5">false</string>
-  <string name="APKTOOL_DUMMY_1f6">false</string>
-  <string name="APKTOOL_DUMMY_1f7">false</string>
-  <string name="APKTOOL_DUMMY_1f8">false</string>
-  <string name="APKTOOL_DUMMY_1f9">false</string>
-  <string name="APKTOOL_DUMMY_1fa">false</string>
-  <string name="APKTOOL_DUMMY_1fb">false</string>
-  <string name="APKTOOL_DUMMY_1fc">false</string>
-  <string name="APKTOOL_DUMMY_1fd">false</string>
-  <string name="APKTOOL_DUMMY_1fe">false</string>
-  <string name="APKTOOL_DUMMY_1ff">false</string>
-  <string name="APKTOOL_DUMMY_200">false</string>
-  <string name="APKTOOL_DUMMY_201">false</string>
-  <string name="APKTOOL_DUMMY_202">false</string>
-  <string name="APKTOOL_DUMMY_203">false</string>
-  <string name="APKTOOL_DUMMY_204">false</string>
-  <string name="APKTOOL_DUMMY_205">false</string>
-  <string name="APKTOOL_DUMMY_206">false</string>
   <string name="access_denied">Access denied</string>
   <string name="account">Account</string>
   <string name="account_related">Your device is associated with an existing Mi Account(%s). Connect to the network to verify the device.</string>
@@ -209,7 +186,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_detail_force_sync">Sync now</string>
   <string name="micloud_detail_lastest">Synced</string>
   <string name="micloud_detail_lastest_with_off">Synced</string>
-  <string name="micloud_detail_need_charge_or_sleep">Connect charger and turn off screen to resume syncing</string>
+  <string name="micloud_detail_need_charge_or_sleep">Connect charger and turn off screen to sync</string>
   <string name="micloud_detail_not_sync">%d waiting to sync</string>
   <string name="micloud_detail_not_synced">Not synced</string>
   <string name="micloud_detail_ok">OK</string>
@@ -266,7 +243,7 @@ When your cloud is full, your old data won't go anywhere. However, any new conte
 To fix this, you can either clean out some old files to make room for new ones, or you can purchase additional storage space."</string>
   <string name="micloud_full_influence_title">When your Mi Cloud is full…</string>
   <string name="micloud_main_battery_low">Not enough battery to sync</string>
-  <string name="micloud_main_battery_message">Connect your device to a power source to sync</string>
+  <string name="micloud_main_battery_message">Connect charger to sync</string>
   <string name="micloud_main_cancel_sync">Cancel sync</string>
   <string name="micloud_main_clear_now">Clear</string>
   <string name="micloud_main_detail">View details</string>
@@ -294,7 +271,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_sync_exception">Sync error</string>
   <string name="micloud_main_sync_init">Getting info</string>
   <string name="micloud_main_sync_need_charge">Charge your device</string>
-  <string name="micloud_main_sync_need_charge_or_sleep">Charge your device and turn off screen</string>
+  <string name="micloud_main_sync_need_charge_or_sleep">Connect charger and turn off screen to sync</string>
   <string name="micloud_main_sync_now">Sync now</string>
   <string name="micloud_main_sync_on">Sync on</string>
   <string name="micloud_main_sync_on_wifi">Waiting for WLAN</string>
@@ -381,7 +358,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_sync_alert_dialog_positive">OK</string>
   <string name="micloud_sync_alert_dialog_title">Use Mi Cloud</string>
   <string name="micloud_sync_off">Sync with Mi Cloud is off</string>
-  <string name="micloud_sync_prompt_for_no_gallery_sync">Sync only on Contacts, Calendar and Notes, to Sync more items go to Mi Cloud setting.</string>
+  <string name="micloud_sync_prompt_for_no_gallery_sync">Contacts, Calendar, and Notes are synced automatically. Go to Mi Cloud settings to sync more items.</string>
   <string name="micloud_title_dspt" formatted="false">"%s total
  %s used | %s remaining"</string>
   <string name="micloud_title_dspt_remain">%s remaining</string>

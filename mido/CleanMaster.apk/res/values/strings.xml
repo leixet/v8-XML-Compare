@@ -1,20 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_233">false</string>
-  <string name="APKTOOL_DUMMY_234">false</string>
-  <string name="APKTOOL_DUMMY_235">false</string>
-  <string name="APKTOOL_DUMMY_236">false</string>
-  <string name="APKTOOL_DUMMY_237">false</string>
-  <string name="APKTOOL_DUMMY_238">false</string>
-  <string name="APKTOOL_DUMMY_239">false</string>
-  <string name="APKTOOL_DUMMY_23a">false</string>
-  <string name="APKTOOL_DUMMY_23b">false</string>
-  <string name="APKTOOL_DUMMY_23c">false</string>
-  <string name="APKTOOL_DUMMY_23d">false</string>
-  <string name="APKTOOL_DUMMY_23e">false</string>
-  <string name="APKTOOL_DUMMY_23f">false</string>
-  <string name="APKTOOL_DUMMY_240">false</string>
-  <string name="APKTOOL_DUMMY_241">false</string>
   <string name="RF_DalvikCacheLeftovers">软件的系统残留 (Dalvik-Cache)</string>
   <string name="activity_title_ad">Ads</string>
   <string name="activity_title_apk">Packages</string>
@@ -49,6 +34,8 @@
   <string name="apk_status_installed_old">Old version</string>
   <string name="apk_status_uninstalled">Not installed</string>
   <string name="apk_title_alipay_plugin">支付宝插件</string>
+  <string name="app_description_content">Cleaner finds trash on your device and frees up storage space. Make sure you can do without these features before you uninstall the app.</string>
+  <string name="app_description_title">About Cleaner</string>
   <string name="app_install_tips_go_to">Open</string>
   <string name="app_install_tips_install_success">Installed %1$s successfully</string>
   <string name="app_name">JunkEngine</string>
@@ -196,6 +183,8 @@
   <string name="empty_title_photos">No photos found</string>
   <string name="empty_title_residual">No residuals found</string>
   <string name="empty_title_video">No videos to delete​</string>
+  <string name="engine_cm">Clean Master</string>
+  <string name="engine_tm">Tencent</string>
   <string name="file">Files</string>
   <string name="file_not_found">File not found</string>
   <string name="flow_rank_title">Data usage</string>
