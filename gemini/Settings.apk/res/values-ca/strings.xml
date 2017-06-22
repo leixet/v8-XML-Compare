@@ -969,7 +969,6 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="confirm_new_backup_pw_prompt">Torneu a escriure la nova contrasenya de la còpia de seguretat completa</string>
   <string name="confirm_privacy_password">Introduïu la contrasenya de privacitat</string>
   <string name="confirm_privacy_password_fingerprint">Escanegeu l\'empremta o introduïu la contrasenya de privacitat</string>
-  <string name="confirm_privacy_password_instruction">Aquesta contrasenya protegeix aplicacions, missatges, fotos i contactes.</string>
   <string name="confirm_reset_aaid">D\'acord</string>
   <string name="confirm_reset_shortcut_manager_throttling_message">Voleu restablir els comptadors de limitació de velocitat de ShortcutManager?</string>
   <string name="confirm_reset_shortcut_manager_throttling_title">Voleu restablir la limitació de velocitat de ShortcutManager?</string>
@@ -1829,12 +1828,6 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="intent_sender_resource_label">Recursos:</string>
   <string name="intent_sender_sendbroadcast_text">Envia una difusió</string>
   <string name="intent_sender_startactivity_text">Comença una activitat</string>
-  <string name="internal_format">Esborra l\'emmagatzematge intern</string>
-  <string name="internal_format_summary">"Esborra totes les dades de l'emmagatzematge intern"</string>
-  <string name="internal_media_format_button_text">Esborra l\'emmagatzematge intern</string>
-  <string name="internal_media_format_desc">Voleu esborrar l\'emmagatzematge intern? &lt;b&gt;Tots&lt;/b&gt; s\'esborraran. El telèfon es reiniciarà després d\'esborrar l\'emmagatzematge intern.</string>
-  <string name="internal_media_format_final_desc">"Voleu esborrar l'emmagatzematge intern? No podreu recuperar-lo. El telèfon es reiniciarà després d'esborrar l'emmagatzematge intern."</string>
-  <string name="internal_media_format_title">Esborra l\'emmagatzematge intern</string>
   <string name="internal_memory">Emmagatzematge intern</string>
   <string name="internal_storage">Emmagatzematge intern</string>
   <string name="internal_storage_sentence">emmagatzematge intern</string>
@@ -2881,7 +2874,6 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="priority_storage_settings_summary">"Si no es detecta cap SD, les dades d'usuari seran guardades de forma automàtica a l'emmagatzematge intern del dispositiu"</string>
   <string name="priority_storage_summary">Trieu on es desen les dades d\'usuari</string>
   <string name="priority_storage_title">Configuració d\'emmagatzematge</string>
-  <string name="privacy_applock">Bloquejador d\'aplicacions</string>
   <string name="privacy_delete_space_dlg_message">Per canviar la contrasenya de segon espai, cal que elimineu el segon espai actual i crear un de nou.</string>
   <string name="privacy_dlg_button_cancel">Cancel·la</string>
   <string name="privacy_factory_reset_dlg_button_text">Còpia de seguretat de les dades</string>
