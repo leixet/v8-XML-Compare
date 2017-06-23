@@ -84,7 +84,7 @@
   <string name="call_operator_init">Establir l\'operador</string>
   <string name="call_other">Trucada</string>
   <string name="call_other_fax">Trucada de fax</string>
-  <string name="call_pager">Trucada a buscapersones</string>
+  <string name="call_pager">Trucada a cercapersones</string>
   <string name="call_problem_report">Notifica un error</string>
   <string name="call_radio">Trucada a ràdio</string>
   <string name="call_record_setting_miui">Configuració d\'enregistrament</string>
@@ -1003,7 +1003,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="savingDisplayGroups">Guardant opcions de visualització&#8230;</string>
   <string name="scan">Escanejar</string>
   <string name="scan_duplicate_message">%1$d contactes amb informació idèntica</string>
-  <string name="scan_merge">Buscant contactes duplicats&#8230;</string>
+  <string name="scan_merge">Cercant contactes duplicats&#8230;</string>
   <string name="scan_qrcode_card_hint1">Escaneja el codi QR de dalt</string>
   <string name="scanning_sdcard_failed_message">Motiu: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">"L'emmagatzematge no va poder ser escanejat"</string>
@@ -1027,14 +1027,14 @@ Per afegir un contacte a la llista de favorits:
   <string name="search_key_sim_manage">Organize;Contacts</string>
   <string name="search_preference_contacts_filter">Contacts;Display</string>
   <string name="search_remove_duplicate">Organize;Contacts</string>
-  <string name="search_results_searching">Buscant&#8230;</string>
+  <string name="search_results_searching">Cercant&#8230;</string>
   <string name="search_settings_description">Noms dels teus contactes</string>
   <string name="search_share_visible_contacts">Contacts;Share;visible</string>
   <string name="search_sim_capacity">Contactes</string>
   <string name="search_simple_mode">Display;info;photos;Contacts</string>
   <string name="search_smart_group_title">Contacts;Display</string>
   <string name="search_wipe_data">Organize;Contacts</string>
-  <string name="searching_vcard_message">Buscant vCard a l\'emmagatzematge&#8230;</string>
+  <string name="searching_vcard_message">Cercant vCard a l\'emmagatzematge&#8230;</string>
   <string name="select_all">Selecciona-ho tot</string>
   <string name="select_done">No hi ha més per seleccionar</string>
   <string name="select_groups">Grups seleccionats</string>
@@ -1139,9 +1139,9 @@ Per afegir un contacte a la llista de favorits:
   <string name="success_message_import_from_account">Importació realitzada</string>
   <string name="summary_kind_title">Resum</string>
   <string name="t9_search_guide_pinyin_title1">Cerca ràpida de contactes en introduir lletres</string>
-  <string name="t9_search_guide_pinyin_title2">Per exemple, ingresseu 2 i 3 per buscar a <font fgcolor="">A</font>lex <font fgcolor="">F</font>ont</string>
+  <string name="t9_search_guide_pinyin_title2">Per exemple, ingresseu 2 i 3 per cercar a <font fgcolor="">A</font>lex <font fgcolor="">F</font>ont</string>
   <string name="t9_search_guide_zhuyin_title1">Cerca ràpida de contactes en introduir lletres</string>
-  <string name="t9_search_guide_zhuyin_title2">Per exemple, ingresseu 5 i 6 per buscar a <font fgcolor="">J</font>osep <font fgcolor="">M</font>as</string>
+  <string name="t9_search_guide_zhuyin_title2">Per exemple, ingresseu 5 i 6 per cercar a <font fgcolor="">J</font>osep <font fgcolor="">M</font>as</string>
   <string name="take_new_photo">Prendre foto nova</string>
   <string name="take_photo">Prendre foto</string>
   <string name="telecom_fraud_insurance">Segur de frau de telecomunicacions</string>
@@ -1242,7 +1242,7 @@ Trieu una de les següents opcions: "</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">S\'està baixant&#8230;</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">"No es pot connectar a la xarxa. Comprova la teva connexió de dades i intenta de nou."</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Afegit a la pantalla d\'inici</string>
-  <string name="yellowpage_search_the_yellowpage">Buscar en les pàgines grogues</string>
+  <string name="yellowpage_search_the_yellowpage">Cerca en les pàgines grogues</string>
   <string name="yellowpage_user_profile">Perfil</string>
   <string name="yesterday">Ahir</string>
   <string name="zero_items_selected">Seleccionar elements</string>
