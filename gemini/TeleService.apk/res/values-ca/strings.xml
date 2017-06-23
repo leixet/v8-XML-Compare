@@ -755,7 +755,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="ivr_type_settings">Configuració del pla de dades</string>
   <string name="ivr_type_settings_hint">Introduïu el codi del vostre pla de dades</string>
   <string name="keep_screen_on">Mantén-la activa</string>
-  <string name="keep_screen_on_summary">La pantalla no entra mai en mode de repòs si el dispositiu està carregant-se</string>
+  <string name="keep_screen_on_summary">La pantalla no entra mai en mode d\'espera si el dispositiu s\'està carregant</string>
   <string name="labelCDMAMore">Configuració de trucades CDMA</string>
   <string name="labelCF">Desviament de trucades</string>
   <string name="labelCFB">Ocupat</string>
