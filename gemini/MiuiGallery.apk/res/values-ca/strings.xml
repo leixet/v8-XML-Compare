@@ -10,10 +10,10 @@
 "</string>
   <string name="__leak_canary_leak_list_title">Pèrdues de memòria a %s</string>
   <string name="__leak_canary_notification_message">Feu clic per a més detalls</string>
-  <string name="__leak_canary_share_heap_dump">Comparteix el bolcat de memòria</string>
+  <string name="__leak_canary_share_heap_dump">Comparteix l\'abocament de memòria</string>
   <string name="__leak_canary_share_leak">Comparteix la informació</string>
   <string name="__leak_canary_share_with">Comparteix amb&#8230;</string>
-  <string name="__leak_canary_toast_heap_dump">En el bolcat de memòria l\'aplicació es congelarà.</string>
+  <string name="__leak_canary_toast_heap_dump">En l\'abocament de memòria l\'aplicació es congelarà.</string>
   <string name="accept">D\'acord</string>
   <string name="accept_or_deny">%1$s us ha compartit l\'àlbum %2$s.</string>
   <string name="add_automatically_alert_msg">Voleu afegir fotos de \"%1$s\" a aquest àlbum automàticament?</string>
