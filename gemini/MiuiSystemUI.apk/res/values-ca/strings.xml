@@ -299,7 +299,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="invalid_charger">"Càrrega USB no suportada.
 Utilitza únicament el carregador subministrat."</string>
   <string name="keep_screen_on">Mantén-te actiu</string>
-  <string name="keep_screen_on_summary">La pantalla no entra mai en mode de repòs si el dispositiu està carregant-se</string>
+  <string name="keep_screen_on_summary">La pantalla no entra mai en mode d\'espera si el dispositiu s\'està carregant</string>
   <string name="kilobyte_per_second">kB/s</string>
   <string name="label_view">Veure</string>
   <string name="launch_defaults_none">No s\'ha definit cap valor predeterminat</string>
