@@ -4775,7 +4775,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_eap_user_cert">Certificat d\'usuari</string>
   <string name="wifi_empty_list_user_restricted">"No teniu permís per a canviar la xarxa."</string>
   <string name="wifi_empty_list_wifi_off">Per veure les xarxes disponibles, activa el Wi-Fi</string>
-  <string name="wifi_empty_list_wifi_on">S\'està cercant xarxes Wi-Fi&#8230;</string>
+  <string name="wifi_empty_list_wifi_on">S\'estan cercant xarxes Wi-Fi&#8230;</string>
   <string name="wifi_enable">Wi-Fi</string>
   <string name="wifi_enable_data_and_wifi_roam">Canvia entre dades i Wi-Fi</string>
   <string name="wifi_enable_data_and_wifi_roam_summary">Si la connexió Wi-Fi no és gaire bona, manté les dades i el Wi-Fi activats.</string>
