@@ -126,7 +126,7 @@
   <string name="baby_nick_name">Sobrenom</string>
   <string name="baby_sexy">Gènere</string>
   <string name="baby_suffix">nadó</string>
-  <string name="backup_automatically_summary">Feu una còpia de seguretat de les fotos i vídeos de tots els dispositius a Mi Cloud. D\'aquesta manera podeu buscar, classificar, editar i compartir fotos i vídeos a tots els vostres dispositius.</string>
+  <string name="backup_automatically_summary">Feu una còpia de seguretat de les fotos i vídeos de tots els dispositius a Mi Cloud. D\'aquesta manera podeu cercar, classificar, editar i compartir fotos i vídeos a tots els vostres dispositius.</string>
   <string name="backup_automatically_title">Còpia de seguretat automàtica</string>
   <string name="backup_battery_low_desc">Encara podeu optar por continuar copiant elements</string>
   <string name="backup_battery_low_title">Còpia de seguretat pausada pel baix nivell de la bateria</string>
