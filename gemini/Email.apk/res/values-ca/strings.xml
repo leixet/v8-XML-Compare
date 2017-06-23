@@ -527,7 +527,7 @@
   <string name="load_more">Carregar més</string>
   <string name="loading_conversation">Carregant&#8230;</string>
   <string name="loading_conversations">Carregant&#8230;</string>
-  <string name="loading_from_remote">Buscant al servidor&#8230;</string>
+  <string name="loading_from_remote">Cercant al servidor&#8230;</string>
   <string name="local_search">Recerca local</string>
   <string name="local_search_result">%s correus trobats en els correus locals</string>
   <string name="login">Inici de sessió</string>
