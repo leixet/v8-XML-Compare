@@ -676,7 +676,7 @@ Torneu-ho a provar en %2$d segons.»</string>
   <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">"Heu introduït un codi PIN incorrecte %1$d vegades. 
 
 Torneu-ho a provar en %2$d segons."</string>
-  <string name="lockscreen_transport_ffw_description">Avanç ràpid</string>
+  <string name="lockscreen_transport_ffw_description">Avançament ràpid</string>
   <string name="lockscreen_transport_next_description">Següent cançó</string>
   <string name="lockscreen_transport_pause_description">Pausa</string>
   <string name="lockscreen_transport_play_description">Reprodueix</string>
