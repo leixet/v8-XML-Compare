@@ -296,7 +296,7 @@ amb %s»</string>
   <string name="double_tap_toast">Consell: toqueu dues vegades per ampliar o reduir el contingut.</string>
   <string name="dump_heap_notification">%1$s ha superat el límit de la memòria</string>
   <string name="dump_heap_notification_detail">S\'ha creat un informe; premeu per compartir-lo</string>
-  <string name="dump_heap_text">El procés %1$s ha superat el seu límit de memòria de %2$s. Un bolcat de pila està disponible per a que el compartiu amb el seu creador. Aneu amb compte: aquest bolcat de pila pot contenir qualsevol de la seva informació personal que l\'aplicació hi té accés.</string>
+  <string name="dump_heap_text">El procés %1$s ha superat el seu límit de memòria de %2$s. Hi ha un abocament de pila disponible per a què el compartiu amb el seu creador. Aneu amb compte: aquest abocament de pila pot contenir qualsevol de la seva informació personal que l\'aplicació hi tengui accés.</string>
   <string name="dump_heap_title">Voleu compartir l\'informe?</string>
   <string name="durationDayHour">%1$d dia %2$d h</string>
   <string name="durationDayHours">%1$d dia %2$d hrs</string>
