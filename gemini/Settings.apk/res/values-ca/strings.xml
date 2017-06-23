@@ -1841,7 +1841,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="join_two_unrelated_items">%1$s, %2$s</string>
   <string name="keep_legacy_fingerprint">Manté</string>
   <string name="keep_screen_on">Mantén-te actiu</string>
-  <string name="keep_screen_on_summary">La pantalla no entra mai en mode de repòs si el dispositiu està carregant-se</string>
+  <string name="keep_screen_on_summary">La pantalla no entra mai en mode d\'espera si el dispositiu s\'està carregant</string>
   <string name="kernel_version">Versió del Kernel</string>
   <string name="key_position_cat">Posició dels botons</string>
   <string name="key_settings">Botons</string>
@@ -3249,7 +3249,7 @@ Per fer-ho:
   <string name="screen_saturation">Saturació de color</string>
   <string name="screen_timeout">En repòs</string>
   <string name="screen_timeout_summary">Després de %1$s d\'inactivitat</string>
-  <string name="screen_timeout_title">Mode en repòs</string>
+  <string name="screen_timeout_title">Mode d\'espera</string>
   <string name="screen_zoom_conversation_icon_alex">A</string>
   <string name="screen_zoom_conversation_icon_pete">P</string>
   <string name="screen_zoom_conversation_message_1">Ei, Pau!</string>
