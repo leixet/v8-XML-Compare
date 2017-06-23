@@ -826,7 +826,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="load_complete">No hi ha més elements aquí</string>
   <string name="load_failed">"No s'ha pogut carregar la infirmació, toqueu per tornar-ho a provar"</string>
   <string name="load_relations">Un moment&#8230;</string>
-  <string name="loading">Un moment</string>
+  <string name="loading">Un moment...</string>
   <string name="loading_dots">Un moment&#8230;</string>
   <string name="loading_dual_tip">S\'està carregant la foto dual&#8230;</string>
   <string name="loading_fail">"No s'ha pogut baixar"</string>
