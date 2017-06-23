@@ -286,7 +286,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="force_rtl_layout_all_locales">Força l\'orientació del RTL</string>
   <string name="force_rtl_layout_all_locales_summary">Força l\'orientació de la pantalla dreta-esquerra en totes les llengües</string>
   <string name="gps_notification_found_text">Localització establerta per GPS</string>
-  <string name="gps_notification_searching_text">Buscant GPS</string>
+  <string name="gps_notification_searching_text">Cercant GPS</string>
   <string name="hdcp_checking_dialog_title">Estableix el comportament de la comprovació d\'HDCP</string>
   <string name="hdcp_checking_title">S\'està comprovant HDCP</string>
   <string name="help_feedback_label">Ajuda i suggeriments</string>
@@ -615,7 +615,7 @@ d MMMM"</string>
   <string name="wifi_display_certification_summary">Mostra les opcions de certificació de pantalla sense fil</string>
   <string name="wifi_dns1_hint">8.8.8.8</string>
   <string name="wifi_dns2_hint">8.8.4.4</string>
-  <string name="wifi_fail_to_scan">"No es poden buscar xarxes"</string>
+  <string name="wifi_fail_to_scan">"No es poden cercar xarxes"</string>
   <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_network_prefix_length_hint">24</string>
