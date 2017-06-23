@@ -71,7 +71,7 @@ Per obtenir més espai d\'emmagatzematge, visiteu mi.com/micloud."</string>
   <string name="enable_micloud">Inicia sessió o crea un compte</string>
   <string name="enable_sync">Activar</string>
   <string name="enable_sync_dspt">"La sincronització està desactivada"</string>
-  <string name="error_data_in_transfer">Les teves dades estan sent transferits. Si us plau, espera %s hores.</string>
+  <string name="error_data_in_transfer">Les teves dades s\'estan transferint. Si us plau, espereu %s hores.</string>
   <string name="error_data_in_transfer_title">El servei Cloud no està disponible en aquests moments.</string>
   <string name="error_forbidden">La sincronització ha estat desactivada a causa de problemes amb el teu compte Mi.</string>
   <string name="error_network">"No es pot connectar a la xarxa"</string>
