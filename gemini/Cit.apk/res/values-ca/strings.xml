@@ -167,7 +167,7 @@ Toqueu la pantalla per iniciar el GPS&#8230;"</string>
   <string name="cit_headset_button_check_title">Botons dels auriculars</string>
   <string name="cit_headset_button_click">Premeu els botons en els auriculars</string>
   <string name="cit_headset_button_current">Botó actual: %s</string>
-  <string name="cit_headset_button_fast_forward">Avanç ràpid</string>
+  <string name="cit_headset_button_fast_forward">Avança ràpidament</string>
   <string name="cit_headset_button_next">Següent</string>
   <string name="cit_headset_button_pass">Passada</string>
   <string name="cit_headset_button_play_pause">Reprodueix/pausa</string>
