@@ -791,7 +791,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="list_language_summary">Seleccioneu l\'idioma de les notícies</string>
   <string name="list_language_title">Idioma</string>
   <string name="livetalk_setting">Paquet de recàrrega</string>
-  <string name="load_networks_progress">Buscant&#8230;</string>
+  <string name="load_networks_progress">S\'està cercant&#8230;</string>
   <string name="local_backup_password_summary_change">Toqueu per canviar o suprimir la contrasenya per a les còpies de seguretat completes de l\'ordinador</string>
   <string name="local_backup_password_summary_none">Actualment les còpies de seguretat completes de l\'escriptori no estan protegides</string>
   <string name="local_backup_password_title">Contrasenya de la còpia de segurerat de l\'escriptori</string>
@@ -894,7 +894,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="network_settings_auto_select_title">Voleu seleccionar manualment la xarxa?</string>
   <string name="network_settings_automatically_option">Selecciona automàticament la xarxa preferida (%s)</string>
   <string name="network_settings_confirm_message">El vostre dispositiu es desconnectarà de la xarxa mentre cerca les xarxes disponibles.</string>
-  <string name="network_settings_data_connected_change">Les dades mòbils es desconnectaran automàticament mentre el vostre dispositiu estigui buscant xarxes disponibles.</string>
+  <string name="network_settings_data_connected_change">Les dades mòbils es desconnectaran automàticament mentre el vostre dispositiu cerqui xarxes disponibles.</string>
   <string name="network_settings_duringcall">"Operació no permesa durant una trucada"</string>
   <string name="network_settings_forbidden">%s (prohibida)</string>
   <string name="network_settings_information">Voleu desactivar les dades mòbils?</string>
