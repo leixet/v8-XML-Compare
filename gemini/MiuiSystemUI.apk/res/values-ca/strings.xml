@@ -306,6 +306,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="launch_defaults_some">S\'han definit alguns valors predeterminats</string>
   <string name="legacy_dhcp_client_summary">Utilitza el client de DHCP de Lollipop en comptes del nou client DHCP d\'Android.</string>
   <string name="list_delimeter">", "</string>
+  <string name="loading_desktop">Un moment&#8230;</string>
   <string name="local_backup_password_summary_change">Toqueu per canviar o suprimir la contrasenya per a les còpies de seguretat completes de l\'ordinador</string>
   <string name="local_backup_password_summary_none">Actualment les còpies de seguretat completes de l\'escriptori no estan protegides</string>
   <string name="local_backup_password_title">Contrasenya per a còpies d\'ordinador</string>
