@@ -63,6 +63,7 @@
   <string name="card_title_conf_call">Trucada de conferència</string>
   <string name="card_title_dialing">S\'està trucant</string>
   <string name="card_title_hanging_up">"S'està penjant... "</string>
+  <string name="card_title_hanging_up_restart">"No es pot finalitzar la trucada. Reinicieu el dispositiu."</string>
   <string name="card_title_in_call">A la trucada</string>
   <string name="card_title_in_call_short">A la trucada</string>
   <string name="card_title_in_video">Vídeo</string>
