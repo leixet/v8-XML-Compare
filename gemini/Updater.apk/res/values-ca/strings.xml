@@ -171,6 +171,14 @@
   <string name="pm_root_success_title">S\'ha activat l\'accés root</string>
   <string name="previous">Anterior</string>
   <string name="progress_title_checking">S\'estan cercant actualitzacions&#8230;</string>
+  <string name="provision_activate_device">S\'està activant el dispositiu&#8230;</string>
+  <string name="provision_check_sim">Detecta la targeta SIM</string>
+  <string name="provision_connect_wifi">Connecta a la Wi-Fi</string>
+  <string name="provision_have_sim">S\'ha inserit una targeta SIM</string>
+  <string name="provision_no_network_extra">Connecteu-vos a la Wi-Fi, o inseriu la targeta SIM i feu servir dades mòbils per activar el dispositiu. No podeu activar el dispositiu sense connectar-vos a la xarxa.</string>
+  <string name="provision_no_network_title">Connecta a la xarxa</string>
+  <string name="provision_retry">Torna-ho a provar</string>
+  <string name="provision_toast_no_network">Cal que primer us connecteu a la xarxa</string>
   <string name="reboot">Reinicia</string>
   <string name="recovery_failed_button">D\'acord</string>
   <string name="recovery_failed_msg">"El dispositiu no té prou memòria per entrar al mode de recuperació i actualitzar el sistema. Proveu d\'utilitzar la Mi PC Suite:
