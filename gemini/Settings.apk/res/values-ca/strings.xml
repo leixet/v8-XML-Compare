@@ -972,6 +972,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="confirm_reset_aaid">D\'acord</string>
   <string name="confirm_reset_shortcut_manager_throttling_message">Voleu restablir els comptadors de limitació de velocitat de ShortcutManager?</string>
   <string name="confirm_reset_shortcut_manager_throttling_title">Voleu restablir la limitació de velocitat de ShortcutManager?</string>
+  <string name="connect_mode">mode de connexió</string>
   <string name="connect_to_internet">Connecta\'t a la xarxa</string>
   <string name="connected_via_passpoint">S\'ha connectat mitjançant %1$s</string>
   <string name="connected_via_wfa">S\'ha connectat mitjançant l\'auxiliar de Wi‑Fi</string>
@@ -3049,6 +3050,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="radio_info_voice_network_type_label">Tipus de xarxa de veu:</string>
   <string name="rank_title">Classificacions</string>
   <string name="rarely_running">S\'executa poques vegades (%s)</string>
+  <string name="reading_data">S\'està obtenint informació&#8230;</string>
   <string name="really_remove_account_message">Si suprimiu el compte se n\'esborraran tots els missatges, contactes i altres dades del telèfon!</string>
   <string name="really_remove_account_title">Voleu suprimir el compte?</string>
   <string name="rebootiing_for_updates">S\'està reiniciant&#8230;</string>
@@ -4027,6 +4029,7 @@ Per a un millor rendiment, us recomanem que utilitzeu un ^1 més ràpid."</strin
   <string name="summary_range_verbal_combination">%1$s a %2$s</string>
   <string name="supl_not_set">&lt;No s\'ha configurat&gt;</string>
   <string name="supplicant_state_label">Mode suplicant:</string>
+  <string name="sure_sync_now">Voleu sincronitzar els elements?</string>
   <string name="suspend_gesture_enabled">Gira la pantalla</string>
   <string name="suspension_ball_enable">Drecera d\'inici ràpid</string>
   <string name="suspension_ball_enable_desc">Activa o desactiva el Quick ball des de la drecera</string>
@@ -4053,6 +4056,7 @@ Per a un millor rendiment, us recomanem que utilitzeu un ^1 més ràpid."</strin
   <string name="sync_item_title">%s</string>
   <string name="sync_menu_sync_cancel">Cancel·la la sincronització</string>
   <string name="sync_menu_sync_now">Sincronitza\'l ara</string>
+  <string name="sync_now">Sincronitza</string>
   <string name="sync_one_time_sync">«Toqueu per a sincronitzar ara
 %1$s»</string>
   <string name="sync_plug"><font fgcolor="#ffffffff">Benvingut/da a la sincronització de Google!</font>\"
@@ -4918,6 +4922,7 @@ Voleu permetre-ho per a totes les aplicacions que vulguin cercar xarxes?»</stri
   <string name="wifi_setting_category">Xarxes disponibles</string>
   <string name="wifi_setting_connect_type_error">Hi ha hagut un problema en establir el tipus de connexió.</string>
   <string name="wifi_setting_frequency_band_error">S\'ha produït un problema en definir la banda de freqüència.</string>
+  <string name="wifi_setting_frequency_band_summary">Especifiqueu l\'interval de freqüències de l\'operació</string>
   <string name="wifi_setting_frequency_band_title">Banda de freqüència Wi-Fi</string>
   <string name="wifi_setting_on_during_sleep_title">Wi‑Fi activa en repòs</string>
   <string name="wifi_setting_sleep_policy_error">S\'ha produït un problema en canviar la configuració</string>
