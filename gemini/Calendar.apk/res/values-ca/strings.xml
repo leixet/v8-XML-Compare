@@ -136,6 +136,7 @@
   <string name="directory_searching_fmt">S\'està cercant %s&#8230;</string>
   <string name="discard_label">Cancel·la</string>
   <string name="does_not_repeat">Esdeveniment únic</string>
+  <string name="done">Retorn</string>
   <string name="download">Baixa</string>
   <string name="download_finished">Baixada finalitzada</string>
   <string name="downloaded">S\'ha baixat</string>
@@ -303,6 +304,7 @@
   <string name="olympic_total">总数</string>
   <string name="olympic_vs">CONTRA</string>
   <string name="online_reminder_header_text">Recorda</string>
+  <string name="panchang_amanta">Amanta</string>
   <string name="path_calendar_settings">Aplicacions del sistema/Calendari/Configuració</string>
   <string name="pengzu">pengzu</string>
   <string name="prefDialogTitle_vibrateWhen">Vibració</string>
