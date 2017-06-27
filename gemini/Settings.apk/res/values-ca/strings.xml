@@ -1538,7 +1538,7 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="failed_to_shut_down_find_device_content">"No s'ha pogut comprovar l'estat de Localitza el dispositiu. Espereu-vos un minut o dos i torneu-ho a provar."</string>
   <string name="failed_to_shut_down_find_device_title">"No s'ha pogut desactivar Localitza el dispositiu"</string>
   <string name="fcc_equipment_id">ID de l\'equip</string>
-  <string name="file_privacy_password_role_instruction">Els fitxers privats es desaran aquí.</string>
+  <string name="file_privacy_password_role_instruction">Els vostres fitxers privats es desaran aquí.</string>
   <string name="filter">Filtres</string>
   <string name="filter_all_apps">Totes les aplicacions</string>
   <string name="filter_apps_all">Totes</string>
@@ -1563,7 +1563,7 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="fingerprint_add_title">Afegeix una empremta</string>
   <string name="fingerprint_and_password_entrance_title">Pantalla de bloqueig i empremta</string>
   <string name="fingerprint_apply_to_privacy_password">Contrasenya de protecció de privadesa</string>
-  <string name="fingerprint_apply_to_privacy_password_scenarios">La contrasenya de privadesa protegeix els missatges, fotos, fitxers, notes i aplicacions.</string>
+  <string name="fingerprint_apply_to_privacy_password_scenarios">La contrasenya de privadesa protegeix els vostres missatges, fotos, fitxers, notes i aplicacions.</string>
   <string name="fingerprint_enable_keyguard_toggle_title">bloqueig de pantalla</string>
   <string name="fingerprint_enroll_button_add">Afegeix-ne un altre</string>
   <string name="fingerprint_enroll_button_next">Següent</string>
