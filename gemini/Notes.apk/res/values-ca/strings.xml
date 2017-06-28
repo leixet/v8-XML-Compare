@@ -58,7 +58,7 @@
   <string name="error_send_empty_note">"No es pot enviar una nota buida"</string>
   <string name="error_send_empty_note_to_weibo">"No es pot enviar una nota buida a Weibo"</string>
   <string name="error_unsupport_content">Aquesta nota inclou contingut incompatible, premeu aquí per actualitzar l\'aplicació</string>
-  <string name="error_widget_exist_for_send_to_desktop">Aquesta nota ja està a la pantalla d\'inici</string>
+  <string name="error_widget_exist_for_send_to_desktop">Aquesta nota ja és a la pantalla d\'inici</string>
   <string name="folder_exist">Ja existeix una carpeta amb el mateix nom</string>
   <string name="force_touch_menu_add">Afegeix nota</string>
   <string name="format_move_note_out_folder">Moguda</string>
@@ -88,7 +88,7 @@
   <string name="menu_send_to_desktop">Posar a la pantalla d\'inici</string>
   <string name="menu_send_weibo">Enviar a Weibo</string>
   <string name="menu_source">De: %1$s</string>
-  <string name="menu_stick">Ancorar</string>
+  <string name="menu_stick">Fixa</string>
   <string name="menu_title_select_folder">Seleccionar carpeta</string>
   <string name="menu_unhide">Mostra</string>
   <string name="menu_unstick">Alliberar</string>
