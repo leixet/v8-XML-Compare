@@ -159,7 +159,7 @@
   <string name="desc_online_personal_radio">Només per a vós</string>
   <string name="deselect_all">Anul·la tota la selecció</string>
   <string name="desktop_lyric_button_close">Tanca</string>
-  <string name="desktop_lyric_button_lock">Bloqueja</string>
+  <string name="desktop_lyric_button_lock">Bloca</string>
   <string name="desktop_lyric_color">Color</string>
   <string name="desktop_lyric_dialog_msg">Activeu o desactiveu les lletres a la pàgina d\'inici a Música &gt; Configuració &gt; Configuració avançada</string>
   <string name="desktop_lyric_dialog_positive_button">Proveu-ho ara</string>
