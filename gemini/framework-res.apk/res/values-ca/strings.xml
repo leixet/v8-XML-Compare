@@ -242,7 +242,7 @@ a partir de %s»</string>
   <string name="data_usage_4g_limit_snoozed_title">Límit de dades 4G superat</string>
   <string name="data_usage_4g_limit_title">Dades 4G desactivades</string>
   <string name="data_usage_limit_body">Dades aturades per la resta del cicle</string>
-  <string name="data_usage_limit_snoozed_body">Límit superat a %s</string>
+  <string name="data_usage_limit_snoozed_body">Límit indicat superat en %s.</string>
   <string name="data_usage_mobile_limit_snoozed_title">Límit de dades mòbils superat</string>
   <string name="data_usage_mobile_limit_title">Dades mòbils desactivades</string>
   <string name="data_usage_restricted_body">Toqueu per eliminar la restricció.</string>
