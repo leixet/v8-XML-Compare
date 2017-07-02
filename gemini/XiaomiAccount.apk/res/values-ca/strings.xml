@@ -69,8 +69,8 @@
   <string name="binded">Vinculat</string>
   <string name="binded_description" formatted="false">Heu vinculat correctament %s al vostru compte Mi. El costre perfil s\'ha actualitzat amb la informació del vostre compte %s.</string>
   <string name="button_unbind">Desvincula</string>
-  <string name="change_activate_email">Canvia l\'adreça de correu</string>
-  <string name="change_email_address">Canvia l\'adreça de correu</string>
+  <string name="change_activate_email">Canvia l\'adreça de correu electrònic</string>
+  <string name="change_email_address">Canvia l\'adreça de correu electrònic</string>
   <string name="change_password">Canvia la contrasenya</string>
   <string name="change_phone_number">Canvia el número de telèfon</string>
   <string name="checking_phone_num_availible">Verificant el telèfon&#8230;</string>
@@ -108,7 +108,7 @@
   <string name="device_name">Nom del dispositiu</string>
   <string name="device_trust_info">Dispositiu fiable</string>
   <string name="empty_device_list_notice">No hi ha dispositius</string>
-  <string name="error_dup_binded_email">Aquesta adreça e-mail ja està associada amb un altre compte Mi.</string>
+  <string name="error_dup_binded_email">Aquesta adreça de correu electrònic ja està associada amb un altre compte Mi.</string>
   <string name="error_invalid_bind_address">L\'adreça de correu que heu introduït no és vàlida.</string>
   <string name="exceed_binded_phone_times_notice">Aquest número de telèfon ja està associat a un altre compte Mi.</string>
   <string name="facebook">Facebook</string>
@@ -136,7 +136,7 @@
   <string name="get_phone_bind_exceed_limit">"El número de telèfon mòbil vinculat al número de compte ha arribat al màxim (3), ja no podeu incloure el nou compte"</string>
   <string name="get_phone_verifycode_exceed_limit">S\'han enviat massa codis de verificació a aquest número. Espereu 24 hores i torneu-ho a provar.</string>
   <string name="guest_account_label">Compte de convidat Mi</string>
-  <string name="input_email_address_notice">"Utilitzarem aquest e-mail per verificar el vostre compte"</string>
+  <string name="input_email_address_notice">"Utilitzarem aquest correu per verificar el vostre compte"</string>
   <string name="io_error_title">Confirmeu la vostra xarxa</string>
   <string name="just_a_second">Un moment&#8230;</string>
   <string name="loading_micloud_sync_data">Un moment&#8230;</string>
@@ -175,7 +175,7 @@
   <string name="oauth_title">Inici de sessió amb el compte Mi</string>
   <string name="other_devices_title">Altres dispositius</string>
   <string name="passport_access_denied">Accés denegat</string>
-  <string name="passport_account_hint_text">Adreça email o identificador de compte Mi</string>
+  <string name="passport_account_hint_text">Adreça de correu o identificador de compte Mi</string>
   <string name="passport_account_identity_title">Verifiqueu la vostra identitat</string>
   <string name="passport_account_label">Compte Mi</string>
   <string name="passport_account_name">Compte: %1$s</string>
@@ -281,7 +281,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_register">Crea un compte</string>
   <string name="passport_register_account_goto_email">Ves a la safata d\'entrada</string>
   <string name="passport_register_account_verified_confirm">Compte verificat</string>
-  <string name="passport_register_by_email">Crea un compte utilitzant una adreça electrònica</string>
+  <string name="passport_register_by_email">&lt;u&gt;Crea un compte utilitzant una adreça de correu electrònic&lt;/u&gt;</string>
   <string name="passport_register_restricted">Massa comptes associats amb aquest número de telèfon, intenteu-ne un de diferent</string>
   <string name="passport_register_restricted_title">"No es pot fer servir aquest número de telèfon"</string>
   <string name="passport_registered_phone_user_ID">ID d\'usuari: %s</string>
@@ -341,9 +341,9 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="rename_current_device">Canvia el nom del dispositiu</string>
   <string name="replace_binded_phone">Substitueix el telèfon</string>
   <string name="resend_active_email">Reenvia</string>
-  <string name="resend_email_reach_limit_message">"Heu demanat masses cops un email de comprovació. Assegureu-vos que aquest email de verificació no estigui a la vostra carpeta de Spam."</string>
+  <string name="resend_email_reach_limit_message">"Heu demanat masses cops un correu de comprovació. Assegureu-vos que aquest email de verificació no estigui a la vostra carpeta de Spam."</string>
   <string name="resend_email_reach_limit_title">"No es pot enviar el correu"</string>
-  <string name="resend_email_success">S\'ha re-enviat email</string>
+  <string name="resend_email_success">S\'ha reenviat el correu</string>
   <string name="restart_action">Torna a començar</string>
   <string name="restart_phone_bind_message">Pot trigar algun temps en rebre el SMS. Comencem de nou de tota manera?</string>
   <string name="restart_phone_bind_title">Modifica el telèfon de recuperació</string>
@@ -377,8 +377,8 @@ Per activar el vostre compte, seguiu l\'enllaç
 · Si no podeu desbloquejar el dispositiu, aneu a i.mi.com per desactivar Troba dispositiu Mi
 · Indiqueu aquest número de desbloqueig al servei d\'atenció al client: %s "</string>
   <string name="update_contacts">Actualitza la llibreta d\'adreces</string>
-  <string name="update_email_address_dialog_message">Us cal verificar la identitat abans que pugueu actualitzar el email.</string>
-  <string name="update_email_address_dialog_title">Actualitza email</string>
+  <string name="update_email_address_dialog_message">Us cal verificar la identitat abans que pugueu actualitzar el correu electrònic.</string>
+  <string name="update_email_address_dialog_title">Actualitza el correu</string>
   <string name="update_phone_number_notice_message">Us cal verificar la identitat abans que pugueu actualitzar el número de telèfon.</string>
   <string name="updated_nothing">Actualitzat</string>
   <string name="user_avatar_update_title">Actualitza imatge del perfil</string>
