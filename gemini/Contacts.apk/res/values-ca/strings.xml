@@ -391,7 +391,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="display_only_phones">Amaga números incomplets</string>
   <string name="display_options_sort_by_family_name">Cognom</string>
   <string name="display_options_sort_by_given_name">Nom</string>
-  <string name="display_options_sort_list_by">Ordenar per</string>
+  <string name="display_options_sort_list_by">Ordena per</string>
   <string name="display_options_view_family_name_first">Cognoms primer</string>
   <string name="display_options_view_given_name_first">Noms primer</string>
   <string name="display_options_view_names_as">Veure noms de contacte com</string>
