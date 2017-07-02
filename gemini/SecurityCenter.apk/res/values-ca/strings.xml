@@ -655,7 +655,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="downloading">S\'està baixant</string>
   <string name="dual_setting_simcard1">SIM 1 </string>
   <string name="dual_setting_simcard2">SIM 2 </string>
-  <string name="email">Correu</string>
+  <string name="email">Correu electrònic</string>
   <string name="empty_app">No hi ha aplicacions</string>
   <string name="empty_title_auto_start_list">No hi ha aplicacions amb inici automàtic</string>
   <string name="empty_title_garbage_virus_white_list">Mantingueu els resultats a la llista per ometre\'ls durant el següent anàlisi</string>
