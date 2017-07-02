@@ -1055,7 +1055,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
 
  2. Si vostè acaba de aumentar el saldo del seu dispositiu, reinicialitzeu el dispositiu i torneu a provar.
 
- 3. La senyal de la xarxa del seu operador pot ser feble en la seva localització actual."</string>
+ 3. El senyal de la xarxa del seu operador pot ser feble en la seva localització actual."</string>
   <string name="network_not_available">"No s'ha pogut connectar a la xarxa"</string>
   <string name="network_operator_exception_summary">"No podia activa la targeta SIM. Assegureu-vos que la targeta SIM està inserida correctament i que s'ha activat el seu pla mòbil per la vostra companyia."</string>
   <string name="network_permission_exception_tips">"No podeu utilitzar dades mòbils per connectar a la xarxa"</string>
