@@ -464,7 +464,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="rank_title_movie">Pel·lícula</string>
   <string name="receive_develop_summary">Rep actualitzacions de l\'aplicació quan estigui disponible una nova versió beta</string>
   <string name="receive_follow">Notificacions de nous episodis</string>
-  <string name="receive_follow_summary">Rebre notificacions quan un nou episodio estigui disponible</string>
+  <string name="receive_follow_summary">Rebeu notificacions quan un nou episodi estigui disponible</string>
   <string name="receive_mipush">Notificacions de Mi</string>
   <string name="receive_mipush_summary">Rebre notificacions quan hi hagi nou contingut disponible</string>
   <string name="recentplay">Reproduït recentment</string>
