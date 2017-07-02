@@ -2194,7 +2194,7 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="lockscreen_glogin_password_hint">Contrasenya</string>
   <string name="lockscreen_glogin_submit_button">Inici de sessió</string>
   <string name="lockscreen_remote_input">Si el dispositiu està bloquejat, impedeix que s\'escriguin respostes o altres textos a les notificacions</string>
-  <string name="long_press_volume_down">Mantén premut per baixar el volum</string>
+  <string name="long_press_volume_down">Mantén premut per abaixar el volum</string>
   <string name="lte_4g_settings_4gdisable_summary">S\'ha desactivat el 4G</string>
   <string name="lte_4g_settings_4genable_summary">S\'ha activat el 4G</string>
   <string name="lte_4g_settings_disable">Mode d\'avió o la targeta SIM no està preparada</string>
@@ -2444,8 +2444,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="music_headset_calibrate_next_track">Següent cançó</string>
   <string name="music_headset_calibrate_prev_track">Cançó anterior</string>
   <string name="music_headset_calibrate_success">S\'ha actualitzat la configuració</string>
-  <string name="music_headset_calibrate_volume_down">Baixa el volum</string>
-  <string name="music_headset_calibrate_volume_up">Puja el volum</string>
+  <string name="music_headset_calibrate_volume_down">Abaixa el volum</string>
+  <string name="music_headset_calibrate_volume_up">Apuja el volum</string>
   <string name="music_headset_calibrate_wrong_key">"T'has equivocat de botó!"</string>
   <string name="music_headset_mode_music">Control de reproducció de música</string>
   <string name="music_headset_mode_settings">Botons del control remot d\'auriculars</string>
@@ -2813,7 +2813,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="pref_edge_handgrip">Controls de la vora</string>
   <string name="pref_operational_key">Botons de navegació</string>
   <string name="pref_title_lang_selection">Preferències d\'idioma</string>
-  <string name="pref_volume_launch_camera_summary">Per obrir la càmera, pitgeu dos cops baixar el volum</string>
+  <string name="pref_volume_launch_camera_summary">Per obrir la càmera, premeu dos cops abaixa el volum</string>
   <string name="pref_volume_launch_camera_title">Obre la càmera</string>
   <string name="pref_volume_wake_summary">El dispositiu s\'engega prement les tecles de volum</string>
   <string name="pref_volume_wake_title">Engega\'l amb les tecles de volum</string>
