@@ -87,7 +87,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="add_miservice_dialog_title">Estructura de serveis MIUI</string>
   <string name="add_to_whitelist_button">Excepcions en les dades en itinerància</string>
   <string name="add_white_list">Afegir</string>
-  <string name="address">Direcció</string>
+  <string name="address">Adreça</string>
   <string name="address_choose_hint">%1$s, %2$s i %3$d altres ubicacions</string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Actualitzat fa un mes</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">Actualitzat fa una setmana</string>
