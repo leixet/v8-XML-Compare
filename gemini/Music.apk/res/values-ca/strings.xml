@@ -787,7 +787,7 @@
   <string name="sleep_mode_canceled">Temporitzador apagat</string>
   <string name="sleep_mode_summary">Atura el reproductor passat un determinat temps</string>
   <string name="sleep_mode_title">Temporitzador</string>
-  <string name="song_exist_in_playlist">Aquesta cançó ja està a la llista de reproducció</string>
+  <string name="song_exist_in_playlist">Aquesta cançó ja és a la llista de reproducció</string>
   <string name="song_is_empty">El nom de la cançó no pot estar buit.</string>
   <string name="song_name">Cançó</string>
   <string name="song_not_find">"La cançó no està disponible."</string>
