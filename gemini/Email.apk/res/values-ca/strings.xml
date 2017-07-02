@@ -102,7 +102,7 @@
   <string name="account_setup_failed_dlg_todo2">Establir compte, com es mostra a continuació</string>
   <string name="account_setup_failed_dlg_unknown_auth_message">Error desconegut.</string>
   <string name="account_setup_failed_ioerror">"No s'ha pogut obrir la connexió al servidor."</string>
-  <string name="account_setup_failed_protocol_unsupported">"S'ha escrit una adreça de servidor incorrecta o el servidor necessita una versió de protocol que no és compatible amb el Correu."</string>
+  <string name="account_setup_failed_protocol_unsupported">"S'ha escrit una adreça de servidor incorrecta o el servidor necessita una versió de protocol que no és compatible amb el correu."</string>
   <string name="account_setup_failed_security">"No s'ha pogut obrir la connexió amb el servidor a causa d'un error de seguretat."</string>
   <string name="account_setup_failed_security_policies_unsupported">"\"Aquest servidor requereix característiques de seguretat que no suporta el dispositiu Android,
          incloent: %s\""</string>
@@ -638,7 +638,7 @@
   <string name="mibill_privacy_policy_button2">D\'acord</string>
   <string name="mibill_privacy_policy_description">Mi Wallet analitzarà totes les declaracions de correu rebudes en la seva aplicació de correu i administrarà tots els seus comptes de targetes de crèdit per a vostè. Aquest servei es desactiva per defecte a la bústia de correu de l\'empresa.</string>
   <string name="mibill_privacy_policy_link">D\'acord &lt;a href=\"https://www.mipay.com/res/doc/eula/email.html\"&gt;Acord Servei Usuari de Comptes de Targetes de Crèdit&lt;/a&gt;</string>
-  <string name="mibill_privacy_policy_title">Mi Wallet analitza declaracions email</string>
+  <string name="mibill_privacy_policy_title">Gestiona declaracions de correu electrònic</string>
   <string name="min_payment_text">Pagament mínim</string>
   <string name="more_atts_remaining">Falten %1$d més</string>
   <string name="more_context">Més</string>
