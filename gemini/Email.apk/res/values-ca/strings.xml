@@ -102,8 +102,7 @@
   <string name="account_setup_failed_dlg_todo2">Establir compte, com es mostra a continuació</string>
   <string name="account_setup_failed_dlg_unknown_auth_message">Error desconegut.</string>
   <string name="account_setup_failed_ioerror">"No s'ha pogut obrir la connexió al servidor."</string>
-  <string name="account_setup_failed_protocol_unsupported">"\"   S'ha escrit una adreça de servidor incorrecta o el servidor necessita una versió de protocol que no
-         és compatible amb Email\""</string>
+  <string name="account_setup_failed_protocol_unsupported">"S'ha escrit una adreça de servidor incorrecta o el servidor necessita una versió de protocol que no és compatible amb el Correu."</string>
   <string name="account_setup_failed_security">"No s'ha pogut obrir la connexió amb el servidor a causa d'un error de seguretat."</string>
   <string name="account_setup_failed_security_policies_unsupported">"\"Aquest servidor requereix característiques de seguretat que no suporta el dispositiu Android,
          incloent: %s\""</string>
@@ -524,7 +523,7 @@
   <string name="inline_picture_deleted">S\'està baixant la foto que falta&#8230;</string>
   <string name="input_password_prompt">Introduïu la contrasenya</string>
   <string name="interact_with_server_error">"No s'ha pogut connectar amb el servidor"</string>
-  <string name="invalid_recipient">La direcció %s no és vàlida.</string>
+  <string name="invalid_recipient">L\'adreça %s no és vàlida.</string>
   <string name="invalid_recipient_title">Error amb destinatari</string>
   <string name="kilobytes">%s KB</string>
   <string name="load_from_remote">Continua la recerca al servidor</string>
@@ -706,7 +705,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="outbox_alert_duplicate_click">Enviant ara&#8230;</string>
   <string name="outbox_alert_edit_resend">Edita i envia de nou</string>
   <string name="outbox_alert_failed_edit_resend">"No s'ha pogut enviar. Editeu i torneu a provar.\""</string>
-  <string name="outbox_alert_mailbox_not_found">Direcció de correu electrònic no trobada</string>
+  <string name="outbox_alert_mailbox_not_found">Adreça de correu electrònic no trobada</string>
   <string name="outbox_alert_rw_io_error">Excepció de lectura/escriptura en correu, si us plau intenti escriure i enviar de nou</string>
   <string name="outbox_alert_select_operation">Trieu una acció</string>
   <string name="outbox_alert_title_sent_failed">"No pot enviar correu"</string>
