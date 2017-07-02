@@ -1583,7 +1583,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="sms_delete_hint">Voleu eliminar tots els missatges bloquejats enviats des d\'aquest número?</string>
   <string name="sms_delete_title">Elimineu el missatge</string>
   <string name="sms_smart_engine_update">Actualitza el filtre d\'SMS automàticament</string>
-  <string name="sorted_dialog_title">Ordenar per</string>
+  <string name="sorted_dialog_title">Ordena per</string>
   <string name="sp_back_title_text_zero">Segur</string>
   <string name="sp_background_risk_dialog_summary">, feu un control detallat i corregiu els riscos de pagament</string>
   <string name="sp_background_risk_dialog_title">Perillós</string>
