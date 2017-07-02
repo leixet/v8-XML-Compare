@@ -8,7 +8,7 @@
   <string name="account_bind_devices">Dispositius</string>
   <string name="account_bind_new_phone">Afegeix un nou telèfon</string>
   <string name="account_bind_phone_notice">Utilitza aquest número de telèfon per iniciar la sessió al vostre compte, restablir la contrasenya, o canviar la configuració de seguretat.</string>
-  <string name="account_bind_secure_email_title">Afegeix email</string>
+  <string name="account_bind_secure_email_title">Afegeix una adreça de correu</string>
   <string name="account_bind_secure_phone_title">Afegiu un número de telèfon</string>
   <string name="account_bind_settings">Comptes</string>
   <string name="account_binded_phone">Telèfon %d</string>
@@ -207,7 +207,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_email_or_id_hint_text">Adreça de correu electrònic o identificador de compte Mi</string>
   <string name="passport_email_reg_success_summary">%1$s s\'ha afegit al vostre compte. Podeu utilitzar-lo per iniciar la sessió o per restablir la contrasenya.</string>
   <string name="passport_error_device_id">"No es pot obtenir la identitat del dispositiu"</string>
-  <string name="passport_error_dup_email">El email que heu introduït ja està associat a un altre compte.</string>
+  <string name="passport_error_dup_email">El correu electrònic que heu introduït ja està associat a un altre compte.</string>
   <string name="passport_error_email">L\'adreça de correu que heu introduït no és vàlida</string>
   <string name="passport_error_empty_captcha_code">Introduïu el codi passport_captcha</string>
   <string name="passport_error_empty_email">Introduïu la vostra adreça de correu electrònic</string>
@@ -226,7 +226,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_error_ssl_hand_shake">"No s'ha pogut connectar al servidor."</string>
   <string name="passport_error_unknown">"No es pot obrir sessió"</string>
   <string name="passport_error_user_name">El nom d\'usuari que heu introduït no és vàlid.</string>
-  <string name="passport_failed_to_send_activate_email">"No s'ha pogut enviar el email d'activació"</string>
+  <string name="passport_failed_to_send_activate_email">"No s'ha pogut enviar el correu d'activació"</string>
   <string name="passport_find_password_on_web_msg">Visiteu account.mi.com per restaurar la vostra contrasenya.</string>
   <string name="passport_forget_password">Contrasenya oblidada</string>
   <string name="passport_forget_password_no_underline">Contrasenya oblidada</string>
@@ -247,7 +247,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_login">Inicia la sessió</string>
   <string name="passport_login_failed">"No es pot iniciar sessió"</string>
   <string name="passport_login_instead_reg">Utilitza aquest número</string>
-  <string name="passport_login_instead_reg_with_email">Utilitza aquest email</string>
+  <string name="passport_login_instead_reg_with_email">Utilitza aquest correu</string>
   <string name="passport_login_prompt">Un compte Mi. Tots els serveis Mi.</string>
   <string name="passport_login_title">Inicia una sessió al vostre compte Mi</string>
   <string name="passport_login_using_other_ways">Altres maneres per iniciar la sessió</string>
