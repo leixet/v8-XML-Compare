@@ -604,10 +604,10 @@
   <string name="megabytes">%s MB</string>
   <string name="menu_att_mgr">Fitxers adjunts</string>
   <string name="menu_att_mgr_order_default">Recents</string>
-  <string name="menu_att_mgr_order_mime">Ordenar per format</string>
-  <string name="menu_att_mgr_order_name">Ordenar per nom</string>
-  <string name="menu_att_mgr_order_rev_date">Ordenar per temps</string>
-  <string name="menu_att_mgr_order_size">Ordenar per mida</string>
+  <string name="menu_att_mgr_order_mime">Ordena per format</string>
+  <string name="menu_att_mgr_order_name">Ordena per nom</string>
+  <string name="menu_att_mgr_order_rev_date">Ordena per temps</string>
+  <string name="menu_att_mgr_order_size">Ordena per mida</string>
   <string name="menu_change_folders">Canvia carpetes</string>
   <string name="menu_compose">Redacta</string>
   <string name="menu_contact_edit">Edita</string>
@@ -978,7 +978,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="single_new_message_notification_title">%1$s: %2$s</string>
   <string name="sms_tip">L\'autenticació ha fallit, comproveu si l\'antivirus intercepta l\'SMS</string>
   <string name="smtp_password_error">Contrasenya del servidor de correu sortint és incorrecta</string>
-  <string name="sort_attachment">Ordenar per</string>
+  <string name="sort_attachment">Ordena per</string>
   <string name="special_text_1">Va escriure:</string>
   <string name="special_text_2">Va escriure:</string>
   <string name="special_text_3">Va escriure:</string>
