@@ -1211,8 +1211,8 @@ per al compte %s»</string>
   <string name="roamingText9">Itinerància - funcionalitat de servei completa</string>
   <string name="roamingTextSearching">S\'està cercant el servei</string>
   <string name="safeMode">Mode segur</string>
-  <string name="safe_media_volume_warning">«Voleu pujar el volum per sobre del nivell recomanat?
-Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les orelles.»</string>
+  <string name="safe_media_volume_warning">«Voleu apujar el volum per sobre del nivell recomanat?
+Si escolteu sons a un volum alt durant llargs períodes de temps es podrien danyar les orelles.»</string>
   <string name="sans_serif">sans-serif</string>
   <string name="save_password_label">Confirma</string>
   <string name="save_password_message">Voleu que el navegador recordi aquesta contrasenya?</string>
