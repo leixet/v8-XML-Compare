@@ -117,7 +117,6 @@
   <string name="choose_stream_quality">Trieu la qualitat de la transmissió</string>
   <string name="click_modify">Premeu per editar la lletra.</string>
   <string name="click_to_shuffle">Toqueu per barrejar-les totes</string>
-  <string name="click_to_view_new_local_audios">Premeu per veure els detalls.</string>
   <string name="close_music_time">"Temps restant: "</string>
   <string name="cloud_empty_local_empty_button">No hi ha cançons en aquest dispositiu</string>
   <string name="cloud_empty_message">No hi ha cançons al Mi Cloud</string>
@@ -402,7 +401,6 @@
   <string name="global_search_title_radar">Reconeixement musical</string>
   <string name="group_artist">Bandes</string>
   <string name="handle_later">Ara no</string>
-  <string name="headset_settings">Auriculars i efectes d\'àudio</string>
   <string name="higher_quality_music">Música d\'alta qualitat</string>
   <string name="higher_quality_music_summary">Escolta i baixa música a major taxa de bits</string>
   <string name="home_tab_local">La meva música</string>
@@ -582,11 +580,6 @@
   <string name="notification_download_failed">"No s'ha pogut baixar"</string>
   <string name="notification_download_failed_more">"%1$d baixades fallides"</string>
   <string name="notification_download_success_more">%1$d baixades</string>
-  <string name="notification_favorite_summary">Rebeu notificacions sobre novetats i últimes visites</string>
-  <string name="notification_favorite_title">Notificació sobre artistes preferits</string>
-  <string name="notification_headset_custom">Descarta</string>
-  <string name="notification_headset_info">Premeu per veure la configuració.</string>
-  <string name="notification_headset_settings">Auriculars connectats</string>
   <string name="notification_need_wifi_for_size">La mida de la baixada requereix Wi-Fi.</string>
   <string name="notification_play_summary">Veure cançó actual i la propera, mostra les lletres de las cançons en la pantalla d\'inici</string>
   <string name="notification_play_title">Giny de l\'àrea de notificacions</string>
@@ -602,7 +595,6 @@
   <string name="online_favor">Destacat</string>
   <string name="online_fm">FM</string>
   <string name="online_list_delete_message">Totes les cançons baixades d\'aquesta llista de reproducció seran eliminades de la memòria interna.</string>
-  <string name="online_music_enabled_subtitle">Toqueu aquí per transmetre les vostres cançons preferides.</string>
   <string name="online_music_enabled_summary">Escolteu i baixeu les vostres cançons preferides. Consulteu les millors cançons i llistes de reproducció recomanades sigueu on sigueu!</string>
   <string name="online_music_enabled_title">La transmissió gratuït està aquí</string>
   <string name="online_my">Meu</string>
@@ -793,7 +785,6 @@
   <string name="song_not_find">"La cançó no està disponible."</string>
   <string name="song_offline">Aquesta cançó ja no està disponible.</string>
   <string name="song_unit">elements</string>
-  <string name="sort_by_language">Idioma</string>
   <string name="sort_by_name">Nom</string>
   <string name="sort_by_time">Data</string>
   <string name="source_from">Font: %1$s</string>
@@ -903,12 +894,8 @@
   <string name="valid_period">Vàlid: %s</string>
   <string name="version_info">Versió</string>
   <string name="vip_auto_renew_message">La vostra subscripció de Música serà renovada automàticament aquesta nit. Assegureu-vos de tenir suficients Crèdits Mi al vostre compte per completar el pagament.</string>
-  <string name="vip_auto_renew_notification_message">Afegeix Crèdits Mi per renovar la vostra subscripció de Música.</string>
-  <string name="vip_auto_renew_notification_title">Pagament de subscripció</string>
   <string name="vip_auto_renew_title">Renovació de la subscripció</string>
   <string name="vip_renew_message">"No podreu escoltar música en transmissió d'alta qualitat, però algunes cançons estaran disponibles en qualitat normal."</string>
-  <string name="vip_renew_notification_message">"No podreu escoltar música en transmissió d'alta qualitat quan la vostra subscripció expiri."</string>
-  <string name="vip_renew_notification_title">La subscripció expira demà</string>
   <string name="vip_renew_title">Subscripció expirada</string>
   <string name="vip_required">Obteniu el paquet de cançons prèmium per reproduir aquesta cançó. L\'hem omès per vós.</string>
   <string name="vip_required_with_song">Obteniu el paquet de cançons prèmium per reproduir «%s». L\'hem omès per vós.</string>
