@@ -2456,9 +2456,6 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="music_hifi_title">Àudio Hi-Fi</string>
   <string name="music_mi_effect_summary">Utilitza el potenciador de so Mi en utilitzar auriculars</string>
   <string name="music_mi_effect_title">Potenciador de so Mi</string>
-  <string name="music_notification_headset_custom">Descarta</string>
-  <string name="music_notification_headset_info">Premeu per veure la configuració.</string>
-  <string name="music_notification_headset_settings">Auriculars connectats</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
   <string name="music_unsupport_effect_summary">"Els auriculars USB no són compatibles"</string>
   <string name="musicfx_title">Efectes musicals</string>
