@@ -893,12 +893,16 @@
   <string name="upgrade_waringing">"Només podreu escoltar la música emmagatzemada en el dispositiu."</string>
   <string name="valid_period">Vàlid: %s</string>
   <string name="version_info">Versió</string>
+  <string name="vip_after_tomorrow_auto_renew_message">La vostra subscripció de Música es renovarà automàticament la nit del dia després de demà. Assegureu-vos de tenir suficients Crèdits Mi en el vostre compte per completar aquest pagament.</string>
+  <string name="vip_after_tomorrow_renew_message">"No podreu escoltar música en transmissió d'alta qualitat, però algunes cançons estaran disponibles en qualitat normal."</string>
   <string name="vip_auto_renew_message">La vostra subscripció de Música serà renovada automàticament aquesta nit. Assegureu-vos de tenir suficients Crèdits Mi al vostre compte per completar el pagament.</string>
   <string name="vip_auto_renew_title">Renovació de la subscripció</string>
   <string name="vip_renew_message">"No podreu escoltar música en transmissió d'alta qualitat, però algunes cançons estaran disponibles en qualitat normal."</string>
   <string name="vip_renew_title">Subscripció expirada</string>
   <string name="vip_required">Obteniu el paquet de cançons prèmium per reproduir aquesta cançó. L\'hem omès per vós.</string>
   <string name="vip_required_with_song">Obteniu el paquet de cançons prèmium per reproduir «%s». L\'hem omès per vós.</string>
+  <string name="vip_tomorrow_auto_renew_message">La vostra subscripció de Música serà renovada automàticament demà a la tarda. Assegureu-vos de tenir suficients Crèdits Mi al vostre compte per completar el pagament.</string>
+  <string name="vip_tomorrow_renew_message">"No podreu escoltar música en transmissió d'alta qualitat, però algunes cançons estaran disponibles en qualitat normal."</string>
   <string name="warning_tip_cancel">Baixa</string>
   <string name="warning_tip_content">"Ja no esteu connectats a Wi-Fi. Utilitzeu la vostra connexió de dades mòbils per completar aquesta baixada incrementarà l'ús de dades. Si excediu el límit de dades contractat, la vostra companyia podria cobrar-li taxes addicionals."</string>
   <string name="warning_tip_ok">Pausa</string>
