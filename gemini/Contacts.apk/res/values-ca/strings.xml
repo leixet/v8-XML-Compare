@@ -922,10 +922,13 @@ Per afegir un contacte a la llista de favorits:
   <string name="preference_import_export">Importa/exporta</string>
   <string name="preference_import_export_title">Importa/exporta contactes</string>
   <string name="preference_key_trash_bin_title">Recupera contactes</string>
+  <string name="preference_other">Altres</string>
   <string name="preference_others">Altres</string>
   <string name="preference_phone">Telèfon</string>
   <string name="preference_phone_more_title">Configuració de trucada</string>
   <string name="preference_remove_duplicate">Combinar contactes duplicats</string>
+  <string name="preference_show_yellowpage_tab_description">Tanqueu la pestanya pàgina groga, la funció pàgina groga no funcionarà correctament</string>
+  <string name="preference_show_yellowpage_tab_title">Mostra la pestanya pàgina groga</string>
   <string name="preference_simple_mode_description">Mostra imatges i altra informació de contacte a la vista de llista</string>
   <string name="preference_simple_mode_title">Mostra fotos i informació</string>
   <string name="preference_smart_group_company_summary">Agrupa per empresa</string>
