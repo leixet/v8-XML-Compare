@@ -24,6 +24,8 @@
   <string name="cancel_alarm_description">Cancel·la l\'alarma</string>
   <string name="cloud_trash_bin_title">Elimina notes al Mi Cloud</string>
   <string name="cta_reminder">Aquesta aplicació s\'ha de connectar a Internet per fer còpies de seguretat de les notes al Mi Cloud, així com per llegir els contactes per etiquetar les notes que preneu durant les trucades.</string>
+  <string name="db_downgrade_clear_button">Esborra les dades de l\'aplicació</string>
+  <string name="db_downgrade_clear_date_reminder">"Canviar a una versió diferent de MIUI requereix esborrar les dades de l'aplicació Notes. Abans de fer això, assegureu-vos que heu copiat les notes al Mi Cloud."</string>
   <string name="default_folder_name">Carpeta sense nom</string>
   <string name="delete_folder_dialog_tile">Elimina la carpeta</string>
   <string name="dialog_share_as_pic">Compartir la nota com a imatge</string>
