@@ -1500,6 +1500,7 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="encryption_interstitial_message_pin_for_fingerprint">«A més d\'utilitzar l\'empremta per a desbloquejar el dispositiu, encara podeu protegir més aquest dispositiu fent que demani el PIN abans que s\'engegui. Fins que el dispositiu no es posa en marxa, no pot rebre trucades, missatges, o notificacions, incloses les alarmes.
 
 Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
+  <string name="encryption_progress_summary">"S'està xifrant, no reinicieu el dispositiu."</string>
   <string name="enhanced_4g_lte_mode_summary">Permet fer servir dades de LTE per millorar la veu i les comunicacions (opció recomanada)</string>
   <string name="enhanced_4g_lte_mode_title">Mode 4G LTE millorat</string>
   <string name="enter_password">Introduïu la contrasenya per a desxifrar el dispositiu un cop reiniciat</string>
@@ -2406,6 +2407,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="mtp_ptp_mode_summary">La funció MTP o PTP està activa</string>
   <string name="multi_touch_points_category_title">Punts Multi-toc</string>
   <string name="multi_touch_points_preference">Aquesta configuració s\'aplicarà quan reinicieu el dispositiu</string>
+  <string name="music_app_unavailable">Segons l\'aplicació música, assegureu-vos que estigui disponible</string>
   <string name="music_audio_effect_optimize">Configuració d\'àudio</string>
   <string name="music_audio_effect_optimize_summary">Dirac, auriculars i altres configuracions d\'àudio</string>
   <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD Sound, auriculars i altres configuracions d\'àudio</string>
@@ -2660,6 +2662,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">Cap</string>
   <string name="owner_info_settings_title">Informació del propietari</string>
+  <string name="owner_space">Primer espai</string>
   <string name="packages_subtitle">Paquets inclosos</string>
   <string name="page_layout_1">Diumenge, 16 d\'Agost</string>
   <string name="page_layout_10">Configuració</string>
@@ -3710,6 +3713,7 @@ Per fer-ho:
   <string name="sim_lock_settings_category">Configura el bloqueig de la targeta SIM</string>
   <string name="sim_lock_settings_title">Bloqueig de la targeta SIM</string>
   <string name="sim_management_title">Targetes SIM i xarxes mòbils</string>
+  <string name="sim_management_title_cr_kolbi">Targetes SIM i xarxes mòbils</string>
   <string name="sim_multi_sims_summary">Trieu la SIM per a les dades mòbils.</string>
   <string name="sim_multi_sims_title">S\'han detectat diverses SIM</string>
   <string name="sim_name_hint">Introduïu el nom de la SIM</string>
