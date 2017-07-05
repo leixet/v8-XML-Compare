@@ -280,7 +280,7 @@
   <string name="download_traffic_dialog_position_button_serious">Encara s\'està baixant</string>
   <string name="download_traffic_dialog_title">Avís d\'ús de dades</string>
   <string name="download_traffic_dialog_title_beyond">Límit d\'ús de dades excedit</string>
-  <string name="download_traffic_dialog_title_serious">Resten molt poques dades mòbils</string>
+  <string name="download_traffic_dialog_title_serious">No queden prou dades mòbils</string>
   <string name="download_unknown_title">&lt;Sense títol&gt;</string>
   <string name="download_wait_connect">S\'està esperant la connexió</string>
   <string name="download_when_network_connected">Baixa quan es connecti a internet</string>
@@ -480,7 +480,7 @@
   <string name="metered_play_toast">Utilitzant la connexió de dades mòbils per transmetre</string>
   <string name="metered_play_toast_with_beyond_data">S\'estan utilitzant les dades mòbils per reproduir cançons. S\'ha excedit el límit per %s</string>
   <string name="metered_play_toast_with_data">S\'estan utilitzant les dades mòbils per reproduir cançons, %s restants</string>
-  <string name="metered_serious_alert">Falten molt poques dades mòbils</string>
+  <string name="metered_serious_alert">No queden prou dades mòbils</string>
   <string name="metered_serious_alert_msg_with_beyond_data">"Heu superat el límit de dades mòbils un %s. Voleu utilitzar dades mòbils per reproduir cançons?"</string>
   <string name="metered_serious_alert_msg_with_data">Només queden %s de dades mòbils. Voleu utilitzar dades per reproduir cançons?</string>
   <string name="metered_serious_allow">Reprodueix de totes maneres</string>
