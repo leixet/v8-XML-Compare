@@ -310,6 +310,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="auto_task_notify_task_canceled_title">Acció cancel·lada</string>
   <string name="auto_task_notify_task_continue_do">Inicia l\'acció</string>
   <string name="auto_task_notify_task_count_down">L\'acció automatitzada s\'iniciarà en 5 segons</string>
+  <string name="auto_task_notify_task_exit_task">Surt de la tasca</string>
   <string name="auto_task_operation_airplane_mode">Mode avió</string>
   <string name="auto_task_operation_auto_brightness">Brillantor automàtica</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
@@ -746,6 +747,9 @@ o introdueixi la seva contrasenya"</string>
   <string name="handle_text_cache">Memòria cau</string>
   <string name="handle_text_memory">Memòria</string>
   <string name="handle_text_system">Sistema</string>
+  <string name="handle_title_network">Seguretat del Wi-Fi</string>
+  <string name="handle_title_pay_env">Entorn de pagament</string>
+  <string name="handle_title_privacy">Seguretat de la privadesa</string>
   <string name="header_info_scan_progress">%d%%</string>
   <string name="help_label">Ajuda</string>
   <string name="hide_mode_app_background_setting_text">App d\'estalvi de bateria</string>
@@ -761,6 +765,14 @@ o introdueixi la seva contrasenya"</string>
   <string name="hints_handle_item_text_virus">Virus: %d</string>
   <string name="hints_input_roaming_daily_limit">Introduïu el límit d\'ús de dades</string>
   <string name="hints_last_virus_scan_none">Mai s\'ha escanejat abans</string>
+  <string name="hints_last_virus_scan_risk">Analitzat fa %d dies: Sospitós</string>
+  <string name="hints_last_virus_scan_safe">Analitzat fa %d dies: Segur</string>
+  <string name="hints_last_virus_scan_today_risk">Analitzat avui: Sospitós</string>
+  <string name="hints_last_virus_scan_today_safe">Analitzat avui: Segur</string>
+  <string name="hints_last_virus_scan_today_virus">Analitzat avui: Perillós</string>
+  <string name="hints_last_virus_scan_virus">Analitzat fa %d dies: Perillós</string>
+  <string name="hints_last_virus_scan_yesterday_risk">Analitzat ahir: Sospitós</string>
+  <string name="hints_last_virus_scan_yesterday_safe">Analitzat ahir: Segur</string>
   <string name="hints_loading_text">S\'està carregant&#8230;</string>
   <string name="hints_need_quick_clean">Cercar i eliminar fitxers perillosos</string>
   <string name="hints_need_quick_scan">Es recomana escaneig ràpid</string>
