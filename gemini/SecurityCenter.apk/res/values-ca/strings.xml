@@ -537,7 +537,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="connect_internet_by_usbshare">Connecta a internet usant USB</string>
   <string name="connect_internet_by_wifi">Connecta a internet usant Wi-Fi</string>
   <string name="connecting">S\'està connectant&#8230;</string>
-  <string name="continue_install">Instal·lar</string>
+  <string name="continue_install">Instal·la</string>
   <string name="convenient_mode">Desbloqueja totes les aplicacions alhora</string>
   <string name="convenient_summary">No demanar la contrasenya després d\'haver desbloquejat 1 aplicació</string>
   <string name="correction_attention_dialog_message">S\'estan aplicant els ajustaments. Espereu fins que acabi el procés i torneu a provar.</string>
@@ -829,7 +829,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="ip_address_exception_summary">"No s'ha pogut obtenir l'adreça IP. Si tornes a tenir aquest problema, prova a utilitzar una IP estàtica."</string>
   <string name="item_app_permission">Permisos d\'aplicació</string>
   <string name="item_dev_mode">Opcions de desenvolupament</string>
-  <string name="item_install_monitor">Instal·lar monitor</string>
+  <string name="item_install_monitor">Instal·la monitor</string>
   <string name="item_mms">Filtra missatges no desitjats</string>
   <string name="item_usb_debug">Depuració USB</string>
   <string name="item_virus">Virus</string>
