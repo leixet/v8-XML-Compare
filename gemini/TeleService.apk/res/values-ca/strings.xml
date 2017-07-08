@@ -316,7 +316,7 @@
   <string name="callUnanswered_forwarded">Trucada no contestada i desviada</string>
   <string name="call_advanced_setting_title">Configuració avançada</string>
   <string name="call_background_default">Per defecte</string>
-  <string name="call_background_lock_wallpaper">Fons de pantalla si bloqueig</string>
+  <string name="call_background_lock_wallpaper">Bloca el fons de pantalla</string>
   <string name="call_background_setting">Fons de la trucada</string>
   <string name="call_barring">Restricció de trucades</string>
   <string name="call_barring_sum">Configuració de restricció de trucades de veu</string>
