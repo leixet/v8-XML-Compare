@@ -605,7 +605,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="menu_contacts_filter">Contactes per mostrar</string>
   <string name="menu_copy">Copia</string>
   <string name="menu_copyContact">Copia als meus contactes</string>
-  <string name="menu_create_contact_shortcut">Posar a la pantalla d\'inici</string>
+  <string name="menu_create_contact_shortcut">Afegeix a la pantalla d\'inici</string>
   <string name="menu_deleteContact">Suprimeix el contacte</string>
   <string name="menu_deleteGroup">Elimina</string>
   <string name="menu_dial_ip_number">Marca per trucada IP</string>
@@ -825,7 +825,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="option_not_in_group">Treure</string>
   <string name="option_not_star">Eliminar de favorits</string>
   <string name="option_rename_group">Canviar el nom</string>
-  <string name="option_send_to_desktop">Posar a la pantalla d\'inici</string>
+  <string name="option_send_to_desktop">Afegeix a la pantalla d\'inici</string>
   <string name="option_send_to_others">Reenvia</string>
   <string name="option_view_contact">Veure</string>
   <string name="option_view_group">Veure</string>
