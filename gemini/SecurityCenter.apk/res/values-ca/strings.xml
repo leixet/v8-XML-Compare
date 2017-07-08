@@ -773,6 +773,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="hints_last_virus_scan_virus">Analitzat fa %d dies: Perillós</string>
   <string name="hints_last_virus_scan_yesterday_risk">Analitzat ahir: Sospitós</string>
   <string name="hints_last_virus_scan_yesterday_safe">Analitzat ahir: Segur</string>
+  <string name="hints_last_virus_scan_yesterday_virus">Analitzat ahir: Perillós</string>
   <string name="hints_loading_text">S\'està carregant&#8230;</string>
   <string name="hints_need_quick_clean">Cercar i eliminar fitxers perillosos</string>
   <string name="hints_need_quick_scan">Es recomana escaneig ràpid</string>
@@ -783,7 +784,9 @@ o introdueixi la seva contrasenya"</string>
   <string name="hints_risk_app_list_item_summary">Risc (app)</string>
   <string name="hints_risk_descx_title">Descripció:</string>
   <string name="hints_risk_name_title">Risc:</string>
+  <string name="hints_scan_danger_result">trobat un risc, corretgiu-lo ara</string>
   <string name="hints_scan_progress">S\'ha completat: %d</string>
+  <string name="hints_scan_result_no_finish">L\'anàlisi no està acabada. Cliqueu per reiniciar.</string>
   <string name="hints_scan_result_phone_safe">Tot sembla correcte</string>
   <string name="hints_scan_result_risk">Risc detectat</string>
   <string name="hints_scan_result_safe">Segur</string>
@@ -1274,10 +1277,12 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="power_center_time_to_boot">Hora d\'encesa</string>
   <string name="power_center_time_to_shutdown">Hora d\'apagat</string>
   <string name="power_center_title">Energia</string>
+  <string name="power_consume_hardware_total_format">Maquinari: %s</string>
   <string name="power_consume_other">Un altre</string>
   <string name="power_consume_rank_hardware">Maquinari</string>
   <string name="power_consume_rank_software">Aplicacions</string>
   <string name="power_consume_rank_title">Ús de bateria</string>
+  <string name="power_consume_software_total_format">Aplicacions: %s</string>
   <string name="power_customize_giveup_change">Voleu descartar els canvis?</string>
   <string name="power_dialog_cancel">Cancel·la</string>
   <string name="power_dialog_ok">D\'acord</string>
@@ -1743,6 +1748,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="suffix_virus_count_bottom">total</string>
   <string name="suffix_virus_count_top">riscos</string>
   <string name="suggest_app_tolock">Suggeriments</string>
+  <string name="suggest_scan_again">Es proposa una anàlisi completa per garantir la seguretat.</string>
   <string name="summary_app_lock_disable">Bloquejar aplicacions per protegir la seva privacitat</string>
   <string name="summary_auto_update">MIUI seleccionarà el moment més adequat per baixar i instal·lar actualitzacions.</string>
   <string name="summary_cleaner_cloudscan">Puja i comparar els noms de carpetes desconegudes amb definicions en línia</string>
@@ -2051,6 +2057,7 @@ Dades extres en ús"</string>
   <string name="user_define_title">Afegeix regles</string>
   <string name="virus_ad_icon_text">Anunci</string>
   <string name="virus_already_update">Les definicions estan actualitzades</string>
+  <string name="virus_auto_update_engine">Actualització automàtica:%s</string>
   <string name="virus_dp_update_title">Actualitzacions de les definicions</string>
   <string name="virus_scan">Cerca virus</string>
   <string name="virus_scan_process_pre">%</string>
