@@ -402,7 +402,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="btn_finish_diagnostic">D\'acord</string>
   <string name="btn_jump">Saltar</string>
   <string name="btn_lock">Afegir bloqueig</string>
-  <string name="btn_start_diagnostic">Prova la xarxa</string>
+  <string name="btn_start_diagnostic">Comproveu l\'estat de la xarxa</string>
   <string name="btn_stop_diagnostic">Atura</string>
   <string name="btn_text_already_opened">Encès</string>
   <string name="btn_text_cleanup_all">Neteja</string>
@@ -533,9 +533,9 @@ o introdueixi la seva contrasenya"</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Afegir compte Mi</string>
   <string name="confirm_fingerprint_msg">Col·loqui el dit en el lector d\'empremtes</string>
   <string name="confirm_reject_all_permission">Restringir aquest permís a totes les aplicacions?</string>
-  <string name="connect_internet_by_mobiledata">Connectar a internet usant la xarxa de dades mòbils</string>
-  <string name="connect_internet_by_usbshare">Connectar a internet usant USB</string>
-  <string name="connect_internet_by_wifi">Connectar a internet usant Wi-Fi</string>
+  <string name="connect_internet_by_mobiledata">Connecta a internet usant la xarxa de dades mòbils</string>
+  <string name="connect_internet_by_usbshare">Connecta a internet usant USB</string>
+  <string name="connect_internet_by_wifi">Connecta a internet usant Wi-Fi</string>
   <string name="connecting">S\'està connectant&#8230;</string>
   <string name="continue_install">Instal·lar</string>
   <string name="convenient_mode">Desbloqueja totes les aplicacions alhora</string>
@@ -949,7 +949,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="main_toolbar_firewall">Restricció d\'ús de dades a aplicació</string>
   <string name="main_toolbar_internet_by_mobiledata">Dades mòbils</string>
   <string name="main_toolbar_internet_by_pc_brige">Internet USB</string>
-  <string name="main_toolbar_internet_by_wifi">Connectar a internet usant Wi-Fi</string>
+  <string name="main_toolbar_internet_by_wifi">Connecta a internet usant Wi-Fi</string>
   <string name="main_toolbar_purchase">Recargar</string>
   <string name="main_toolbar_statistic">Estadístiques d\'ús de dades</string>
   <string name="manual_handle_title">CARACTERÍSTIQUES DISPONIBLES</string>
@@ -1059,11 +1059,11 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="msg_update_up">​​Amaga</string>
   <string name="name">Nom</string>
   <string name="network_blocked_connected_open_wifi">Connectat a xarxa pública</string>
-  <string name="network_blocked_notification_summary">Comprovar xarxa</string>
+  <string name="network_blocked_notification_summary">Comproveu l\'estat de la xarxa</string>
   <string name="network_blocked_switch_wifi">Canvia xarxes</string>
-  <string name="network_connected_exception_title">Comprovar xarxa</string>
+  <string name="network_connected_exception_title">Comproveu l\'estat de la xarxa</string>
   <string name="network_control">Veure paràmetres de l\'aplicació</string>
-  <string name="network_diagnostics">Comprovar xarxa</string>
+  <string name="network_diagnostics">Comproveu l\'estat de la xarxa</string>
   <string name="network_mobile_exception_detail">"El dispositiu no es pot connectar a internet:
 
  1. Assegureu-vos que no he superat el límit de dades mòbils del pla del seu operador.
@@ -2051,7 +2051,7 @@ Dades extres en ús"</string>
   <string name="usb_adb_input_apply_step_3">Assegureu-vos que comprèn els riscos relacionats abans de permetre. Permetre ara?</string>
   <string name="usb_install_desc">Voleu instal·lar aquesta aplicació a través d\'USB?</string>
   <string name="usbsharenet_exception_summary">"No es pot comprovar la xarxa si està sent compartida per Mi PC Suite."</string>
-  <string name="usbsharenet_exception_title">Comprovar xarxa compartida per USB</string>
+  <string name="usbsharenet_exception_title">Comproveu la xarxa compartida per USB</string>
   <string name="usbsharenet_pc_exception_summary">"No es pot connectar a Internet mitjançant connexió USB compartida. Comproveu la connexió a Internet de l'ordinador."</string>
   <string name="use_immediately">Utilitza</string>
   <string name="user_define_title">Afegeix regles</string>
@@ -2071,7 +2071,7 @@ Dades extres en ús"</string>
   <string name="website">Pàgina web</string>
   <string name="whitelist_prefix_add_hint">Afegeix tots els números amb prefix a les excepcions</string>
   <string name="wifi_exception_summary">Comprovar connexions de xarxa Wi-Fi disponibles</string>
-  <string name="wifi_exception_title">Comprovar xarxa Wi-Fi</string>
+  <string name="wifi_exception_title">Comproveu l\'estat de la xarxa Wi-Fi</string>
   <string name="wifi_item_status_connection_no">No connectat</string>
   <string name="wifi_item_status_connection_yes">Connectat</string>
   <string name="wifi_item_title_arp_attack">Atacs ARP</string>
