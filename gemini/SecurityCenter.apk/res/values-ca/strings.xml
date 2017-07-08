@@ -1943,7 +1943,7 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="title_virus_no">Virus detectats</string>
   <string name="title_virus_update_no">Actualització automàtica de la definició de virus desactivada</string>
   <string name="title_virus_update_yes">Actualització automàtica de la definició de virus activada</string>
-  <string name="title_virus_yes">No es van detectar virus</string>
+  <string name="title_virus_yes">No s\'han detectat virus</string>
   <string name="title_xiaomi_roaming">Itinerància Mi</string>
   <string name="toast_add_virus_white_list_no_need_repeat">L\'excepció del virus ja existeix</string>
   <string name="toast_add_virus_white_list_success">S\'ha afegit a excepcions. Mostra els elements a la configuració.</string>
