@@ -931,7 +931,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="main_daily_package">Pla de dades diari</string>
   <string name="main_leisure_remained">Dades restants en horari vall</string>
   <string name="main_month_total_used">Usats aquest mes</string>
-  <string name="main_month_used">Usats aquest mes</string>
+  <string name="main_month_used">Pla de dades</string>
   <string name="main_no_info">Sense dades</string>
   <string name="main_normal_data_usage">Dades mòbils utilitzades</string>
   <string name="main_open_traffic_ctrl_button">Restricció d\'ús de dades</string>
