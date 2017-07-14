@@ -617,7 +617,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="bluetooth_is_disconnect_question">Voleu desconnectar %1$s?</string>
   <string name="bluetooth_is_discoverable">Visible a tots els altres dispositius Bluetooth del voltant (%1$s)</string>
   <string name="bluetooth_is_discoverable_always">Sempre visible a tots els dispositius Bluetooth del voltant</string>
-  <string name="bluetooth_is_visible_message">%1$s és visible pels dispositius del voltant, mentre hi ha la configuració de Bluetooth oberta.</string>
+  <string name="bluetooth_is_visible_message">%1$s és visible pels dispositius del voltant, mentre estigui activa la configuració de Bluetooth.</string>
   <string name="bluetooth_lock_voice_dialing">Bloqueja el marcatge per veu</string>
   <string name="bluetooth_lock_voice_dialing_summary">Desactiva el teclat de marcació per Bluetooth quan la pantalla estigui bloquejada</string>
   <string name="bluetooth_map_acceptance_dialog_text">%1$s vol accedir als missatges. Voleu autoritzar a %2$s?</string>
@@ -2539,7 +2539,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="no_updates_warning2">"No us amoïneu, ja us avisarem si hi ha alguna actualització :)"</string>
   <string name="no_vr_listeners">Cap aplicació instal·lada no ha sol·licitat que s\'executi com un servei d\'ajuda per a la realitat virtual.</string>
   <string name="noise_suppression">Supressió de soroll ambiental</string>
-  <string name="normal_smartcover_title">Coberta opaca</string>
+  <string name="normal_smartcover_title">Coberta frontal opaca</string>
   <string name="not_battery_optimizing">No s\'està fent servir l\'optimització de la bateria</string>
   <string name="not_installed">No s\'ha instal·lat per a aquest usuari</string>
   <string name="notes_privacy_password_role_instruction">Les notes privades es desaran aquí.</string>
@@ -2714,7 +2714,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="page_layout_page2_small_title">Molt petita</string>
   <string name="page_layout_page2_title">Previsualització</string>
   <string name="page_layout_small_title">XS</string>
-  <string name="palm_enabled">Gran àrea coberta fora de la pantalla</string>
+  <string name="palm_enabled">Tapeu la pantalla per apagar-la</string>
   <string name="paper_mode_auto_twilight_summary">mode de lectura en mode penombra</string>
   <string name="paper_mode_auto_twilight_title">"Mode penombra"</string>
   <string name="paper_mode_customize_time_summary">planifica de mode de lectura com a temps personalitzat</string>
