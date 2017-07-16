@@ -2869,6 +2869,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="priority_storage_summary">Trieu on es desen les dades d\'usuari</string>
   <string name="priority_storage_title">Configuració d\'emmagatzematge</string>
   <string name="privacy_close_dlg_button_ok">Desactiva</string>
+  <string name="privacy_close_dlg_msg">Quan la contrasenya de protecció de privacitat està desactivada, els elements ja no estaran protegits.</string>
   <string name="privacy_close_dlg_title">Atenció</string>
   <string name="privacy_delete_space_dlg_message">Per canviar la contrasenya de segon espai, cal que elimineu el segon espai actual i crear un de nou.</string>
   <string name="privacy_dlg_button_cancel">Cancel·la</string>
@@ -2910,6 +2911,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="privacy_password_settings_titles_elder_mode">La contrasenya de privacitat protegeix les vostres fotos, fitxers i notes.</string>
   <string name="privacy_password_settings_titles_second_space">La contrasenya de privacitat protegeix els vostres missatges, fotos, fitxers i notes.</string>
   <string name="privacy_password_title">Contrasenya de privacitat</string>
+  <string name="privacy_password_toggle_summary">Demana una contrasenya cada vegada que s\'accedeixi a elements privats.</string>
   <string name="privacy_password_use_finger_dialog_mess">També podeu utilitzar l\'empremta conjuntament amb la contrasenya de protecció.</string>
   <string name="privacy_password_use_finger_dialog_open">Configuració</string>
   <string name="privacy_password_use_finger_dialog_title">Desblocatge amb empremta</string>
@@ -3518,6 +3520,7 @@ Per fer-ho:
   <string name="security_encryption_is_used">Activat</string>
   <string name="security_encryption_progress_dialog_close">S\'està desxifrant&#8230;</string>
   <string name="security_encryption_progress_dialog_open">S\'està xifrant&#8230;</string>
+  <string name="security_encryption_rejected_via_home_manager">"Aquesta funció no és compatible amb la versió de demostració."</string>
   <string name="security_encryption_title">Xifra el dispositiu utilitzant la contrasenya de bloqueig de pantalla</string>
   <string name="security_keyguard_category_name">Pantalla de bloqueig</string>
   <string name="security_password_category_name">Bloqueig de pantalla</string>
