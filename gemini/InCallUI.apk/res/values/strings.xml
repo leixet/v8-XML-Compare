@@ -58,10 +58,13 @@
   <string name="can_not_call_oneself">"Can't call this number"</string>
   <string name="can_not_use">"Can't use"</string>
   <string name="cancel">Cancel</string>
+  <string name="card_title_answering">Answering call</string>
+  <string name="card_title_answering_fail">"Couldn't answer call, try again."</string>
   <string name="card_title_call_ended">"Call ended "</string>
   <string name="card_title_conf_call">Conference call</string>
   <string name="card_title_dialing">Dialing</string>
   <string name="card_title_hanging_up">"Hanging up "</string>
+  <string name="card_title_hanging_up_fail">"Couldn't end call, try again."</string>
   <string name="card_title_hanging_up_restart">"Can't end call. Reboot your device."</string>
   <string name="card_title_hanging_up_weak_signal">Weak mobile network signal. Ending call</string>
   <string name="card_title_in_call">In call</string>
@@ -134,9 +137,6 @@
   <string name="do_not_ask">Dont show again</string>
   <string name="do_not_support_video_calls_by_remote">"Video calls aren't supported on the other device"</string>
   <string name="emergency_call_dialog_number_for_display">Emergency number</string>
-  <string name="fraud_call_answer">Answer</string>
-  <string name="fraud_call_decline">Decline</string>
-  <string name="fraud_call_waring">Be careful: Always verify the identity of the contact by phone or video before responding to any messages involving your personal information.</string>
   <string name="inCallLabel">InCallUI</string>
   <string name="incall_call_type_label_sip">Internet call</string>
   <string name="incall_error_supp_service_conference">"Can't use conference call."</string>
@@ -207,10 +207,6 @@
   <string name="notification_ongoing_call">Ongoing call</string>
   <string name="notification_requesting_video_call">Incoming video request</string>
   <string name="ok">OK</string>
-  <string name="online_check_provider_info">Identified by %s</string>
-  <string name="online_check_provider_name_by_cmb">China Merchants Bank</string>
-  <string name="online_check_warning_info_by_cmb">"Always verify the identity of the person you're speaking with by phone or video before responding to any messages involving your personal information."</string>
-  <string name="online_check_warning_type_by_cmb">Spam</string>
   <string name="onscreenEndCallText">End</string>
   <string name="onscreen_add_call_text">Add call</string>
   <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
