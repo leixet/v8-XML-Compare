@@ -1718,6 +1718,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="got_it">D\'acord</string>
   <string name="gsm_to_wifi_connect_type_title">GSM a Wi-Fi</string>
   <string name="handy_mode">Disposició per a una sola mà</string>
+  <string name="handy_mode_enable">Operació amb una mà</string>
   <string name="handy_mode_size">Mida de la pantalla</string>
   <string name="handy_mode_tips">Feu lliscar a l\'esquerra o a la dreta des del botó Home per acostar la pantalla a un costat o a un altre.</string>
   <string name="haptic_feedback_enable_title">Vibra en tocar</string>
@@ -2867,6 +2868,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="priority_storage_settings_summary">"Si no es detecta cap SD, les dades d'usuari seran guardades de forma automàtica a l'emmagatzematge intern del dispositiu"</string>
   <string name="priority_storage_summary">Trieu on es desen les dades d\'usuari</string>
   <string name="priority_storage_title">Configuració d\'emmagatzematge</string>
+  <string name="privacy_close_dlg_button_ok">Desactiva</string>
+  <string name="privacy_close_dlg_title">Atenció</string>
   <string name="privacy_delete_space_dlg_message">Per canviar la contrasenya de segon espai, cal que elimineu el segon espai actual i crear un de nou.</string>
   <string name="privacy_dlg_button_cancel">Cancel·la</string>
   <string name="privacy_factory_reset_dlg_button_text">Còpia de seguretat de les dades</string>
