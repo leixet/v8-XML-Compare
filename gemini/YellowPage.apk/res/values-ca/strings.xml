@@ -138,8 +138,10 @@ Comproveu el número de seguiment."</string>
   <string name="express_inquiry_status_return">En devolució</string>
   <string name="express_inquiry_status_sign_out">S\'ha rebutjat</string>
   <string name="express_inquiry_status_unknown">Desconegut</string>
+  <string name="express_install_cainiao_description">%s requereix la instal·lació de Cainiao. Voleu instal·lar-lo ara?</string>
   <string name="express_install_cainiao_ok">Baixa</string>
   <string name="express_install_cainiao_title">Instal·la l\'aplicació Cainiao</string>
+  <string name="express_install_delivery_service">Servei de repartiment</string>
   <string name="express_location_failed">"No se us ha pogut ubicar. Introduïu la vostra adreça."</string>
   <string name="express_more_service">Més serveis</string>
   <string name="express_no_address">Buit</string>
