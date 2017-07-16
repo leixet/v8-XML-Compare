@@ -54,10 +54,18 @@
   <string-array name="sort_type">
     <item>Ordena pel nom</item>
     <item>Ordena per la mida</item>
-    <item>Usage frequency</item>
-    <item>Used storage</item>
-    <item>Data usage</item>
-    <item>Battery usage</item>
+    <item>Freqüència d\'ús</item>
+    <item>Emmagatzematge utilitzat</item>
+    <item>Ús de dades</item>
+    <item>Ús de bateria</item>
+  </string-array>
+  <string-array name="sort_title">
+    <item>Ordena per estat</item>
+    <item>Ordena pel nom de l\'aplicació</item>
+    <item>Ordenar per freqüència d\'ús</item>
+    <item>Ordena per emmagatzematge d\'ús</item>
+    <item>Ordena per l\'ús de dades</item>
+    <item>Ordena per l\'ús de la bateria</item>
   </string-array>
   <string-array name="sms_report_type">
     <item>Ús de dades</item>
