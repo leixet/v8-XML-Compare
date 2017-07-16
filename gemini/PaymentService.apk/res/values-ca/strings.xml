@@ -163,6 +163,14 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_msg_telecom_picker_hint_2_1">S\'ha notificat al vostre proveïdor de xarxa!</string>
   <string name="mibi_msg_telecom_picker_hint_2_2">En breu rebreu una confirmació de text.</string>
   <string name="mibi_msg_telecom_sending">S\'està contactant amb el proveïdor de xarxa&#8230;</string>
+  <string name="mibi_order_balance_lable">Crèdits Mi</string>
+  <string name="mibi_order_balance_lable_append">Crèdits Mi + cupó</string>
+  <string name="mibi_order_balance_title">Els meus Crèdits Mi</string>
+  <string name="mibi_order_no_use_balance">Sense ús</string>
+  <string name="mibi_order_pay_back">Confirmar</string>
+  <string name="mibi_order_pay_type">Forma de pagament</string>
+  <string name="mibi_order_pay_type_title">Seleccioneu el mètode de pagament</string>
+  <string name="mibi_order_title">Pagament</string>
   <string name="mibi_other_denomiantion">Seleccioneu la quantitat</string>
   <string name="mibi_partner_giftcard_payment_with_append">Aplica %1$s</string>
   <string name="mibi_password_error">Contrasenya incorrecta.</string>
