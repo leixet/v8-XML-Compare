@@ -634,7 +634,6 @@ Intents realitzats: %s"</string>
   <string name="unsticked_conversation">Conversa alliberada</string>
   <string name="unsupported_media_format">El format %1$s no està suportat.</string>
   <string name="url_fraud_dangerous_alert">"La pàgina web a la que esteu intentant accedir pot ser perillosa. Possiblement podria malmetre el dispositiu i les dades. Voleu accedir a %s de totes maneres?"</string>
-  <string name="url_fraud_insurance">Segur de frau</string>
   <string name="url_fraud_risky_alert">"La pàgina web a la que esteu intentant accedir pot ser perillosa. Voleu accedir a %s de totes maneres?"</string>
   <string name="url_fraud_title">El lloc web pot ser fals</string>
   <string name="url_fraud_visit">Accedeix de totes maneres</string>
