@@ -902,7 +902,6 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="clear_uri_btn_text">Esborra l\'accés</string>
   <string name="clear_user_data_text">Suprimeix les dades</string>
   <string name="close_gesture">Tanca amb un gest</string>
-  <string name="close_install_and_connect">No, gràcies</string>
   <string name="close_miui_optimization_title">Atura la optimització de MIUI</string>
   <string name="close_miui_optimization_warning_message">El dispositiu arrencarà de nou per aplicar els canvis.</string>
   <string name="cmcc_hardware_version">Versió del maquinari</string>
@@ -965,7 +964,6 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="confirm_erase">Esborra</string>
   <string name="confirm_fingerprint_icon_content_description">Utilitza l\'empremta per a continuar.</string>
   <string name="confirm_fingerprint_msg">Recolza el dit a l\'escàner d\'empremtes</string>
-  <string name="confirm_install_and_connect">Instal·la i connecta</string>
   <string name="confirm_new_backup_pw_prompt">Torneu a escriure la nova contrasenya de la còpia de seguretat completa</string>
   <string name="confirm_privacy_password">Introduïu la contrasenya de privacitat</string>
   <string name="confirm_privacy_password_fingerprint">Escanegeu l\'empremta o introduïu la contrasenya de privacitat</string>
@@ -1298,8 +1296,6 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="disable_service_message">Fent clic \"D\'acord\" aturarà %1$s.</string>
   <string name="disable_service_title">Voleu aturar %1$s?</string>
   <string name="disable_text">Desactiva</string>
-  <string name="disable_wifi_master_key_service">Desactiva</string>
-  <string name="disable_wifi_master_key_service_first">Desactiva</string>
   <string name="disabled">S\'ha desactivat</string>
   <string name="disabled_because_no_backup_security">Per utilitzar-lo, heu de configurar un bloqueig de pantalla</string>
   <string name="disabled_by_admin">Desactivat per l\'administrador</string>
@@ -1465,8 +1461,6 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="enable_webview_multiprocess">WebView amb multiprocés</string>
   <string name="enable_webview_multiprocess_desc">Executa els renderitzadors de WebView per separat</string>
   <string name="enable_wifi_display">Activa la pantalla sense fils</string>
-  <string name="enable_wifi_master_key_service">Activa la clau mestra de la Wi-Fi</string>
-  <string name="enable_wifi_master_key_service_first">Activa</string>
   <string name="enabled_by_admin">Activat per l\'administrador</string>
   <string name="encrypt_dont_require_password">No, gràcies</string>
   <string name="encrypt_dont_require_pattern">No, gràcies</string>
@@ -1724,7 +1718,6 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="got_it">D\'acord</string>
   <string name="gsm_to_wifi_connect_type_title">GSM a Wi-Fi</string>
   <string name="handy_mode">Disposició per a una sola mà</string>
-  <string name="handy_mode_enter_ask">Demana\'m si vull activar el mode Operació per a una sola mà</string>
   <string name="handy_mode_size">Mida de la pantalla</string>
   <string name="handy_mode_tips">Feu lliscar a l\'esquerra o a la dreta des del botó Home per acostar la pantalla a un costat o a un altre.</string>
   <string name="haptic_feedback_enable_title">Vibra en tocar</string>
@@ -1813,7 +1806,6 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="install_all_warning">El telèfon i les dades personals són més vulnerables a atacs per part d\'aplicacions d\'orígens desconeguts. L\'usuari accepta ser l\'únic responsable de qualsevol dany que es produeixi al telèfon o de la pèrdua de dades que puguin resultar de l\'ús d\'aquestes aplicacions.</string>
   <string name="install_applications">Orígens desconeguts</string>
   <string name="install_applications_title">Permet tots els orígens de les aplicacions</string>
-  <string name="install_master_key_and_connect">Podeu connectar-vos a aquesta xarxa Wi-Fi utilitzant la clau mestra. Voleu instal·lar aquesta eina?</string>
   <string name="install_no_market_app_summary">Permet la instal·lació d\'aplicacions d\'origen desconegut</string>
   <string name="install_no_market_app_title">Orígens desconeguts</string>
   <string name="install_preinstall_app">S\'estan carregant les aplicacions&#8230;</string>
@@ -3668,8 +3660,6 @@ Per fer-ho:
   <string name="show_touches">Mostra els tocs</string>
   <string name="show_touches_summary">Mostra la ubicació dels tocs a la pantalla</string>
   <string name="show_user_info_on_lockscreen_label">Mostra informació del propietari a la pantalla de bloqueig</string>
-  <string name="show_wifi_master_key_summary">Connectar-se a xarxes Wi-Fi compartides utilitzant la clau mestra de la Wi-Fi</string>
-  <string name="show_wifi_master_key_title">Detecta les xarxes Wi-Fi compartides</string>
   <string name="shut_down_find_device_failure_confirm">D\'acord</string>
   <string name="shut_down_find_device_network_failure_content">"No s'ha pogut apagar Localitza el dispositiu. Assegureu-vos que el dispositiu és connectat a Internet."</string>
   <string name="shut_down_find_device_network_failure_title">"No s'ha pogut connectar a la xarxa"</string>
@@ -4220,7 +4210,6 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="uninstall_protected_dlg_msg">En desinstal·lar les aplicacions del sistema pot impedir que alguns components de MIUI funcionin correctament. Voleu desinstal·lar-la de totes maneres?</string>
   <string name="uninstall_protected_dlg_title">Desinstal·lació d\'aplicacions del sistema</string>
   <string name="uninstall_text">Desinstal·la</string>
-  <string name="uninstall_wifi_master_key">Desinstal·la la clau mestra de la Wi-Fi</string>
   <string name="uninstall_with_xspace_app_dlg_msg">Les aplicacions duals es suprimiran conjuntament amb les dades de l\'aplicació.</string>
   <string name="uninstall_xspace_app_dlg_msg">Si desinstal·leu les aplicacions duals, es suprimiran totes les dades de l\'aplicació.</string>
   <string name="uninstall_xspace_app_dlg_title">Voleu desinstal·lar l\'aplicació dual?</string>
@@ -4383,7 +4372,6 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="use_privacy_password_immediate">Utilitza</string>
   <string name="use_system_language_to_select_input_method_subtypes">Utilitza l\'idioma del sistema</string>
   <string name="use_this_wlan">Roman connectat</string>
-  <string name="use_wifi_master_key_summary">Connecta utilitzant la clau mestra de la Wi-Fi</string>
   <string name="user_account_title">Compte per al contingut</string>
   <string name="user_add_max_count">Podeu afegir fins a %1$d usaris</string>
   <string name="user_add_on_lockscreen_menu">Afegeix usuaris quan el dispositiu és bloquejat</string>
@@ -4814,12 +4802,6 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_ip_settings_menu_cancel">Cancel·la</string>
   <string name="wifi_ip_settings_menu_save">Desa</string>
   <string name="wifi_limit_optimizations_summary">Limita la bateria utilitzada pel Wi-Fi</string>
-  <string name="wifi_master_key_dialog_content_master_key">Clau mestra de la Wi-Fi</string>
-  <string name="wifi_master_key_dialog_content_password">Contrasenya</string>
-  <string name="wifi_master_key_dialog_title">Connecta mitjançant</string>
-  <string name="wifi_master_key_name">Clau mestra de la Wi-Fi</string>
-  <string name="wifi_master_key_service_dialog_content">"La clau mestra de la Wi-Fi és un servei gratuït que proporciona les contrasenyes de les xarxes Wi-Fi compartides. La clau mestra Wi-Fi no compartirà la contrasenya de la xarxa."</string>
-  <string name="wifi_master_key_service_dialog_title">Xarxes Wi-Fi compartides</string>
   <string name="wifi_menu_advanced">Avançat</string>
   <string name="wifi_menu_configure">Configuració</string>
   <string name="wifi_menu_connect">Connecta a la xarxa</string>
