@@ -48,9 +48,7 @@
   <string name="accessibility_phone_three_bars">Tlf. 3 barres.</string>
   <string name="accessibility_phone_two_bars">Tlf. 2 barres.</string>
   <string name="accessibility_recent">Aplicacions recents</string>
-  <string name="accessibility_recent_task_enter">Recentment obertes, aplicacions disponibles: %d.</string>
   <string name="accessibility_recent_task_exit">Tancades recentment</string>
-  <string name="accessibility_recent_task_first_enter_tips">Obertes fa poc, aplicacions disponibles: %d. Llisqueu amunt per eliminar-la, llisqueu avall per bloquejar-la.</string>
   <string name="accessibility_recent_task_locked">Bloquejada, feu lliscar cap avall per desbloquejar-la.</string>
   <string name="accessibility_recent_task_memory_info">RAM total: %2$s | RAM disponible: %1$s. Toqueu dues vegades per netejar-la.</string>
   <string name="accessibility_recent_task_unlocked">Desbloquejada</string>
@@ -102,7 +100,6 @@
   <string name="battery_profiles">Perfils d\'ús de bateria</string>
   <string name="block_notification_content_text">"%1$s notificacions no es mostraran de nou. Podeu canviar això a la configuració."</string>
   <string name="block_notification_text">​​Amaga</string>
-  <string name="block_record_notification_more_text">Ocultant notificacions de %1$s i %2$d aplicacions.</string>
   <string name="block_record_notification_text">Ocultant notificacions de %1$s.</string>
   <string name="block_record_notification_title">Notificacions ocultes</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Connectat a l\'àudio multimèdia</string>
@@ -462,7 +459,6 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="settings_custom_notification">Administrar notificacions</string>
   <string name="settings_toggle_position">Administrar Commutadors</string>
   <string name="settings_toggle_position_divider_list">Els commutadors sobre d\'aquesta barra estan actius</string>
-  <string name="settings_toggle_position_divider_page">%1$d commutadors sobre d\'aquesta barra estan actius</string>
   <string name="settings_toggle_position_reset">Restablir commutadors</string>
   <string name="share">Compartir</string>
   <string name="show_all_anrs">Mostra totes les aplicacions que no responen</string>
