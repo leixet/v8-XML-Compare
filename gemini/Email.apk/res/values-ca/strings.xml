@@ -205,7 +205,7 @@
   <string name="attachment_video">Vídeo</string>
   <string name="attachments_header">Fitxers adjunts</string>
   <string name="auto_advance_help_title">Després d\'eliminar un missatge, consulta&#8230;</string>
-  <string name="auto_advance_label">Avanç automàtic</string>
+  <string name="auto_advance_label">Elimina el flux de missatges</string>
   <string name="auto_advance_summary">Trieu quin missatge es mostrarà després d\'eliminar un missatge</string>
   <string name="auto_mail_describe">El servei de correu electrònic de configuració automàtica li pot ajudar a emplenar la informació d\'inici de sessió a la bustia de correu 139. Voleu activar aquesta funció?</string>
   <string name="auto_mail_disable_txt">Desactivat</string>
