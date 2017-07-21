@@ -27,7 +27,7 @@
   </string-array>
   <string-array name="date_calculate_spinner">
     <item>Cap endavant</item>
-    <item>Cap enrere</item>
+    <item>Cap endarrere</item>
   </string-array>
   <string-array name="default_reminder_labels">
     <item>A l\'hora de l\'esdeveniment</item>
