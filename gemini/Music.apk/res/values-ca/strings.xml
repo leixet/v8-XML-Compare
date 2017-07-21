@@ -94,7 +94,6 @@
   <string name="being_disable_auto_payment">S\'està apagant&#8230;</string>
   <string name="being_enable_auto_payment">S\'està engegant&#8230;</string>
   <string name="bill_list_fragment_title">Llistes</string>
-  <string name="billboard_song_subtitle">— %s</string>
   <string name="bluetooth_device">Dispositiu d\'àudio Bluetooth</string>
   <string name="buffering">S\'està omplint la memòria intermèdia&#8230;</string>
   <string name="button_add">Afegeix</string>
