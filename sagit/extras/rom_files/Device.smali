@@ -1300,7 +1300,7 @@
 .method public static isReleaseLaterForGallery()Z
     .locals 1
 
-    const/4 v0, 0x0
+    const/4 v0, 0x1
 
     return v0
 .end method
@@ -1927,6 +1927,26 @@
     sget-boolean v0, Lcom/android/camera/Device;->IS_H3C:Z
 
     return v0
+.end method
+
+.method public static isSupportedTeleAsdNight()Z
+    .locals 1
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_D2:Z
+
+    if-eqz v0, :cond_0
+
+    invoke-static {}, Lcom/android/camera/Device;->isSupportedAsdNight()Z
+
+    move-result v0
+
+    :goto_0
+    return v0
+
+    :cond_0
+    const/4 v0, 0x0
+
+    goto :goto_0
 .end method
 
 .method public static isSupportedTiltShift()Z
