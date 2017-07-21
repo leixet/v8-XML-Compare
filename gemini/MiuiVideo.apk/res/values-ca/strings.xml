@@ -141,7 +141,7 @@
   <string name="download_paused">Pausat</string>
   <string name="download_percent_hint">S\'està baixant %d%%</string>
   <string name="download_progress_0p">0%</string>
-  <string name="download_queue">Recuperant direcció</string>
+  <string name="download_queue">S\'està obtenint informació&#8230;</string>
   <string name="download_running">Descarregant</string>
   <string name="download_start_message">Voleu baixar i instal·lar %1$s?</string>
   <string name="download_task_with">%d tasques</string>
