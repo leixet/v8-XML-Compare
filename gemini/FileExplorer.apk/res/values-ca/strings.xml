@@ -7,7 +7,6 @@
   <string name="activity_parse_video_title">Enganxa l\'enllaç de vídeo</string>
   <string name="ad_download">Baixada</string>
   <string name="ad_downloading">Un moment&#8230;</string>
-  <string name="add_follow">Segueix</string>
   <string name="add_one">+1</string>
   <string name="add_private">Amaga els fitxers ara</string>
   <string name="add_private_files">Afegeix fitxers</string>
@@ -85,20 +84,6 @@
   <string name="change_sticker">Seleccioneu un altre emoticona</string>
   <string name="choose_report_comment_reason">Per què esteu enviant aquest comentari?</string>
   <string name="choose_report_reason">Per què reporta aquest clip de vídeo?</string>
-  <string name="claim_no_video">No hi ha vídeos per reclamar</string>
-  <string name="claim_operation_too_frequently">S\'han produït massa intents! Torneu-ho a provar més tard.</string>
-  <string name="claim_remind_dialog_cancel">Mostra altres vídeos</string>
-  <string name="claim_remind_dialog_confirm">Roman</string>
-  <string name="claim_remind_dialog_message">"No podreu reclamar aquest vídeo si torneu"</string>
-  <string name="claim_remind_dialog_title">Atenció</string>
-  <string name="claim_video">Reclama</string>
-  <string name="claim_video_already_claimed">Aquest vídeo ja s\'ha reclamat. Sigueu més ràpid la pròxima vegada!</string>
-  <string name="claim_video_already_locked">Reclamat</string>
-  <string name="claim_video_failure">"No s'ha pogut reclamar, torneu-hi"</string>
-  <string name="claim_video_locking">S\'està reclamant&#8230;</string>
-  <string name="claim_video_over">S\'ha reclamat massa vegades avui, torneu demà!</string>
-  <string name="claim_video_success">S\'ha reclamat amb èxit</string>
-  <string name="claim_video_unlogin">Inicieu sessió per reclamar vídeos</string>
   <string name="clean_hint">Tocar per alliberar espai</string>
   <string name="clear_record">Neteja l\'historial</string>
   <string name="click_login_str">Inicia la sessió</string>
@@ -108,8 +93,6 @@
   <string name="clockin_failed">"No s'ha pogut comprovar, torneu-ho a provar"</string>
   <string name="clockin_success">S\'ha comprovat amb èxit</string>
   <string name="clockin_use">Obtén un premi</string>
-  <string name="comment_added">S\'ha afegit correctament</string>
-  <string name="comment_added_tip">"Esteu afegint molts comentaris. Voleu seguir a aquesta persona?"</string>
   <string name="comment_delete_message">El comentari se suprimirà permanentment.</string>
   <string name="comment_delete_title">Elimina el comentari</string>
   <string name="comment_fail">"No s'ha pogut publicar el comentari, torneu-ho a provar"</string>
@@ -182,7 +165,6 @@
   <string name="disk_total">Total:</string>
   <string name="dislike_toast">"Aquests vídeos no són recomanables per a vostè."</string>
   <string name="dislike_video">"No m’interessa"</string>
-  <string name="dlg_error_unmount_text">"No s'ha pogut desmuntar l'emmagatzematge USB."</string>
   <string name="download">Baixa</string>
   <string name="download_fail">"No s'ha pogut baixar"</string>
   <string name="downloaded_sticker_str">Baixat</string>
@@ -197,15 +179,13 @@
   <string name="encrypt_success">Ocultats correctament</string>
   <string name="encrypt_success_first_five">"Encriptat i ocultat. Tira cap avall a la pantalla d'inici del Explorador per veure els fitxers."</string>
   <string name="encrypting">Encriptant&#8230;</string>
-  <string name="error_contains_sharer_path">"No es pot encriptar fitxers a la carpeta /MIUI/Gallery/cloud/sharer. Mogui'ls a un altre lloc i intenti de nou."</string>
+  <string name="error_contains_sharer_path">No es pot encriptar fitxers a la carpeta /MIUI/Gallery/cloud/sharer. Mogui\'ls a un altre lloc i intenti de nou.</string>
   <string name="error_filename_too_long">El nom de fitxer introduït és massa llarg.</string>
   <string name="error_info_cant_send_folder">"No es pot enviar aquest tipus de fitxer."</string>
   <string name="error_open_file_failed_no_app_found">No s\'ha trobat cap aplicació per realitzar aquesta acció.</string>
   <string name="extended_storage_file_can_not_open">"No es va poder obrir el fitxer. Copiï el fitxer a l'emmagatzematge intern primer."</string>
   <string name="extract">Extreure</string>
-  <string name="fail_to_create_folder">No hi ha prou espai o la carpeta ja existeix.</string>
   <string name="fail_to_create_folder_unknown">"No es pot crear la carpeta"</string>
-  <string name="fail_to_rename">Ja existeix un fitxer amb el mateix nom.</string>
   <string name="favorite_photo">Fotos</string>
   <string name="favorite_ringtone">Tons de trucada</string>
   <string name="favorite_screen_cap">Captures de pantalla</string>
@@ -256,7 +236,6 @@
   <string name="handsome_boy">Masculí</string>
   <string name="has_installed">Instal·lat</string>
   <string name="homepage_tab_category">Categories</string>
-  <string name="homepage_tab_file_view">Emmagatzematge</string>
   <string name="homepage_tab_recent">Recents</string>
   <string name="hot_comments">Comentaris populars</string>
   <string name="hot_sticker">Emoticones</string>
@@ -271,7 +250,6 @@
   <string name="install_fail">"No s'ha pogut instal·lar"</string>
   <string name="installing">Instal·lant&#8230;</string>
   <string name="instruction">Introduïu la següent adreça en un client FTP:</string>
-  <string name="instruction_pre">Tocar per iniciar el servidor FTP</string>
   <string name="interest_recommend">Vídeos recomanats</string>
   <string name="is_playing">S\'està reproduint&#8230;</string>
   <string name="just_now">ara</string>
@@ -349,7 +327,6 @@
   <string name="network_spent_reminding_title">Notificació d\'ús de dades</string>
   <string name="new_comments">Nous comentaris</string>
   <string name="new_folder_name">Carpeta sense nom</string>
-  <string name="next_time">Ara no</string>
   <string name="no">No</string>
   <string name="no_apk">Toqui per obtenir aplicacions.</string>
   <string name="no_app_tags">Buit</string>
@@ -373,19 +350,10 @@
   <string name="not_installed_documentsui">DocumentsUI no està instal·lat</string>
   <string name="notif_server_starting">Iniciant servidor FTP&#8230;</string>
   <string name="notif_title">El servidor FTP està funcionant</string>
-  <string name="notification_content_hint">Veure vídeos de WeChat que estan a punt d\'expirar</string>
   <string name="notification_dialog_confirm">D\'acord</string>
   <string name="notification_dialog_content">Notificar automàticament i organitzar quan s\'afegeixin o canviïn fitxers a %1$s.</string>
   <string name="notification_dialog_title">Notificacions</string>
-  <string name="notification_setting">Notificacions</string>
-  <string name="notification_title">Quan %1$s crea un fitxer</string>
-  <string name="notification_wechat_auto_backup_hint">Premi per saber-ne més</string>
-  <string name="notification_wechat_auto_backup_switch_title">Backup de vídeos WeChat</string>
   <string name="notification_wechat_expired_empty">WeChat ja ha eliminat aquests vídeos.</string>
-  <string name="notification_wechat_sticker_hint">Mostra una notificació quan nous emoticones WeChat estan disponibles</string>
-  <string name="notification_wechat_title">Notificacions de vídeos WeChat</string>
-  <string name="notify_private_folder_msg">Toca per saber més.</string>
-  <string name="notify_private_folder_title">Crear carpetes ocultes</string>
   <string name="oauth_failed_tip">"No es va poder completar l'autorització"</string>
   <string name="one_account_bind_needed">Afegiu com a mínim un compte</string>
   <string name="online_not_support">"No es pot veure aquest fitxer en línia de moment."</string>
@@ -486,7 +454,6 @@
   <string name="private_folder_no_file_hints">No hi ha arxius amagats.</string>
   <string name="private_folder_update">S\'estan actualitzant els fitxers ocults&#8230;</string>
   <string name="private_toast_hint2">Per amagar un fitxer, prem i manté, després afegeix-ho a una carpeta oculta.</string>
-  <string name="private_toast_hint3">Tira per obrir les carpetes ocultes</string>
   <string name="prize_result_tip">Intercanvia</string>
   <string name="prize_result_tip2">Les gemes van al vostre tresor</string>
   <string name="promot_enctypt_password">Introduïu la contrasenya utilitzada per desblocar el vostre dispositiu</string>
@@ -628,12 +595,10 @@
   <string name="storage_sd_card">Targeta SD</string>
   <string name="storage_usb">Emmagatzematge USB</string>
   <string name="storage_warning">"No es pot utilitzar emmagatzematge extern"</string>
-  <string name="support_mtp">L\'MTP aviat serà compatible</string>
   <string name="swap_tip_1">Llisqueu a l\'esquerra o a la dreta</string>
   <string name="swap_tip_2">per veure altres vídeos</string>
   <string name="sys_size_enable">" disponible"</string>
   <string name="tab_category">Categories</string>
-  <string name="tab_claim">Reclama</string>
   <string name="tab_common_app">Aplicacions bàsiques</string>
   <string name="tab_discover">Descobreix</string>
   <string name="tab_explore">Descobreix</string>
@@ -677,7 +642,6 @@
   <string name="unlock_pattern_msg">La contrasenya també protegeix fotos i missatges.</string>
   <string name="unlock_pattern_title">Nova contrasenya</string>
   <string name="unlogin">Inicieu primer la sessió</string>
-  <string name="unmount_inform_text">Desmuntar l\'emmagatzematge USB?</string>
   <string name="unreviewed_video_cannot_share">Els vídeos han de ser ressenyats abans de ser compartits</string>
   <string name="update_failed">"No s'ha pogut desar, intenteu-ho de nou"</string>
   <string name="update_loading">S\'està desant&#8230;</string>
@@ -748,8 +712,6 @@
   <string name="user_setting_new_liked_tip">"Se us notificarà quan a algú li agradi els vostres comentaris o vídeos"</string>
   <string name="user_setting_play_num">Notificacions de visualitzacions</string>
   <string name="user_setting_play_num_tip">"Rebreu notificacions sobre el número de visualitzacions que tenen els vostres vídeos"</string>
-  <string name="user_setting_topic_new_msg">Notificacions sobre temes</string>
-  <string name="user_setting_topic_new_msg_tip">"Se us notificarà sobre nous vídeos de temes que seguiu"</string>
   <string name="user_setting_video_has_hot_comment">Notificacions sobre comentaris populars</string>
   <string name="user_setting_video_has_hot_comment_tip">"Rebreu notificacions quan els vostres vídeos rebin comentaris populars"</string>
   <string name="user_sex">Sexe</string>
@@ -788,7 +750,6 @@
   <string name="video_publish_origin_tag">Etiqueta original</string>
   <string name="video_publish_watchable_limit">Podeu fer això un parell de vegades al dia</string>
   <string name="video_publish_watchable_tag">Seguiu-me per veure aquest vídeo</string>
-  <string name="video_recommend_upload">Recomanat</string>
   <string name="video_status_reject">Rebutjat</string>
   <string name="video_status_review">Sent ressenyat</string>
   <string name="video_tag">\#%s#</string>
@@ -798,7 +759,6 @@
   <string name="video_topic_hint">Cerca</string>
   <string name="video_upload_btn">Següent</string>
   <string name="video_upload_btn_hint">Els vídeos MP$ hauran de tenir de 3s~10min de durada</string>
-  <string name="video_upload_item_more">Més (%1$s)</string>
   <string name="video_upload_item_title">%1$s (%2$s)</string>
   <string name="video_upload_kuaishou_hint">Pugeu vídeos a KuaiShou per aconseguir més admiradors.</string>
   <string name="video_upload_retry_confirm">Intentar de nou</string>
@@ -835,9 +795,5 @@
   <string name="you_liao_goddess_str">Senyora</string>
   <string name="you_liao_xunlei_desc">Signeu un contracte amb nosaltres per obtenir l\'estat d\'Amfitrió</string>
   <string name="you_liao_xunlei_str">Amfitrió Xunlei</string>
-  <string name="youliao_ad_msg">"Gaudiu amb «Youliao»! 
-Formeu part dels 170 milions de Mi Fans!"</string>
-  <string name="youliao_ad_title">S\'han actualitzat els vídeos populars!</string>
-  <string name="youliao_ad_update">Actualitza</string>
   <string name="youliao_master_rank">Top de Youliao</string>
 </resources>
