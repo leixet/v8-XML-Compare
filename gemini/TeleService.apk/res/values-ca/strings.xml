@@ -379,7 +379,7 @@
   <string name="card_title_cugcall">Trucada CUG</string>
   <string name="card_title_deflectedcall">Trucada desviada</string>
   <string name="card_title_dialing">Marcatge</string>
-  <string name="card_title_forwardcheckreceived">Trucada desviada comprovaa &amp; rebuda</string>
+  <string name="card_title_forwardcheckreceived">S\'ha rebut la comprovació del desviament</string>
   <string name="card_title_forwarded_MTcall">Trucada entrant reenviada</string>
   <string name="card_title_hanging_up">Penjar</string>
   <string name="card_title_in_call">Trucada en curs</string>
