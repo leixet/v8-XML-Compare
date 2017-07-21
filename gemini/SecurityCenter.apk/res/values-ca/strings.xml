@@ -447,6 +447,9 @@ o introdueixi la seva contrasenya"</string>
   <string name="convenient_summary">No demanar la contrasenya després d\'haver desbloquejat 1 aplicació</string>
   <string name="correction_attention_dialog_message">S\'estan aplicant els ajustaments. Espereu fins que acabi el procés i torneu a provar.</string>
   <string name="cpu_usage_android_system">Sistema Android</string>
+  <string name="cpu_usage_app_bg_restrict_no_limit">"Sense restriccions"</string>
+  <string name="cpu_usage_app_bg_restrict_partly">Després de %s</string>
+  <string name="cpu_usage_app_bg_restrict_partly_short">Després de%s</string>
   <string name="cta_dialog_msg">El centre de seguretat pot connectar a Internet per obtenir actualitzacions.</string>
   <string name="cta_dialog_title">Termes i condicions.</string>
   <string name="cta_settings">Permet la connexió a internet</string>
