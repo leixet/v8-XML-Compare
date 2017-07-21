@@ -3,7 +3,7 @@
 <resources>
   <string name="ACaddnumcontent">Introduïu el codi d\'àrea</string>
   <string name="ACaddnumtitle">Afegiu el prefix de número de telèfon a les excepcions</string>
-  <string name="AD_ALLOW">Permeteu anuncis</string>
+  <string name="AD_ALLOW">Permet anuncis</string>
   <string name="AD_APPInfo">Informació de l\'aplicació</string>
   <string name="AD_AntiSpam">Bloquejador d\'anuncis</string>
   <string name="AD_BLOCK">Bloquejador d\'anuncis</string>
