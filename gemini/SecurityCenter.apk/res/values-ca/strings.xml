@@ -526,8 +526,6 @@ o introdueixi la seva contrasenya"</string>
   <string name="dlg_remove_address_whitelist">Voleu eliminar aquesta ubicació de les excepcions?</string>
   <string name="dlg_remove_blacklist">Voleu eliminar aquests números de la llista de bloqueig?</string>
   <string name="dlg_remove_blacklist_ing">S\'està eliminant&#8230;</string>
-  <string name="dlg_remove_blacklist_ok">Suprimeix</string>
-  <string name="dlg_remove_whitelist_content">Voleu eliminar aquests números de les excepcions?</string>
   <string name="dlg_remove_whitelist_ing">S\'està eliminant&#8230;</string>
   <string name="dlg_remove_whitelist_title">Suprimeix</string>
   <string name="dlg_title_not_open_stranger_identify">Identifica els desconeguts</string>
@@ -672,7 +670,6 @@ o introdueixi la seva contrasenya"</string>
   <string name="keywords_networkassistant_1">Dades;Trànsit</string>
   <string name="keywords_networkassistant_2">Dades;Calibrar</string>
   <string name="keywords_networkassistant_4">Connexió;Internet;Prova</string>
-  <string name="keywords_payment_security">Comprova la seguretat del pagament;seguretat del pagament;pagament segur;pagaments segurs;protecció del pagament;pagaments;pagaments protegits;zona segura;zona de pagament</string>
   <string name="keywords_powercenter">Estalvi de bateria;Sobreescalfament;Engega;Apaga;Bateria;Consum excessiu</string>
   <string name="keywords_powercenter_powerrank">Ús de bateria</string>
   <string name="keywords_securitycenter">Seguretat;Comprovar;Escannejar</string>
@@ -1005,7 +1002,6 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="path_networkassistant_1">Aplicacions del sistema/Seguretat/Ús de dades</string>
   <string name="path_networkassistant_2">Aplicacions del sistema/Seguretat/Ús de dades</string>
   <string name="path_networkassistant_4">Aplicacions del sistema/Seguretat/Ús de dades/Prova de xarxa</string>
-  <string name="path_payment_security">Aplicacions del sistema/Seguretat/Seguretat en el pagament</string>
   <string name="path_powercenter">Aplicacions del sistema/Seguretat/Ús de bateria</string>
   <string name="path_powercenter_powerrank">Bateria i rendiment/Ús de bateria</string>
   <string name="path_securitycenter">Aplicacions del sistema/Seguretat</string>
@@ -1220,7 +1216,6 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="resource_networkassistant_1">Ús de dades</string>
   <string name="resource_networkassistant_2">Calibrar pla de dades</string>
   <string name="resource_networkassistant_4">Prova de xarxa</string>
-  <string name="resource_payment_security">Seguretat en el pagament</string>
   <string name="resource_powercenter">Estalvi de bateria</string>
   <string name="resource_powercenter_powerrank">Bateria i rendiment</string>
   <string name="resource_securitycenter">Seguretat</string>
