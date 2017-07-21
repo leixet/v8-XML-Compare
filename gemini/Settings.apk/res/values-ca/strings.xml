@@ -3616,7 +3616,6 @@ Per fer-ho:
   <string name="settings_safetylegal_title">Informació de seguretat</string>
   <string name="settings_shortcut">Configuració de les dreceres</string>
   <string name="settings_toggle_position_divider_list">Els commutadors sobre d\'aquesta barra són actius</string>
-  <string name="settings_toggle_position_divider_page">%1$d commutadors sobre d\'aquesta barra són actius</string>
   <string name="setup_fingerprint_enroll_enrolling_skip_message">Heu optat per utilitzar l\'empremta com una manera de desbloquejar el telèfon. Si ara ometeu aquest pas, haureu de configurar-ho després. Aquest procés només triga un parell de minuts.</string>
   <string name="setup_fingerprint_enroll_enrolling_skip_title">Voleu ometre la configuració d\'empremta digital?</string>
   <string name="setup_fingerprint_enroll_finish_message">Toca el sensor d\'empremtes per activar i desbloquejar el dispositiu.</string>
