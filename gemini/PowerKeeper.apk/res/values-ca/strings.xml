@@ -112,7 +112,7 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="power_config_disable_description">"MIUI no restringirà activitats en segon pla"</string>
   <string name="power_config_disable_title">Apagat</string>
   <string name="power_config_enhance_description">MIUI restringirà totes activitats en segon pla quan sigui possible</string>
-  <string name="power_config_enhance_title">Avançat</string>
+  <string name="power_config_enhance_title">Actiu</string>
   <string name="power_config_event_delete">Elimina</string>
   <string name="power_config_idle_notification_summary">Mostra només la primera notificació de l\'aplicació</string>
   <string name="power_config_idle_notification_title">Mostra només primera notificació</string>
