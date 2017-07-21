@@ -332,7 +332,7 @@
   <string name="pengzu">pengzu</string>
   <string name="prefDialogTitle_vibrateWhen">Vibració</string>
   <string name="pref_error_no_ringtone_select">To de trucada per defecte</string>
-  <string name="pref_reminder_time">Temps de recordatori</string>
+  <string name="pref_reminder_time">Moment de recordatori</string>
   <string name="pref_title_alarm_remind">Recordatoris d\'alarma</string>
   <string name="pref_title_no_remind">Cap recordatori</string>
   <string name="pref_title_notification_remind">Recordatoris de notificació</string>
