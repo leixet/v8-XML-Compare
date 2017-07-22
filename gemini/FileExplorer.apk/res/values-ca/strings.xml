@@ -236,6 +236,7 @@
   <string name="handsome_boy">Masculí</string>
   <string name="has_installed">Instal·lat</string>
   <string name="homepage_tab_category">Categories</string>
+  <string name="homepage_tab_file_view_phone">Emmagatzematge</string>
   <string name="homepage_tab_recent">Recents</string>
   <string name="hot_comments">Comentaris populars</string>
   <string name="hot_sticker">Emoticones</string>
@@ -250,6 +251,7 @@
   <string name="install_fail">"No s'ha pogut instal·lar"</string>
   <string name="installing">Instal·lant&#8230;</string>
   <string name="instruction">Introduïu la següent adreça en un client FTP:</string>
+  <string name="instruction_pre_pad">Toqueu per iniciar el servidor FTP</string>
   <string name="interest_recommend">Vídeos recomanats</string>
   <string name="is_playing">S\'està reproduint&#8230;</string>
   <string name="just_now">ara</string>
