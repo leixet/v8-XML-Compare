@@ -243,6 +243,9 @@ Per solucionar això, podeu netejar alguns fitxers antics per deixar espai als n
   <string name="micloud_full_influence_title">Quan el seu Mi Cloud está ple&#8230;</string>
   <string name="micloud_main_battery_low">No hi ha prou bateria per sincronitzar</string>
   <string name="micloud_main_battery_message">Connecta el dispositiu a una font d\'energia per a sincronitzar</string>
+  <string name="micloud_main_button_activate">Activa</string>
+  <string name="micloud_main_button_authorize">Autoritza</string>
+  <string name="micloud_main_button_set_internet">Configuració</string>
   <string name="micloud_main_cancel_sync">Cancel·la la sincronització</string>
   <string name="micloud_main_clear_now">Esborra</string>
   <string name="micloud_main_detail">Mostra els detalls</string>
@@ -257,6 +260,7 @@ Per solucionar això, podeu netejar alguns fitxers antics per deixar espai als n
   <string name="micloud_main_multi_user_error_title">Error de Mi Cloud</string>
   <string name="micloud_main_network_abnormal">"No s'ha pogut connectar a la xarxa"</string>
   <string name="micloud_main_network_error">"No s'ha pogut connectar a la xarxa "</string>
+  <string name="micloud_main_query_again">Consulta</string>
   <string name="micloud_main_query_error_message">"No es pot garantir si la sincronització està acabada"</string>
   <string name="micloud_main_query_error_title">"No es pot obtenir l'estat de sincronització"</string>
   <string name="micloud_main_set_internet">Xarxa</string>
