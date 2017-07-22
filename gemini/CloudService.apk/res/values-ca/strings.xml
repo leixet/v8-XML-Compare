@@ -191,6 +191,7 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_detail_lastest_with_off">S\'ha sincronitzat</string>
   <string name="micloud_detail_need_charge_or_sleep">Connecteu el carregador i apagueu la pantalla per reprendre la sincronització</string>
   <string name="micloud_detail_not_sync">%d esperant per sincronitzar</string>
+  <string name="micloud_detail_not_syncable">No es pot sincronitzar</string>
   <string name="micloud_detail_not_synced">No sincronitzat</string>
   <string name="micloud_detail_ok">D\'acord</string>
   <string name="micloud_detail_pause">Sincronització pausada</string>
@@ -249,7 +250,11 @@ Per solucionar això, podeu netejar alguns fitxers antics per deixar espai als n
   <string name="micloud_main_cancel_sync">Cancel·la la sincronització</string>
   <string name="micloud_main_clear_now">Esborra</string>
   <string name="micloud_main_detail">Mostra els detalls</string>
+  <string name="micloud_main_error_activated_fail">Activeu la targeta SIM.</string>
+  <string name="micloud_main_error_network_disallowed">Assegureu-vos d\'obtindre el permís d\'accés a Internet.</string>
+  <string name="micloud_main_error_permission_limit">Autoritzeu els permisos d\'accés a la base de dades per al Mi Cloud.</string>
   <string name="micloud_main_last_sync_time">L\'última sincronització va ser a %s</string>
+  <string name="micloud_main_master_sync_on">Sincronització activada</string>
   <string name="micloud_main_memory_low_message">"Per sincronitzar, elimina alguns dels elements emmagatzemats en el núvol."</string>
   <string name="micloud_main_memory_low_title">"No hi ha prou espai"</string>
   <string name="micloud_main_message_not_synced">%s dades no sincronitzades</string>
