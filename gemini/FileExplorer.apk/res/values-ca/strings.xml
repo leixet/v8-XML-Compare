@@ -129,6 +129,7 @@
   <string name="data_consumption_title">Connexió a internet</string>
   <string name="decompress_cancel">Cancel·la</string>
   <string name="decompress_confirm">Extreure</string>
+  <string name="decompress_corrupt">"No s'ha pogut desempaquetar els fitxers. El paquet està corromput."</string>
   <string name="decompress_destination_error">"No es poden extreure els fitxers en aquesta ubicació"</string>
   <string name="decompress_encrypted_rar_not_supported">Els fitxers encriptats rar no estan suportats.</string>
   <string name="decompress_fail">"No s'ha pogut extreure. Emmagatzematge complet o error desconegut."</string>
@@ -183,8 +184,14 @@
   <string name="encrypt_success_first_five">"Encriptat i ocultat. Tira cap avall a la pantalla d'inici del Explorador per veure els fitxers."</string>
   <string name="encrypting">Encriptant&#8230;</string>
   <string name="error_contains_sharer_path">No es pot encriptar fitxers a la carpeta /MIUI/Gallery/cloud/sharer. Mogui\'ls a un altre lloc i intenti de nou.</string>
+  <string name="error_create_dir">"No s'ha pogut crear la carpeta"</string>
+  <string name="error_create_file">"No s'ha pogut crear el fitxer"</string>
+  <string name="error_delete_failed">"No s'ha pogut eliminar el fitxer"</string>
   <string name="error_filename_too_long">El nom de fitxer introduït és massa llarg.</string>
+  <string name="error_folder_already_exists">Aquest fitxer ja existeix</string>
   <string name="error_info_cant_send_folder">"No es pot enviar aquest tipus de fitxer."</string>
+  <string name="error_invalid_path">Ruta incorrecta</string>
+  <string name="error_not_support">No suportat</string>
   <string name="error_open_file_failed_no_app_found">No s\'ha trobat cap aplicació per realitzar aquesta acció.</string>
   <string name="extended_storage_file_can_not_open">"No es va poder obrir el fitxer. Copiï el fitxer a l'emmagatzematge intern primer."</string>
   <string name="extract">Extreure</string>
@@ -255,6 +262,7 @@
   <string name="installing">Instal·lant&#8230;</string>
   <string name="instruction">Introduïu la següent adreça en un client FTP:</string>
   <string name="instruction_pre_pad">Toqueu per iniciar el servidor FTP</string>
+  <string name="instruction_pre_phone">Toqueu per iniciar el servidor FTP</string>
   <string name="interest_recommend">Vídeos recomanats</string>
   <string name="is_playing">S\'està reproduint&#8230;</string>
   <string name="just_now">ara</string>
@@ -322,6 +330,8 @@
   <string name="msg_notify_setting">Configuració de notificacions</string>
   <string name="msg_page_video_default_title">He pujat un vídeo, feu una ullada!</string>
   <string name="msg_set_password">Establir contrasenya primer</string>
+  <string name="mtp_device">Dispositiu multimèdia (MTP)</string>
+  <string name="mtp_label">MTP</string>
   <string name="my_follows">Els meus canals</string>
   <string name="name_empty">Has d\'introduir un nom.</string>
   <string name="need_login">Inicieu la sessió primer</string>
@@ -408,6 +418,7 @@
   <string name="other_user_no_follow_tip">"No heu seguit ningú encara."</string>
   <string name="other_user_no_liked_video_tip">No hi ha vídeos que hagin agradat.</string>
   <string name="overwrite_msg">«%s» ja existeix. Premeu per reemplaçar-lo pel nou arxiu.</string>
+  <string name="pad">Emmagatzematge intern</string>
   <string name="partial_cancel_successful">"No s'han pogut treure alguns fitxers. La resta van ser moguts a %s."</string>
   <string name="partial_delete_failure">"No s'han pogut eliminar alguns fitxers, intenta de nou"</string>
   <string name="partial_encrypt_success">"No s'han pogut amagar alguns fitxers, intenta de nou"</string>
@@ -416,6 +427,8 @@
   <string name="path_hot_video">Visualitzeu vídeos curts populars de franc</string>
   <string name="path_kuai_chuan">Transferència de fitxers punt a punt</string>
   <string name="path_recent_file">Gestiona els fitxers al dispositiu</string>
+  <string name="permission_denial">"No s'ha pogut accedir als fitxers. Permeteu a l'explorador accedir als fitxers des de la configuració."</string>
+  <string name="permission_required">"No s'ha pogut accedir als fitxers. Permeteu a l'explorador accedir als fitxers des de la configuració."</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Emmagatzematge intern</string>
   <string name="phone_bind_skip">Saltar</string>
@@ -644,6 +657,7 @@
   <string name="unbind_account">Eiminar %s?</string>
   <string name="unbind_fail">"No s'ha pogut eliminar"</string>
   <string name="unbind_success">S\'ha eliminat satisfactòriament</string>
+  <string name="unknown_error">S\'ha produït un error desconegut. Espereu un o dos minuts i torneu-ho a provar.</string>
   <string name="unlock_pattern_msg">La contrasenya també protegeix fotos i missatges.</string>
   <string name="unlock_pattern_title">Nova contrasenya</string>
   <string name="unlogin">Inicieu primer la sessió</string>
