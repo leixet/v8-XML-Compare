@@ -14,6 +14,7 @@ aneu a %s»</string>
   <string name="open_wifi_connect_title">Connecta\'t a %1$s</string>
   <string name="permdesc_accessDrm">Permet a l\'aplicació l\'accés a contingut protegit per DRM.</string>
   <string name="policy_name">Política: %s</string>
+  <string name="pre_installed_apps">Aplicacions preinstal·lades</string>
   <string name="settings_ad_loading">Un moment...</string>
   <string name="settings_ad_loading_unavailable">"Hi ha un problema en carregar."</string>
   <string name="settings_license_activity_loading">Un moment&#8230;</string>
