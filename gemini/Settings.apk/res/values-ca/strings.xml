@@ -319,6 +319,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="application_lock_name">Bloquejador d\'aplicacions</string>
   <string name="application_manager_section_title">Configuració d\'aplicacions</string>
   <string name="application_permission_manager">Permisos de l\'aplicació</string>
+  <string name="application_permissions">Permisos de l\'aplicació</string>
   <string name="application_restrictions">Permet les aplicacions i el contingut</string>
   <string name="application_size_label">Aplicació</string>
   <string name="applications_settings">Aplicacions instal·lades</string>
@@ -904,6 +905,8 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="close_gesture">Tanca amb un gest</string>
   <string name="close_miui_optimization_title">Atura la optimització de MIUI</string>
   <string name="close_miui_optimization_warning_message">El dispositiu arrencarà de nou per aplicar els canvis.</string>
+  <string name="cloud_backup_section_title">Còpia de seguretat del Mi Cloud</string>
+  <string name="cloud_backup_settings_section_title">Còpia de seguretat de la configuració</string>
   <string name="cloud_restore_section_summary">Restaura les aplicacions, la pantalla d\'inici i la configuració predeterminada</string>
   <string name="cloud_restore_section_title">Restaura des de Mi Cloud</string>
   <string name="cmcc_hardware_version">Versió del maquinari</string>
