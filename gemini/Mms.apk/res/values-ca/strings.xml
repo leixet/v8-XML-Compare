@@ -254,6 +254,7 @@
   <string name="message_number">Número de telèfon:</string>
   <string name="message_pending">S\'està enviant</string>
   <string name="message_queued">"Ara no es pot enviar el missatge. S'enviarà quan el servei estigui disponible."</string>
+  <string name="message_queued_second_space">"Ara mateix no es pot enviar el missatge. Activeu la xarxa de dades."</string>
   <string name="message_readed">Llegit</string>
   <string name="message_received">Rebut</string>
   <string name="message_rejected">Rebutjat</string>
