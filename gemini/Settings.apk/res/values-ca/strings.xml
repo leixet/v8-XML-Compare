@@ -904,6 +904,8 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="close_gesture">Tanca amb un gest</string>
   <string name="close_miui_optimization_title">Atura la optimització de MIUI</string>
   <string name="close_miui_optimization_warning_message">El dispositiu arrencarà de nou per aplicar els canvis.</string>
+  <string name="cloud_restore_section_summary">Restaura les aplicacions, la pantalla d\'inici i la configuració predeterminada</string>
+  <string name="cloud_restore_section_title">Restaura des de Mi Cloud</string>
   <string name="cmcc_hardware_version">Versió del maquinari</string>
   <string name="collect_diagnostics_summary">Recull dades de diagnòstic per a la depuració</string>
   <string name="collect_diagnostics_title">Recull la diagnosi</string>
