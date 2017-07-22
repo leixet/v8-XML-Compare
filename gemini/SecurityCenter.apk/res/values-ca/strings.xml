@@ -56,10 +56,13 @@ o introdueixi la seva contrasenya"</string>
   <string name="adb_install_reject_notiy">"No va permetre la instal·lació de %s a través de l'USB"</string>
   <string name="adb_install_reject_notiy_desc">Pot permetre la instal·lació a través d\'USB a Opcions per a desenvolupadors</string>
   <string name="adb_login_xiaomi_account">Primer inicia la sessió al seu compte Mi</string>
+  <string name="add_done">S\'ha afegit amb èxit</string>
+  <string name="add_game">Afegeix un joc</string>
   <string name="add_game_notification_summary">Toqueu per iniciar i augmentar la velocitat</string>
   <string name="add_miservice_dialog_content">"%s us requereix perquè afegiu l'estructura de serveis MIUI a la llista d'excepcions. Pot rebre notificacions de les aplicacions MIUI incorporades i altres de tercers."</string>
   <string name="add_miservice_dialog_title">Estructura de serveis MIUI</string>
   <string name="add_to_whitelist_button">Excepcions en les dades en itinerància</string>
+  <string name="add_whitelist">Afegeix a excepcions</string>
   <string name="address">Adreça</string>
   <string name="address_choose_hint">%1$s, %2$s i %3$d altres ubicacions</string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Actualitzat fa un mes</string>
@@ -71,6 +74,9 @@ o introdueixi la seva contrasenya"</string>
   <string name="adjust_traffic_data">Establir ús de dades</string>
   <string name="after_the_lock_screen">"L'aplicació serà bloquejada juntament amb la pantalla, pot canviar això a la configuració del bloquejador d'aplicacions."</string>
   <string name="all_address_choose_hint">Tots els números d\'aquesta província</string>
+  <string name="anim_gamebooster_text">Un segon&#8230;</string>
+  <string name="anti_disturb_msg_detail">Desactiva les notificacions excepte per a les trucades entrants</string>
+  <string name="anti_disturb_msg_title">No molesteu</string>
   <string name="antispam_mode_details">Detalls de llista de bloqueig</string>
   <string name="antispam_notificaiton_type_show_all">Tots els números</string>
   <string name="antispam_notificaiton_type_show_except_blacklist">Números no bloquejats</string>
