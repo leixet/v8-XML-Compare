@@ -2193,7 +2193,9 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="lockscreen_glogin_password_hint">Contrasenya</string>
   <string name="lockscreen_glogin_submit_button">Inici de sessió</string>
   <string name="lockscreen_remote_input">Si el dispositiu està bloquejat, impedeix que s\'escriguin respostes o altres textos a les notificacions</string>
-  <string name="login_account_dialog_message">Inicieu la sessió del compte de Mi i activeu la sincronització amb Mi Cloud.</string>
+  <string name="login_account_dialog_message">Inicia la sessió amb el compte de Mi i activa la sincronització amb Mi Cloud.</string>
+  <string name="login_account_dialog_title">Inicia la sessió amb el compte Mi</string>
+  <string name="login_action">Inicia la sessió</string>
   <string name="long_press_volume_down">Mantén premut per abaixar el volum</string>
   <string name="lte_4g_settings_4gdisable_summary">S\'ha desactivat el 4G</string>
   <string name="lte_4g_settings_4genable_summary">S\'ha activat el 4G</string>
@@ -2807,6 +2809,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="power_usage_summary">Elements que han utilitzat la bateria</string>
   <string name="power_usage_summary_title">Bateria i rendiment</string>
   <string name="power_wifi">Wi-Fi</string>
+  <string name="pre_installed_application">Aplicacions pre-instal·lades</string>
   <string name="pref_button_light">Il·luminació dels botons</string>
   <string name="pref_button_light_summary">Il·luminació dels botons Menú, Pàgina d\'inici i Enrere</string>
   <string name="pref_edge_handgrip">Controls de la vora</string>
